@@ -119,34 +119,6 @@
         "padding_bottom": 36
       }
     },
-    "28b301e5-78f2-40a2-b812-0ea1a1d449e8": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Virtual Services",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "subtitle",
-        "collection": "virtual-doula-services",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-2",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 44,
-        "padding_bottom": 36
-      }
-    },
     "9f6e269b-2269-4bd3-a11b-4cd7fc794274": {
       "type": "image-banner",
       "blocks": {
@@ -237,109 +209,6 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "af1b1bf9-e957-428a-9b05-9dceb0cba9c4": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "template--18607813067054__af1b1bf9-e957-428a-9b05-9dceb0cba9c4-1681036615f1e077d2-0": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>MINI BIRTH CLASS<\/strong>",
-            "text": "<h2><strong>Free<\/strong><\/h2><p>Learn Our Top 5 Tips for a Happier, Healthier & Easier Birth<\/p>",
-            "link_label": "Watch Now",
-            "link": ""
-          }
-        },
-        "template--18607813067054__af1b1bf9-e957-428a-9b05-9dceb0cba9c4-1681036615f1e077d2-1": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Premium<\/strong>",
-            "text": "<ul><li>Access to <strong>All<\/strong> Weekly Group Classes (<strong>$600+<\/strong> Value)<\/li><li>Billed One Time Only (<strong>No Recurring Fee<\/strong> Unlike Most Other Birth Classes)<\/li><li><strong>Lifetime<\/strong> Membership<\/li><li>Stream All Past Classes<\/li><li>Access to All <strong>Future<\/strong> Courses, Videos & Updates<\/li><\/ul>",
-            "link_label": "Join Premium",
-            "link": ""
-          }
-        },
-        "template--18607813067054__af1b1bf9-e957-428a-9b05-9dceb0cba9c4-1681036615f1e077d2-2": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Single Course<\/strong>",
-            "text": "<p>Schedule a single online class<\/p>",
-            "link_label": "View Classes",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18607813067054__af1b1bf9-e957-428a-9b05-9dceb0cba9c4-1681036615f1e077d2-0",
-        "template--18607813067054__af1b1bf9-e957-428a-9b05-9dceb0cba9c4-1681036615f1e077d2-1",
-        "template--18607813067054__af1b1bf9-e957-428a-9b05-9dceb0cba9c4-1681036615f1e077d2-2"
-      ],
-      "settings": {
-        "title": "Pricing",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "e57cb18c-683d-4f69-bbef-532f613f5b85": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--18607813067054__e57cb18c-683d-4f69-bbef-532f613f5b85-16812073756bf65466-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Natural Remedies for Common Pregnancy Symptoms",
-            "heading_size": "h1"
-          }
-        },
-        "template--18607813067054__e57cb18c-683d-4f69-bbef-532f613f5b85-16812073756bf65466-1": {
-          "type": "text",
-          "settings": {
-            "text": "Book our 1-hour class on \"Natural Remedies for Common Pregnancy Symptoms\"",
-            "text_style": "body"
-          }
-        },
-        "template--18607813067054__e57cb18c-683d-4f69-bbef-532f613f5b85-16812073756bf65466-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Book Now",
-            "button_link_1": "https:\/\/calendly.com\/cliffrosedoula\/natural-remedies-for-common-pregnancy-symptoms",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18607813067054__e57cb18c-683d-4f69-bbef-532f613f5b85-16812073756bf65466-0",
-        "template--18607813067054__e57cb18c-683d-4f69-bbef-532f613f5b85-16812073756bf65466-1",
-        "template--18607813067054__e57cb18c-683d-4f69-bbef-532f613f5b85-16812073756bf65466-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-11_at_5.49.12_PM.jpg",
-        "image_overlay_opacity": 60,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "e2f106d1-48fc-41fa-84b7-81afc0b61081": {
@@ -561,41 +430,58 @@
     },
     "8ab67ccb-2415-451b-8f95-5e7a83214c18": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
         "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Should I hire a doula?",
             "icon": "check_mark",
-            "row_content": "<p>Content<\/p>",
+            "row_content": "<p>Having a doula on your labor team can mean:<\/p><ul><li>fewer medical interventions during labor (less likely to have any pain medication, continuous electronic fetal monitoring, epidurals, vacuum or forceps-assisted births, and Cesareans)<\/li><li>increased release of natural oxytocin<\/li><li>more attention or hands on support than is reasonable for one partner or labor nurse to provide over an extended period of time<\/li><li>shorter labor, by about 40 minutes!<\/li><\/ul><p><em>*Research from Cochrane Database Syst Rev. 2017<\/em><\/p>",
             "page": ""
           }
         },
         "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What's the difference between Doulas and Midwives? Do doulas babies?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Doulas are birth professionals that can work alongside midwives and doctors alike. In hospitals, birth centers and homes, we do our work “from the hips up”, that is to say doulas are here for your mental, emotional, and physical support focusing only on the immediate needs of the birthing person and their chosen partner to aid in the labor process and postpartum.<\/p>",
             "page": ""
           }
         },
         "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What kind of births do you support? Do you only support natural births?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p><strong>All births are natural!<\/strong><\/p><p>Really, birth is a natural occurrence so we support any and every type of birth and birthing body. No matter if you want no drugs or all the drugs, we will be there cheering you on and celebrating your choices.<\/p><p>“I do not care what kind of birth you have… a home birth, scheduled cesarean, epidural hospital birth, or if you birth alone in the woods next to a baby deer. I care that you are supported in your choices, and that you were respected”<\/p><p>- <strong>January Harshe, <\/strong><em><strong>Birth Without Fear<\/strong><\/em><\/p>",
             "page": ""
           }
         },
         "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Do doulas have any breastfeeding or lactation training?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Yes we do! Doulas receive lactation training and can assist in coaching, feeding positions, developing a good latch, nutritional information, using a pump and how to navigate a feeding schedule. Our training is focused on the immediate postpartum and setting up good feeding habits early, we also have a great reference list for lactation consultants if you would like extended assistance.<\/p>",
+            "page": ""
+          }
+        },
+        "b7b2c48c-23a3-4602-919d-f6984c42a999": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Should I have a doula if I have a partner?",
+            "icon": "check_mark",
+            "row_content": "<p><strong>We could never replace the connection between you and your partner.<\/strong><\/p><p>Doulas do more than assist the birthing person through labor, we support the partner through encouragement and by helping them to feel they have all the tools, knowledge and strength to support you through the process and to take as active a role they feel comfortable with.<\/p><p>Your doula and partner will work together to form a birth team, wholly invested in making you comfortable and getting baby Earthside.<\/p>",
+            "page": ""
+          }
+        },
+        "661892a2-a8d0-4858-a9e8-a912967fee46": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is it really possible to birth without pain medication?",
+            "icon": "check_mark",
+            "row_content": "<p>YES, YES, YES!<\/p><p>You absolutely are capable of having a medication-free labor and your doula will support you throughout the experience. <\/p><p>There have been many studies that show continuous support leads to better labor outcomes. I highly recommend visiting my Evidence-Based Birth blog for numerous eye-opening reads.<\/p><p>Doulas themselves are a form of pain relief. Studies show the constant reassuring presence of a doula greatly reduces stress levels and clients are less likely to request pain medication. We also rely on many forms of homeopathic medicine that have been traditionally used by midwives for centuries; medicine that has practical use today! We trust in the wisdom of the women before us and do our research to find medication-free pain relief that is safe, effective, and reliable.<\/p>",
             "page": ""
           }
         }
@@ -604,7 +490,9 @@
         "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-0",
         "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-1",
         "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-2",
-        "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-3"
+        "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-3",
+        "b7b2c48c-23a3-4602-919d-f6984c42a999",
+        "661892a2-a8d0-4858-a9e8-a912967fee46"
       ],
       "settings": {
         "caption": "",
@@ -745,11 +633,8 @@
     "image_banner",
     "cd094900-79fc-4835-b830-97a34b44047b",
     "featured_collection",
-    "28b301e5-78f2-40a2-b812-0ea1a1d449e8",
     "9f6e269b-2269-4bd3-a11b-4cd7fc794274",
     "f94009ae-aedb-43f1-a324-08cd7513ad10",
-    "af1b1bf9-e957-428a-9b05-9dceb0cba9c4",
-    "e57cb18c-683d-4f69-bbef-532f613f5b85",
     "e2f106d1-48fc-41fa-84b7-81afc0b61081",
     "9cfc0fef-3b18-46e1-8df9-2cc948f80ae5",
     "a5ad1fa9-0638-416e-b4dc-d82e90d9c865",
