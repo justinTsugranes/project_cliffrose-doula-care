@@ -1,52 +1,5 @@
 {
   "sections": {
-    "c09d92e5-2a87-408a-8087-801589bc779e": {
-      "type": "image-banner",
-      "blocks": {
-        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-0",
-        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-1",
-        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-2"
-      ],
-      "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -75,6 +28,53 @@
         "padding_bottom": 36
       }
     },
+    "c09d92e5-2a87-408a-8087-801589bc779e": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Birth Doula Services",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-1": {
+          "type": "text",
+          "settings": {
+            "text": "As a full spectrum doula, I work with all reproductive journeys: conception, adoption, surrogacy, pregnancy, labor, and birth. I am there in the postpartum and can help you through a termination process. <strong>I support people through every outcome.<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Book a consultation",
+            "button_link_1": "https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-0",
+        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-1",
+        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "e8f888b7-2ae1-4533-85a6-58cd7107120d": {
       "type": "image-with-text",
       "blocks": {
@@ -98,6 +98,7 @@
         "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155364_2.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -134,6 +135,7 @@
         "template--18729374253358__fc418fa7-c9e2-4739-ba49-c6d6c8146c15-1681573430b2e45cde-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.07.15_PM.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -170,6 +172,7 @@
         "template--18729374253358__89b62bcb-54fc-4333-a0d8-84ddeda87828-1681573430b2e45cde-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -182,14 +185,148 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18729374253358__27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb-16815739185a20bf27-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Additional Support Options",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374253358__27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb-16815739185a20bf27-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I offer 24\/7 scheduled support at the rate of $100\/hour for the following services<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374253358__27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb-16815739185a20bf27-0",
+        "template--18729374253358__27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb-16815739185a20bf27-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "e922e7e2-02cd-4791-a68c-7fc76f393023": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18729374253358__e922e7e2-02cd-4791-a68c-7fc76f393023-1681573727ffd0b90e-0": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Overnight Doula<\/strong>",
+            "text": "<p>The most shared fear among new parents are the sleepless nights. It’s true, new babies can be night owls, but with the extra support of an overnight doula it can be the best bonding experience with your new baby.<\/p><p>Call me, text or video chat for help and encouragement with nighttime bottle feedings, initial lactation education, questions about pumping and milk storage—anything to help you and your baby find your rhythm.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18729374253358__e922e7e2-02cd-4791-a68c-7fc76f393023-1681573727ffd0b90e-1": {
+          "type": "column",
+          "settings": {
+            "title": "Adoption & Surrogacy",
+            "text": "<p>Are you building your family, but aren’t sure where to find the right resources? Deciding to adopt or have a surrogate carrier are both dig decisions. You deserve to walk into parenthood feeling empowered and ready.<\/p><p>We will have consultations to answer your questions and I can provide local resources such as milk donors, parent support groups, and suggest LGBTQIA+ providers. We can talk about your legal rights as parents. I provide birth support for surrogate carriers in addition to the intended parents.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18729374253358__e922e7e2-02cd-4791-a68c-7fc76f393023-1681573727ffd0b90e-2": {
+          "type": "column",
+          "settings": {
+            "title": "Miscarriage & Bereavement",
+            "text": "<p>Going through such a difficult time, that is often suffered alone and in silence, I walk with and support your family through the loss of your baby. <\/p><p>If that loss is through miscarriage, stillbirth, or a diagnosis that means the baby will not live long after being delivered, with gentle encouragement, we say hello and goodbye to your little one, honor their life, and I remain available for grief counseling thereafter via phone and video calls, texts, and email.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374253358__e922e7e2-02cd-4791-a68c-7fc76f393023-1681573727ffd0b90e-0",
+        "template--18729374253358__e922e7e2-02cd-4791-a68c-7fc76f393023-1681573727ffd0b90e-1",
+        "template--18729374253358__e922e7e2-02cd-4791-a68c-7fc76f393023-1681573727ffd0b90e-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8ef8dba0-8ae0-415f-8a7e-84a3697a6571": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Let's Talk",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-1": {
+          "type": "text",
+          "settings": {
+            "text": "I believe strongly that everyone deserves a doula.No one will be turned away for lack of resources.Reach out and we can discuss how I can support you best.",
+            "text_style": "body"
+          }
+        },
+        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Contact Me",
+            "button_link_1": "shopify:\/\/pages\/contact",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-0",
+        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-1",
+        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.46.09_PM.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-right",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
-    "c09d92e5-2a87-408a-8087-801589bc779e",
     "banner",
     "product-grid",
+    "c09d92e5-2a87-408a-8087-801589bc779e",
     "e8f888b7-2ae1-4533-85a6-58cd7107120d",
     "fc418fa7-c9e2-4739-ba49-c6d6c8146c15",
-    "89b62bcb-54fc-4333-a0d8-84ddeda87828"
+    "89b62bcb-54fc-4333-a0d8-84ddeda87828",
+    "27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb",
+    "e922e7e2-02cd-4791-a68c-7fc76f393023",
+    "8ef8dba0-8ae0-415f-8a7e-84a3697a6571"
   ]
 }
