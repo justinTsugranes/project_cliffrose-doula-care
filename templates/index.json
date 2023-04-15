@@ -84,7 +84,7 @@
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "Book a Consultation",
-        "button_link": "shopify:\/\/pages\/classes",
+        "button_link": "https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
