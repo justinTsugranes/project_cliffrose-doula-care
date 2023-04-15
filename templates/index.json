@@ -6,21 +6,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Watch our Free Birth Class",
+            "heading": "Don't Let Pregnancy Get You Down",
             "heading_size": "h0"
           }
         },
         "07dd7590-ee35-49ea-bd9c-a52a162137e4": {
           "type": "text",
           "settings": {
-            "text": "Making it out to classes can be hard. We make it easy. Grab our FREE 'Intro Birth Class' below.",
+            "text": "Pregnancy symptoms can be rough. Grab our FREE e-book 'Bump to Table: A Trimester-by-Trimester Meal Planning Guide for Pregnancy'",
             "text_style": "subtitle"
           }
         },
         "fc31c9fe-7fd3-4f3b-a73c-e884f3e0dcb1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Watch Now",
+            "button_label_1": "Get Free Book",
             "button_link_1": "shopify:\/\/products\/free-birth-class",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -698,7 +698,7 @@
         "template--18607813067054__f323249f-afd3-4d2a-8e4d-88a6a30d187a-168104637185d78e48-0": {
           "type": "heading",
           "settings": {
-            "heading": "Free Birth Class",
+            "heading": "Book a Consultation",
             "heading_size": "h1"
           }
         },
@@ -712,8 +712,8 @@
         "template--18607813067054__f323249f-afd3-4d2a-8e4d-88a6a30d187a-168104637185d78e48-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Watch Now",
-            "button_link_1": "shopify:\/\/products\/free-birth-class",
+            "button_label_1": "Book Now",
+            "button_link_1": "https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
