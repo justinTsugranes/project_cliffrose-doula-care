@@ -6,9 +6,53 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "e4efc10d-20ca-44bc-96c3-570e4ae5f889": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "a Cliffrose thrives in a challenging environment.",
+            "heading_size": "h1"
+          }
+        },
+        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>So can you.<\/h1><p>Your roots grow deeper than you know and you are strong as hell. But when doubt or fear creeps in, having someone in your corner to remind you that <em>you got this <\/em>means everything.<\/p><p>Doula care centers on the individual, focusing on your vision for your best life because you know yourself best.<\/p>"
+          }
+        },
+        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-0",
+        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-1",
+        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "e4efc10d-20ca-44bc-96c3-570e4ae5f889"
   ]
 }
