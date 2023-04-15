@@ -6,22 +6,22 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Don't Let Pregnancy Get You Down",
+            "heading": "Full-spectrum, evidence-based <strong>Doula Services<\/strong>",
             "heading_size": "h0"
           }
         },
         "07dd7590-ee35-49ea-bd9c-a52a162137e4": {
           "type": "text",
           "settings": {
-            "text": "Pregnancy symptoms can be rough. Grab our FREE e-book 'Bump to Table: A Trimester-by-Trimester Meal Planning Guide for Pregnancy'",
+            "text": "I offer full-spectrum, evidence-based doula services that support families through pregnancy, childbirth, and postpartum.",
             "text_style": "subtitle"
           }
         },
         "fc31c9fe-7fd3-4f3b-a73c-e884f3e0dcb1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Get Free Book",
-            "button_link_1": "shopify:\/\/products\/free-birth-class",
+            "button_label_1": "Book A Consultation",
+            "button_link_1": "https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -160,7 +160,7 @@
         "template--18607813067054__9f6e269b-2269-4bd3-a11b-4cd7fc794274-16812073756bf65466-1": {
           "type": "text",
           "settings": {
-            "text": "I offer three main birth doula packages. Have something specific in mind? Let's talk and we will create a birth plan that's right for you.",
+            "text": "I offer full-spectrum, evidence-based doula services that support families through pregnancy, childbirth, and postpartum.",
             "text_style": "body"
           }
         },
@@ -201,8 +201,8 @@
         "template--18607813067054__f94009ae-aedb-43f1-a324-08cd7513ad10-1681036615f1e077d2-1": {
           "type": "column",
           "settings": {
-            "title": "<strong>Knowledge is Power: Unlocking Your Confidence for a Joyful Pregnancy and Birth<\/strong>",
-            "text": "<p>As you prepare for one of the most transformative experiences of your life, it's natural to have questions and concerns.<\/p><p>With knowledge comes power, and that's where Cliffrose Doula Care comes in.<\/p><p>Our comprehensive education and support will equip you with the tools and understanding you need to approach pregnancy, birth, and parenthood with confidence and empowerment.<\/p><p>Learn how to trust your body, connect with your baby, and make informed decisions that align with your values and preferences.<\/p><p><strong>Don't let fear hold you back from the beautiful reality of a fulfilling birth and parenthood journey.<\/strong><\/p>",
+            "title": "<strong> It's natural to have questions and concerns as you prepare for one of the most transformative experiences of your life.<\/strong>",
+            "text": "<h2><strong>With knowledge comes power, and that's where Cliffrose Doula Care comes in.<\/strong><\/h2><p>Our comprehensive education and support will equip you with the tools and understanding you need to approach pregnancy, birth, and parenthood with confidence and empowerment.<\/p><p>Learn how to trust your body, connect with your baby, and make informed decisions that align with your values and preferences.<\/p><p><strong>Don't let fear hold you back from the beautiful reality of a fulfilling birth and parenthood journey.<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -223,15 +223,15 @@
         "template--18607813067054__f94009ae-aedb-43f1-a324-08cd7513ad10-1681036615f1e077d2-2"
       ],
       "settings": {
-        "title": "FREE Birth Prep Class",
+        "title": "<strong>Confidence for a Joyful Pregnancy and Birth<\/strong>",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "Watch Birth Prep Class",
-        "button_link": "shopify:\/\/products\/free-birth-class",
+        "button_label": "Book A Consultation",
+        "button_link": "https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -348,7 +348,7 @@
         "template--18607813067054__e2f106d1-48fc-41fa-84b7-81afc0b61081-1681039374fd627c32-0": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>HI, I’M BRITTANY<\/strong>",
+            "heading": "<strong>HI, I’M BRITTANY!<\/strong>",
             "heading_size": "h1"
           }
         },
@@ -392,7 +392,7 @@
         "template--18607813067054__9cfc0fef-3b18-46e1-8df9-2cc948f80ae5-168116093847e05094-1": {
           "type": "text",
           "settings": {
-            "text": "<p>BADT Full Spectrum Doula Certification (2021)<\/p><p>BADT Full Spectrum Doula Training (2020)<\/p><p>Lactation Management for Doulas (2019)<\/p><p>Gentle Mothering Volunteer Doula (2018-2019)<\/p><p>DONA Birth Doula Training (2017)<\/p>"
+            "text": "<h2>BADT Full Spectrum Doula Certification (2021)<\/h2><h2>BADT Full Spectrum Doula Training (2020)<\/h2><h2>Lactation Management for Doulas (2019)<\/h2><h2>Gentle Mothering Volunteer Doula (2018-2019)<\/h2><h2>DONA Birth Doula Training (2017)<\/h2>"
           }
         },
         "template--18607813067054__9cfc0fef-3b18-46e1-8df9-2cc948f80ae5-168116093847e05094-2": {
