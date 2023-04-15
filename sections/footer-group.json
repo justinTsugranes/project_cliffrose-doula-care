@@ -2,77 +2,6 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
-    "f8fe4cc6-2daf-4622-9273-bd01a5b351fd": {
-      "type": "newsletter",
-      "disabled": true,
-      "blocks": {
-        "sections--18607813525806__f8fe4cc6-2daf-4622-9273-bd01a5b351fd-1681206941dd6da2a6-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Subscribe to our emails",
-            "heading_size": "h1"
-          }
-        },
-        "sections--18607813525806__f8fe4cc6-2daf-4622-9273-bd01a5b351fd-1681206941dd6da2a6-1": {
-          "type": "paragraph",
-          "disabled": true,
-          "settings": {
-            "text": "<p>We'd love to connect on a deeper level. Join the conversation, receive special offerings, and learn about the  happening inside Cliffrose Doula Care.<\/p>"
-          }
-        },
-        "sections--18607813525806__f8fe4cc6-2daf-4622-9273-bd01a5b351fd-1681206941dd6da2a6-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "sections--18607813525806__f8fe4cc6-2daf-4622-9273-bd01a5b351fd-1681206941dd6da2a6-0",
-        "sections--18607813525806__f8fe4cc6-2daf-4622-9273-bd01a5b351fd-1681206941dd6da2a6-1",
-        "sections--18607813525806__f8fe4cc6-2daf-4622-9273-bd01a5b351fd-1681206941dd6da2a6-2"
-      ],
-      "settings": {
-        "color_scheme": "background-2",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "3dfe33c9-8ecb-4332-8a1c-f0c8fbe56d09": {
-      "type": "newsletter",
-      "disabled": true,
-      "blocks": {
-        "sections--18607813525806__3dfe33c9-8ecb-4332-8a1c-f0c8fbe56d09-16809792751fd15c86-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Subscribe to our emails",
-            "heading_size": "h1"
-          }
-        },
-        "sections--18607813525806__3dfe33c9-8ecb-4332-8a1c-f0c8fbe56d09-16809792751fd15c86-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Be the first to know about new classes, blogs, and promotions.<\/p>"
-          }
-        },
-        "sections--18607813525806__3dfe33c9-8ecb-4332-8a1c-f0c8fbe56d09-16809792751fd15c86-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "sections--18607813525806__3dfe33c9-8ecb-4332-8a1c-f0c8fbe56d09-16809792751fd15c86-0",
-        "sections--18607813525806__3dfe33c9-8ecb-4332-8a1c-f0c8fbe56d09-16809792751fd15c86-1",
-        "sections--18607813525806__3dfe33c9-8ecb-4332-8a1c-f0c8fbe56d09-16809792751fd15c86-2"
-      ],
-      "settings": {
-        "color_scheme": "accent-2",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -119,8 +48,6 @@
     }
   },
   "order": [
-    "f8fe4cc6-2daf-4622-9273-bd01a5b351fd",
-    "3dfe33c9-8ecb-4332-8a1c-f0c8fbe56d09",
     "footer"
   ]
 }

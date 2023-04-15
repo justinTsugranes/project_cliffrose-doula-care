@@ -173,10 +173,10 @@
         "template--18607813067054__f94009ae-aedb-43f1-a324-08cd7513ad10-1681036615f1e077d2-1": {
           "type": "column",
           "settings": {
-            "title": "<strong> It's natural to have questions and concerns as you prepare for one of the most transformative experiences of your life.<\/strong>",
-            "text": "<h2><strong>With knowledge comes power, and that's where Cliffrose Doula Care comes in.<\/strong><\/h2><p>Our comprehensive education and support will equip you with the tools and understanding you need to approach pregnancy, birth, and parenthood with confidence and empowerment.<\/p><p>Learn how to trust your body, connect with your baby, and make informed decisions that align with your values and preferences.<\/p><p><strong>Don't let fear hold you back from the beautiful reality of a fulfilling birth and parenthood journey.<\/strong><\/p>",
-            "link_label": "",
-            "link": ""
+            "title": "",
+            "text": "<h2><strong>With knowledge comes power, and that's where Cliffrose Doula Care comes in.<\/strong><\/h2><p>Our comprehensive education and support will equip you with the tools and understanding you need to approach pregnancy, birth, and parenthood with confidence and empowerment. Learn how to trust your body, connect with your baby, and make informed decisions that align with your values and preferences.<\/p><p><strong>Don't let fear hold you back from the beautiful reality of a fulfilling birth and parenthood journey.<\/strong><\/p>",
+            "link_label": "Book a consultation",
+            "link": "https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation"
           }
         },
         "template--18607813067054__f94009ae-aedb-43f1-a324-08cd7513ad10-1681036615f1e077d2-2": {
@@ -202,7 +202,7 @@
         "columns_desktop": 2,
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "Book A Consultation",
+        "button_label": "",
         "button_link": "https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation",
         "color_scheme": "background-1",
         "columns_mobile": "1",
@@ -227,11 +227,19 @@
             "text": "<p>As a professionally trained childbirth assistant, I provide emotional, informational, and physical support to birthing individuals throughout pregnancy, labor, and immediate postpartum. I follow a full-spectrum, client-centered care model, and am experienced in supporting home, birthing center, and hospital births.<\/p><p>I am your advocate and informational resource to help you make informed decisions about your birth, your body, and your baby.<\/p><p><em>*Please note that I am not a medical professional and always advise you to check with your primary care provider before making any decisions.<\/em><\/p>",
             "text_style": "body"
           }
+        },
+        "d663f7d6-a03c-4008-b83d-bae7f7a9032f": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn more",
+            "button_link": "shopify:\/\/pages\/about"
+          }
         }
       },
       "block_order": [
         "template--18607813067054__e2f106d1-48fc-41fa-84b7-81afc0b61081-1681039374fd627c32-0",
-        "template--18607813067054__e2f106d1-48fc-41fa-84b7-81afc0b61081-1681039374fd627c32-1"
+        "template--18607813067054__e2f106d1-48fc-41fa-84b7-81afc0b61081-1681039374fd627c32-1",
+        "d663f7d6-a03c-4008-b83d-bae7f7a9032f"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/B64DBB57-06A9-4BE8-827D-EE00B57AB967_1_105_c.jpg",
@@ -289,143 +297,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "a5ad1fa9-0638-416e-b4dc-d82e90d9c865": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18607813067054__a5ad1fa9-0638-416e-b4dc-d82e90d9c865-1681046545959607bb-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "From the comfort of your home",
-            "heading_size": "h1"
-          }
-        },
-        "template--18607813067054__a5ad1fa9-0638-416e-b4dc-d82e90d9c865-1681046545959607bb-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--18607813067054__a5ad1fa9-0638-416e-b4dc-d82e90d9c865-1681046545959607bb-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18607813067054__a5ad1fa9-0638-416e-b4dc-d82e90d9c865-1681046545959607bb-0",
-        "template--18607813067054__a5ad1fa9-0638-416e-b4dc-d82e90d9c865-1681046545959607bb-1",
-        "template--18607813067054__a5ad1fa9-0638-416e-b4dc-d82e90d9c865-1681046545959607bb-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "0b010901-1b3c-49d5-8466-e44051cbe465": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18607813067054__0b010901-1b3c-49d5-8466-e44051cbe465-1681046545959607bb-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "template--18607813067054__0b010901-1b3c-49d5-8466-e44051cbe465-1681046545959607bb-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--18607813067054__0b010901-1b3c-49d5-8466-e44051cbe465-1681046545959607bb-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18607813067054__0b010901-1b3c-49d5-8466-e44051cbe465-1681046545959607bb-0",
-        "template--18607813067054__0b010901-1b3c-49d5-8466-e44051cbe465-1681046545959607bb-1",
-        "template--18607813067054__0b010901-1b3c-49d5-8466-e44051cbe465-1681046545959607bb-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "ee6a7f6e-96b7-489c-bf27-8abd7b36315e": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18607813067054__ee6a7f6e-96b7-489c-bf27-8abd7b36315e-1681046545959607bb-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "template--18607813067054__ee6a7f6e-96b7-489c-bf27-8abd7b36315e-1681046545959607bb-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--18607813067054__ee6a7f6e-96b7-489c-bf27-8abd7b36315e-1681046545959607bb-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18607813067054__ee6a7f6e-96b7-489c-bf27-8abd7b36315e-1681046545959607bb-0",
-        "template--18607813067054__ee6a7f6e-96b7-489c-bf27-8abd7b36315e-1681046545959607bb-1",
-        "template--18607813067054__ee6a7f6e-96b7-489c-bf27-8abd7b36315e-1681046545959607bb-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "8ab67ccb-2415-451b-8f95-5e7a83214c18": {
@@ -509,62 +380,9 @@
         "padding_bottom": 36
       }
     },
-    "088efb21-4c11-4599-83ca-7eeb1a15de0d": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "template--18607813067054__088efb21-4c11-4599-83ca-7eeb1a15de0d-1681207504ddbd59e4-0": {
-          "type": "column",
-          "settings": {
-            "title": "Testimonials",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18607813067054__088efb21-4c11-4599-83ca-7eeb1a15de0d-1681207504ddbd59e4-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18607813067054__088efb21-4c11-4599-83ca-7eeb1a15de0d-1681207504ddbd59e4-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18607813067054__088efb21-4c11-4599-83ca-7eeb1a15de0d-1681207504ddbd59e4-0",
-        "template--18607813067054__088efb21-4c11-4599-83ca-7eeb1a15de0d-1681207504ddbd59e4-1",
-        "template--18607813067054__088efb21-4c11-4599-83ca-7eeb1a15de0d-1681207504ddbd59e4-2"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "4e35bf0a-f013-4f06-a0c2-097d84cfc81a": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Latest From My Newsletter",
         "heading_size": "h1",
@@ -637,11 +455,7 @@
     "f94009ae-aedb-43f1-a324-08cd7513ad10",
     "e2f106d1-48fc-41fa-84b7-81afc0b61081",
     "9cfc0fef-3b18-46e1-8df9-2cc948f80ae5",
-    "a5ad1fa9-0638-416e-b4dc-d82e90d9c865",
-    "0b010901-1b3c-49d5-8466-e44051cbe465",
-    "ee6a7f6e-96b7-489c-bf27-8abd7b36315e",
     "8ab67ccb-2415-451b-8f95-5e7a83214c18",
-    "088efb21-4c11-4599-83ca-7eeb1a15de0d",
     "4e35bf0a-f013-4f06-a0c2-097d84cfc81a",
     "f323249f-afd3-4d2a-8e4d-88a6a30d187a"
   ]
