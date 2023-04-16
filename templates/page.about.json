@@ -266,6 +266,55 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "4f85eeae-85d9-4cca-bdf5-6f0685338f88": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18764259295534__4f85eeae-85d9-4cca-bdf5-6f0685338f88-168164672051c53a4e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Speak With A doula",
+            "heading_size": "h1"
+          }
+        },
+        "template--18764259295534__4f85eeae-85d9-4cca-bdf5-6f0685338f88-168164672051c53a4e-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--18764259295534__4f85eeae-85d9-4cca-bdf5-6f0685338f88-168164672051c53a4e-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Book A Consultation",
+            "button_link_1": "https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18764259295534__4f85eeae-85d9-4cca-bdf5-6f0685338f88-168164672051c53a4e-0",
+        "template--18764259295534__4f85eeae-85d9-4cca-bdf5-6f0685338f88-168164672051c53a4e-1",
+        "template--18764259295534__4f85eeae-85d9-4cca-bdf5-6f0685338f88-168164672051c53a4e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.52.17_PM.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -277,6 +326,7 @@
     "8a66e9f1-fb99-4b67-bcf9-8123b2ec9078",
     "2f7b8f7d-7a30-4541-9e3c-c1552779f69b",
     "e4efc10d-20ca-44bc-96c3-570e4ae5f889",
-    "45ab04d8-e32d-409c-a4ab-075f82299483"
+    "45ab04d8-e32d-409c-a4ab-075f82299483",
+    "4f85eeae-85d9-4cca-bdf5-6f0685338f88"
   ]
 }
