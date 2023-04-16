@@ -2,6 +2,40 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "cdf1b523-d4f6-4647-bd27-f91403a7c207": {
+      "type": "newsletter",
+      "blocks": {
+        "sections--18729373794606__cdf1b523-d4f6-4647-bd27-f91403a7c207-16816445278b14bbc4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join Our Birth Community",
+            "heading_size": "h1"
+          }
+        },
+        "sections--18729373794606__cdf1b523-d4f6-4647-bd27-f91403a7c207-16816445278b14bbc4-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": ""
+          }
+        },
+        "sections--18729373794606__cdf1b523-d4f6-4647-bd27-f91403a7c207-16816445278b14bbc4-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "sections--18729373794606__cdf1b523-d4f6-4647-bd27-f91403a7c207-16816445278b14bbc4-0",
+        "sections--18729373794606__cdf1b523-d4f6-4647-bd27-f91403a7c207-16816445278b14bbc4-1",
+        "sections--18729373794606__cdf1b523-d4f6-4647-bd27-f91403a7c207-16816445278b14bbc4-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -48,6 +82,7 @@
     }
   },
   "order": [
+    "cdf1b523-d4f6-4647-bd27-f91403a7c207",
     "footer"
   ]
 }
