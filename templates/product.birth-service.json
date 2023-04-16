@@ -1,5 +1,53 @@
 {
   "sections": {
+    "8294d813-b228-49e7-a8df-6a350c776c15": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Birth Doula Services",
+            "heading_size": "h1"
+          }
+        },
+        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1": {
+          "type": "text",
+          "settings": {
+            "text": "As a full spectrum doula, I work with all reproductive journeys: conception, adoption, surrogacy, pregnancy, labor, and birth. I am there in the postpartum and can help you through a termination process. <strong>I support people through every outcome.<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0",
+        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1",
+        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cliffrose_birth_doula_services.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -17,6 +65,7 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
           }
         },
@@ -34,13 +83,22 @@
         },
         "buy_buttons": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
           }
         },
+        "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8": {
+          "type": "text",
+          "settings": {
+            "text": "Text block",
+            "text_style": "body"
+          }
+        },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
@@ -58,6 +116,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8",
         "description",
         "share"
       ],
@@ -78,6 +137,7 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
@@ -95,6 +155,7 @@
     }
   },
   "order": [
+    "8294d813-b228-49e7-a8df-6a350c776c15",
     "main",
     "related-products"
   ]
