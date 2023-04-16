@@ -50,6 +50,7 @@
     },
     "e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--18729374646574__e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b-1681637332aa110372-0": {
           "type": "column",
@@ -103,6 +104,7 @@
     },
     "be8f5478-c3de-43e4-8225-4d101ab5a886": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -208,6 +210,7 @@
       "blocks": {
         "09258edd-f34f-4916-ac91-e7c8610d675d": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.52.17_PM.jpg",
             "title": "",
@@ -221,7 +224,7 @@
           "settings": {
             "title": "<strong>Doula Care for a Confident and Empowered Birth<\/strong>",
             "text": "<p>We already know that having someone there for you, cheering you on, believing in your choices feels really, <em>really good<\/em>—but here’s some science to back it up…<\/p><ul><li>Doulas are a form of pain relief—requests for pain medication goes down <strong>10%<\/strong> with a doula present<\/li><li>Doulas boost self-confidence—<strong>15%<\/strong> increase in spontaneous birth and shorter labor by <strong>45<\/strong>minutes on average<\/li><li>Doulas encourage advocacy + increase safety—<strong>34%<\/strong> fewer negative experiences<\/li><\/ul><p>Having constant companionship equals better outcomes<\/p>",
-            "link_label": "Book a consultation",
+            "link_label": "",
             "link": "shopify:\/\/products\/hourly-virtual-consultations"
           }
         }
@@ -240,7 +243,7 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -402,8 +405,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/B64DBB57-06A9-4BE8-827D-EE00B57AB967_1_105_c.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
+        "height": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -600,7 +603,7 @@
         "template--18607813067054__f323249f-afd3-4d2a-8e4d-88a6a30d187a-168104637185d78e48-0": {
           "type": "heading",
           "settings": {
-            "heading": "Book a Consultation",
+            "heading": "Speak With A Doula",
             "heading_size": "h1"
           }
         },
@@ -614,7 +617,7 @@
         "template--18607813067054__f323249f-afd3-4d2a-8e4d-88a6a30d187a-168104637185d78e48-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Book Now",
+            "button_label_1": "Book A Consultation",
             "button_link_1": "https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation",
             "button_style_secondary_1": false,
             "button_label_2": "",
