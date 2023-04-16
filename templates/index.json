@@ -120,7 +120,7 @@
             "title": "<strong>Doula Care for a Confident and Empowered Birth<\/strong>",
             "text": "<h2>For many women, the idea of giving birth can be a source of fear, anxiety, and doubt.<\/h2><h3>At Cliffrose Doula Care, we believe that every woman deserves to feel empowered and confident throughout the birthing process. <\/h3><p><\/p><p>That's why we offer a range of classes and resources designed to provide you with the tools you need to achieve a beautiful and empowering birth and postpartum experience. Don't leave your birth to chance – join us today and take the first step towards a more positive and fulfilling birth experience.<\/p>",
             "link_label": "Book a consultation",
-            "link": ""
+            "link": "{{ shop.brand.favicon_url }}"
           }
         }
       },
@@ -331,14 +331,14 @@
         "template--18607813067054__e2f106d1-48fc-41fa-84b7-81afc0b61081-1681039374fd627c32-0": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>HI, I’M BRITTANY!<\/strong>",
+            "heading": "Make informed decisions about <strong>your birth, your body, and your baby<\/strong>.",
             "heading_size": "h1"
           }
         },
         "template--18607813067054__e2f106d1-48fc-41fa-84b7-81afc0b61081-1681039374fd627c32-1": {
           "type": "text",
           "settings": {
-            "text": "<p>I am your advocate and informational resource to help you make informed decisions about your birth, your body, and your baby.<\/p><h2>Trainings, Mentorships + Certifications<\/h2><ul><li><h4>BADT Full Spectrum Doula Certification (2021)<\/h4><\/li><li><h4>BADT Full Spectrum Doula Training (2020)<\/h4><\/li><li><h4>Lactation Management for Doulas (2019)<\/h4><\/li><li><h4>Gentle Mothering Volunteer Doula (2018-2019)<\/h4><\/li><li><h4>DONA Birth Doula Training (2017)<\/h4><\/li><\/ul><p><\/p><p><em>*Please note that I am not a medical professional and always advise you to check with your primary care provider before making any decisions.<\/em><\/p>",
+            "text": "<h2>Trainings, Mentorships + Certifications<\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul><p><\/p><p><em>*Please note that I am not a medical professional and always advise you to check with your primary care provider before making any decisions.<\/em><\/p>",
             "text_style": "body"
           }
         },
@@ -401,6 +401,36 @@
         "padding_bottom": 52
       }
     },
+    "582d4e89-1050-43ab-a011-a606259448b7": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18729374646574__582d4e89-1050-43ab-a011-a606259448b7-168163843493aa5cd5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join our online community",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374646574__582d4e89-1050-43ab-a011-a606259448b7-168163843493aa5cd5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We're always posting new happenings, training, and resources<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374646574__582d4e89-1050-43ab-a011-a606259448b7-168163843493aa5cd5-0",
+        "template--18729374646574__582d4e89-1050-43ab-a011-a606259448b7-168163843493aa5cd5-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "168163681270a12950": {
       "type": "apps",
       "blocks": {
@@ -436,15 +466,6 @@
         "show_view_all": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "5613f151-9b39-4284-8447-c7416ae7e5b8": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=007a5c\" style=\"min-width:320px;height:630px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "8ab67ccb-2415-451b-8f95-5e7a83214c18": {
@@ -575,36 +596,6 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
-    },
-    "582d4e89-1050-43ab-a011-a606259448b7": {
-      "type": "rich-text",
-      "blocks": {
-        "template--18729374646574__582d4e89-1050-43ab-a011-a606259448b7-168163843493aa5cd5-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Join our online community",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374646574__582d4e89-1050-43ab-a011-a606259448b7-168163843493aa5cd5-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We're always posting new happenings, training, and resources<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374646574__582d4e89-1050-43ab-a011-a606259448b7-168163843493aa5cd5-0",
-        "template--18729374646574__582d4e89-1050-43ab-a011-a606259448b7-168163843493aa5cd5-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -618,11 +609,10 @@
     "76c22992-c250-4c3a-a17b-7c53406b72fb",
     "e2f106d1-48fc-41fa-84b7-81afc0b61081",
     "9cfc0fef-3b18-46e1-8df9-2cc948f80ae5",
+    "582d4e89-1050-43ab-a011-a606259448b7",
     "168163681270a12950",
     "4e35bf0a-f013-4f06-a0c2-097d84cfc81a",
-    "5613f151-9b39-4284-8447-c7416ae7e5b8",
     "8ab67ccb-2415-451b-8f95-5e7a83214c18",
-    "f323249f-afd3-4d2a-8e4d-88a6a30d187a",
-    "582d4e89-1050-43ab-a011-a606259448b7"
+    "f323249f-afd3-4d2a-8e4d-88a6a30d187a"
   ]
 }
