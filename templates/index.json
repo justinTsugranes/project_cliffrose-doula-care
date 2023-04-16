@@ -101,6 +101,20 @@
         "padding_bottom": 36
       }
     },
+    "be8f5478-c3de-43e4-8225-4d101ab5a886": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "cd094900-79fc-4835-b830-97a34b44047b": {
       "type": "multicolumn",
       "blocks": {
@@ -143,82 +157,6 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Birth Services",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "subtitle",
-        "collection": "birth-doula-services",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-2",
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 44,
-        "padding_bottom": 36
-      }
-    },
-    "9f6e269b-2269-4bd3-a11b-4cd7fc794274": {
-      "type": "image-banner",
-      "blocks": {
-        "template--18607813067054__9f6e269b-2269-4bd3-a11b-4cd7fc794274-16812073756bf65466-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Holistic Birth Doula Services",
-            "heading_size": "h1"
-          }
-        },
-        "template--18607813067054__9f6e269b-2269-4bd3-a11b-4cd7fc794274-16812073756bf65466-1": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "template--18607813067054__9f6e269b-2269-4bd3-a11b-4cd7fc794274-16812073756bf65466-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "shopify:\/\/collections\/birth-doula-services",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18607813067054__9f6e269b-2269-4bd3-a11b-4cd7fc794274-16812073756bf65466-0",
-        "template--18607813067054__9f6e269b-2269-4bd3-a11b-4cd7fc794274-16812073756bf65466-1",
-        "template--18607813067054__9f6e269b-2269-4bd3-a11b-4cd7fc794274-16812073756bf65466-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/cliffrose_birth_doula_services.jpg",
-        "image_overlay_opacity": 60,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "f94009ae-aedb-43f1-a324-08cd7513ad10": {
@@ -265,18 +203,125 @@
         "padding_bottom": 36
       }
     },
-    "be8f5478-c3de-43e4-8225-4d101ab5a886": {
-      "type": "video",
+    "f87fab6b-f93b-41d7-9786-85a0a5ae0991": {
+      "type": "multicolumn",
+      "blocks": {
+        "09258edd-f34f-4916-ac91-e7c8610d675d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.52.17_PM.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0debba11-5bbb-4029-85bb-148ac63dddb9": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Doula Care for a Confident and Empowered Birth<\/strong>",
+            "text": "<p>We already know that having someone there for you, cheering you on, believing in your choices feels really, <em>really good<\/em>—but here’s some science to back it up…<\/p><ul><li>Doulas are a form of pain relief—requests for pain medication goes down <strong>10%<\/strong> with a doula present<\/li><li>Doulas boost self-confidence—<strong>15%<\/strong> increase in spontaneous birth and shorter labor by <strong>45<\/strong>minutes on average<\/li><li>Doulas encourage advocacy + increase safety—<strong>34%<\/strong> fewer negative experiences<\/li><\/ul><p>Having constant companionship equals better outcomes<\/p>",
+            "link_label": "Book a consultation",
+            "link": "shopify:\/\/products\/hourly-virtual-consultations"
+          }
+        }
+      },
+      "block_order": [
+        "09258edd-f34f-4916-ac91-e7c8610d675d",
+        "0debba11-5bbb-4029-85bb-148ac63dddb9"
+      ],
       "settings": {
-        "heading": "",
+        "title": "Benefits of Doula Care",
         "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation",
         "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Birth Services",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "subtitle",
+        "collection": "birth-doula-services",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-2",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "9f6e269b-2269-4bd3-a11b-4cd7fc794274": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--18607813067054__9f6e269b-2269-4bd3-a11b-4cd7fc794274-16812073756bf65466-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Holistic Birth Doula Services",
+            "heading_size": "h1"
+          }
+        },
+        "template--18607813067054__9f6e269b-2269-4bd3-a11b-4cd7fc794274-16812073756bf65466-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--18607813067054__9f6e269b-2269-4bd3-a11b-4cd7fc794274-16812073756bf65466-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "shopify:\/\/collections\/birth-doula-services",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18607813067054__9f6e269b-2269-4bd3-a11b-4cd7fc794274-16812073756bf65466-0",
+        "template--18607813067054__9f6e269b-2269-4bd3-a11b-4cd7fc794274-16812073756bf65466-1",
+        "template--18607813067054__9f6e269b-2269-4bd3-a11b-4cd7fc794274-16812073756bf65466-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cliffrose_birth_doula_services.jpg",
+        "image_overlay_opacity": 60,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "76c22992-c250-4c3a-a17b-7c53406b72fb": {
@@ -331,14 +376,14 @@
         "template--18607813067054__e2f106d1-48fc-41fa-84b7-81afc0b61081-1681039374fd627c32-0": {
           "type": "heading",
           "settings": {
-            "heading": "Make informed decisions about <strong>your birth, your body, and your baby<\/strong>.",
+            "heading": "Hi, I'm Brittany",
             "heading_size": "h1"
           }
         },
         "template--18607813067054__e2f106d1-48fc-41fa-84b7-81afc0b61081-1681039374fd627c32-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Trainings, Mentorships + Certifications<\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul><p><\/p><p><em>*Please note that I am not a medical professional and always advise you to check with your primary care provider before making any decisions.<\/em><\/p>",
+            "text": "<p><strong>Whether this is your first baby or you’re growing your family, you are not alone.<\/strong><\/p><p>Make informed decisions about <strong>your birth, your body, and your baby<\/strong>.<\/p><h2><span style=\"text-decoration:underline\">Trainings, Mentorships + Certifications<\/span><\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul><p><\/p><p><em>*Please note that I am not a medical professional and always advise you to check with your primary care provider before making any decisions.<\/em><\/p>",
             "text_style": "body"
           }
         },
@@ -601,11 +646,12 @@
   "order": [
     "image_banner",
     "e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b",
+    "be8f5478-c3de-43e4-8225-4d101ab5a886",
     "cd094900-79fc-4835-b830-97a34b44047b",
+    "f94009ae-aedb-43f1-a324-08cd7513ad10",
+    "f87fab6b-f93b-41d7-9786-85a0a5ae0991",
     "featured_collection",
     "9f6e269b-2269-4bd3-a11b-4cd7fc794274",
-    "f94009ae-aedb-43f1-a324-08cd7513ad10",
-    "be8f5478-c3de-43e4-8225-4d101ab5a886",
     "76c22992-c250-4c3a-a17b-7c53406b72fb",
     "e2f106d1-48fc-41fa-84b7-81afc0b61081",
     "9cfc0fef-3b18-46e1-8df9-2cc948f80ae5",
