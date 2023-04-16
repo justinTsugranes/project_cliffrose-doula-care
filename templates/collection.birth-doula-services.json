@@ -211,7 +211,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -254,7 +254,7 @@
         "template--18729374253358__e922e7e2-02cd-4791-a68c-7fc76f393023-1681573727ffd0b90e-2"
       ],
       "settings": {
-        "title": "Additional Support Options",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
