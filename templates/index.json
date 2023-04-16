@@ -521,7 +521,7 @@
     "5613f151-9b39-4284-8447-c7416ae7e5b8": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=007a5c\" style=\"min-width:320px;height:900px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
+        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=007a5c\" style=\"min-width:320px;height:630px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
