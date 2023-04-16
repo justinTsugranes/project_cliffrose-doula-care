@@ -13,7 +13,7 @@
         "07dd7590-ee35-49ea-bd9c-a52a162137e4": {
           "type": "text",
           "settings": {
-            "text": "I offer full-spectrum, evidence-based doula services that support families through pregnancy, childbirth, and postpartum.",
+            "text": "We offer full-spectrum, evidence-based doula services that support families through pregnancy, childbirth, and postpartum.",
             "text_style": "subtitle"
           }
         },
@@ -46,6 +46,59 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
+      }
+    },
+    "e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18729374646574__e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b-1681637332aa110372-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Testimonial<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18729374646574__e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b-1681637332aa110372-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Testimonial<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18729374646574__e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b-1681637332aa110372-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Testimonial<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374646574__e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b-1681637332aa110372-0",
+        "template--18729374646574__e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b-1681637332aa110372-1",
+        "template--18729374646574__e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b-1681637332aa110372-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "cd094900-79fc-4835-b830-97a34b44047b": {
@@ -94,6 +147,7 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Birth Services",
         "heading_size": "h1",
@@ -132,14 +186,14 @@
         "template--18607813067054__9f6e269b-2269-4bd3-a11b-4cd7fc794274-16812073756bf65466-1": {
           "type": "text",
           "settings": {
-            "text": "I offer full-spectrum, evidence-based doula services that support families through pregnancy, childbirth, and postpartum.",
+            "text": "",
             "text_style": "body"
           }
         },
         "template--18607813067054__9f6e269b-2269-4bd3-a11b-4cd7fc794274-16812073756bf65466-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "View birth services",
+            "button_label_1": "",
             "button_link_1": "shopify:\/\/collections\/birth-doula-services",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -380,11 +434,29 @@
         "padding_bottom": 36
       }
     },
+    "168163681270a12950": {
+      "type": "apps",
+      "blocks": {
+        "e2610511-a39b-425c-b121-aa44d809f8fd": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "e2610511-a39b-425c-b121-aa44d809f8fd"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "4e35bf0a-f013-4f06-a0c2-097d84cfc81a": {
       "type": "featured-blog",
-      "disabled": true,
       "settings": {
-        "heading": "Latest From My Newsletter",
+        "heading": "",
         "heading_size": "h1",
         "blog": "natural-remedies-for-common-pregnancy-symptoms",
         "post_limit": 4,
@@ -445,10 +517,20 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "5613f151-9b39-4284-8447-c7416ae7e5b8": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=007a5c\" style=\"min-width:320px;height:900px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "image_banner",
+    "e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b",
     "cd094900-79fc-4835-b830-97a34b44047b",
     "featured_collection",
     "9f6e269b-2269-4bd3-a11b-4cd7fc794274",
@@ -456,7 +538,9 @@
     "e2f106d1-48fc-41fa-84b7-81afc0b61081",
     "9cfc0fef-3b18-46e1-8df9-2cc948f80ae5",
     "8ab67ccb-2415-451b-8f95-5e7a83214c18",
+    "168163681270a12950",
     "4e35bf0a-f013-4f06-a0c2-097d84cfc81a",
-    "f323249f-afd3-4d2a-8e4d-88a6a30d187a"
+    "f323249f-afd3-4d2a-8e4d-88a6a30d187a",
+    "5613f151-9b39-4284-8447-c7416ae7e5b8"
   ]
 }
