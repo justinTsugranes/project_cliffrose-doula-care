@@ -420,6 +420,7 @@
     },
     "582d4e89-1050-43ab-a011-a606259448b7": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18729374646574__582d4e89-1050-43ab-a011-a606259448b7-168163843493aa5cd5-0": {
           "type": "heading",
@@ -450,6 +451,7 @@
     },
     "168163681270a12950": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "e2610511-a39b-425c-b121-aa44d809f8fd": {
           "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
