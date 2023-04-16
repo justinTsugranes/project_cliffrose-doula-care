@@ -89,14 +89,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Text block",
-            "text_style": "body"
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -104,7 +96,6 @@
         },
         "share": {
           "type": "share",
-          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
@@ -117,7 +108,6 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8",
         "description",
         "share"
       ],
@@ -134,6 +124,15 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 12
+      }
+    },
+    "df1f36a9-3e2d-454c-913e-e97596f041f6": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=007a5c\" style=\"min-width:320px;height:730px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "related-products": {
@@ -153,21 +152,12 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "df1f36a9-3e2d-454c-913e-e97596f041f6": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=007a5c\" style=\"min-width:320px;height:730px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "8294d813-b228-49e7-a8df-6a350c776c15",
     "main",
-    "related-products",
-    "df1f36a9-3e2d-454c-913e-e97596f041f6"
+    "df1f36a9-3e2d-454c-913e-e97596f041f6",
+    "related-products"
   ]
 }
