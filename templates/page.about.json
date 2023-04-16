@@ -43,7 +43,7 @@
         "template--18764259295534__98da3c2e-7933-465b-be9a-ed5cdc89ae17-1681639335bf7b76ea-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/B64DBB57-06A9-4BE8-827D-EE00B57AB967_1_105_c.jpg",
+        "image": "shopify:\/\/shop_images\/pregnant-women-in-prenatal-class-touching-belly-2021-08-26-15-46-11-utc.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-right",
@@ -79,6 +79,7 @@
         "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-joao-paulo-de-souza-oliveira-3737150.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -98,7 +99,7 @@
         "template--18764259295534__56eb3eb1-f6e9-487e-bddf-a78534b71bf1-1681639870eeeda013-0": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>FIRST, HERE’S MY PROFESSIONAL FRAMEWORK<\/strong>",
+            "heading": "<strong>FIRST, HERE’S OUR PROFESSIONAL FRAMEWORK<\/strong>",
             "heading_size": "h1"
           }
         },
@@ -115,13 +116,14 @@
         "template--18764259295534__56eb3eb1-f6e9-487e-bddf-a78534b71bf1-1681639870eeeda013-1"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/pexels-joao-paulo-de-souza-oliveira-3737150.jpg",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -166,14 +168,14 @@
         "template--18764259295534__8a66e9f1-fb99-4b67-bcf9-8123b2ec9078-1681637899fcc77dd4-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/0A669816-905E-47CB-80CE-F5CF66C7C2B1.png",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
+        "image": "shopify:\/\/shop_images\/pexels-joao-paulo-de-souza-oliveira-3737150.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
