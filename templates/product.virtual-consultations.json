@@ -6,7 +6,7 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0": {
           "type": "heading",
           "settings": {
-            "heading": "Birth Doula Services",
+            "heading": "Virtual Birth Doula Consultations",
             "heading_size": "h1"
           }
         },
@@ -91,6 +91,7 @@
         },
         "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Text block",
             "text_style": "body"
@@ -98,12 +99,12 @@
         },
         "description": {
           "type": "description",
-          "disabled": true,
           "settings": {
           }
         },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
@@ -124,10 +125,10 @@
         "enable_sticky_info": true,
         "media_size": "large",
         "constrain_to_viewport": true,
-        "media_fit": "contain",
+        "media_fit": "cover",
         "gallery_layout": "stacked",
         "media_position": "left",
-        "image_zoom": "lightbox",
+        "image_zoom": "none",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
@@ -152,11 +153,21 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "df1f36a9-3e2d-454c-913e-e97596f041f6": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=007a5c\" style=\"min-width:320px;height:630px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "8294d813-b228-49e7-a8df-6a350c776c15",
     "main",
-    "related-products"
+    "related-products",
+    "df1f36a9-3e2d-454c-913e-e97596f041f6"
   ]
 }
