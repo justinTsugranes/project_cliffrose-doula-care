@@ -223,7 +223,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>Doula Care for a Confident and Empowered Birth<\/strong>",
-            "text": "<p>We already know that having someone there for you, cheering you on, believing in your choices feels really, <em>really good<\/em>—but here’s some science to back it up…<\/p><ul><li>Doulas are a form of pain relief—requests for pain medication goes down <strong>10%<\/strong> with a doula present<\/li><li>Doulas boost self-confidence—<strong>15%<\/strong> increase in spontaneous birth and shorter labor by <strong>45<\/strong>minutes on average<\/li><li>Doulas encourage advocacy + increase safety—<strong>34%<\/strong> fewer negative experiences<\/li><\/ul><p>Having constant companionship equals better outcomes<\/p>",
+            "text": "<p>We already know that having someone there for you, cheering you on, believing in your choices feels really, <em>really good<\/em>—but here’s some science to back it up…<\/p><ul><li>Doulas are a form of pain relief—requests for pain medication goes down <strong>10%<\/strong> with a doula present<\/li><li>Doulas boost self-confidence—<strong>15%<\/strong> increase in spontaneous birth and shorter labor by <strong>45<\/strong>minutes on average<\/li><li>Doulas encourage advocacy + increase safety—<strong>34%<\/strong> fewer negative experiences<\/li><\/ul><p><\/p><p><strong>Having constant companionship equals better outcomes<\/strong><\/p>",
             "link_label": "",
             "link": "shopify:\/\/products\/hourly-virtual-consultations"
           }
@@ -238,9 +238,9 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
-        "columns_desktop": 2,
+        "columns_desktop": 1,
         "column_alignment": "left",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation",
         "color_scheme": "accent-1",
@@ -416,37 +416,6 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "9cfc0fef-3b18-46e1-8df9-2cc948f80ae5": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--18607813067054__9cfc0fef-3b18-46e1-8df9-2cc948f80ae5-168116093847e05094-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Trainings, Mentorships + Certifications",
-            "heading_size": "h1"
-          }
-        },
-        "template--18607813067054__9cfc0fef-3b18-46e1-8df9-2cc948f80ae5-168116093847e05094-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>BADT Full Spectrum Doula Certification (2021)<\/h2><h2>BADT Full Spectrum Doula Training (2020)<\/h2><h2>Lactation Management for Doulas (2019)<\/h2><h2>Gentle Mothering Volunteer Doula (2018-2019)<\/h2><h2>DONA Birth Doula Training (2017)<\/h2>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18607813067054__9cfc0fef-3b18-46e1-8df9-2cc948f80ae5-168116093847e05094-0",
-        "template--18607813067054__9cfc0fef-3b18-46e1-8df9-2cc948f80ae5-168116093847e05094-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-2",
-        "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "582d4e89-1050-43ab-a011-a606259448b7": {
@@ -657,7 +626,6 @@
     "9f6e269b-2269-4bd3-a11b-4cd7fc794274",
     "76c22992-c250-4c3a-a17b-7c53406b72fb",
     "e2f106d1-48fc-41fa-84b7-81afc0b61081",
-    "9cfc0fef-3b18-46e1-8df9-2cc948f80ae5",
     "582d4e89-1050-43ab-a011-a606259448b7",
     "168163681270a12950",
     "4e35bf0a-f013-4f06-a0c2-097d84cfc81a",
