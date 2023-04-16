@@ -120,7 +120,7 @@
             "title": "<strong>Doula Care for a Confident and Empowered Birth<\/strong>",
             "text": "<h2>For many women, the idea of giving birth can be a source of fear, anxiety, and doubt.<\/h2><h3>At Cliffrose Doula Care, we believe that every woman deserves to feel empowered and confident throughout the birthing process. <\/h3><p><\/p><p>That's why we offer a range of classes and resources designed to provide you with the tools you need to achieve a beautiful and empowering birth and postpartum experience. Don't leave your birth to chance – join us today and take the first step towards a more positive and fulfilling birth experience.<\/p>",
             "link_label": "Book a consultation",
-            "link": "{{ shop.brand.favicon_url }}"
+            "link": "shopify:\/\/products\/hourly-virtual-consultations"
           }
         }
       },
@@ -230,7 +230,7 @@
             "title": "",
             "text": "<h2><strong>With knowledge comes power, and that's where Cliffrose Doula Care comes in.<\/strong><\/h2><p>Our comprehensive education and support will equip you with the tools and understanding you need to approach pregnancy, birth, and parenthood with confidence and empowerment. Learn how to trust your body, connect with your baby, and make informed decisions that align with your values and preferences.<\/p><p><strong>Don't let fear hold you back from the beautiful reality of a fulfilling birth and parenthood journey.<\/strong><\/p>",
             "link_label": "Book a consultation",
-            "link": "https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation"
+            "link": "shopify:\/\/products\/hourly-virtual-consultations"
           }
         },
         "template--18607813067054__f94009ae-aedb-43f1-a324-08cd7513ad10-1681036615f1e077d2-2": {
@@ -345,8 +345,8 @@
         "d663f7d6-a03c-4008-b83d-bae7f7a9032f": {
           "type": "button",
           "settings": {
-            "button_label": "Learn more",
-            "button_link": "shopify:\/\/pages\/about"
+            "button_label": "Book A Consultation",
+            "button_link": "shopify:\/\/products\/hourly-virtual-consultations"
           }
         }
       },
@@ -590,7 +590,7 @@
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
