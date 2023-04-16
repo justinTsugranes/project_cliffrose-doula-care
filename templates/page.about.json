@@ -43,6 +43,7 @@
         "template--18764259295534__98da3c2e-7933-465b-be9a-ed5cdc89ae17-1681639335bf7b76ea-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/B64DBB57-06A9-4BE8-827D-EE00B57AB967_1_105_c.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-right",
@@ -53,6 +54,65 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "6ddadc23-415d-40e0-9d75-46f266ddffdd": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-0",
+        "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-1",
+        "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "70a65ce0-2bec-4095-8a3d-340fdcdac889": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "8a66e9f1-fb99-4b67-bcf9-8123b2ec9078": {
@@ -92,8 +152,48 @@
         "padding_bottom": 36
       }
     },
+    "2f7b8f7d-7a30-4541-9e3c-c1552779f69b": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "template--18764259295534__2f7b8f7d-7a30-4541-9e3c-c1552779f69b-1681639941c7433cef-0": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "template--18764259295534__2f7b8f7d-7a30-4541-9e3c-c1552779f69b-1681639941c7433cef-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "template--18764259295534__2f7b8f7d-7a30-4541-9e3c-c1552779f69b-1681639941c7433cef-2": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18764259295534__2f7b8f7d-7a30-4541-9e3c-c1552779f69b-1681639941c7433cef-0",
+        "template--18764259295534__2f7b8f7d-7a30-4541-9e3c-c1552779f69b-1681639941c7433cef-1",
+        "template--18764259295534__2f7b8f7d-7a30-4541-9e3c-c1552779f69b-1681639941c7433cef-2"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "e4efc10d-20ca-44bc-96c3-570e4ae5f889": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-0": {
           "type": "heading",
@@ -107,24 +207,11 @@
           "settings": {
             "text": "<h1>So can you.<\/h1><p>Your roots grow deeper than you know and you are strong as hell. But when doubt or fear creeps in, having someone in your corner to remind you that <em>you got this <\/em>means everything.<\/p><p>Doula care centers on the individual, focusing on your vision for your best life because you know yourself best.<\/p>"
           }
-        },
-        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-0",
-        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-1",
-        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-2"
+        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-1"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -139,7 +226,10 @@
   "order": [
     "main",
     "98da3c2e-7933-465b-be9a-ed5cdc89ae17",
+    "6ddadc23-415d-40e0-9d75-46f266ddffdd",
+    "70a65ce0-2bec-4095-8a3d-340fdcdac889",
     "8a66e9f1-fb99-4b67-bcf9-8123b2ec9078",
+    "2f7b8f7d-7a30-4541-9e3c-c1552779f69b",
     "e4efc10d-20ca-44bc-96c3-570e4ae5f889"
   ]
 }
