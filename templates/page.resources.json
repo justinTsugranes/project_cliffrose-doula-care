@@ -1,5 +1,41 @@
 {
   "sections": {
+    "35098a8d-30ec-4ce6-a389-d361d2d7cb3a": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18771424510254__35098a8d-30ec-4ce6-a389-d361d2d7cb3a-16816419410bb0e374-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Community of Resources to Help You Grow",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771424510254__35098a8d-30ec-4ce6-a389-d361d2d7cb3a-16816419410bb0e374-1": {
+          "type": "text",
+          "settings": {
+            "text": "These providers mainly serve the Greater Los Angeles area, but many offer virtual support and take on nationwide clients",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771424510254__35098a8d-30ec-4ce6-a389-d361d2d7cb3a-16816419410bb0e374-0",
+        "template--18771424510254__35098a8d-30ec-4ce6-a389-d361d2d7cb3a-16816419410bb0e374-1"
+      ],
+      "settings": {
+        "image_2": "shopify:\/\/shop_images\/Screenshot_2023-04-16_at_6.53.58_AM.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -9,6 +45,7 @@
     }
   },
   "order": [
+    "35098a8d-30ec-4ce6-a389-d361d2d7cb3a",
     "main"
   ]
 }
