@@ -327,52 +327,6 @@
         "show_text_below": true
       }
     },
-    "76c22992-c250-4c3a-a17b-7c53406b72fb": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "ee5c791c-6cfc-45be-9b78-1c95053e923d": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>HI, I’M BRITTANY!<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "9724d748-f07d-4fc8-acf7-7def41414e7c": {
-          "type": "text",
-          "settings": {
-            "text": "<p>As a professionally trained childbirth assistant, I provide emotional, informational, and physical support to birthing individuals throughout pregnancy, labor, and immediate postpartum. I follow a full-spectrum, client-centered care model, and am experienced in supporting home, birthing center, and hospital births.<\/p><p>I am your advocate and informational resource to help you make informed decisions about your birth, your body, and your baby.<\/p><p><em>*Please note that I am not a medical professional and always advise you to check with your primary care provider before making any decisions.<\/em><\/p>",
-            "text_style": "body"
-          }
-        },
-        "2f816b6a-cad3-4fc6-9174-a6ad00aeb9ae": {
-          "type": "button",
-          "settings": {
-            "button_label": "Learn more",
-            "button_link": "shopify:\/\/pages\/about"
-          }
-        }
-      },
-      "block_order": [
-        "ee5c791c-6cfc-45be-9b78-1c95053e923d",
-        "9724d748-f07d-4fc8-acf7-7def41414e7c",
-        "2f816b6a-cad3-4fc6-9174-a6ad00aeb9ae"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/B64DBB57-06A9-4BE8-827D-EE00B57AB967_1_105_c.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "e2f106d1-48fc-41fa-84b7-81afc0b61081": {
       "type": "image-with-text",
       "blocks": {
@@ -386,7 +340,7 @@
         "template--18607813067054__e2f106d1-48fc-41fa-84b7-81afc0b61081-1681039374fd627c32-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Whether this is your first baby or you’re growing your family, you are not alone.<\/strong><\/p><p>Make informed decisions about <strong>your birth, your body, and your baby<\/strong>.<\/p><h2><span style=\"text-decoration:underline\">Trainings, Mentorships + Certifications<\/span><\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul><p><\/p><p><em>*Please note that I am not a medical professional and always advise you to check with your primary care provider before making any decisions.<\/em><\/p>",
+            "text": "<p>As a full spectrum doula, I work with all reproductive journeys: conception, adoption, surrogacy, pregnancy, labor, and birth. I am there in the postpartum and can help you through a termination process. <strong>I support people through every outcome.<\/strong><\/p><p><strong>Whether this is your first baby or you’re growing your family, you are not alone.<\/strong><\/p><p>Make informed decisions about <strong>your birth, your body, and your baby<\/strong>.<\/p><h2><span style=\"text-decoration:underline\">Trainings, Mentorships + Certifications<\/span><\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul><p><\/p><p><em>*Please note that I am not a medical professional and always advise you to check with your primary care provider before making any decisions.<\/em><\/p>",
             "text_style": "body"
           }
         },
@@ -626,7 +580,6 @@
     "f87fab6b-f93b-41d7-9786-85a0a5ae0991",
     "featured_collection",
     "9f6e269b-2269-4bd3-a11b-4cd7fc794274",
-    "76c22992-c250-4c3a-a17b-7c53406b72fb",
     "e2f106d1-48fc-41fa-84b7-81afc0b61081",
     "582d4e89-1050-43ab-a011-a606259448b7",
     "168163681270a12950",
