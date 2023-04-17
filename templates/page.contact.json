@@ -2,7 +2,6 @@
   "sections": {
     "da2575d0-e30d-4061-8810-87c82cbeedb4": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--18729374974254__da2575d0-e30d-4061-8810-87c82cbeedb4-16816419410bb0e374-0": {
           "type": "heading",
@@ -13,6 +12,7 @@
         },
         "template--18729374974254__da2575d0-e30d-4061-8810-87c82cbeedb4-16816419410bb0e374-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Give customers details about the banner image(s) or content on the template.",
             "text_style": "body"
@@ -20,6 +20,7 @@
         },
         "template--18729374974254__da2575d0-e30d-4061-8810-87c82cbeedb4-16816419410bb0e374-2": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Email",
             "button_link_1": "",
@@ -36,7 +37,8 @@
         "template--18729374974254__da2575d0-e30d-4061-8810-87c82cbeedb4-16816419410bb0e374-2"
       ],
       "settings": {
-        "image_overlay_opacity": 0,
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-16_at_6.53.24_AM.jpg",
+        "image_overlay_opacity": 30,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
