@@ -197,11 +197,23 @@
             "text": "Learn how to trust your body, connect with your baby, and make informed decisions that align with your values and preferences. <strong>Don't let fear hold you back from the beautiful reality of a fulfilling birth and parenthood journey.<\/strong>",
             "text_style": "body"
           }
+        },
+        "939aa66d-cb78-4f96-ad47-c0b41a7988ae": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Schedule a Consultation",
+            "button_link_1": "shopify:\/\/products\/intro-birth-consultation",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "template--18729374646574__819b2017-cc8d-4fc1-9a3d-ae1572cb93ad-1681726004335b387b-0",
-        "template--18729374646574__819b2017-cc8d-4fc1-9a3d-ae1572cb93ad-1681726004335b387b-1"
+        "template--18729374646574__819b2017-cc8d-4fc1-9a3d-ae1572cb93ad-1681726004335b387b-1",
+        "939aa66d-cb78-4f96-ad47-c0b41a7988ae"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/cliffrose_birth_doula_services.jpg",
