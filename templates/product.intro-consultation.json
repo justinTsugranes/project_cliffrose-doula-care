@@ -2,7 +2,6 @@
   "sections": {
     "8294d813-b228-49e7-a8df-6a350c776c15": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0": {
           "type": "heading",
@@ -36,7 +35,7 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/birth_doula.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-18_at_5.25.31_PM.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -59,6 +58,11 @@
             "text_style": "uppercase"
           }
         },
+        "64039e27-f39f-4450-a904-7e1c06d95d3b": {
+          "type": "rating",
+          "settings": {
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -66,7 +70,6 @@
         },
         "price": {
           "type": "price",
-          "disabled": true,
           "settings": {
           }
         },
@@ -93,6 +96,7 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
@@ -101,21 +105,36 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "0776276a-bffd-4a7f-9541-edbae773dd44": {
+          "type": "icon-with-text",
+          "disabled": true,
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "stopwatch",
+            "heading_1": "15-Minute",
+            "icon_2": "map_pin",
+            "heading_2": "Online",
+            "icon_3": "price_tag",
+            "heading_3": "Free"
+          }
         }
       },
       "block_order": [
         "vendor",
+        "64039e27-f39f-4450-a904-7e1c06d95d3b",
         "title",
         "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "0776276a-bffd-4a7f-9541-edbae773dd44"
       ],
       "settings": {
         "enable_sticky_info": true,
-        "media_size": "large",
+        "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "cover",
         "gallery_layout": "stacked",
@@ -126,6 +145,36 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 12
+      }
+    },
+    "ea73d1b1-f1b2-483a-a4cb-98db231b56bc": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18772762755374__ea73d1b1-f1b2-483a-a4cb-98db231b56bc-16818539103b098f2f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "What We Can Cover",
+            "heading_size": "h1"
+          }
+        },
+        "template--18772762755374__ea73d1b1-f1b2-483a-a4cb-98db231b56bc-16818539103b098f2f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>Your birth preferences<\/strong><\/h2><p>Your doula will listen attentively to your birth preferences and provide guidance and support in understanding your options, including topics such as natural birth, medicated birth, cesarean birth, and more.<\/p><p><\/p><h2><strong>Birth plan development<\/strong><\/h2><p>Your doula can help you develop a personalized birth plan that aligns with your preferences and values, providing valuable insights and recommendations based on her expertise.<\/p><p><\/p><h2><strong>Comfort measures during labor<\/strong><\/h2><p>Your doula can provide information and guidance on various comfort measures during labor, including breathing techniques, relaxation techniques, movement, and positioning, to help you cope with the physical and emotional aspects of labor.<\/p><p><\/p><h2><strong>Postpartum planning<\/strong><\/h2><p>Your doula can discuss postpartum planning, including topics such as breastfeeding, newborn care, emotional well-being, and self-care, to ensure you are prepared for the postpartum period.<\/p><p><\/p><h2><strong>Emotional support<\/strong><\/h2><p>Your doula recognizes the emotional aspects of pregnancy, childbirth, and postpartum, and can provide compassionate support and guidance in navigating any fears, anxieties, or concerns you may have.<\/p><p><\/p><h2><strong>Birth options and interventions<\/strong><\/h2><p>Your doula can provide information on different birth options and interventions that may arise during childbirth, including risks, benefits, and alternatives, to help you make informed decisions.<\/p><p><\/p><h2><strong>Reproductive justice<\/strong><\/h2><p>As an advocate for reproductive justice, doulas may discuss topics related to social justice, equity, and inclusivity in childbirth, and how it impacts your birthing experience.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18772762755374__ea73d1b1-f1b2-483a-a4cb-98db231b56bc-16818539103b098f2f-0",
+        "template--18772762755374__ea73d1b1-f1b2-483a-a4cb-98db231b56bc-16818539103b098f2f-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "df1f36a9-3e2d-454c-913e-e97596f041f6": {
@@ -159,6 +208,7 @@
   "order": [
     "8294d813-b228-49e7-a8df-6a350c776c15",
     "main",
+    "ea73d1b1-f1b2-483a-a4cb-98db231b56bc",
     "df1f36a9-3e2d-454c-913e-e97596f041f6",
     "related-products"
   ]
