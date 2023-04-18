@@ -118,20 +118,11 @@
             "text": "<h2>For many women, the idea of giving birth can be a source of fear, anxiety, and doubt.<\/h2><h3>At Cliffrose Doula Care, we believe that every woman deserves to feel empowered and confident throughout the birthing process.<\/h3><p>That's why we offer a range of classes and resources designed to provide you with the tools you need to achieve a beautiful and empowering birth and postpartum experience. Don't leave your birth to chance – join us today and take the first step towards a more positive and fulfilling birth experience.<\/p>",
             "text_style": "body"
           }
-        },
-        "7555145d-ddb0-43b8-a879-26a751517903": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Schedule a Consultation",
-            "button_link": "shopify:\/\/products\/intro-birth-consultation"
-          }
         }
       },
       "block_order": [
         "template--18729374646574__3354c3e8-28ab-46d7-a5a0-ec1b4ce33489-1681723923abde2125-0",
-        "template--18729374646574__3354c3e8-28ab-46d7-a5a0-ec1b4ce33489-1681723923abde2125-1",
-        "7555145d-ddb0-43b8-a879-26a751517903"
+        "template--18729374646574__3354c3e8-28ab-46d7-a5a0-ec1b4ce33489-1681723923abde2125-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.48.46_PM.jpg",
