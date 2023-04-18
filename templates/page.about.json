@@ -71,20 +71,65 @@
         "show_text_below": true
       }
     },
+    "9ee6804f-807b-4f60-86ee-ed2ca7cddbd3": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18764259295534__9ee6804f-807b-4f60-86ee-ed2ca7cddbd3-1681851507607d59b9-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/birthing_advocacy_doula_training.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18764259295534__9ee6804f-807b-4f60-86ee-ed2ca7cddbd3-1681851507607d59b9-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18764259295534__9ee6804f-807b-4f60-86ee-ed2ca7cddbd3-1681851507607d59b9-0",
+        "template--18764259295534__9ee6804f-807b-4f60-86ee-ed2ca7cddbd3-1681851507607d59b9-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "6ddadc23-415d-40e0-9d75-46f266ddffdd": {
       "type": "image-with-text",
       "blocks": {
         "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-0": {
           "type": "heading",
           "settings": {
-            "heading": "As a full spectrum doula…",
+            "heading": "As full spectrum doulas…",
             "heading_size": "h1"
           }
         },
         "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-1": {
           "type": "text",
           "settings": {
-            "text": "<p>I work with all reproductive journeys:<br\/>conception, adoption, surrogacy, pregnancy, labor, and birth. I am there in the postpartum and can help you through a termination process.<\/p><p><strong>I support people through every outcome.<\/strong><\/p>",
+            "text": "<p>We work with all reproductive journeys:<br\/>conception, adoption, surrogacy, pregnancy, labor, and birth. We are there in the postpartum and can help you through a termination process.<\/p><p><strong>We support people through every outcome.<\/strong><\/p>",
             "text_style": "body"
           }
         }
@@ -114,14 +159,14 @@
         "template--18764259295534__56eb3eb1-f6e9-487e-bddf-a78534b71bf1-1681639870eeeda013-0": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>FIRST, HERE’S OUR PROFESSIONAL FRAMEWORK<\/strong>",
+            "heading": "<strong>Here's our professional framework<\/strong>",
             "heading_size": "h1"
           }
         },
         "template--18764259295534__56eb3eb1-f6e9-487e-bddf-a78534b71bf1-1681639870eeeda013-1": {
           "type": "text",
           "settings": {
-            "text": "<p>I am a doula: a companion who helps an individual by providing emotional, informational, and physical support through a transitional period of life. I follow a full-spectrum, individual-centered care model; excluding no reproductive experience.<\/p><p>I will be by your side continuously providing encouragement, comfort, and informational assistance when questions arise.<\/p><p>Through every outcome, I will be your advocate and informational resource to help you make informed decisions, trusting your choices, your body, and the process.<\/p><p>I am not a medical professional. As a doula, I do not “prescribe treatment”; any suggestions or information provided within my role as a doula must be done with the proviso that I will advise you, as my client, to check with your primary care provider before using any application.<\/p>",
+            "text": "<p>We are doulas: a companion who helps an individual by providing emotional, informational, and physical support through a transitional period of life. We follow a full-spectrum, individual-centered care model; excluding no reproductive experience.<\/p><p>We will be by your side continuously providing encouragement, comfort, and informational assistance when questions arise.<\/p><p>Through every outcome, we will be your advocate and informational resource to help you make informed decisions, trusting your choices, your body, and the process.<\/p><p>We are not medical professionals. As a doula, we do not “prescribe treatment”; any suggestions or information provided within our role as a doula must be done with the proviso that we will advise you, as  client, to check with your primary care provider before using any application.<\/p>",
             "text_style": "body"
           }
         }
@@ -188,7 +233,7 @@
         "template--18764259295534__228b2e63-398e-47b0-a2cf-a38707d8164f-1681850119d200700b-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Nourishing Birthing Bodies",
             "heading_size": "h1"
           }
         },
@@ -198,19 +243,11 @@
             "text": "<p>Cliffrose offers a full-spectrum, inclusive, client-centered model of care. We are here for every pregnancy outcome and every birthing body. Period.<\/p><p>The initial time after you come home with baby is an adjustment. For the first week postpartum, we provide meals based on simple ingredients proven to nourish and revitalize. This takes the stress out of cooking for yourself, and you can know you’re eating well while you recover and settle into life with your new baby.<\/p><p>This meal program is based on recipes from the amazing book The First Forty Days: The Essential Art of Nourishing the New Mother Amely Greeven, Heng Ou, and Marisa Belger. These women lay a foundation of recuperative eating to ensure bodily and mental healing for the new mother that provides strength for the path of motherhood ahead.<\/p>",
             "text_style": "body"
           }
-        },
-        "template--18764259295534__228b2e63-398e-47b0-a2cf-a38707d8164f-1681850119d200700b-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "template--18764259295534__228b2e63-398e-47b0-a2cf-a38707d8164f-1681850119d200700b-0",
-        "template--18764259295534__228b2e63-398e-47b0-a2cf-a38707d8164f-1681850119d200700b-1",
-        "template--18764259295534__228b2e63-398e-47b0-a2cf-a38707d8164f-1681850119d200700b-2"
+        "template--18764259295534__228b2e63-398e-47b0-a2cf-a38707d8164f-1681850119d200700b-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_1.02.22_PM.jpg",
@@ -326,6 +363,7 @@
     "main",
     "70a65ce0-2bec-4095-8a3d-340fdcdac889",
     "98da3c2e-7933-465b-be9a-ed5cdc89ae17",
+    "9ee6804f-807b-4f60-86ee-ed2ca7cddbd3",
     "6ddadc23-415d-40e0-9d75-46f266ddffdd",
     "56eb3eb1-f6e9-487e-bddf-a78534b71bf1",
     "8a66e9f1-fb99-4b67-bcf9-8123b2ec9078",
