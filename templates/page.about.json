@@ -8,6 +8,21 @@
         "padding_bottom": 28
       }
     },
+    "70a65ce0-2bec-4095-8a3d-340fdcdac889": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "98da3c2e-7933-465b-be9a-ed5cdc89ae17": {
       "type": "image-banner",
       "blocks": {
@@ -79,14 +94,14 @@
         "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pexels-joao-paulo-de-souza-oliveira-3737150.jpg",
+        "image": "shopify:\/\/shop_images\/pregnant-woman-s-belly-closeup-hands-hugging-bell-2022-10-11-19-51-50-utc.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -116,7 +131,7 @@
         "template--18764259295534__56eb3eb1-f6e9-487e-bddf-a78534b71bf1-1681639870eeeda013-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pexels-joao-paulo-de-souza-oliveira-3737150.jpg",
+        "image": "shopify:\/\/shop_images\/belly-of-a-pregnant-woman-isolated-2023-04-14-20-30-27-utc.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -126,21 +141,6 @@
         "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "70a65ce0-2bec-4095-8a3d-340fdcdac889": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -168,7 +168,7 @@
         "template--18764259295534__8a66e9f1-fb99-4b67-bcf9-8123b2ec9078-1681637899fcc77dd4-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pexels-joao-paulo-de-souza-oliveira-3737150.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_1.02.22_PM.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -178,45 +178,6 @@
         "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "2f7b8f7d-7a30-4541-9e3c-c1552779f69b": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "template--18764259295534__2f7b8f7d-7a30-4541-9e3c-c1552779f69b-1681639941c7433cef-0": {
-          "type": "image",
-          "settings": {
-          }
-        },
-        "template--18764259295534__2f7b8f7d-7a30-4541-9e3c-c1552779f69b-1681639941c7433cef-1": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "template--18764259295534__2f7b8f7d-7a30-4541-9e3c-c1552779f69b-1681639941c7433cef-2": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18764259295534__2f7b8f7d-7a30-4541-9e3c-c1552779f69b-1681639941c7433cef-0",
-        "template--18764259295534__2f7b8f7d-7a30-4541-9e3c-c1552779f69b-1681639941c7433cef-1",
-        "template--18764259295534__2f7b8f7d-7a30-4541-9e3c-c1552779f69b-1681639941c7433cef-2"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "column",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -318,12 +279,11 @@
   },
   "order": [
     "main",
+    "70a65ce0-2bec-4095-8a3d-340fdcdac889",
     "98da3c2e-7933-465b-be9a-ed5cdc89ae17",
     "6ddadc23-415d-40e0-9d75-46f266ddffdd",
     "56eb3eb1-f6e9-487e-bddf-a78534b71bf1",
-    "70a65ce0-2bec-4095-8a3d-340fdcdac889",
     "8a66e9f1-fb99-4b67-bcf9-8123b2ec9078",
-    "2f7b8f7d-7a30-4541-9e3c-c1552779f69b",
     "e4efc10d-20ca-44bc-96c3-570e4ae5f889",
     "45ab04d8-e32d-409c-a4ab-075f82299483",
     "4f85eeae-85d9-4cca-bdf5-6f0685338f88"

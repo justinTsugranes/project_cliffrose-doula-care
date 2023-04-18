@@ -13,7 +13,7 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1": {
           "type": "text",
           "settings": {
-            "text": "As a full spectrum doula, I work with all reproductive journeys: conception, adoption, surrogacy, pregnancy, labor, and birth. I am there in the postpartum and can help you through a termination process. <strong>I support people through every outcome.<\/strong>",
+            "text": "Have a few questions? Live far away and don't have access to a doula?  Have a busy schedule? Book a video meeting below.",
             "text_style": "body"
           }
         },
@@ -54,14 +54,14 @@
         "template--18771681968430__e477a957-5799-4844-ad6b-cf9609776859-16817246966bb54754-0": {
           "type": "heading",
           "settings": {
-            "heading": "Live far away? Have a busy schedule?",
+            "heading": "We schedule virtual consultations that typically cover the following topics:",
             "heading_size": "h1"
           }
         },
         "template--18771681968430__e477a957-5799-4844-ad6b-cf9609776859-16817246966bb54754-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>We schedule virtual consultations that typically cover the following topics: <\/h2><ul><li>Comfort Measures (environmental, relaxation techniques, affirmations)<\/li><li>Birth Ball Use<\/li><li>Labor Positions<\/li><li>How to Labor at Home<\/li><li>How to Advocate for Yourself & Hospital Policies<\/li><li>Immediate Newborn Care<\/li><li>Miscarriage & Bereavement Support<\/li><li>Adoption<\/li><li>Surrogacy<\/li><\/ul><p>Consultations are held via Zoom and can be scheduled below.<\/p>"
+            "text": "<ul><li>Comfort Measures (environmental, relaxation techniques, affirmations)<\/li><li>Birth Ball Use<\/li><li>Labor Positions<\/li><li>How to Labor at Home<\/li><li>How to Advocate for Yourself & Hospital Policies<\/li><li>Immediate Newborn Care<\/li><li>Miscarriage & Bereavement Support<\/li><li>Adoption<\/li><li>Surrogacy<\/li><\/ul><p>Consultations are 1-Hour Long and held on Zoom. Book a time below and then check your e-mail for a welcome letter from us as well as the Zoom meeting information.<\/p>"
           }
         }
       },
@@ -171,7 +171,7 @@
     "df1f36a9-3e2d-454c-913e-e97596f041f6": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/intro-birth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&primary_color= 377e62\" style=\"min-width:320px;height:730px;background:#377e62\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
+        "custom_liquid": "<!-- Calendly inline widget begins -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/intro-birth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&primary_color= 377e62\" style=\"min-width:320px;height:730px;background:#377e62\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
@@ -184,7 +184,7 @@
         "template--18771681968430__8eda6711-a56c-42d7-af5e-bde21af1253c-168172725158afd220-0": {
           "type": "slide",
           "settings": {
-            "heading": "",
+            "heading": "Birth Ball Use",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
             "button_label": "",
@@ -201,10 +201,61 @@
         "template--18771681968430__8eda6711-a56c-42d7-af5e-bde21af1253c-168172725158afd220-1": {
           "type": "slide",
           "settings": {
-            "heading": "",
+            "heading": "Labor Positions",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
             "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "7905bbe5-1788-4c36-9c44-3c3306a49d1a": {
+          "type": "slide",
+          "settings": {
+            "heading": "Advocating for Yourself",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "f865aa56-6367-4b3d-9aaa-af8b49337a87": {
+          "type": "slide",
+          "settings": {
+            "heading": "Immediate Newborn Care",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "f56a75b4-ccc0-4d88-9b2a-7b502c7c382f": {
+          "type": "slide",
+          "settings": {
+            "heading": "Miscarriage & Bereavement Support",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
@@ -218,7 +269,10 @@
       },
       "block_order": [
         "template--18771681968430__8eda6711-a56c-42d7-af5e-bde21af1253c-168172725158afd220-0",
-        "template--18771681968430__8eda6711-a56c-42d7-af5e-bde21af1253c-168172725158afd220-1"
+        "template--18771681968430__8eda6711-a56c-42d7-af5e-bde21af1253c-168172725158afd220-1",
+        "7905bbe5-1788-4c36-9c44-3c3306a49d1a",
+        "f865aa56-6367-4b3d-9aaa-af8b49337a87",
+        "f56a75b4-ccc0-4d88-9b2a-7b502c7c382f"
       ],
       "settings": {
         "layout": "full_bleed",
