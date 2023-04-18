@@ -171,7 +171,7 @@
     "df1f36a9-3e2d-454c-913e-e97596f041f6": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/intro-birth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&primary_color= 377e62\" style=\"min-width:320px;height:730px;background:#377e62\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
+        "custom_liquid": "<div>\n<h2>\nSchedule a consultation\n<\/h2>\n<\/div>\n<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/intro-birth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&primary_color= 377e62\" style=\"min-width:320px;height:730px;background:#377e62\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
