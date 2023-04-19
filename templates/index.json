@@ -230,7 +230,7 @@
         "10723b04-b0db-4264-ab26-d341095beeb9": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-18_at_4.38.39_PM.jpg",
+            "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155363_1_02a6b68b-7382-4e64-9ebc-99d5e80c0b60.jpg",
             "heading": "Labor Support",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
@@ -248,7 +248,7 @@
         "2ae54e91-a586-4128-aed0-04626e34f829": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-18_at_4.38.39_PM.jpg",
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
             "heading": "Postpartum Recovery",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
@@ -283,15 +283,16 @@
     },
     "d5391373-a0b1-4386-9b2a-97cb5163481f": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "",
-        "products_to_show": 2,
-        "columns_desktop": 2,
+        "collection": "all-products",
+        "products_to_show": 3,
+        "columns_desktop": 3,
         "full_width": true,
         "show_view_all": false,
         "view_all_style": "outline",
