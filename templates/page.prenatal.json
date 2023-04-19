@@ -1,5 +1,40 @@
 {
   "sections": {
+    "ba3e7a25-353b-4e65-9fb2-c87d2557b96b": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18810846511406__ba3e7a25-353b-4e65-9fb2-c87d2557b96b-16818980976fb5b99b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Prenatal Care",
+            "heading_size": "h1"
+          }
+        },
+        "template--18810846511406__ba3e7a25-353b-4e65-9fb2-c87d2557b96b-16818980976fb5b99b-1": {
+          "type": "text",
+          "settings": {
+            "text": "The first 40 days after pregnancy are the hardest. We assist women during postpartum recovery.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18810846511406__ba3e7a25-353b-4e65-9fb2-c87d2557b96b-16818980976fb5b99b-0",
+        "template--18810846511406__ba3e7a25-353b-4e65-9fb2-c87d2557b96b-16818980976fb5b99b-1"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -9,6 +44,7 @@
     }
   },
   "order": [
+    "ba3e7a25-353b-4e65-9fb2-c87d2557b96b",
     "main"
   ]
 }
