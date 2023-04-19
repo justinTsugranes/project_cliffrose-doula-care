@@ -6,7 +6,7 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0": {
           "type": "heading",
           "settings": {
-            "heading": "Birth Doula Services",
+            "heading": "Cliffrose Birth Package",
             "heading_size": "h1"
           }
         },
@@ -160,7 +160,7 @@
         "template--18771812843822__5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678-168164668958c25d7c-0": {
           "type": "heading",
           "settings": {
-            "heading": "Prenatal Care",
+            "heading": "3 Prenatal Visits",
             "heading_size": "h1"
           }
         },
@@ -183,8 +183,8 @@
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -197,7 +197,7 @@
         "template--18771812843822__04c19bbc-f531-4662-806b-fd33b8941ae1-168164668958c25d7c-0": {
           "type": "heading",
           "settings": {
-            "heading": "Labor Birth Doula",
+            "heading": "Support through Labor",
             "heading_size": "h1"
           }
         },
@@ -220,8 +220,8 @@
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -234,14 +234,14 @@
         "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-0": {
           "type": "heading",
           "settings": {
-            "heading": "Postpartum Doula Care",
+            "heading": "3 Postpartum Visits",
             "heading_size": "h1"
           }
         },
         "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Visits are arranged to meet you where you’re at and from the comfort of your home. I want to hear about how you’re adjusting to life with a baby, even if it’s tough stuff: your feelings, emotions and thoughts-good or bad. I will answer any questions you may have, visit with you, and provide resources and tips on infant feeding. I will also help you plan meals and give you a grocery list to make life a little easier. If possible, we can arrange contact-free drop off of what you need—support through community, a meal train, or good friends and family is vital in building your village.<\/p><p>I aim to provide support past the initial weeks with a newborn. Postpartum care is widely underrated and can be so helpful to new parents, those with toddlers or multiple children through simple acts of caring for the parent, while you care for your family.<\/p>",
+            "text": "<p>Within the first two weeks postpartum, we will schedule  visits to discuss the birth experience and any questions you may have. I never come empty-handed when visiting with you and your baby. <\/p><p>Visits are arranged to meet you where you’re at and from the comfort of your home. I want to hear about how you’re adjusting to life with a baby, even if it’s tough stuff: your feelings, emotions and thoughts-good or bad. I will answer any questions you may have, visit with you, and provide resources and tips on infant feeding.<\/p><p>I will also help you plan meals and give you a grocery list to make life a little easier. If possible, we can arrange contact-free drop off of what you need—support through community, a meal train, or good friends and family is vital in building your village.<\/p><p>I aim to provide support past the initial weeks with a newborn. Postpartum care is widely underrated and can be so helpful to new parents, those with toddlers or multiple children through simple acts of caring for the parent, while you care for your family.<\/p>",
             "text_style": "body"
           }
         }
@@ -257,93 +257,193 @@
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "b97580c6-4e13-4cdc-a23c-be8f666e7825": {
-      "type": "rich-text",
+    "e478ea4e-5b04-4094-a631-f0d7fc60d06e": {
+      "type": "image-with-text",
       "blocks": {
-        "template--18771812843822__b97580c6-4e13-4cdc-a23c-be8f666e7825-16816467068e451c0c-0": {
+        "template--18771812843822__e478ea4e-5b04-4094-a631-f0d7fc60d06e-1681899460dd00dcec-0": {
           "type": "heading",
           "settings": {
-            "heading": "Additional Support Options",
+            "heading": "1 Overnight Doula",
             "heading_size": "h1"
           }
         },
-        "template--18771812843822__b97580c6-4e13-4cdc-a23c-be8f666e7825-16816467068e451c0c-1": {
+        "template--18771812843822__e478ea4e-5b04-4094-a631-f0d7fc60d06e-1681899460dd00dcec-1": {
           "type": "text",
           "settings": {
-            "text": "<p>I offer 24\/7 scheduled support at the rate of $100\/hour for the following services<\/p>"
+            "text": "",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "template--18771812843822__b97580c6-4e13-4cdc-a23c-be8f666e7825-16816467068e451c0c-0",
-        "template--18771812843822__b97580c6-4e13-4cdc-a23c-be8f666e7825-16816467068e451c0c-1"
+        "template--18771812843822__e478ea4e-5b04-4094-a631-f0d7fc60d06e-1681899460dd00dcec-0",
+        "template--18771812843822__e478ea4e-5b04-4094-a631-f0d7fc60d06e-1681899460dd00dcec-1"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
-    "53939c54-4587-4c43-8dbf-17abebcf29a8": {
-      "type": "multicolumn",
+    "a6433e83-bc13-4dad-800c-5bc979886739": {
+      "type": "image-banner",
       "blocks": {
-        "template--18771812843822__53939c54-4587-4c43-8dbf-17abebcf29a8-1681646714e175b3bd-0": {
-          "type": "column",
+        "template--18771812843822__a6433e83-bc13-4dad-800c-5bc979886739-1681900060b10951c5-0": {
+          "type": "heading",
           "settings": {
-            "title": "Overnight Doula",
-            "text": "<p>The most shared fear among new parents are the sleepless nights. It’s true, new babies can be night owls, but with the extra support of an overnight doula it can be the best bonding experience with your new baby.<\/p><p>Call me, text or video chat for help and encouragement with nighttime bottle feedings, initial lactation education, questions about pumping and milk storage—anything to help you and your baby find your rhythm.<\/p>",
-            "link_label": "Contact",
-            "link": "shopify:\/\/pages\/contact"
+            "heading": "<strong>Meals<\/strong>",
+            "heading_size": "h1"
           }
         },
-        "template--18771812843822__53939c54-4587-4c43-8dbf-17abebcf29a8-1681646714e175b3bd-1": {
-          "type": "column",
+        "template--18771812843822__a6433e83-bc13-4dad-800c-5bc979886739-1681900060b10951c5-1": {
+          "type": "text",
           "settings": {
-            "title": "Adoption and Surrogacy",
-            "text": "<p>Are you building your family, but aren’t sure where to find the right resources? Deciding to adopt or have a surrogate carrier are both dig decisions. You deserve to walk into parenthood feeling empowered and ready.<\/p><p>We will have consultations to answer your questions and I can provide local resources such as milk donors, parent support groups, and suggest LGBTQIA+ providers. We can talk about your legal rights as parents. I provide birth support for surrogate carriers in addition to the intended parents.<\/p>",
-            "link_label": "Contact",
-            "link": "shopify:\/\/pages\/contact"
-          }
-        },
-        "template--18771812843822__53939c54-4587-4c43-8dbf-17abebcf29a8-1681646714e175b3bd-2": {
-          "type": "column",
-          "settings": {
-            "title": "Miscarriage & Bereavement",
-            "text": "<p>Going through such a difficult time, that is often suffered alone and in silence, I walk with and support your family through the loss of your baby.<\/p><p>If that loss is through miscarriage, stillbirth, or a diagnosis that means the baby will not live long after being delivered, with gentle encouragement, we say hello and goodbye to your little one, honor their life, and I remain available for grief counseling thereafter via phone and video calls, texts, and email.<\/p>",
-            "link_label": "Contact",
-            "link": "shopify:\/\/pages\/contact"
+            "text": "<strong>These meals are inspired by recipes from the amazing book <\/strong><em><strong>The First Forty Days: The Essential Art of Nourishing the New Mother <\/strong><\/em><strong>Amely Greeven, Heng Ou, and Marisa Belger. These women lay a foundation of recuperative eating to ensure bodily and mental healing for the birthing person that provides strength for the path of parenthood ahead.<\/strong>",
+            "text_style": "subtitle"
           }
         }
       },
       "block_order": [
-        "template--18771812843822__53939c54-4587-4c43-8dbf-17abebcf29a8-1681646714e175b3bd-0",
-        "template--18771812843822__53939c54-4587-4c43-8dbf-17abebcf29a8-1681646714e175b3bd-1",
-        "template--18771812843822__53939c54-4587-4c43-8dbf-17abebcf29a8-1681646714e175b3bd-2"
+        "template--18771812843822__a6433e83-bc13-4dad-800c-5bc979886739-1681900060b10951c5-0",
+        "template--18771812843822__a6433e83-bc13-4dad-800c-5bc979886739-1681900060b10951c5-1"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-19_at_6.29.04_AM.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "f1783c93-76a9-4687-a040-ac57b3f5fa02": {
+      "type": "image-with-text",
+      "blocks": {
+        "bc790f69-52c0-4e28-93a2-b979289d5f70": {
+          "type": "heading",
+          "settings": {
+            "heading": "For the Work - Light Labor Meal",
+            "heading_size": "h1"
+          }
+        },
+        "4c8c4e1f-b403-4be1-a195-f5fe0f05e348": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "bc790f69-52c0-4e28-93a2-b979289d5f70",
+        "4c8c4e1f-b403-4be1-a195-f5fe0f05e348"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-19_at_6.29.04_AM.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17671f09-fd83-4ccb-9413-89dfa1fd768c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18771812843822__17671f09-fd83-4ccb-9413-89dfa1fd768c-1681899460dd00dcec-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "First Week Postpartum Meals",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771812843822__17671f09-fd83-4ccb-9413-89dfa1fd768c-1681899460dd00dcec-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Soups<\/li><li>Classic Veggie, Chicken Noodle, Quinoa Lentil Greens, Squash & Red Lentils, Sausage Stew, C-Recovery Veggie, *Seaweed, *Fish Papaya & Peanut<\/li><li>Breakfast Congee and Porridge<\/li><li>Oats & Chia, Sweet Potato Banana Walnut, Sweet Black Sesame, Farina Cranberry, Barley Blueberry Date<\/li><li>Granola Bag<\/li><li>Broths<\/li><li>lactation enhancement<\/li><li>Soothing tea and steams<\/li><li>Lactation Cookies<\/li><\/ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771812843822__17671f09-fd83-4ccb-9413-89dfa1fd768c-1681899460dd00dcec-0",
+        "template--18771812843822__17671f09-fd83-4ccb-9413-89dfa1fd768c-1681899460dd00dcec-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-19_at_6.29.04_AM.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e3acfa3a-ac0f-49a0-845b-ccb9fb0df92a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18771812843822__e3acfa3a-ac0f-49a0-845b-ccb9fb0df92a-1681899460dd00dcec-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Freezer Stockpile",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771812843822__e3acfa3a-ac0f-49a0-845b-ccb9fb0df92a-1681899460dd00dcec-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Healthy + hearty freezer family meals<\/li><li>Easy to reheat<\/li><\/ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771812843822__e3acfa3a-ac0f-49a0-845b-ccb9fb0df92a-1681899460dd00dcec-0",
+        "template--18771812843822__e3acfa3a-ac0f-49a0-845b-ccb9fb0df92a-1681899460dd00dcec-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-19_at_6.29.04_AM.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -404,8 +504,11 @@
     "5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678",
     "04c19bbc-f531-4662-806b-fd33b8941ae1",
     "913e3a22-81da-4c48-960d-2acb1527f4d3",
-    "b97580c6-4e13-4cdc-a23c-be8f666e7825",
-    "53939c54-4587-4c43-8dbf-17abebcf29a8",
+    "e478ea4e-5b04-4094-a631-f0d7fc60d06e",
+    "a6433e83-bc13-4dad-800c-5bc979886739",
+    "f1783c93-76a9-4687-a040-ac57b3f5fa02",
+    "17671f09-fd83-4ccb-9413-89dfa1fd768c",
+    "e3acfa3a-ac0f-49a0-845b-ccb9fb0df92a",
     "ff5834c1-23cd-4261-b5dd-b0214318b68a"
   ]
 }
