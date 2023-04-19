@@ -50,6 +50,7 @@
     },
     "main": {
       "type": "main-product",
+      "disabled": true,
       "blocks": {
         "vendor": {
           "type": "text",
@@ -276,7 +277,7 @@
         "template--18771812843822__e478ea4e-5b04-4094-a631-f0d7fc60d06e-1681899460dd00dcec-1": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "<p>1 Overnight Doula session where I will stay with you and your newborn<\/p>",
             "text_style": "body"
           }
         }
@@ -422,7 +423,7 @@
         "template--18771812843822__e3acfa3a-ac0f-49a0-845b-ccb9fb0df92a-1681899460dd00dcec-1": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Healthy + hearty freezer family meals<\/li><li>Easy to reheat<\/li><\/ul>",
+            "text": "<ul><li>5 homemade, nourishing meals to help you recover and replenish during and after birth<\/li><li>Healthy + hearty freezer family meals<\/li><li>Easy to reheat<\/li><\/ul>",
             "text_style": "body"
           }
         }
@@ -459,7 +460,7 @@
         "template--18771812843822__fa767cb1-f77c-433e-b2dc-e2e598f5281f-16819006456f948467-1": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "A luxurious gift basket filled with our favorite postpartum goodies, a peri-bottle, date bites, a haaka, postpartum tea, and bone broth.",
             "text_style": "body"
           }
         }
@@ -524,7 +525,7 @@
         "template--18771812843822__799d8fe9-3440-433e-92cc-2b6c94777351-1681900675b1a999cf-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Haaka",
             "heading_size": "h1"
           }
         },
