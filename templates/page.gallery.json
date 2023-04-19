@@ -2,13 +2,119 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "33cd8630-6e5f-4ec5-b8dd-ce99d007f6cf": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18810388480302__33cd8630-6e5f-4ec5-b8dd-ce99d007f6cf-1681894929e04ab493-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "PHOTO GALLERIES",
+            "heading_size": "h1"
+          }
+        },
+        "template--18810388480302__33cd8630-6e5f-4ec5-b8dd-ce99d007f6cf-1681894929e04ab493-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Some services, amenities, and other elements showcased in photography are subject to change due to social distancing and other safety requirements.<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18810388480302__33cd8630-6e5f-4ec5-b8dd-ce99d007f6cf-1681894929e04ab493-0",
+        "template--18810388480302__33cd8630-6e5f-4ec5-b8dd-ce99d007f6cf-1681894929e04ab493-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1681895028011265aa": {
+      "type": "apps",
+      "blocks": {
+        "bab44352-7e99-48c0-badf-f16090911f78": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "bab44352-7e99-48c0-badf-f16090911f78"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "6c51463a-02c1-4e85-afe4-d862f7e7a3e4": {
+      "type": "slideshow",
+      "blocks": {
+        "template--18810388480302__6c51463a-02c1-4e85-afe4-d862f7e7a3e4-1681895011b9a86260-0": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--18810388480302__6c51463a-02c1-4e85-afe4-d862f7e7a3e4-1681895011b9a86260-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18810388480302__6c51463a-02c1-4e85-afe4-d862f7e7a3e4-1681895011b9a86260-0",
+        "template--18810388480302__6c51463a-02c1-4e85-afe4-d862f7e7a3e4-1681895011b9a86260-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "33cd8630-6e5f-4ec5-b8dd-ce99d007f6cf",
+    "1681895028011265aa",
+    "6c51463a-02c1-4e85-afe4-d862f7e7a3e4"
   ]
 }
