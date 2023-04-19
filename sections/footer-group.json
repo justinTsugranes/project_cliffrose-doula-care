@@ -45,25 +45,33 @@
             "show_social": false
           }
         },
+        "23242699-7e61-40bd-a5d8-149325b2c5c2": {
+          "type": "link_list",
+          "settings": {
+            "heading": "",
+            "menu": "main-menu"
+          }
+        },
+        "37e3237f-771f-4d17-a72e-2ebb19dba2d0": {
+          "type": "link_list",
+          "settings": {
+            "heading": "",
+            "menu": "footer"
+          }
+        },
         "08e0dfd3-7667-45d1-a0c7-b352228adfbb": {
           "type": "text",
           "settings": {
             "heading": "<strong>Birth Doula Services<\/strong>",
-            "subtext": "<h2>I work with clients in the Columbia, SC Metropolitan Area.<\/h2><p>Live somewhere else? I also offer <a href=\"\/collections\/virtual-doula-services\" title=\"Virtual Doula Services\">virtual support packages<\/a> and <a href=\"\/collections\/online-class\" title=\"Online Class\">online birth classes<\/a> for people everywhere.<\/p>"
-          }
-        },
-        "23242699-7e61-40bd-a5d8-149325b2c5c2": {
-          "type": "link_list",
-          "settings": {
-            "heading": "<strong>Site<\/strong>",
-            "menu": "main-menu"
+            "subtext": "<h2>We work with clients in the Columbia, SC Metropolitan Area.<\/h2><p>Live somewhere else? We also offer <a href=\"\/collections\/virtual-doula-services\" title=\"Virtual Doula Services\">virtual support packages<\/a> and <a href=\"\/products\/online-classes\" title=\"Online Class\">online birth classes<\/a> for people everywhere.<\/p>"
           }
         }
       },
       "block_order": [
         "2efa2e29-e726-44dd-bcdb-7e00ceb9731b",
-        "08e0dfd3-7667-45d1-a0c7-b352228adfbb",
-        "23242699-7e61-40bd-a5d8-149325b2c5c2"
+        "23242699-7e61-40bd-a5d8-149325b2c5c2",
+        "37e3237f-771f-4d17-a72e-2ebb19dba2d0",
+        "08e0dfd3-7667-45d1-a0c7-b352228adfbb"
       ],
       "settings": {
         "color_scheme": "background-1",
