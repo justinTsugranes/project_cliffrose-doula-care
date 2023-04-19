@@ -6,14 +6,14 @@
         "template--18810846511406__ba3e7a25-353b-4e65-9fb2-c87d2557b96b-16818980976fb5b99b-0": {
           "type": "heading",
           "settings": {
-            "heading": "Prenatal Care",
+            "heading": "Labor Support",
             "heading_size": "h1"
           }
         },
         "template--18810846511406__ba3e7a25-353b-4e65-9fb2-c87d2557b96b-16818980976fb5b99b-1": {
           "type": "text",
           "settings": {
-            "text": "The first 40 days after pregnancy are the hardest. We assist women during postpartum recovery.",
+            "text": "For the work.",
             "text_style": "body"
           }
         }
@@ -23,7 +23,7 @@
         "template--18810846511406__ba3e7a25-353b-4e65-9fb2-c87d2557b96b-16818980976fb5b99b-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
+        "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155363_1.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -67,7 +67,7 @@
         "template--18810846511406__0924b7c9-964a-4a5a-91a0-50f584ec996b-16818981958dea8d62-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
+        "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155363_1.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
