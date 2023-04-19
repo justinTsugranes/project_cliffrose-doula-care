@@ -1,6 +1,6 @@
 <!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}">
-  <head>{% render 'pagefly-head' %}
+  <head>{% capture sb %}{% render 'sb-snippet' %}{% endcapture %}{% unless sb contains 'Liquid error' %}{% render 'sb-snippet' %}{% endunless %}{% render 'pagefly-head' %}
 
     <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-X2XLLNY5J8"></script>
