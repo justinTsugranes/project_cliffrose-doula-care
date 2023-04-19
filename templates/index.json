@@ -48,6 +48,21 @@
         "show_text_below": false
       }
     },
+    "be8f5478-c3de-43e4-8225-4d101ab5a886": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b": {
       "type": "multicolumn",
       "disabled": true,
@@ -266,8 +281,36 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "d5391373-a0b1-4386-9b2a-97cb5163481f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 2,
+        "columns_desktop": 2,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-2",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "819b2017-cc8d-4fc1-9a3d-ae1572cb93ad": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--18729374646574__819b2017-cc8d-4fc1-9a3d-ae1572cb93ad-1681726004335b387b-0": {
           "type": "heading",
@@ -312,21 +355,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "be8f5478-c3de-43e4-8225-4d101ab5a886": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "f94009ae-aedb-43f1-a324-08cd7513ad10": {
@@ -763,12 +791,13 @@
   },
   "order": [
     "image_banner",
+    "be8f5478-c3de-43e4-8225-4d101ab5a886",
     "e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b",
     "3354c3e8-28ab-46d7-a5a0-ec1b4ce33489",
     "f87fab6b-f93b-41d7-9786-85a0a5ae0991",
     "f7bcc94c-c463-4794-9383-a34bd0437de3",
+    "d5391373-a0b1-4386-9b2a-97cb5163481f",
     "819b2017-cc8d-4fc1-9a3d-ae1572cb93ad",
-    "be8f5478-c3de-43e4-8225-4d101ab5a886",
     "f94009ae-aedb-43f1-a324-08cd7513ad10",
     "4ba36fc0-f01f-42c1-bb90-6cd795b8be37",
     "98723428-2fef-4802-963f-6b34e3b4a2ed",
