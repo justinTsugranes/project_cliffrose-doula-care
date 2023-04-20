@@ -1,12 +1,5 @@
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
-    },
     "5c5a797d-c2a2-4d4d-a0c2-d8d6b21cc617": {
       "type": "collapsible-content",
       "blocks": {
@@ -132,7 +125,7 @@
           "settings": {
             "heading": "How can I manage pain during labor without medication?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Managing pain during labor without medication is a personal choice that some women may prefer. Here are some non-medical pain management techniques that can be considered:<\/p><ol><li>Breathing techniques: Deep breathing, relaxation techniques, and focused breathing can help to manage pain and reduce stress during labor. Different breathing techniques, such as slow abdominal breathing or patterned breathing, can be used during different stages of labor.<\/li><li>Movement and positioning: Changing positions, walking, swaying, or using a birthing ball can help to relieve pain and promote labor progress. Finding positions that are comfortable and help to alleviate pressure on the lower back or pelvis can be beneficial.<\/li><li>Water immersion: Laboring in water, such as in a birthing tub or a pool, can provide buoyancy, relaxation, and pain relief.<\/li><li>Massage and counterpressure: Applying pressure or using massage techniques on specific areas of the body, such as the lower back, hips, or shoulders, can help to relieve pain during contractions.<\/li><li>Heat or cold therapy: Applying heat or cold packs to the lower back, abdomen, or other areas of discomfort can help to alleviate pain and provide comfort.<\/li><li>Relaxation techniques: Utilizing relaxation techniques such as visualization, guided imagery, or meditation can help to relax the body and mind, reducing pain and stress.<\/li><li>Acupuncture or acupressure: These alternative therapies involve the use of fine needles or pressure applied to specific points on the body to help manage pain.<\/li><li>Emotional support: Having a supportive birth partner, doula, or healthcare provider can provide emotional support, encouragement, and reassurance during labor, which can help with pain management.<\/li><li>TENS machine: Transcutaneous Electrical Nerve Stimulation (TENS) is a device that uses small electrical currents to stimulate nerves and provide pain relief during labor.<\/li><li>Hypnosis: Hypnotherapy techniques can help women to relax and manage pain during childbirth.<\/li><\/ol><p>It's important to discuss your preferences for pain management with your healthcare provider and birth support team during pregnancy and create a birth plan that aligns with your wishes. Remember that every labor experience is unique, and it's important to choose the pain management techniques that work best for you.<\/p>",
             "page": ""
           }
         },
@@ -141,7 +134,7 @@
           "settings": {
             "heading": "What are the pros and cons of using a birth center?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Pros of using a birth center:<\/p><ol><li>More natural and holistic approach: Birth centers typically offer a more natural and holistic approach to childbirth, with a focus on low-intervention and fewer medical interventions compared to a hospital setting. This can align with the preferences of those seeking a more natural and personalized birth experience.<\/li><li>Home-like environment: Birth centers are designed to provide a home-like environment, with comfortable and cozy settings that can help create a calming and familiar atmosphere for labor and birth.<\/li><li>Personalized care: Birth centers usually provide personalized care and one-on-one attention from midwives or other skilled birth attendants, which can foster a strong sense of trust and rapport between the birthing person and their care providers.<\/li><li>Family-centered care: Birth centers often prioritize family-centered care, allowing for family members and support persons to be actively involved in the birthing process and provide support to the birthing person.<\/li><li>Greater control and autonomy: Birthing people may have more control and autonomy over their birth experience in a birth center, with the ability to make informed decisions about their care and birth preferences.<\/li><\/ol><p>Cons of using a birth center:<\/p><ol><li>Limited access to medical interventions: Birth centers may have limited access to medical interventions such as pain medication, epidurals, or emergency medical care in case of complications, compared to a hospital setting.<\/li><li>Lack of immediate access to specialized care: In case of unexpected complications or emergencies during labor, birth centers may not have immediate access to specialized medical care or surgical facilities that a hospital can provide.<\/li><li>Insurance coverage and costs: Birth center births may not always be covered by insurance or may have limited insurance coverage, and out-of-pocket costs may need to be considered.<\/li><li>Distance and transportation: Birth centers may not be located in close proximity to some individuals, requiring additional travel time and transportation arrangements for labor and birth.<\/li><li>Risk assessment and eligibility: Birth centers typically have strict criteria for low-risk pregnancies and may not be suitable for those with high-risk pregnancies or certain medical conditions.<\/li><\/ol><p>It's important to carefully consider your own personal preferences, health status, and individual needs when deciding on the appropriate birthing location, whether it be a birth center, hospital, or another setting. Consulting with your healthcare provider, midwife, or doula can provide valuable guidance and support in making an informed decision.<\/p>",
             "page": ""
           }
         },
@@ -150,7 +143,7 @@
           "settings": {
             "heading": "What is a birth plan and how can I create one?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>A birth plan is a written document that outlines your preferences and desires for your childbirth experience. It serves as a communication tool between you, your support team, and your healthcare provider to ensure that your desires and expectations for your birth experience are understood and respected. Here are some steps on how to create a birth plan:<\/p><ol><li>Educate yourself: Learn about the different options and choices available to you during childbirth. Research different labor and birth interventions, pain management techniques, and other aspects of the birthing process. This will help you make informed decisions when creating your birth plan.<\/li><li>Reflect on your preferences: Think about your ideal birth experience and what matters most to you. Consider your preferences for pain management, labor positions, birth environment, presence of support persons, and any other aspects that are important to you. Reflect on your values, beliefs, and priorities related to childbirth.<\/li><li>Communicate with your healthcare provider: Discuss your preferences and desires with your healthcare provider, midwife, or doula. They can provide you with information, guidance, and support in creating a birth plan that aligns with your wishes and is safe for you and your baby.<\/li><li>Use a template or create your own: There are many online templates and resources available that can help you create a birth plan. Alternatively, you can create your own document that includes your preferences for various aspects of childbirth. Keep it concise, clear, and easy to understand.<\/li><li>Be flexible: Keep in mind that labor and birth can be unpredictable, and it's important to be flexible and open to changes as needed. Your birth plan should serve as a guide, not a rigid script, and be adaptable to the unique circumstances of your labor and birth.<\/li><li>Share your birth plan: Share your birth plan with your support team, including your healthcare provider, partner, doula, or other support persons. Make sure that everyone involved in your birth is aware of your preferences and desires.<\/li><li>Discuss your birth plan with your healthcare provider: Prior to labor, review and discuss your birth plan with your healthcare provider to ensure that it aligns with the policies and procedures of your birthing location, and to address any questions or concerns.<\/li><\/ol><p>Remember that a birth plan is not a guarantee that everything will go exactly as planned, but it can help facilitate communication, shared decision-making, and a positive birth experience. It's important to be informed, communicate openly with your healthcare provider, and advocate for your preferences while also being open to the unexpected nature of childbirth.<\/p>",
             "page": ""
           }
         },
@@ -159,7 +152,7 @@
           "settings": {
             "heading": "What are the stages of labor and what can I expect during each stage?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Labor typically consists of three main stages:<\/p><ol><li>Stage 1: Early Labor: During this stage, the cervix begins to dilate and efface (thin out). You may experience mild contractions that gradually become more regular and stronger. You may also experience other signs of labor, such as a bloody show, rupture of membranes (water breaking), and discomfort or lower back pain. Early labor can last for several hours or even days, and it is often a good time to rest, eat, and stay hydrated.<\/li><li>Stage 2: Active Labor: This is the stage when your cervix continues to dilate, and your contractions become more intense and closer together. You may also experience increased pressure in your pelvic area, and the urge to push. During active labor, you will likely be focused on coping with the increasing intensity of contractions and working with your body to push your baby down the birth canal. This stage can last several hours.<\/li><li>Stage 3: Transition: Transition is the final phase of labor before pushing and birth. During this stage, your cervix completes its dilation (usually 10 centimeters), and contractions may be very intense and close together. You may also experience symptoms such as shaking, nausea, and a feeling of restlessness. Transition can be challenging, but it is typically shorter compared to the earlier stages of labor.<\/li><\/ol><p>It's important to note that labor can progress differently for each person, and the duration and intensity of each stage can vary. It's also important to have a birth support team, such as a healthcare provider, doula, or partner, to provide you with comfort, encouragement, and guidance throughout the different stages of labor.<\/p><p>Once your baby is born, there is a fourth stage of labor known as the postpartum period, which involves the delivery of the placenta and the initial recovery period for both you and your baby. Your healthcare provider will provide care and support during this stage as well.<\/p>",
             "page": ""
           }
         },
@@ -168,7 +161,7 @@
           "settings": {
             "heading": "How long does childbirth typically last?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>The duration of childbirth can vary widely from person to person and can depend on various factors such as the individual's labor progression, the position of the baby, the type of birth (vaginal or cesarean), and other factors. On average, for first-time mothers, labor and childbirth can last from 12 to 24 hours or longer. However, for subsequent pregnancies, labor may progress more quickly, typically lasting around 6 to 12 hours.<\/p><p>It's important to note that labor is a unique experience for each person, and the duration can vary greatly. It's essential to have a birth support team, including a healthcare provider, doula, or partner, who can provide guidance and support throughout the labor process and help manage expectations. It's also important to have a flexible mindset and be prepared for labor to unfold in its own time. Your healthcare provider will monitor your progress and provide appropriate care during labor to ensure the safety and well-being of both you and your baby.<\/p>",
             "page": ""
           }
         },
@@ -177,7 +170,7 @@
           "settings": {
             "heading": "What are the risks and benefits of a cesarean section (C-section)?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>A cesarean section (C-section) is a surgical procedure in which a baby is delivered through an incision made in the abdomen and uterus. Like any medical procedure, C-sections have both risks and benefits.<\/p><p>Risks of C-section:<\/p><ol><li>Surgical risks: As with any surgery, C-section carries risks such as infection, bleeding, and reactions to anesthesia.<\/li><li>Longer recovery time: Recovery from a C-section typically takes longer compared to a vaginal birth, and may involve discomfort, pain, and limited mobility during the healing process.<\/li><li>Increased risk of complications in future pregnancies: C-sections may increase the risk of certain complications in subsequent pregnancies, such as placenta previa, placenta accreta, and uterine rupture.<\/li><li>Impact on breastfeeding: C-sections can sometimes affect the initiation and establishment of breastfeeding, as the baby may be separated from the mother for longer periods and the recovery process may impact breastfeeding positions and comfort.<\/li><\/ol><p>Benefits of C-section:<\/p><ol><li>Planned delivery: C-sections can be planned in advance for various medical reasons, such as breech presentation, placental issues, or previous C-sections, allowing for better management and preparation.<\/li><li>Emergency intervention: C-sections can be life-saving in cases of labor complications or emergencies, protecting the health and safety of the mother and baby.<\/li><li>Reduced risk of birth trauma: C-sections may reduce the risk of birth trauma, such as perineal tears or damage during vaginal delivery.<\/li><li>Control over timing: C-sections allow for greater control over the timing of birth, which can be important in certain situations, such as high-risk pregnancies or medical conditions that require precise timing for delivery.<\/li><\/ol><p>It's important to remember that the decision to have a C-section is typically made on a case-by-case basis, considering various factors such as the mother's and baby's health, medical indications, and individual preferences. It's essential to discuss the risks and benefits of a C-section thoroughly with your healthcare provider to make an informed decision based on your specific situation.<\/p>",
             "page": ""
           }
         },
@@ -186,7 +179,7 @@
           "settings": {
             "heading": "How can I recover from childbirth and care for my newborn at home?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Recovering from childbirth and caring for a newborn at home can be an exciting but challenging time. Here are some general tips for postpartum recovery and newborn care:<\/p><p>Postpartum Recovery:<\/p><ol><li>Rest and prioritize self-care: It's important to prioritize rest and self-care during the postpartum period. Listen to your body, get plenty of rest, and don't hesitate to ask for help from your partner, family, or friends.<\/li><li>Manage pain and discomfort: You may experience pain and discomfort after childbirth, including soreness, swelling, and perineal discomfort. Follow your healthcare provider's instructions for pain management, use ice packs or warm compresses, and practice good hygiene to promote healing.<\/li><li>Eat a healthy diet: Eating a well-balanced, nutritious diet can help support your recovery and breastfeeding efforts. Stay hydrated, eat foods rich in iron, protein, and fiber, and avoid foods that may cause discomfort or affect breastfeeding.<\/li><li>Take care of your mental health: Postpartum emotions and hormonal changes can impact your mental health. Seek support from loved ones, talk to your healthcare provider if you're experiencing symptoms of postpartum depression or anxiety, and practice self-care activities that help you relax and de-stress.<\/li><\/ol><p>Newborn Care:<\/p><ol><li>Feeding: If you're breastfeeding, establish a breastfeeding routine and seek support from a lactation consultant if needed. If you're bottle-feeding, follow safe formula preparation and feeding practices. Feed your newborn on demand, and watch for hunger cues.<\/li><li>Diapering: Change your newborn's diapers frequently and practice proper diapering techniques. Keep the diaper area clean and dry to prevent diaper rash.<\/li><li>Sleep: Newborns sleep a lot but may not sleep for long stretches. Follow safe sleep practices, such as placing your newborn on their back to sleep, creating a safe sleep environment, and establishing a consistent bedtime routine.<\/li><li>Bonding and soothing: Spend time bonding with your newborn through skin-to-skin contact, cuddling, and talking. Learn your baby's cues for hunger, sleep, and comfort, and respond to their needs accordingly.<\/li><li>Hygiene and safety: Practice good hygiene by washing your hands before handling your newborn, and keep the baby's environment clean and safe. Follow safe sleep, bathing, and car seat guidelines, and be vigilant about baby-proofing your home as your newborn grows.<\/li><\/ol>",
             "page": ""
           }
         }
@@ -227,10 +220,18 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
     }
   },
   "order": [
-    "main",
-    "5c5a797d-c2a2-4d4d-a0c2-d8d6b21cc617"
+    "5c5a797d-c2a2-4d4d-a0c2-d8d6b21cc617",
+    "main"
   ]
 }
