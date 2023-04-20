@@ -487,7 +487,6 @@
     },
     "fa767cb1-f77c-433e-b2dc-e2e598f5281f": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--18771812843822__fa767cb1-f77c-433e-b2dc-e2e598f5281f-16819006456f948467-0": {
           "type": "heading",
@@ -524,19 +523,18 @@
     },
     "56d25483-aade-4985-81b4-235dc93f0bba": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18771812843822__56d25483-aade-4985-81b4-235dc93f0bba-1681900675b1a999cf-0": {
           "type": "heading",
           "settings": {
-            "heading": "Peribottle",
+            "heading": "Postpartum Goodies",
             "heading_size": "h1"
           }
         },
         "template--18771812843822__56d25483-aade-4985-81b4-235dc93f0bba-1681900675b1a999cf-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>As part of our comprehensive doula package, you will receive a luxurious gift basket filled with our favorite postpartum goodies. This special gift is designed to support your postpartum recovery and includes:<\/p><ul><li>Peri-bottle: An essential tool for gentle and effective postpartum care.<\/li><li>Date bites: A delicious and nutritious snack to help boost your energy and support lactation.<\/li><li>Haaka: A silicone breast pump that can help collect and store breast milk while nursing or pumping from the other side.<\/li><li>Postpartum tea: A soothing blend of herbs to support your body's healing process after birth.<\/li><li>Bone broth: A nourishing beverage that is rich in vitamins and minerals, known for its healing properties.<\/li><\/ul><p>These birth goodies are carefully curated to provide you with comfort, nourishment, and support during your postpartum journey. It's our way of showing you that we care about your well-being and want to help make your postpartum experience as smooth and enjoyable as possible.<\/p>",
             "text_style": "body"
           }
         }
@@ -546,6 +544,7 @@
         "template--18771812843822__56d25483-aade-4985-81b4-235dc93f0bba-1681900675b1a999cf-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-19_at_6.40.07_AM.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -555,6 +554,45 @@
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "88d3f224-7065-4fc5-91aa-2433eb6f41b9": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "template--18771812843822__88d3f224-7065-4fc5-91aa-2433eb6f41b9-16819876324cb0420e-0": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "template--18771812843822__88d3f224-7065-4fc5-91aa-2433eb6f41b9-16819876324cb0420e-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "template--18771812843822__88d3f224-7065-4fc5-91aa-2433eb6f41b9-16819876324cb0420e-2": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18771812843822__88d3f224-7065-4fc5-91aa-2433eb6f41b9-16819876324cb0420e-0",
+        "template--18771812843822__88d3f224-7065-4fc5-91aa-2433eb6f41b9-16819876324cb0420e-1",
+        "template--18771812843822__88d3f224-7065-4fc5-91aa-2433eb6f41b9-16819876324cb0420e-2"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -660,6 +698,7 @@
     "e3acfa3a-ac0f-49a0-845b-ccb9fb0df92a",
     "fa767cb1-f77c-433e-b2dc-e2e598f5281f",
     "56d25483-aade-4985-81b4-235dc93f0bba",
+    "88d3f224-7065-4fc5-91aa-2433eb6f41b9",
     "799d8fe9-3440-433e-92cc-2b6c94777351",
     "ff5834c1-23cd-4261-b5dd-b0214318b68a"
   ]
