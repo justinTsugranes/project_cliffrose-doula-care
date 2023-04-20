@@ -13,7 +13,7 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1": {
           "type": "text",
           "settings": {
-            "text": "As a full spectrum doula, I work with all reproductive journeys: conception, adoption, surrogacy, pregnancy, labor, and birth. I am there in the postpartum and can help you through a termination process. <strong>I support people through every outcome.<\/strong>",
+            "text": "As full spectrum doulas, We work with all reproductive journeys: conception, adoption, surrogacy, pregnancy, labor, and birth. We are there in the postpartum and can help you through a termination process. We<strong> support people through every outcome.<\/strong>",
             "text_style": "body"
           }
         },
@@ -37,7 +37,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/cliffrose_birth_doula_services.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -166,7 +166,7 @@
         "template--18771812843822__5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678-168164668958c25d7c-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Our package includes three prenatal visits where we will plan and discuss important topics before your estimated due date.<\/h2><p>During these visits, we'll<\/p><ul><li>build our connection<\/li><li>discuss your birth preferences<\/li><li>create a Birth Plan<\/li><li>practice relaxation techniques in our Labor Prep class<\/li><li>talk about comfort measures and labor positions<\/li><li>provide tips on laboring at home<\/li><\/ul><p>These visits are designed to help you get ready for your baby, address any questions or concerns you may have, and ensure you feel prepared and confident for your upcoming birth experience.<\/p><p><strong>Wondering what we'll cover? Check out our <\/strong><a href=\"#\" title=\"#\"><strong>Planning Checklist<\/strong><\/a><strong> filled with topics we can explore together.<\/strong><\/p>",
+            "text": "<h2>Our package includes three prenatal visits where we will plan and discuss important topics before your estimated due date.<\/h2><p>During these visits, we'll<\/p><ul><li>Build our connection<\/li><li>Discuss your birth preferences<\/li><li>Create a Birth Plan<\/li><li>Practice relaxation techniques in our Labor Prep class<\/li><li>Talk about comfort measures and labor positions<\/li><li>Provide tips on laboring at home<\/li><\/ul><p>These visits are designed to help you get ready for your baby, address any questions or concerns you may have, and ensure you feel prepared and confident for your upcoming birth experience.<\/p><p><strong>Wondering what we'll cover? Check out our <\/strong><a href=\"#\" title=\"#\"><strong>Planning Checklist<\/strong><\/a><strong> filled with topics we can explore together.<\/strong><\/p>",
             "text_style": "body"
           }
         }
