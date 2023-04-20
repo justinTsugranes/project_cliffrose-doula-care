@@ -232,54 +232,6 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "4985556a-771e-446c-a4e8-a8e05560114f": {
-      "type": "image-banner",
-      "blocks": {
-        "template--18772762755374__4985556a-771e-446c-a4e8-a8e05560114f-1681854470be1c11d0-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Bump to Table: A Trimester-by-Trimester Meal Planning Guide for Pregnancy",
-            "heading_size": "h1"
-          }
-        },
-        "template--18772762755374__4985556a-771e-446c-a4e8-a8e05560114f-1681854470be1c11d0-1": {
-          "type": "text",
-          "settings": {
-            "text": "Click below to receive a FREE copy of our eBook",
-            "text_style": "body"
-          }
-        },
-        "template--18772762755374__4985556a-771e-446c-a4e8-a8e05560114f-1681854470be1c11d0-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Unlock the eBook",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18772762755374__4985556a-771e-446c-a4e8-a8e05560114f-1681854470be1c11d0-0",
-        "template--18772762755374__4985556a-771e-446c-a4e8-a8e05560114f-1681854470be1c11d0-1",
-        "template--18772762755374__4985556a-771e-446c-a4e8-a8e05560114f-1681854470be1c11d0-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/wicker-basket-with-ultrasound-images-and-stuff-for-2022-10-18-00-36-11-utc.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-right",
-        "show_text_box": true,
-        "desktop_content_alignment": "right",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
@@ -288,7 +240,6 @@
     "ea73d1b1-f1b2-483a-a4cb-98db231b56bc",
     "fe99535a-d629-4dfd-a87a-76997026802d",
     "df1f36a9-3e2d-454c-913e-e97596f041f6",
-    "related-products",
-    "4985556a-771e-446c-a4e8-a8e05560114f"
+    "related-products"
   ]
 }
