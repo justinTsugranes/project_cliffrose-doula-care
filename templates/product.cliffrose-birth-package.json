@@ -190,6 +190,43 @@
         "padding_bottom": 36
       }
     },
+    "c133156c-ab40-47c2-847b-4a56b50bf17a": {
+      "type": "image-with-text",
+      "blocks": {
+        "969a4179-d67c-476e-956c-0ee75dca4759": {
+          "type": "heading",
+          "settings": {
+            "heading": "On-Call Support",
+            "heading_size": "h1"
+          }
+        },
+        "e8115073-cfbf-41ea-b880-f700772502dd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>24\/7 on-call availability beginning at 38 weeks gestation through your pregnancy, birth, and postpartum period.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "969a4179-d67c-476e-956c-0ee75dca4759",
+        "e8115073-cfbf-41ea-b880-f700772502dd"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wicker-basket-with-ultrasound-images-and-stuff-for-2022-10-18-00-36-11-utc.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "04c19bbc-f531-4662-806b-fd33b8941ae1": {
       "type": "image-with-text",
       "blocks": {
@@ -214,43 +251,6 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155363_1.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "913e3a22-81da-4c48-960d-2acb1527f4d3": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "3 Postpartum Visits",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Within the first two weeks postpartum, we will schedule  visits to discuss the birth experience and any questions you may have. I never come empty-handed when visiting with you and your baby. <\/p><p>Visits are arranged to meet you where you’re at and from the comfort of your home. I want to hear about how you’re adjusting to life with a baby, even if it’s tough stuff: your feelings, emotions and thoughts-good or bad. I will answer any questions you may have, visit with you, and provide resources and tips on infant feeding.<\/p><p>I will also help you plan meals and give you a grocery list to make life a little easier. If possible, we can arrange contact-free drop off of what you need—support through community, a meal train, or good friends and family is vital in building your village.<\/p><p>I aim to provide support past the initial weeks with a newborn. Postpartum care is widely underrated and can be so helpful to new parents, those with toddlers or multiple children through simple acts of caring for the parent, while you care for your family.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-0",
-        "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -291,6 +291,43 @@
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "913e3a22-81da-4c48-960d-2acb1527f4d3": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "3 Postpartum Visits",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Within the first two weeks postpartum, we will schedule  visits to discuss the birth experience and any questions you may have. I never come empty-handed when visiting with you and your baby. <\/p><p>Visits are arranged to meet you where you’re at and from the comfort of your home. I want to hear about how you’re adjusting to life with a baby, even if it’s tough stuff: your feelings, emotions and thoughts-good or bad. I will answer any questions you may have, visit with you, and provide resources and tips on infant feeding.<\/p><p>I will also help you plan meals and give you a grocery list to make life a little easier. If possible, we can arrange contact-free drop off of what you need—support through community, a meal train, or good friends and family is vital in building your village.<\/p><p>I aim to provide support past the initial weeks with a newborn. Postpartum care is widely underrated and can be so helpful to new parents, those with toddlers or multiple children through simple acts of caring for the parent, while you care for your family.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-0",
+        "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -363,7 +400,7 @@
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-19_at_6.29.04_AM.jpg",
         "height": "medium",
         "desktop_image_width": "small",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -400,7 +437,7 @@
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-19_at_6.29.04_AM.jpg",
         "height": "medium",
         "desktop_image_width": "small",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -437,7 +474,7 @@
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-19_at_6.29.04_AM.jpg",
         "height": "medium",
         "desktop_image_width": "small",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -450,6 +487,7 @@
     },
     "fa767cb1-f77c-433e-b2dc-e2e598f5281f": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--18771812843822__fa767cb1-f77c-433e-b2dc-e2e598f5281f-16819006456f948467-0": {
           "type": "heading",
@@ -486,6 +524,7 @@
     },
     "56d25483-aade-4985-81b4-235dc93f0bba": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18771812843822__56d25483-aade-4985-81b4-235dc93f0bba-1681900675b1a999cf-0": {
           "type": "heading",
@@ -522,6 +561,7 @@
     },
     "799d8fe9-3440-433e-92cc-2b6c94777351": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18771812843822__799d8fe9-3440-433e-92cc-2b6c94777351-1681900675b1a999cf-0": {
           "type": "heading",
@@ -610,9 +650,10 @@
     "main",
     "related-products",
     "5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678",
+    "c133156c-ab40-47c2-847b-4a56b50bf17a",
     "04c19bbc-f531-4662-806b-fd33b8941ae1",
-    "913e3a22-81da-4c48-960d-2acb1527f4d3",
     "e478ea4e-5b04-4094-a631-f0d7fc60d06e",
+    "913e3a22-81da-4c48-960d-2acb1527f4d3",
     "a6433e83-bc13-4dad-800c-5bc979886739",
     "f1783c93-76a9-4687-a040-ac57b3f5fa02",
     "17671f09-fd83-4ccb-9413-89dfa1fd768c",
