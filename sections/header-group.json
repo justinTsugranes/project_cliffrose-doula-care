@@ -7,9 +7,8 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "We support families through pregnancy, childbirth, and postpartum. Book a FREE Consultation",
+            "text": "Book a FREE Consultation",
             "text_alignment": "center",
             "color_scheme": "background-1",
             "link": "shopify:\/\/products\/intro-birth-consultation"
