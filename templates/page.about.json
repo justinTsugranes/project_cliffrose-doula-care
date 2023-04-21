@@ -227,37 +227,113 @@
         "padding_bottom": 36
       }
     },
-    "228b2e63-398e-47b0-a2cf-a38707d8164f": {
-      "type": "image-with-text",
+    "feb38532-f9e7-40f7-97fe-a264865fc92a": {
+      "type": "rich-text",
+      "disabled": true,
       "blocks": {
-        "template--18764259295534__228b2e63-398e-47b0-a2cf-a38707d8164f-1681850119d200700b-0": {
+        "template--18764259295534__feb38532-f9e7-40f7-97fe-a264865fc92a-1682074975fd0ef229-0": {
           "type": "heading",
           "settings": {
-            "heading": "Nourishing Birthing Bodies",
+            "heading": "Our Team",
             "heading_size": "h1"
           }
         },
-        "template--18764259295534__228b2e63-398e-47b0-a2cf-a38707d8164f-1681850119d200700b-1": {
+        "template--18764259295534__feb38532-f9e7-40f7-97fe-a264865fc92a-1682074975fd0ef229-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Cliffrose offers a full-spectrum, inclusive, client-centered model of care. We are here for every pregnancy outcome and every birthing body. Period.<\/p><p>The initial time after you come home with baby is an adjustment. For the first week postpartum, we provide meals based on simple ingredients proven to nourish and revitalize. This takes the stress out of cooking for yourself, and you can know you’re eating well while you recover and settle into life with your new baby.<\/p><p>This meal program is based on recipes from the amazing book The First Forty Days: The Essential Art of Nourishing the New Mother Amely Greeven, Heng Ou, and Marisa Belger. These women lay a foundation of recuperative eating to ensure bodily and mental healing for the new mother that provides strength for the path of motherhood ahead.<\/p>",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18764259295534__feb38532-f9e7-40f7-97fe-a264865fc92a-1682074975fd0ef229-0",
+        "template--18764259295534__feb38532-f9e7-40f7-97fe-a264865fc92a-1682074975fd0ef229-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "8b1fb95f-8004-41d2-acf9-1080760e0fba": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--18764259295534__8b1fb95f-8004-41d2-acf9-1080760e0fba-16820748854460de33-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Brittany Nance, Certified Doula, Founder",
+            "heading_size": "h1"
+          }
+        },
+        "template--18764259295534__8b1fb95f-8004-41d2-acf9-1080760e0fba-16820748854460de33-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18764259295534__8b1fb95f-8004-41d2-acf9-1080760e0fba-16820748854460de33-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18764259295534__8b1fb95f-8004-41d2-acf9-1080760e0fba-16820748854460de33-0",
+        "template--18764259295534__8b1fb95f-8004-41d2-acf9-1080760e0fba-16820748854460de33-1",
+        "template--18764259295534__8b1fb95f-8004-41d2-acf9-1080760e0fba-16820748854460de33-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ce416113-a8f7-45e4-b4d2-fe8e9d0ff4b4": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--18764259295534__ce416113-a8f7-45e4-b4d2-fe8e9d0ff4b4-16820748854460de33-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--18764259295534__ce416113-a8f7-45e4-b4d2-fe8e9d0ff4b4-16820748854460de33-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
-        "template--18764259295534__228b2e63-398e-47b0-a2cf-a38707d8164f-1681850119d200700b-0",
-        "template--18764259295534__228b2e63-398e-47b0-a2cf-a38707d8164f-1681850119d200700b-1"
+        "template--18764259295534__ce416113-a8f7-45e4-b4d2-fe8e9d0ff4b4-16820748854460de33-0",
+        "template--18764259295534__ce416113-a8f7-45e4-b4d2-fe8e9d0ff4b4-16820748854460de33-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_1.02.22_PM.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "image_first",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -367,7 +443,9 @@
     "6ddadc23-415d-40e0-9d75-46f266ddffdd",
     "56eb3eb1-f6e9-487e-bddf-a78534b71bf1",
     "8a66e9f1-fb99-4b67-bcf9-8123b2ec9078",
-    "228b2e63-398e-47b0-a2cf-a38707d8164f",
+    "feb38532-f9e7-40f7-97fe-a264865fc92a",
+    "8b1fb95f-8004-41d2-acf9-1080760e0fba",
+    "ce416113-a8f7-45e4-b4d2-fe8e9d0ff4b4",
     "e4efc10d-20ca-44bc-96c3-570e4ae5f889",
     "45ab04d8-e32d-409c-a4ab-075f82299483",
     "4f85eeae-85d9-4cca-bdf5-6f0685338f88"
