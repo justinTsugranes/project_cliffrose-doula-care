@@ -1,5 +1,52 @@
 {
   "sections": {
+    "0ae07fe3-5d76-4102-a19a-f405b622aede": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18771872317742__0ae07fe3-5d76-4102-a19a-f405b622aede-1682075422d57e59e0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Frequently Asked Questions",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771872317742__0ae07fe3-5d76-4102-a19a-f405b622aede-1682075422d57e59e0-1": {
+          "type": "text",
+          "settings": {
+            "text": "Here and many of the questions that we receive the most often about birth, pregnancy, doula services, and entering motherhood. <strong>If you can't find the answer to your question, please reach out to us.<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "template--18771872317742__0ae07fe3-5d76-4102-a19a-f405b622aede-1682075422d57e59e0-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Contact Us",
+            "button_link_1": "shopify:\/\/pages\/contact",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18771872317742__0ae07fe3-5d76-4102-a19a-f405b622aede-1682075422d57e59e0-0",
+        "template--18771872317742__0ae07fe3-5d76-4102-a19a-f405b622aede-1682075422d57e59e0-1",
+        "template--18771872317742__0ae07fe3-5d76-4102-a19a-f405b622aede-1682075422d57e59e0-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "5c5a797d-c2a2-4d4d-a0c2-d8d6b21cc617": {
       "type": "collapsible-content",
       "blocks": {
@@ -231,6 +278,7 @@
     }
   },
   "order": [
+    "0ae07fe3-5d76-4102-a19a-f405b622aede",
     "5c5a797d-c2a2-4d4d-a0c2-d8d6b21cc617",
     "main"
   ]
