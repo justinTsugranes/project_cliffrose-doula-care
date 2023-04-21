@@ -21,7 +21,7 @@
         "template--18836504150318__7a565b05-e7ad-438d-a821-c61f073d5cdc-16821171352fef8d32-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "In order to streamline your experience with us, you can find all relevant forms, contracts, and documents on this page. If there is something that you require that is not  located on this page, don't hesitate to reach out to our support team so they can get you the necessary resources.",
             "text_style": "body"
           }
         }
@@ -31,6 +31,7 @@
         "template--18836504150318__7a565b05-e7ad-438d-a821-c61f073d5cdc-16821171352fef8d32-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-21_at_7.28.43_PM.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -46,13 +47,6 @@
     "379a9adc-5795-4994-90d5-474d9764e2fb": {
       "type": "rich-text",
       "blocks": {
-        "template--18836504150318__379a9adc-5795-4994-90d5-474d9764e2fb-16821135714c01c41b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
         "template--18836504150318__379a9adc-5795-4994-90d5-474d9764e2fb-16821135714c01c41b-1": {
           "type": "text",
           "settings": {
@@ -61,7 +55,6 @@
         }
       },
       "block_order": [
-        "template--18836504150318__379a9adc-5795-4994-90d5-474d9764e2fb-16821135714c01c41b-0",
         "template--18836504150318__379a9adc-5795-4994-90d5-474d9764e2fb-16821135714c01c41b-1"
       ],
       "settings": {
