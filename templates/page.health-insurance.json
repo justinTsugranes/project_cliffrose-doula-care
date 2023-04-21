@@ -6,14 +6,14 @@
         "template--18771424510254__35098a8d-30ec-4ce6-a389-d361d2d7cb3a-16816419410bb0e374-0": {
           "type": "heading",
           "settings": {
-            "heading": "A Community of Resources to Help You Grow",
+            "heading": "Health Insurance, FSA \/ HSA",
             "heading_size": "h1"
           }
         },
         "template--18771424510254__35098a8d-30ec-4ce6-a389-d361d2d7cb3a-16816419410bb0e374-1": {
           "type": "text",
           "settings": {
-            "text": "These providers mainly serve the Greater Los Angeles area, but many offer virtual support and take on nationwide clients",
+            "text": "Discover the Path to Affordable and Accessible Doula Care: Leveraging IRS-Approved HSA\/FSA Payments for Personalized Prenatal Education, Intervention Reduction, and More!",
             "text_style": "body"
           }
         }
@@ -38,14 +38,46 @@
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
+      }
+    },
+    "eca781ea-ebf8-4a4d-beb2-c9f5e5e0c94b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18836529807662__eca781ea-ebf8-4a4d-beb2-c9f5e5e0c94b-16821135714c01c41b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "How to Utilize HSA\/FSA Funds for Pregnancy Support",
+            "heading_size": "h1"
+          }
+        },
+        "template--18836529807662__eca781ea-ebf8-4a4d-beb2-c9f5e5e0c94b-16821135714c01c41b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Did you know that utilizing funds from your Health Savings Account (HSA) or Flexible Spending Account (FSA) is a viable method to cover the expenses of a birth doula? Although there are no insurance companies that explicitly provide coverage for birth doula services, it is within the realm of possibility to allocate HSA or FSA funds for this purpose.<\/p><p>As per the regulations laid out by the Internal Revenue Service (IRS), this is permissible when your physician attests that such care is medically necessary for the treatment of a specific medical condition, in this case, pregnancy.<\/p><p>If you seek reimbursement from your HSA or FSA, here are the essential steps you need to follow:<\/p><ol><li>Settle the doula fee in its entirety and obtain a detailed invoice that outlines the services rendered along with the associated costs.<\/li><li>Complete a Letter of Medical Necessity form, which can be procured from your insurance provider or a generic one can be used.<\/li><li>Secure the signature of your medical provider, be it your obstetrician (OB) or midwife, on the form, affirming the medical condition of pregnancy.<\/li><li>Submit the invoice and Letter of Medical Necessity form to your HSA\/FSA, usually through online means.<\/li><\/ol><p>Embracing this option can effectively make doula care more economically viable and accessible. However, in the event that this option is not available to you, it is advisable to have an open conversation with your doula about the possibility of establishing a payment plan that can help to ease the financial burden. Nonetheless, it is important to bear in mind that the numerous benefits of doula care, including personalized prenatal education, reduction in medical interventions, diminished reliance on pain medication, and decreased likelihood of cesarean sections, often culminate in a more cost-effective birthing experience overall.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18836529807662__eca781ea-ebf8-4a4d-beb2-c9f5e5e0c94b-16821135714c01c41b-0",
+        "template--18836529807662__eca781ea-ebf8-4a4d-beb2-c9f5e5e0c94b-16821135714c01c41b-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "35098a8d-30ec-4ce6-a389-d361d2d7cb3a",
-    "main"
+    "main",
+    "eca781ea-ebf8-4a4d-beb2-c9f5e5e0c94b"
   ]
 }
