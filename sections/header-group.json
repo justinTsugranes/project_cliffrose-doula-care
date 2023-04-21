@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Book a FREE Consultation",
+            "text": "SPECIAL OFFER | FREE 15-MINUTE CONSULTATION WITH A DOULA. DETAILS",
             "text_alignment": "center",
             "color_scheme": "background-1",
             "link": "shopify:\/\/products\/intro-birth-consultation"
