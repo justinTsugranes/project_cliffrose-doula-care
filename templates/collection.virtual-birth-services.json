@@ -97,6 +97,13 @@
           "settings": {
           }
         },
+        "4790a6e9-9b91-42a8-af89-07d284a0c04d": {
+          "type": "text",
+          "settings": {
+            "text": "Consultations are 1-Hour Long and held on Zoom. Book a time below and then check your e-mail for a welcome letter from us as well as the Zoom meeting information.",
+            "text_style": "body"
+          }
+        },
         "5bdbbea2-5d32-4b06-85f0-3decaf90982c": {
           "type": "custom_liquid",
           "disabled": true,
@@ -135,6 +142,7 @@
         "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-0",
         "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-1",
         "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-2",
+        "4790a6e9-9b91-42a8-af89-07d284a0c04d",
         "5bdbbea2-5d32-4b06-85f0-3decaf90982c",
         "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-3",
         "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-4",
