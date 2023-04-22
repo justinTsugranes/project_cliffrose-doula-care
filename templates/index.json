@@ -1,53 +1,5 @@
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Full-spectrum, evidence-based <strong>Doula Services<\/strong>",
-            "heading_size": "h0"
-          }
-        },
-        "07dd7590-ee35-49ea-bd9c-a52a162137e4": {
-          "type": "text",
-          "settings": {
-            "text": "We offer doula services that support families through pregnancy, childbirth, and postpartum.",
-            "text_style": "subtitle"
-          }
-        },
-        "fc31c9fe-7fd3-4f3b-a73c-e884f3e0dcb1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "View Birth Services",
-            "button_link_1": "shopify:\/\/products\/ultimate-cliffrose-birth-package",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "07dd7590-ee35-49ea-bd9c-a52a162137e4",
-        "fc31c9fe-7fd3-4f3b-a73c-e884f3e0dcb1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.46.09_PM.jpg",
-        "image_overlay_opacity": 30,
-        "image_height": "large",
-        "desktop_content_position": "top-right",
-        "show_text_box": false,
-        "desktop_content_alignment": "right",
-        "color_scheme": "accent-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
     "be8f5478-c3de-43e4-8225-4d101ab5a886": {
       "type": "video",
       "disabled": true,
@@ -117,6 +69,54 @@
         "padding_bottom": 36
       }
     },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Full-spectrum, evidence-based <strong>Doula Services<\/strong>",
+            "heading_size": "h0"
+          }
+        },
+        "07dd7590-ee35-49ea-bd9c-a52a162137e4": {
+          "type": "text",
+          "settings": {
+            "text": "We offer doula services that support families through pregnancy, childbirth, and postpartum.",
+            "text_style": "subtitle"
+          }
+        },
+        "fc31c9fe-7fd3-4f3b-a73c-e884f3e0dcb1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "View Birth Services",
+            "button_link_1": "shopify:\/\/products\/ultimate-cliffrose-birth-package",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "07dd7590-ee35-49ea-bd9c-a52a162137e4",
+        "fc31c9fe-7fd3-4f3b-a73c-e884f3e0dcb1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.46.09_PM.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "large",
+        "desktop_content_position": "top-right",
+        "show_text_box": false,
+        "desktop_content_alignment": "right",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
     "3354c3e8-28ab-46d7-a5a0-ec1b4ce33489": {
       "type": "image-with-text",
       "blocks": {
@@ -154,37 +154,34 @@
         "padding_bottom": 36
       }
     },
-    "f87fab6b-f93b-41d7-9786-85a0a5ae0991": {
-      "type": "multicolumn",
+    "0b4a08e4-0497-4171-9fa2-36d0911dfe19": {
+      "type": "rich-text",
       "blocks": {
-        "0debba11-5bbb-4029-85bb-148ac63dddb9": {
-          "type": "column",
+        "template--18729374646574__0b4a08e4-0497-4171-9fa2-36d0911dfe19-1682183746b8a72aa5-0": {
+          "type": "heading",
           "settings": {
-            "title": "",
-            "text": "<h2>We already know that having someone there for you, cheering you on, believing in your choices feels really, <em>really good<\/em>—but here’s some science to back it up…<\/h2><p><\/p><ul><li>Doulas are a form of pain relief—requests for pain medication goes down <strong>10%<\/strong> with a doula present<\/li><li>Doulas boost self-confidence—<strong>15%<\/strong> increase in spontaneous birth and shorter labor by <strong>45<\/strong>minutes on average<\/li><li>Doulas encourage advocacy + increase safety—<strong>34%<\/strong> fewer negative experiences<\/li><\/ul>",
-            "link_label": "",
-            "link": "shopify:\/\/products\/hourly-virtual-consultations"
+            "heading": "Benefits of Doula Care",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374646574__0b4a08e4-0497-4171-9fa2-36d0911dfe19-1682183746b8a72aa5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>We already know that having someone there for you, cheering you on, believing in your choices feels really, <em>really good<\/em>—but here’s some science to back it up…<\/h2><h2><\/h2><ul><li>Doulas are a form of pain relief—requests for pain medication goes down <strong>10%<\/strong> with a doula present<\/li><li>Doulas boost self-confidence—<strong>15%<\/strong> increase in spontaneous birth and shorter labor by <strong>45<\/strong>minutes on average<\/li><li>Doulas encourage advocacy + increase safety—<strong>34%<\/strong> fewer negative experiences<\/li><\/ul>"
           }
         }
       },
       "block_order": [
-        "0debba11-5bbb-4029-85bb-148ac63dddb9"
+        "template--18729374646574__0b4a08e4-0497-4171-9fa2-36d0911dfe19-1682183746b8a72aa5-0",
+        "template--18729374646574__0b4a08e4-0497-4171-9fa2-36d0911dfe19-1682183746b8a72aa5-1"
       ],
       "settings": {
-        "title": "Benefits of Doula Care",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 1,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "f7bcc94c-c463-4794-9383-a34bd0437de3": {
@@ -360,7 +357,6 @@
     },
     "f94009ae-aedb-43f1-a324-08cd7513ad10": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--18607813067054__f94009ae-aedb-43f1-a324-08cd7513ad10-1681036615f1e077d2-1": {
           "type": "column",
@@ -811,11 +807,11 @@
     }
   },
   "order": [
-    "image_banner",
     "be8f5478-c3de-43e4-8225-4d101ab5a886",
     "e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b",
+    "image_banner",
     "3354c3e8-28ab-46d7-a5a0-ec1b4ce33489",
-    "f87fab6b-f93b-41d7-9786-85a0a5ae0991",
+    "0b4a08e4-0497-4171-9fa2-36d0911dfe19",
     "f7bcc94c-c463-4794-9383-a34bd0437de3",
     "d5391373-a0b1-4386-9b2a-97cb5163481f",
     "819b2017-cc8d-4fc1-9a3d-ae1572cb93ad",
