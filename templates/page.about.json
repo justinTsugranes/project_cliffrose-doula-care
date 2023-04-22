@@ -258,20 +258,58 @@
         "padding_bottom": 36
       }
     },
+    "0acb8abe-1e65-4938-aeaf-28117c9fc2d5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Team",
+            "heading_size": "h1"
+          }
+        },
+        "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-0",
+        "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "9106bc4f-f557-48f1-906b-16e18a1b0f83": {
       "type": "image-with-text",
       "blocks": {
         "282bbc67-bb2f-4dd8-909f-a73b2f856b08": {
           "type": "heading",
           "settings": {
-            "heading": "Hi! I'm Brittany",
+            "heading": "Brittany Nance",
             "heading_size": "h1"
+          }
+        },
+        "88a9c708-3204-45f1-824f-0d903701dea4": {
+          "type": "caption",
+          "settings": {
+            "caption": "Certified Doula, Founder Cliffrose Doula Care",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
           }
         },
         "dceda8a8-0705-497e-9708-1d6fd9ad0114": {
           "type": "text",
           "settings": {
-            "text": "<p>As a full spectrum doula, I work with all reproductive journeys: conception, adoption, surrogacy, pregnancy, labor, and birth. I am there in the postpartum and can help you through a termination process. <strong>I support people through every outcome.<\/strong><\/p><p><strong>Whether this is your first baby or you’re growing your family, you are not alone.<\/strong><\/p><p>Make informed decisions about <strong>your birth, your body, and your baby<\/strong>.<\/p><h2><span style=\"text-decoration:underline\">Trainings, Mentorships + Certifications<\/span><\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul><p><em>*Please note that I am not a medical professional and always advise you to check with your primary care provider before making any decisions.<\/em><\/p>",
+            "text": "<h2><span style=\"text-decoration:underline\">Trainings, Mentorships + Certifications<\/span><\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul>",
             "text_style": "body"
           }
         },
@@ -286,6 +324,7 @@
       },
       "block_order": [
         "282bbc67-bb2f-4dd8-909f-a73b2f856b08",
+        "88a9c708-3204-45f1-824f-0d903701dea4",
         "dceda8a8-0705-497e-9708-1d6fd9ad0114",
         "97ad5ee3-b3c5-4ff3-b39e-dca93a4bfdd2"
       ],
@@ -362,6 +401,7 @@
     "6ddadc23-415d-40e0-9d75-46f266ddffdd",
     "56eb3eb1-f6e9-487e-bddf-a78534b71bf1",
     "8a66e9f1-fb99-4b67-bcf9-8123b2ec9078",
+    "0acb8abe-1e65-4938-aeaf-28117c9fc2d5",
     "9106bc4f-f557-48f1-906b-16e18a1b0f83",
     "4f85eeae-85d9-4cca-bdf5-6f0685338f88"
   ]
