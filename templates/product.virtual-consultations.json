@@ -35,7 +35,7 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/birth_doula.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.44.58_PM.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -46,36 +46,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "e477a957-5799-4844-ad6b-cf9609776859": {
-      "type": "rich-text",
-      "blocks": {
-        "template--18771681968430__e477a957-5799-4844-ad6b-cf9609776859-16817246966bb54754-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "We schedule virtual consultations that typically cover the following topics:",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771681968430__e477a957-5799-4844-ad6b-cf9609776859-16817246966bb54754-1": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li>Comfort Measures (environmental, relaxation techniques, affirmations)<\/li><li>Birth Ball Use<\/li><li>Labor Positions<\/li><li>How to Labor at Home<\/li><li>How to Advocate for Yourself & Hospital Policies<\/li><li>Immediate Newborn Care<\/li><li>Miscarriage & Bereavement Support<\/li><li>Adoption<\/li><li>Surrogacy<\/li><\/ul><p>Consultations are 1-Hour Long and held on Zoom. Book a time below and then check your e-mail for a welcome letter from us as well as the Zoom meeting information.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771681968430__e477a957-5799-4844-ad6b-cf9609776859-16817246966bb54754-0",
-        "template--18771681968430__e477a957-5799-4844-ad6b-cf9609776859-16817246966bb54754-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "main": {
@@ -165,6 +135,36 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 12
+      }
+    },
+    "e477a957-5799-4844-ad6b-cf9609776859": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18771681968430__e477a957-5799-4844-ad6b-cf9609776859-16817246966bb54754-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "We schedule virtual consultations that typically cover the following topics:",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771681968430__e477a957-5799-4844-ad6b-cf9609776859-16817246966bb54754-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Comfort Measures (environmental, relaxation techniques, affirmations)<\/li><li>Birth Ball Use<\/li><li>Labor Positions<\/li><li>How to Labor at Home<\/li><li>How to Advocate for Yourself & Hospital Policies<\/li><li>Immediate Newborn Care<\/li><li>Miscarriage & Bereavement Support<\/li><li>Adoption<\/li><li>Surrogacy<\/li><\/ul><p>Consultations are 1-Hour Long and held on Zoom. Book a time below and then check your e-mail for a welcome letter from us as well as the Zoom meeting information.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771681968430__e477a957-5799-4844-ad6b-cf9609776859-16817246966bb54754-0",
+        "template--18771681968430__e477a957-5799-4844-ad6b-cf9609776859-16817246966bb54754-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "df1f36a9-3e2d-454c-913e-e97596f041f6": {
@@ -305,8 +305,8 @@
   },
   "order": [
     "8294d813-b228-49e7-a8df-6a350c776c15",
-    "e477a957-5799-4844-ad6b-cf9609776859",
     "main",
+    "e477a957-5799-4844-ad6b-cf9609776859",
     "df1f36a9-3e2d-454c-913e-e97596f041f6",
     "8eda6711-a56c-42d7-af5e-bde21af1253c",
     "related-products"
