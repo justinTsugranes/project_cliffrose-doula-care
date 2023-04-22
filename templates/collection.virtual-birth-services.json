@@ -99,6 +99,7 @@
         },
         "5bdbbea2-5d32-4b06-85f0-3decaf90982c": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<!-- Calendly link widget begin -->\n<link href=\"https:\/\/assets.calendly.com\/assets\/external\/widget.css\" rel=\"stylesheet\">\n<script src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" type=\"text\/javascript\" async><\/script>\n<a href=\"\" onclick=\"Calendly.initPopupWidget({url: 'https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation?hide_gdpr_banner=1&primary_color=007a5c'});return false;\">Check our availability<\/a>\n<!-- Calendly link widget end -->"
           }
@@ -125,7 +126,6 @@
         },
         "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-6": {
           "type": "share",
-          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
