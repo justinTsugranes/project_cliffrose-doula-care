@@ -9,6 +9,25 @@
         "color_scheme": "background-1"
       }
     },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 8,
+        "columns_desktop": 2,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": false,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "c09d92e5-2a87-408a-8087-801589bc779e": {
       "type": "image-banner",
       "blocks": {
@@ -78,6 +97,12 @@
           "settings": {
           }
         },
+        "5bdbbea2-5d32-4b06-85f0-3decaf90982c": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!-- Calendly link widget begin -->\n<link href=\"https:\/\/assets.calendly.com\/assets\/external\/widget.css\" rel=\"stylesheet\">\n<script src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" type=\"text\/javascript\" async><\/script>\n<a href=\"\" onclick=\"Calendly.initPopupWidget({url: 'https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation?hide_gdpr_banner=1&primary_color=007a5c'});return false;\">Check our availability<\/a>\n<!-- Calendly link widget end -->"
+          }
+        },
         "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-3": {
           "type": "variant_picker",
           "disabled": true,
@@ -100,6 +125,7 @@
         },
         "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-6": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
@@ -109,6 +135,7 @@
         "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-0",
         "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-1",
         "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-2",
+        "5bdbbea2-5d32-4b06-85f0-3decaf90982c",
         "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-3",
         "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-4",
         "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-5",
@@ -145,11 +172,19 @@
             "text": "<ul><li>Comfort Measures (environmental, relaxation techniques, affirmations)<\/li><li>Birth Ball Use<\/li><li>Labor Positions<\/li><li>How to Labor at Home<\/li><li>How to Advocate for Yourself & Hospital Policies<\/li><li>Immediate Newborn Care<\/li><li>Miscarriage & Bereavement Support<\/li><li>Adoption<\/li><li>Surrogacy<\/li><\/ul><p>Consultations are 1-Hour Long and held on Zoom. Book a time below and then check your e-mail for a welcome letter from us as well as the Zoom meeting information.<\/p>",
             "text_style": "body"
           }
+        },
+        "971aa45b-c33c-4db1-9ac8-da71981da6c0": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-0",
-        "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-1"
+        "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-1",
+        "971aa45b-c33c-4db1-9ac8-da71981da6c0"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.49.36_PM.jpg",
@@ -166,31 +201,22 @@
         "padding_bottom": 36
       }
     },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "disabled": true,
+    "2b8ccce0-25a9-4593-b37f-ca900e8c582f": {
+      "type": "custom-liquid",
       "settings": {
-        "products_per_page": 8,
-        "columns_desktop": 2,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "enable_filtering": false,
-        "filter_type": "horizontal",
-        "enable_sorting": false,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "banner",
+    "product-grid",
     "c09d92e5-2a87-408a-8087-801589bc779e",
     "0e4f03f0-8a40-48f2-8122-1b89a83865c0",
     "e8f888b7-2ae1-4533-85a6-58cd7107120d",
-    "product-grid"
+    "2b8ccce0-25a9-4593-b37f-ca900e8c582f"
   ]
 }
