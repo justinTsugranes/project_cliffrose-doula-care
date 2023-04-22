@@ -631,120 +631,6 @@
         "padding_bottom": 36
       }
     },
-    "e3627101-2af6-4839-81be-86c0336d0b08": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "47cd508a-117d-411a-ba00-1574bb765f38": {
-          "type": "heading",
-          "settings": {
-            "heading": "Prenatal Care",
-            "heading_size": "h1"
-          }
-        },
-        "2405ea20-b8c4-417f-ba01-77734b1f987d": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Together, we'll discuss your birth preferences, create a Birth Plan, practice relaxation techniques in a Labor Prep class, and cover comfort measures and labor positions.<\/p><p>We'll also provide tips for laboring at home, answer your questions, and ease concerns in just a few visits, so you feel fully prepared for your baby's arrival. Trust in comprehensive prenatal care tailored to your needs.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "47cd508a-117d-411a-ba00-1574bb765f38",
-        "2405ea20-b8c4-417f-ba01-77734b1f987d"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/wicker-basket-with-ultrasound-images-and-stuff-for-2022-10-18-00-36-11-utc.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "98723428-2fef-4802-963f-6b34e3b4a2ed": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18729374646574__98723428-2fef-4802-963f-6b34e3b4a2ed-1681723923abde2125-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Labor Birth Doula",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374646574__98723428-2fef-4802-963f-6b34e3b4a2ed-1681723923abde2125-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>No matter where you choose to give birth - at home, a birthing center, or a hospital - We will be there to provide unwavering support throughout your labor.<\/p><p>Starting at 37 weeks, We are on call 24\/7 and will be readily available via phone, video call, and text to provide guidance, comfort, and information as you labor at home or at your chosen delivery location.<\/p><p>Trust in your doulas continuous presence to offer reassurance and assistance during this transformative experience.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374646574__98723428-2fef-4802-963f-6b34e3b4a2ed-1681723923abde2125-0",
-        "template--18729374646574__98723428-2fef-4802-963f-6b34e3b4a2ed-1681723923abde2125-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155363_1_02a6b68b-7382-4e64-9ebc-99d5e80c0b60.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "e5730fb0-5305-4d4e-b932-507734407aa4": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18729374646574__e5730fb0-5305-4d4e-b932-507734407aa4-1681723923abde2125-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Postpartum Doula Care",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374646574__e5730fb0-5305-4d4e-b932-507734407aa4-1681723923abde2125-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Your doula is here to <strong>support you<\/strong> during the postpartum period, meeting you where you're at and from the comfort of your own home. Your doula is here to<strong> listen to you<\/strong>, whether it's about the challenges or joys of adjusting to life with a newborn - your feelings, emotions, and thoughts, good or bad.<\/p><p>Our goal is to provide ongoing support beyond the initial weeks with a newborn. Postpartum care is often overlooked but can be immensely beneficial for new parents, those with toddlers, or multiple children. We are here to <strong>care for you<\/strong>, while you care for your family, through simple acts of nurturing and support. You don't have to go through this alone - Your doula is here to <strong>help you thrive<\/strong> during this precious time.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374646574__e5730fb0-5305-4d4e-b932-507734407aa4-1681723923abde2125-0",
-        "template--18729374646574__e5730fb0-5305-4d4e-b932-507734407aa4-1681723923abde2125-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "7f7b405e-4b55-46eb-8ddf-944b659c9cdc": {
       "type": "rich-text",
       "blocks": {
@@ -783,8 +669,8 @@
           "settings": {
             "title": "<strong>Overnight Doula<\/strong>",
             "text": "<p>The most common fear among new parents is the sleepless nights that come with caring for a newborn. It's true, babies can be night owls, but with the extra support of an overnight doula, it can actually become a bonding experience with your new baby.<\/p><p>Call, text, or video chat with us for help and encouragement with nighttime bottle feedings, initial lactation education, questions about pumping and milk storage, or anything else that can help you and your baby find your rhythm<\/p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Learn more",
+            "link": "#"
           }
         },
         "template--18729374646574__16d6166f-b8f2-4798-b440-146bf209e8e9-1681724802bc779fff-1": {
@@ -1057,9 +943,6 @@
     "b8b23962-3b38-4e13-af46-c59ed11c3c62",
     "0d8c309a-2944-40a7-9bd1-380e5b87ec30",
     "539c9767-5c1f-472b-af3a-9dd61b203980",
-    "e3627101-2af6-4839-81be-86c0336d0b08",
-    "98723428-2fef-4802-963f-6b34e3b4a2ed",
-    "e5730fb0-5305-4d4e-b932-507734407aa4",
     "7f7b405e-4b55-46eb-8ddf-944b659c9cdc",
     "16d6166f-b8f2-4798-b440-146bf209e8e9",
     "e2f106d1-48fc-41fa-84b7-81afc0b61081",
