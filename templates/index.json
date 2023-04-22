@@ -892,7 +892,7 @@
     "4e35bf0a-f013-4f06-a0c2-097d84cfc81a": {
       "type": "featured-blog",
       "settings": {
-        "heading": "Doula Care, Advocacy, Parenting, and Resources for Modern Moms",
+        "heading": "Advocacy, Parenting, and Resources for Modern Moms",
         "heading_size": "h1",
         "blog": "natural-remedies-for-common-pregnancy-symptoms",
         "post_limit": 4,
@@ -901,7 +901,7 @@
         "show_image": true,
         "show_date": false,
         "show_author": false,
-        "show_view_all": false,
+        "show_view_all": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
