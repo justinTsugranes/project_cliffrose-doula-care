@@ -48,6 +48,48 @@
         "padding_bottom": 36
       }
     },
+    "c543ea2d-fd87-4d36-9944-fee99a178056": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18729374122286__c543ea2d-fd87-4d36-9944-fee99a178056-16821699988e95d1e4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Looking for more resources?",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374122286__c543ea2d-fd87-4d36-9944-fee99a178056-16821699988e95d1e4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Visit our Resources Page for information on Childbirth Education, Newborn Care Specialists, LGBTQIA+ Providers, Abortion Clinics, Midwives,  Adoption Support, and much more!<\/p>"
+          }
+        },
+        "template--18729374122286__c543ea2d-fd87-4d36-9944-fee99a178056-16821699988e95d1e4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "View Birth Resources",
+            "button_link": "shopify:\/\/pages\/resources",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374122286__c543ea2d-fd87-4d36-9944-fee99a178056-16821699988e95d1e4-0",
+        "template--18729374122286__c543ea2d-fd87-4d36-9944-fee99a178056-16821699988e95d1e4-1",
+        "template--18729374122286__c543ea2d-fd87-4d36-9944-fee99a178056-16821699988e95d1e4-2"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1682125671cd1c44a9": {
       "type": "apps",
       "blocks": {
@@ -71,6 +113,7 @@
   "order": [
     "1806f662-3397-432a-bb32-fdd9e8e49c78",
     "main",
+    "c543ea2d-fd87-4d36-9944-fee99a178056",
     "1682125671cd1c44a9"
   ]
 }
