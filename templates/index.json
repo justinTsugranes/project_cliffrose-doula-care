@@ -69,6 +69,100 @@
         "padding_bottom": 36
       }
     },
+    "819b2017-cc8d-4fc1-9a3d-ae1572cb93ad": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--18729374646574__819b2017-cc8d-4fc1-9a3d-ae1572cb93ad-1681726004335b387b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Confidence for a Joyful Pregnancy and Birth<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374646574__819b2017-cc8d-4fc1-9a3d-ae1572cb93ad-1681726004335b387b-1": {
+          "type": "text",
+          "settings": {
+            "text": "Learn how to trust your body, connect with your baby, and make informed decisions that align with your values and preferences. <strong>Don't let fear hold you back from the beautiful reality of a fulfilling birth and parenthood journey.<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "939aa66d-cb78-4f96-ad47-c0b41a7988ae": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Schedule a Consultation",
+            "button_link_1": "shopify:\/\/products\/intro-birth-consultation",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374646574__819b2017-cc8d-4fc1-9a3d-ae1572cb93ad-1681726004335b387b-0",
+        "template--18729374646574__819b2017-cc8d-4fc1-9a3d-ae1572cb93ad-1681726004335b387b-1",
+        "939aa66d-cb78-4f96-ad47-c0b41a7988ae"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cliffrose_birth_doula_services.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "f94009ae-aedb-43f1-a324-08cd7513ad10": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--18607813067054__f94009ae-aedb-43f1-a324-08cd7513ad10-1681036615f1e077d2-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pregnant-woman-in-dress-with-ultrasound-image-exp-2022-10-18-00-37-10-utc.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18607813067054__f94009ae-aedb-43f1-a324-08cd7513ad10-1681036615f1e077d2-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h2><strong>With knowledge comes power, and that's where Cliffrose Doula Care comes in.<\/strong><\/h2><p>Our comprehensive education and support will equip you with the tools and understanding you need to approach pregnancy, birth, and parenthood with confidence and empowerment. Learn how to trust your body, connect with your baby, and make informed decisions that align with your values and preferences.<\/p><p><strong>Don't let fear hold you back from the beautiful reality of a fulfilling birth and parenthood journey.<\/strong><\/p>",
+            "link_label": "Book a consultation",
+            "link": "shopify:\/\/products\/hourly-virtual-consultations"
+          }
+        }
+      },
+      "block_order": [
+        "template--18607813067054__f94009ae-aedb-43f1-a324-08cd7513ad10-1681036615f1e077d2-2",
+        "template--18607813067054__f94009ae-aedb-43f1-a324-08cd7513ad10-1681036615f1e077d2-1"
+      ],
+      "settings": {
+        "title": "<strong>Confidence for a Joyful Pregnancy and Birth<\/strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -140,7 +234,7 @@
         "template--18729374646574__3354c3e8-28ab-46d7-a5a0-ec1b4ce33489-1681723923abde2125-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.48.46_PM.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-21_at_9.31.47_PM.jpg",
         "height": "large",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -182,6 +276,33 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "d5391373-a0b1-4386-9b2a-97cb5163481f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all-products",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-2",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "f7bcc94c-c463-4794-9383-a34bd0437de3": {
@@ -232,7 +353,7 @@
             "heading_size": "h1",
             "subheading": "The hard work",
             "button_label": "Learn More",
-            "link": "shopify:\/\/pages\/prenatal-care",
+            "link": "shopify:\/\/pages\/labor-doula",
             "button_style_secondary": false,
             "box_align": "middle-left",
             "show_text_box": false,
@@ -276,127 +397,6 @@
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
-      }
-    },
-    "d5391373-a0b1-4386-9b2a-97cb5163481f": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all-products",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-2",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "819b2017-cc8d-4fc1-9a3d-ae1572cb93ad": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--18729374646574__819b2017-cc8d-4fc1-9a3d-ae1572cb93ad-1681726004335b387b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Confidence for a Joyful Pregnancy and Birth<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374646574__819b2017-cc8d-4fc1-9a3d-ae1572cb93ad-1681726004335b387b-1": {
-          "type": "text",
-          "settings": {
-            "text": "Learn how to trust your body, connect with your baby, and make informed decisions that align with your values and preferences. <strong>Don't let fear hold you back from the beautiful reality of a fulfilling birth and parenthood journey.<\/strong>",
-            "text_style": "body"
-          }
-        },
-        "939aa66d-cb78-4f96-ad47-c0b41a7988ae": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Schedule a Consultation",
-            "button_link_1": "shopify:\/\/products\/intro-birth-consultation",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374646574__819b2017-cc8d-4fc1-9a3d-ae1572cb93ad-1681726004335b387b-0",
-        "template--18729374646574__819b2017-cc8d-4fc1-9a3d-ae1572cb93ad-1681726004335b387b-1",
-        "939aa66d-cb78-4f96-ad47-c0b41a7988ae"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/cliffrose_birth_doula_services.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "f94009ae-aedb-43f1-a324-08cd7513ad10": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--18607813067054__f94009ae-aedb-43f1-a324-08cd7513ad10-1681036615f1e077d2-1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h2><strong>With knowledge comes power, and that's where Cliffrose Doula Care comes in.<\/strong><\/h2><p>Our comprehensive education and support will equip you with the tools and understanding you need to approach pregnancy, birth, and parenthood with confidence and empowerment. Learn how to trust your body, connect with your baby, and make informed decisions that align with your values and preferences.<\/p><p><strong>Don't let fear hold you back from the beautiful reality of a fulfilling birth and parenthood journey.<\/strong><\/p>",
-            "link_label": "Book a consultation",
-            "link": "shopify:\/\/products\/hourly-virtual-consultations"
-          }
-        },
-        "template--18607813067054__f94009ae-aedb-43f1-a324-08cd7513ad10-1681036615f1e077d2-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/pregnant-woman-in-dress-with-ultrasound-image-exp-2022-10-18-00-37-10-utc.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18607813067054__f94009ae-aedb-43f1-a324-08cd7513ad10-1681036615f1e077d2-1",
-        "template--18607813067054__f94009ae-aedb-43f1-a324-08cd7513ad10-1681036615f1e077d2-2"
-      ],
-      "settings": {
-        "title": "<strong>Confidence for a Joyful Pregnancy and Birth<\/strong>",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "4ba36fc0-f01f-42c1-bb90-6cd795b8be37": {
@@ -595,7 +595,6 @@
     },
     "e2f106d1-48fc-41fa-84b7-81afc0b61081": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18607813067054__e2f106d1-48fc-41fa-84b7-81afc0b61081-1681039374fd627c32-0": {
           "type": "heading",
@@ -809,13 +808,13 @@
   "order": [
     "be8f5478-c3de-43e4-8225-4d101ab5a886",
     "e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b",
+    "819b2017-cc8d-4fc1-9a3d-ae1572cb93ad",
+    "f94009ae-aedb-43f1-a324-08cd7513ad10",
     "image_banner",
     "3354c3e8-28ab-46d7-a5a0-ec1b4ce33489",
     "0b4a08e4-0497-4171-9fa2-36d0911dfe19",
-    "f7bcc94c-c463-4794-9383-a34bd0437de3",
     "d5391373-a0b1-4386-9b2a-97cb5163481f",
-    "819b2017-cc8d-4fc1-9a3d-ae1572cb93ad",
-    "f94009ae-aedb-43f1-a324-08cd7513ad10",
+    "f7bcc94c-c463-4794-9383-a34bd0437de3",
     "4ba36fc0-f01f-42c1-bb90-6cd795b8be37",
     "98723428-2fef-4802-963f-6b34e3b4a2ed",
     "e5730fb0-5305-4d4e-b932-507734407aa4",
