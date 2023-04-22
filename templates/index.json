@@ -1,74 +1,5 @@
 {
   "sections": {
-    "be8f5478-c3de-43e4-8225-4d101ab5a886": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "template--18729374646574__e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b-1681637332aa110372-0": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Testimonial<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18729374646574__e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b-1681637332aa110372-1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Testimonial<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18729374646574__e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b-1681637332aa110372-2": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Testimonial<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374646574__e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b-1681637332aa110372-0",
-        "template--18729374646574__e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b-1681637332aa110372-1",
-        "template--18729374646574__e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b-1681637332aa110372-2"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "819b2017-cc8d-4fc1-9a3d-ae1572cb93ad": {
       "type": "image-banner",
       "disabled": true,
@@ -163,6 +94,34 @@
         "padding_bottom": 36
       }
     },
+    "d5391373-a0b1-4386-9b2a-97cb5163481f": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all-products",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-2",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -199,7 +158,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.46.09_PM.jpg",
-        "image_overlay_opacity": 30,
+        "image_overlay_opacity": 20,
         "image_height": "large",
         "desktop_content_position": "top-right",
         "show_text_box": false,
@@ -209,6 +168,60 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
+      }
+    },
+    "e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--18729374646574__e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b-1681637332aa110372-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Testimonial<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18729374646574__e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b-1681637332aa110372-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Testimonial<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18729374646574__e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b-1681637332aa110372-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Testimonial<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374646574__e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b-1681637332aa110372-0",
+        "template--18729374646574__e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b-1681637332aa110372-1",
+        "template--18729374646574__e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b-1681637332aa110372-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "3354c3e8-28ab-46d7-a5a0-ec1b4ce33489": {
@@ -234,7 +247,7 @@
         "template--18729374646574__3354c3e8-28ab-46d7-a5a0-ec1b4ce33489-1681723923abde2125-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-21_at_9.31.47_PM.jpg",
+        "image": "shopify:\/\/shop_images\/pregnant-woman-s-belly-closeup-hands-hugging-bell-2022-10-11-19-51-50-utc.jpg",
         "height": "large",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -272,35 +285,23 @@
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
       }
     },
-    "d5391373-a0b1-4386-9b2a-97cb5163481f": {
-      "type": "featured-collection",
+    "be8f5478-c3de-43e4-8225-4d101ab5a886": {
+      "type": "video",
+      "disabled": true,
       "settings": {
-        "title": "",
+        "heading": "",
         "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all-products",
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "outline",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-2",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "full_width": false,
+        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -340,7 +341,7 @@
             "box_align": "middle-left",
             "show_text_box": false,
             "text_alignment": "left",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 20,
             "color_scheme": "accent-2",
             "text_alignment_mobile": "center"
           }
@@ -358,7 +359,7 @@
             "box_align": "middle-left",
             "show_text_box": false,
             "text_alignment": "left",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 20,
             "color_scheme": "accent-2",
             "text_alignment_mobile": "center"
           }
@@ -376,7 +377,7 @@
             "box_align": "middle-left",
             "show_text_box": false,
             "text_alignment": "left",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 20,
             "color_scheme": "accent-2",
             "text_alignment_mobile": "center"
           }
@@ -397,6 +398,51 @@
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "df818c1b-af78-407b-9edf-d3bc3ab979f8": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18729374646574__df818c1b-af78-407b-9edf-d3bc3ab979f8-1682184832658d0e18-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>The Cliffrose Birth Package<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374646574__df818c1b-af78-407b-9edf-d3bc3ab979f8-1682184832658d0e18-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As full spectrum doulas, we are dedicated to providing exceptional care and support throughout your entire reproductive journey. From conception to adoption, surrogacy, termination, pregnancy, labor, birth, and postpartum, we are there to support you through every outcome.. Our birth doula service is designed to offer you comprehensive care and guidance during this transformative experience, and we are committed to helping you feel confident, empowered, and prepared for your upcoming birth and parenthood.<\/p><h2>Our Cliffrose Birth Doula Package includes the following services:<\/h2><ul><li>Prenatal Visits -  3 visits for 3 hours each<\/li><li>Labor Support - continuous support during labor<\/li><li>1 Overnight Doula (8 hours) for 3 nights<\/li><li>Postpartum Visits - 3 visits for 3 hours each<\/li><li>Meals - Light Labor Meals, Healing Postpartum Meals, Freezer Stockpile<\/li><li>24\/7 On Call Support beginning at 38 weeks<\/li><li>Virtual Consultations as necessary<\/li><\/ul><p><strong>Total Package Price: $3,000.00<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18729374646574__df818c1b-af78-407b-9edf-d3bc3ab979f8-1682184832658d0e18-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn More",
+            "button_link": "shopify:\/\/products\/ultimate-cliffrose-birth-package"
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374646574__df818c1b-af78-407b-9edf-d3bc3ab979f8-1682184832658d0e18-0",
+        "template--18729374646574__df818c1b-af78-407b-9edf-d3bc3ab979f8-1682184832658d0e18-1",
+        "template--18729374646574__df818c1b-af78-407b-9edf-d3bc3ab979f8-1682184832658d0e18-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.48.46_PM.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "4ba36fc0-f01f-42c1-bb90-6cd795b8be37": {
@@ -806,15 +852,16 @@
     }
   },
   "order": [
-    "be8f5478-c3de-43e4-8225-4d101ab5a886",
-    "e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b",
     "819b2017-cc8d-4fc1-9a3d-ae1572cb93ad",
     "f94009ae-aedb-43f1-a324-08cd7513ad10",
+    "d5391373-a0b1-4386-9b2a-97cb5163481f",
     "image_banner",
+    "e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b",
     "3354c3e8-28ab-46d7-a5a0-ec1b4ce33489",
     "0b4a08e4-0497-4171-9fa2-36d0911dfe19",
-    "d5391373-a0b1-4386-9b2a-97cb5163481f",
+    "be8f5478-c3de-43e4-8225-4d101ab5a886",
     "f7bcc94c-c463-4794-9383-a34bd0437de3",
+    "df818c1b-af78-407b-9edf-d3bc3ab979f8",
     "4ba36fc0-f01f-42c1-bb90-6cd795b8be37",
     "98723428-2fef-4802-963f-6b34e3b4a2ed",
     "e5730fb0-5305-4d4e-b932-507734407aa4",
