@@ -258,6 +258,52 @@
         "padding_bottom": 36
       }
     },
+    "9106bc4f-f557-48f1-906b-16e18a1b0f83": {
+      "type": "image-with-text",
+      "blocks": {
+        "282bbc67-bb2f-4dd8-909f-a73b2f856b08": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hi! I'm Brittany",
+            "heading_size": "h1"
+          }
+        },
+        "dceda8a8-0705-497e-9708-1d6fd9ad0114": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As a full spectrum doula, I work with all reproductive journeys: conception, adoption, surrogacy, pregnancy, labor, and birth. I am there in the postpartum and can help you through a termination process. <strong>I support people through every outcome.<\/strong><\/p><p><strong>Whether this is your first baby or you’re growing your family, you are not alone.<\/strong><\/p><p>Make informed decisions about <strong>your birth, your body, and your baby<\/strong>.<\/p><h2><span style=\"text-decoration:underline\">Trainings, Mentorships + Certifications<\/span><\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul><p><em>*Please note that I am not a medical professional and always advise you to check with your primary care provider before making any decisions.<\/em><\/p>",
+            "text_style": "body"
+          }
+        },
+        "97ad5ee3-b3c5-4ff3-b39e-dca93a4bfdd2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Schedule an Appointment",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "282bbc67-bb2f-4dd8-909f-a73b2f856b08",
+        "dceda8a8-0705-497e-9708-1d6fd9ad0114",
+        "97ad5ee3-b3c5-4ff3-b39e-dca93a4bfdd2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/B64DBB57-06A9-4BE8-827D-EE00B57AB967_1_105_c.jpg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "4f85eeae-85d9-4cca-bdf5-6f0685338f88": {
       "type": "image-banner",
       "blocks": {
@@ -278,7 +324,7 @@
         "template--18764259295534__4f85eeae-85d9-4cca-bdf5-6f0685338f88-168164672051c53a4e-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Schedule A Consultation",
+            "button_label_1": "Schedule a free consultation",
             "button_link_1": "shopify:\/\/products\/intro-birth-consultation",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -316,6 +362,7 @@
     "6ddadc23-415d-40e0-9d75-46f266ddffdd",
     "56eb3eb1-f6e9-487e-bddf-a78534b71bf1",
     "8a66e9f1-fb99-4b67-bcf9-8123b2ec9078",
+    "9106bc4f-f557-48f1-906b-16e18a1b0f83",
     "4f85eeae-85d9-4cca-bdf5-6f0685338f88"
   ]
 }
