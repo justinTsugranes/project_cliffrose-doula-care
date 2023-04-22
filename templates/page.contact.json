@@ -100,6 +100,7 @@
     },
     "168217033597f1811f": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "a3ac118c-4a52-4bf9-a6ab-1609b7a05729": {
           "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
