@@ -831,12 +831,12 @@
         "heading": "Frequently Asked Questions",
         "heading_size": "h1",
         "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
+        "layout": "section",
+        "color_scheme": "accent-1",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": true,
+        "image_ratio": "large",
+        "desktop_layout": "image_first",
         "padding_top": 36,
         "padding_bottom": 36
       }
