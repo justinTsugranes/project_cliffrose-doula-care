@@ -135,14 +135,14 @@
         "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-0": {
           "type": "heading",
           "settings": {
-            "heading": "Prenatal Care",
+            "heading": "We schedule virtual consultations that typically cover the following topics:",
             "heading_size": "h1"
           }
         },
         "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We will plan visits together before your estimated due date. Over a couple of hours, we’ll build on our connection and get more comfortable. We’ll discuss your birth preferences to create a Birth Plan, have Labor Prep class to practice relaxation techniques, talk about comfort measures and labor positions, I’ll also give plenty of tips on laboring at home. Through a few visits you’ll get ready for the baby, answer all your questions, and ease concerns.<\/p><p>Wondering what we’ll be talking about? Here’s a <a href=\"https:\/\/cliffrosedoula.squarespace.com\/s\/Planning-Checklist.pdf\" target=\"_blank\">Planning Checklist<\/a> full of topics we can dive into.<\/p>",
+            "text": "<ul><li>Comfort Measures (environmental, relaxation techniques, affirmations)<\/li><li>Birth Ball Use<\/li><li>Labor Positions<\/li><li>How to Labor at Home<\/li><li>How to Advocate for Yourself & Hospital Policies<\/li><li>Immediate Newborn Care<\/li><li>Miscarriage & Bereavement Support<\/li><li>Adoption<\/li><li>Surrogacy<\/li><\/ul><p>Consultations are 1-Hour Long and held on Zoom. Book a time below and then check your e-mail for a welcome letter from us as well as the Zoom meeting information.<\/p>",
             "text_style": "body"
           }
         }
@@ -154,8 +154,8 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/wicker-basket-with-ultrasound-images-and-stuff-for-2022-10-18-00-36-11-utc.jpg",
         "height": "medium",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
+        "desktop_image_width": "small",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
