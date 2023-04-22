@@ -1,5 +1,41 @@
 {
   "sections": {
+    "1806f662-3397-432a-bb32-fdd9e8e49c78": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18729374122286__1806f662-3397-432a-bb32-fdd9e8e49c78-1682125745486d4042-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Beyond Birth: Doula Care, Advocacy, Parenting, and Resources for Modern Moms",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374122286__1806f662-3397-432a-bb32-fdd9e8e49c78-1682125745486d4042-1": {
+          "type": "text",
+          "settings": {
+            "text": "Insights, Resources, and Support for Expectant Mothers on Their Path to Empowered Birth and Motherhood",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374122286__1806f662-3397-432a-bb32-fdd9e8e49c78-1682125745486d4042-0",
+        "template--18729374122286__1806f662-3397-432a-bb32-fdd9e8e49c78-1682125745486d4042-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-21_at_9.31.47_PM.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-blog",
       "settings": {
@@ -14,6 +50,7 @@
     }
   },
   "order": [
+    "1806f662-3397-432a-bb32-fdd9e8e49c78",
     "main"
   ]
 }
