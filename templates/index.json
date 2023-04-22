@@ -254,7 +254,7 @@
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -458,7 +458,7 @@
         "template--18729374646574__4ba36fc0-f01f-42c1-bb90-6cd795b8be37-1681723923abde2125-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Together, we'll discuss your birth preferences, create a Birth Plan, practice relaxation techniques in a Labor Prep class, and cover comfort measures and labor positions.<\/p><p>We'll also provide tips for laboring at home, answer your questions, and ease concerns in just a few visits, so you feel fully prepared for your baby's arrival. Trust in comprehensive prenatal care tailored to your needs.<\/p>",
+            "text": "<p>Together, we'll discuss your birth preferences, create a Birth Plan, practice relaxation techniques in a Labor Prep class, and cover comfort measures and labor positions.<\/p>",
             "text_style": "body"
           }
         }
@@ -469,7 +469,193 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/wicker-basket-with-ultrasound-images-and-stuff-for-2022-10-18-00-36-11-utc.jpg",
-        "height": "large",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "471e9594-6f9f-44f6-9a45-f30212625d6d": {
+      "type": "image-with-text",
+      "blocks": {
+        "4d13ae67-7fee-437a-a7a7-00b1903071af": {
+          "type": "heading",
+          "settings": {
+            "heading": "24\/7 On-Call Support",
+            "heading_size": "h1"
+          }
+        },
+        "853d1021-2290-44ad-a68a-20d13bde8a40": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Starting at 37 weeks, We are on call 24\/7 and will be readily available via phone, video call, and text to provide guidance, comfort, and information as you labor at home or at your chosen delivery location.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "4d13ae67-7fee-437a-a7a7-00b1903071af",
+        "853d1021-2290-44ad-a68a-20d13bde8a40"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wicker-basket-with-ultrasound-images-and-stuff-for-2022-10-18-00-36-11-utc.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b8b23962-3b38-4e13-af46-c59ed11c3c62": {
+      "type": "image-with-text",
+      "blocks": {
+        "4cd37690-7721-4f31-b139-20e7905f38f4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Labor Birth Doula",
+            "heading_size": "h1"
+          }
+        },
+        "38477c66-4c7a-4962-8a4a-d1244ea1a01c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>No matter where you choose to give birth - at home, a birthing center, or a hospital - We will be there to provide unwavering support throughout your labor<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "4cd37690-7721-4f31-b139-20e7905f38f4",
+        "38477c66-4c7a-4962-8a4a-d1244ea1a01c"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wicker-basket-with-ultrasound-images-and-stuff-for-2022-10-18-00-36-11-utc.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0d8c309a-2944-40a7-9bd1-380e5b87ec30": {
+      "type": "image-with-text",
+      "blocks": {
+        "f606d3ae-c461-4b97-aa07-b8304beee136": {
+          "type": "heading",
+          "settings": {
+            "heading": "Overnight Doula",
+            "heading_size": "h1"
+          }
+        },
+        "d4944832-b52e-441b-a5b8-475f984391d5": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Together, we'll discuss your birth preferences, create a Birth Plan, practice relaxation techniques in a Labor Prep class, and cover comfort measures and labor positions.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "f606d3ae-c461-4b97-aa07-b8304beee136",
+        "d4944832-b52e-441b-a5b8-475f984391d5"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wicker-basket-with-ultrasound-images-and-stuff-for-2022-10-18-00-36-11-utc.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "539c9767-5c1f-472b-af3a-9dd61b203980": {
+      "type": "image-with-text",
+      "blocks": {
+        "3d15a318-eca2-4e40-8b37-ad054b1922cd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Postpartum Recovery",
+            "heading_size": "h1"
+          }
+        },
+        "ad288893-e6d3-4a2c-b0af-addc4618c236": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your doula is here to <strong>support you <\/strong>during the postpartum period, meeting you where you're at and from the comfort of your own home. Your doula is here to <strong>listen to you<\/strong>, whether it's about the challenges or joys of adjusting to life with a newborn.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "3d15a318-eca2-4e40-8b37-ad054b1922cd",
+        "ad288893-e6d3-4a2c-b0af-addc4618c236"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wicker-basket-with-ultrasound-images-and-stuff-for-2022-10-18-00-36-11-utc.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e3627101-2af6-4839-81be-86c0336d0b08": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "47cd508a-117d-411a-ba00-1574bb765f38": {
+          "type": "heading",
+          "settings": {
+            "heading": "Prenatal Care",
+            "heading_size": "h1"
+          }
+        },
+        "2405ea20-b8c4-417f-ba01-77734b1f987d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Together, we'll discuss your birth preferences, create a Birth Plan, practice relaxation techniques in a Labor Prep class, and cover comfort measures and labor positions.<\/p><p>We'll also provide tips for laboring at home, answer your questions, and ease concerns in just a few visits, so you feel fully prepared for your baby's arrival. Trust in comprehensive prenatal care tailored to your needs.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "47cd508a-117d-411a-ba00-1574bb765f38",
+        "2405ea20-b8c4-417f-ba01-77734b1f987d"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wicker-basket-with-ultrasound-images-and-stuff-for-2022-10-18-00-36-11-utc.jpg",
+        "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
@@ -484,6 +670,7 @@
     },
     "98723428-2fef-4802-963f-6b34e3b4a2ed": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18729374646574__98723428-2fef-4802-963f-6b34e3b4a2ed-1681723923abde2125-0": {
           "type": "heading",
@@ -506,7 +693,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155363_1_02a6b68b-7382-4e64-9ebc-99d5e80c0b60.jpg",
-        "height": "large",
+        "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "top",
@@ -521,6 +708,7 @@
     },
     "e5730fb0-5305-4d4e-b932-507734407aa4": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18729374646574__e5730fb0-5305-4d4e-b932-507734407aa4-1681723923abde2125-0": {
           "type": "heading",
@@ -543,7 +731,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
-        "height": "large",
+        "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
@@ -863,6 +1051,11 @@
     "f7bcc94c-c463-4794-9383-a34bd0437de3",
     "df818c1b-af78-407b-9edf-d3bc3ab979f8",
     "4ba36fc0-f01f-42c1-bb90-6cd795b8be37",
+    "471e9594-6f9f-44f6-9a45-f30212625d6d",
+    "b8b23962-3b38-4e13-af46-c59ed11c3c62",
+    "0d8c309a-2944-40a7-9bd1-380e5b87ec30",
+    "539c9767-5c1f-472b-af3a-9dd61b203980",
+    "e3627101-2af6-4839-81be-86c0336d0b08",
     "98723428-2fef-4802-963f-6b34e3b4a2ed",
     "e5730fb0-5305-4d4e-b932-507734407aa4",
     "7f7b405e-4b55-46eb-8ddf-944b659c9cdc",
