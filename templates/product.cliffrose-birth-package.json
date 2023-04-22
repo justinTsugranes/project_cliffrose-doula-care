@@ -20,7 +20,7 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Book a consultation",
+            "button_label_1": "Book a free consultation",
             "button_link_1": "shopify:\/\/products\/intro-birth-consultation",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -35,7 +35,7 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/cliffrose_birth_doula_services.jpg",
+        "image": "shopify:\/\/shop_images\/wicker-basket-with-ultrasound-images-and-stuff-for-2022-10-18-00-36-11-utc.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "middle-center",
