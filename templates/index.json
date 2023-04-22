@@ -414,7 +414,7 @@
         "template--18729374646574__df818c1b-af78-407b-9edf-d3bc3ab979f8-1682184832658d0e18-1": {
           "type": "text",
           "settings": {
-            "text": "<p>As full spectrum doulas, we are dedicated to providing exceptional care and support throughout your entire reproductive journey. From conception to adoption, surrogacy, termination, pregnancy, labor, birth, and postpartum, we are there to support you through every outcome.. Our birth doula service is designed to offer you comprehensive care and guidance during this transformative experience, and we are committed to helping you feel confident, empowered, and prepared for your upcoming birth and parenthood.<\/p><h2>Our Cliffrose Birth Doula Package includes the following services:<\/h2><ul><li>Prenatal Visits -  3 visits for 3 hours each<\/li><li>Labor Support - continuous support during labor<\/li><li>1 Overnight Doula (8 hours) for 3 nights<\/li><li>Postpartum Visits - 3 visits for 3 hours each<\/li><li>Meals - Light Labor Meals, Healing Postpartum Meals, Freezer Stockpile<\/li><li>24\/7 On Call Support beginning at 38 weeks<\/li><li>Virtual Consultations as necessary<\/li><\/ul><p><strong>Total Package Price: $3,000.00<\/strong><\/p>",
+            "text": "<p>As full spectrum doulas, we are dedicated to providing exceptional care and support throughout your entire reproductive journey. From conception to adoption, surrogacy, termination, pregnancy, labor, birth, and postpartum, we are there to support you through every outcome.. Our birth doula service is designed to offer you comprehensive care and guidance during this transformative experience, and we are committed to helping you feel confident, empowered, and prepared for your upcoming birth and parenthood.<\/p><h2>Our Cliffrose Birth Doula Package includes the following services:<\/h2><ul><li>Prenatal Visits -  3 visits for 3 hours each<\/li><li>Labor Support - Rebozo, Birth Ball, Breathing Techniques, Acupressure, Birthroom Ambiance, Meals<\/li><li>1 Overnight Doula (8 hours) for 3 nights<\/li><li>Postpartum Visits - 3 visits for 3 hours each<\/li><li>Meals - Light Labor Meals, Healing Postpartum Meals, Freezer Stockpile<\/li><li>24\/7 On Call Support beginning at 38 weeks<\/li><li>Virtual Consultations as necessary<\/li><\/ul><p><strong>Total Package Price: $3,000.00<\/strong><\/p>",
             "text_style": "body"
           }
         },
@@ -830,6 +830,7 @@
     },
     "e2f106d1-48fc-41fa-84b7-81afc0b61081": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18607813067054__e2f106d1-48fc-41fa-84b7-81afc0b61081-1681039374fd627c32-0": {
           "type": "heading",
@@ -869,24 +870,6 @@
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "4e35bf0a-f013-4f06-a0c2-097d84cfc81a": {
-      "type": "featured-blog",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "blog": "natural-remedies-for-common-pregnancy-symptoms",
-        "post_limit": 4,
-        "columns_desktop": 2,
-        "color_scheme": "background-1",
-        "show_image": true,
-        "show_date": false,
-        "show_author": false,
-        "show_view_all": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -1020,6 +1003,23 @@
         "show_text_below": true
       }
     },
+    "4e35bf0a-f013-4f06-a0c2-097d84cfc81a": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Doula Care, Advocacy, Parenting, and Resources for Modern Moms",
+        "heading_size": "h1",
+        "blog": "natural-remedies-for-common-pregnancy-symptoms",
+        "post_limit": 4,
+        "columns_desktop": 2,
+        "color_scheme": "background-1",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1682109876d93ff09a": {
       "type": "apps",
       "blocks": {
@@ -1062,9 +1062,9 @@
     "7f7b405e-4b55-46eb-8ddf-944b659c9cdc",
     "16d6166f-b8f2-4798-b440-146bf209e8e9",
     "e2f106d1-48fc-41fa-84b7-81afc0b61081",
-    "4e35bf0a-f013-4f06-a0c2-097d84cfc81a",
     "8ab67ccb-2415-451b-8f95-5e7a83214c18",
     "f323249f-afd3-4d2a-8e4d-88a6a30d187a",
+    "4e35bf0a-f013-4f06-a0c2-097d84cfc81a",
     "1682109876d93ff09a"
   ]
 }
