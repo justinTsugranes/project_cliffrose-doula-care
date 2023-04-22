@@ -48,8 +48,28 @@
         "padding_bottom": 36
       }
     },
+    "1682125671cd1c44a9": {
+      "type": "apps",
+      "blocks": {
+        "c16d45a6-04eb-4000-963b-80a8a6ad1df9": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "c16d45a6-04eb-4000-963b-80a8a6ad1df9"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "c543ea2d-fd87-4d36-9944-fee99a178056": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18729374122286__c543ea2d-fd87-4d36-9944-fee99a178056-16821699988e95d1e4-0": {
           "type": "heading",
@@ -89,31 +109,12 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "1682125671cd1c44a9": {
-      "type": "apps",
-      "blocks": {
-        "c16d45a6-04eb-4000-963b-80a8a6ad1df9": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
-          "settings": {
-            "heading_size": 20,
-            "feed_width": 100,
-            "html_area": ""
-          }
-        }
-      },
-      "block_order": [
-        "c16d45a6-04eb-4000-963b-80a8a6ad1df9"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
     "1806f662-3397-432a-bb32-fdd9e8e49c78",
     "main",
-    "c543ea2d-fd87-4d36-9944-fee99a178056",
-    "1682125671cd1c44a9"
+    "1682125671cd1c44a9",
+    "c543ea2d-fd87-4d36-9944-fee99a178056"
   ]
 }
