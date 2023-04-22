@@ -12,20 +12,18 @@
         },
         "template--18729374974254__da2575d0-e30d-4061-8810-87c82cbeedb4-16816419410bb0e374-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "",
             "text_style": "body"
           }
         },
         "template--18729374974254__da2575d0-e30d-4061-8810-87c82cbeedb4-16816419410bb0e374-2": {
           "type": "buttons",
-          "disabled": true,
           "settings": {
-            "button_label_1": "Email",
-            "button_link_1": "",
+            "button_label_1": "Schedule an Appointment",
+            "button_link_1": "shopify:\/\/products\/hourly-virtual-consultations",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -50,6 +48,36 @@
         "show_text_below": true
       }
     },
+    "9826f1d3-620e-467d-ada2-a152846edf2d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18729374974254__9826f1d3-620e-467d-ada2-a152846edf2d-16821699988e95d1e4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374974254__9826f1d3-620e-467d-ada2-a152846edf2d-16821699988e95d1e4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Cliffrose Doula Care<\/p><p>www.cliffrosedoula.com<\/p><p>cliffrosedoula@gmail.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374974254__9826f1d3-620e-467d-ada2-a152846edf2d-16821699988e95d1e4-0",
+        "template--18729374974254__9826f1d3-620e-467d-ada2-a152846edf2d-16821699988e95d1e4-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -67,11 +95,32 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "168217033597f1811f": {
+      "type": "apps",
+      "blocks": {
+        "a3ac118c-4a52-4bf9-a6ab-1609b7a05729": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 30,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "a3ac118c-4a52-4bf9-a6ab-1609b7a05729"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "da2575d0-e30d-4061-8810-87c82cbeedb4",
+    "9826f1d3-620e-467d-ada2-a152846edf2d",
     "main",
-    "form"
+    "form",
+    "168217033597f1811f"
   ]
 }
