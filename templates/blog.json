@@ -69,7 +69,6 @@
     },
     "c543ea2d-fd87-4d36-9944-fee99a178056": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--18729374122286__c543ea2d-fd87-4d36-9944-fee99a178056-16821699988e95d1e4-0": {
           "type": "heading",
@@ -102,9 +101,9 @@
         "template--18729374122286__c543ea2d-fd87-4d36-9944-fee99a178056-16821699988e95d1e4-2"
       ],
       "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
-        "color_scheme": "background-2",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
