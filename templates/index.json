@@ -13,15 +13,15 @@
         "07dd7590-ee35-49ea-bd9c-a52a162137e4": {
           "type": "text",
           "settings": {
-            "text": "We offer full-spectrum, evidence-based doula services that support families through pregnancy, childbirth, and postpartum.",
+            "text": "We offer doula services that support families through pregnancy, childbirth, and postpartum.",
             "text_style": "subtitle"
           }
         },
         "fc31c9fe-7fd3-4f3b-a73c-e884f3e0dcb1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Schedule A Consultation",
-            "button_link_1": "shopify:\/\/products\/intro-birth-consultation",
+            "button_label_1": "View Birth Services",
+            "button_link_1": "shopify:\/\/products\/ultimate-cliffrose-birth-package",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
