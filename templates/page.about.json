@@ -1,5 +1,36 @@
 {
   "sections": {
+    "e4efc10d-20ca-44bc-96c3-570e4ae5f889": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "a Cliffrose thrives in a challenging environment.",
+            "heading_size": "h1"
+          }
+        },
+        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>So can you.<\/h1><p>Your roots grow deeper than you know and you are strong as hell. But when doubt or fear creeps in, having someone in your corner to remind you that <em>you got this <\/em>means everything.<\/p><p>Doula care centers on the individual, focusing on your vision for your best life because you know yourself best.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-0",
+        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-1"
+      ],
+      "settings": {
+        "desktop_content_position": "right",
+        "content_alignment": "right",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -227,165 +258,6 @@
         "padding_bottom": 36
       }
     },
-    "feb38532-f9e7-40f7-97fe-a264865fc92a": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--18764259295534__feb38532-f9e7-40f7-97fe-a264865fc92a-1682074975fd0ef229-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our Team",
-            "heading_size": "h1"
-          }
-        },
-        "template--18764259295534__feb38532-f9e7-40f7-97fe-a264865fc92a-1682074975fd0ef229-1": {
-          "type": "text",
-          "settings": {
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18764259295534__feb38532-f9e7-40f7-97fe-a264865fc92a-1682074975fd0ef229-0",
-        "template--18764259295534__feb38532-f9e7-40f7-97fe-a264865fc92a-1682074975fd0ef229-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "8b1fb95f-8004-41d2-acf9-1080760e0fba": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18764259295534__8b1fb95f-8004-41d2-acf9-1080760e0fba-16820748854460de33-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Brittany Nance, Certified Doula, Founder",
-            "heading_size": "h1"
-          }
-        },
-        "template--18764259295534__8b1fb95f-8004-41d2-acf9-1080760e0fba-16820748854460de33-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--18764259295534__8b1fb95f-8004-41d2-acf9-1080760e0fba-16820748854460de33-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18764259295534__8b1fb95f-8004-41d2-acf9-1080760e0fba-16820748854460de33-0",
-        "template--18764259295534__8b1fb95f-8004-41d2-acf9-1080760e0fba-16820748854460de33-1",
-        "template--18764259295534__8b1fb95f-8004-41d2-acf9-1080760e0fba-16820748854460de33-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "ce416113-a8f7-45e4-b4d2-fe8e9d0ff4b4": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18764259295534__ce416113-a8f7-45e4-b4d2-fe8e9d0ff4b4-16820748854460de33-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "template--18764259295534__ce416113-a8f7-45e4-b4d2-fe8e9d0ff4b4-16820748854460de33-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18764259295534__ce416113-a8f7-45e4-b4d2-fe8e9d0ff4b4-16820748854460de33-0",
-        "template--18764259295534__ce416113-a8f7-45e4-b4d2-fe8e9d0ff4b4-16820748854460de33-1"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "e4efc10d-20ca-44bc-96c3-570e4ae5f889": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "a Cliffrose thrives in a challenging environment.",
-            "heading_size": "h1"
-          }
-        },
-        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h1>So can you.<\/h1><p>Your roots grow deeper than you know and you are strong as hell. But when doubt or fear creeps in, having someone in your corner to remind you that <em>you got this <\/em>means everything.<\/p><p>Doula care centers on the individual, focusing on your vision for your best life because you know yourself best.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-0",
-        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "45ab04d8-e32d-409c-a4ab-075f82299483": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "4f85eeae-85d9-4cca-bdf5-6f0685338f88": {
       "type": "image-banner",
       "blocks": {
@@ -436,6 +308,7 @@
     }
   },
   "order": [
+    "e4efc10d-20ca-44bc-96c3-570e4ae5f889",
     "main",
     "70a65ce0-2bec-4095-8a3d-340fdcdac889",
     "98da3c2e-7933-465b-be9a-ed5cdc89ae17",
@@ -443,11 +316,6 @@
     "6ddadc23-415d-40e0-9d75-46f266ddffdd",
     "56eb3eb1-f6e9-487e-bddf-a78534b71bf1",
     "8a66e9f1-fb99-4b67-bcf9-8123b2ec9078",
-    "feb38532-f9e7-40f7-97fe-a264865fc92a",
-    "8b1fb95f-8004-41d2-acf9-1080760e0fba",
-    "ce416113-a8f7-45e4-b4d2-fe8e9d0ff4b4",
-    "e4efc10d-20ca-44bc-96c3-570e4ae5f889",
-    "45ab04d8-e32d-409c-a4ab-075f82299483",
     "4f85eeae-85d9-4cca-bdf5-6f0685338f88"
   ]
 }
