@@ -3,18 +3,37 @@
     "f41909ac-01fa-4557-856b-385cc8274da8": {
       "type": "slideshow",
       "blocks": {
-        "template--18772069450030__f41909ac-01fa-4557-856b-385cc8274da8-1682250920c17d6d9e-0": {
+        "3959bf40-7d67-4133-95c4-0bb03f30bcd3": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_2.06.02_PM.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "middle-left",
             "show_text_box": true,
             "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "97759789-1e0f-40b3-ba20-a6239a93d7cf": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_2.05.39_PM.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-right",
+            "show_text_box": true,
+            "text_alignment": "right",
             "image_overlay_opacity": 0,
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
@@ -23,15 +42,34 @@
         "template--18772069450030__f41909ac-01fa-4557-856b-385cc8274da8-1682250920c17d6d9e-1": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-21_at_9.31.47_PM_527a0969-10f6-4d21-a0d6-a14fa914cf67.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "middle-left",
             "show_text_box": true,
             "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--18772069450030__f41909ac-01fa-4557-856b-385cc8274da8-1682250920c17d6d9e-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_12.46.43_PM.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-right",
+            "show_text_box": true,
+            "text_alignment": "right",
             "image_overlay_opacity": 0,
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
@@ -39,8 +77,10 @@
         }
       },
       "block_order": [
-        "template--18772069450030__f41909ac-01fa-4557-856b-385cc8274da8-1682250920c17d6d9e-0",
-        "template--18772069450030__f41909ac-01fa-4557-856b-385cc8274da8-1682250920c17d6d9e-1"
+        "3959bf40-7d67-4133-95c4-0bb03f30bcd3",
+        "97759789-1e0f-40b3-ba20-a6239a93d7cf",
+        "template--18772069450030__f41909ac-01fa-4557-856b-385cc8274da8-1682250920c17d6d9e-1",
+        "template--18772069450030__f41909ac-01fa-4557-856b-385cc8274da8-1682250920c17d6d9e-0"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -97,28 +137,62 @@
         "padding_bottom": 36
       }
     },
-    "8f719ff9-990b-4ce5-9bd7-61e0c98337e4": {
-      "type": "featured-collection",
+    "20d7fb75-89d4-453a-93e4-cf7116f2a6f1": {
+      "type": "collection-list",
+      "blocks": {
+        "template--18772069450030__20d7fb75-89d4-453a-93e4-cf7116f2a6f1-1682272576a840e6fc-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "birth-doula-services"
+          }
+        },
+        "template--18772069450030__20d7fb75-89d4-453a-93e4-cf7116f2a6f1-1682272576a840e6fc-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pregnancy"
+          }
+        },
+        "template--18772069450030__20d7fb75-89d4-453a-93e4-cf7116f2a6f1-1682272576a840e6fc-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "postpartum"
+          }
+        },
+        "14788450-085c-41ad-9a6e-effd656aef12": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bundle-save"
+          }
+        },
+        "d417953e-0b37-420a-8d8f-0f5deb6e64d0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "all-products"
+          }
+        },
+        "d27a405f-0ee3-4166-b0e0-5698dbd9469a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18772069450030__20d7fb75-89d4-453a-93e4-cf7116f2a6f1-1682272576a840e6fc-0",
+        "template--18772069450030__20d7fb75-89d4-453a-93e4-cf7116f2a6f1-1682272576a840e6fc-1",
+        "template--18772069450030__20d7fb75-89d4-453a-93e4-cf7116f2a6f1-1682272576a840e6fc-2",
+        "14788450-085c-41ad-9a6e-effd656aef12",
+        "d417953e-0b37-420a-8d8f-0f5deb6e64d0",
+        "d27a405f-0ee3-4166-b0e0-5698dbd9469a"
+      ],
       "settings": {
         "title": "SHOP OUR COLLECTIONS",
         "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all-products",
-        "products_to_show": 6,
-        "columns_desktop": 3,
-        "full_width": true,
-        "show_view_all": false,
-        "view_all_style": "link",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
         "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
@@ -467,7 +541,7 @@
   "order": [
     "f41909ac-01fa-4557-856b-385cc8274da8",
     "20d06b30-ad78-40d1-a914-007795dd3205",
-    "8f719ff9-990b-4ce5-9bd7-61e0c98337e4",
+    "20d7fb75-89d4-453a-93e4-cf7116f2a6f1",
     "955a55ba-106e-4aba-9f0f-8b8dc6d8d132",
     "e6f5e281-b2da-4620-8fd7-852eae3b3ead",
     "243c0da9-4edf-467c-909f-db1437811f9c",
