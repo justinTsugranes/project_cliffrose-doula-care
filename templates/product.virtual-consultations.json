@@ -89,14 +89,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Text block",
-            "text_style": "body"
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -104,7 +96,6 @@
         },
         "share": {
           "type": "share",
-          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
@@ -117,7 +108,6 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8",
         "description",
         "share"
       ],
