@@ -69,8 +69,8 @@
         "23242699-7e61-40bd-a5d8-149325b2c5c2": {
           "type": "link_list",
           "settings": {
-            "heading": "",
-            "menu": "main-menu"
+            "heading": "Site",
+            "menu": "footer"
           }
         },
         "37e3237f-771f-4d17-a72e-2ebb19dba2d0": {
