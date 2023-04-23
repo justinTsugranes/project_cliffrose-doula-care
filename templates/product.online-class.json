@@ -6,21 +6,21 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0": {
           "type": "heading",
           "settings": {
-            "heading": "Virtual Birth Doula Consultations",
+            "heading": "Discover Natural Solutions To Ease Your Pregnancy Symptoms",
             "heading_size": "h1"
           }
         },
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1": {
           "type": "text",
           "settings": {
-            "text": "As a full spectrum doula, I work with all reproductive journeys: conception, adoption, surrogacy, pregnancy, labor, and birth. I am there in the postpartum and can help you through a termination process. <strong>I support people through every outcome.<\/strong>",
+            "text": "Led by a certified full spectrum doula, this small group class will give you the tools and knowledge to navigate your pregnancy with confidence.",
             "text_style": "body"
           }
         },
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "",
+            "button_label_1": "Book A Class Below",
             "button_link_1": "",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -35,9 +35,9 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/cliffrose_birth_doula_services.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_12.46.43_PM.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -65,7 +65,6 @@
         },
         "price": {
           "type": "price",
-          "disabled": true,
           "settings": {
           }
         },
@@ -73,6 +72,11 @@
           "type": "variant_picker",
           "settings": {
             "picker_type": "button"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
           }
         },
         "quantity_selector": {
@@ -89,22 +93,8 @@
             "show_gift_card_recipient": false
           }
         },
-        "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Text block",
-            "text_style": "body"
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "share": {
           "type": "share",
-          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
@@ -115,10 +105,9 @@
         "title",
         "price",
         "variant_picker",
+        "description",
         "quantity_selector",
         "buy_buttons",
-        "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8",
-        "description",
         "share"
       ],
       "settings": {
@@ -136,9 +125,17 @@
         "padding_bottom": 12
       }
     },
+    "df1f36a9-3e2d-454c-913e-e97596f041f6": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=007a5c\" style=\"min-width:320px;height:730px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "related-products": {
       "type": "related-products",
-      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
@@ -153,21 +150,12 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "df1f36a9-3e2d-454c-913e-e97596f041f6": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=007a5c\" style=\"min-width:320px;height:730px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "8294d813-b228-49e7-a8df-6a350c776c15",
     "main",
-    "related-products",
-    "df1f36a9-3e2d-454c-913e-e97596f041f6"
+    "df1f36a9-3e2d-454c-913e-e97596f041f6",
+    "related-products"
   ]
 }
