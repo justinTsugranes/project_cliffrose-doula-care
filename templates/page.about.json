@@ -147,6 +147,190 @@
         "padding_bottom": 36
       }
     },
+    "0acb8abe-1e65-4938-aeaf-28117c9fc2d5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Birth Team",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "9106bc4f-f557-48f1-906b-16e18a1b0f83": {
+      "type": "image-with-text",
+      "blocks": {
+        "282bbc67-bb2f-4dd8-909f-a73b2f856b08": {
+          "type": "heading",
+          "settings": {
+            "heading": "Brittany Nance",
+            "heading_size": "h1"
+          }
+        },
+        "88a9c708-3204-45f1-824f-0d903701dea4": {
+          "type": "caption",
+          "settings": {
+            "caption": "Certified Doula, Founder Cliffrose Doula Care",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "dceda8a8-0705-497e-9708-1d6fd9ad0114": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><span style=\"text-decoration:underline\">Trainings, Mentorships + Certifications<\/span><\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "282bbc67-bb2f-4dd8-909f-a73b2f856b08",
+        "88a9c708-3204-45f1-824f-0d903701dea4",
+        "dceda8a8-0705-497e-9708-1d6fd9ad0114"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/B64DBB57-06A9-4BE8-827D-EE00B57AB967_1_105_c.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "dea5420b-ab9a-43f9-9649-e42139d3023f": {
+      "type": "image-with-text",
+      "blocks": {
+        "07189778-da7e-471f-a760-f261ced71e56": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sylvia Rodriguez",
+            "heading_size": "h1"
+          }
+        },
+        "69b1b290-d59f-433b-8909-72a1813017ce": {
+          "type": "caption",
+          "settings": {
+            "caption": "Certified Doula",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "524501df-7508-4f79-a95e-6a49b030be57": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><span style=\"text-decoration:underline\">Trainings, Mentorships + Certifications<\/span><\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "07189778-da7e-471f-a760-f261ced71e56",
+        "69b1b290-d59f-433b-8909-72a1813017ce",
+        "524501df-7508-4f79-a95e-6a49b030be57"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.21.12_PM.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "697779fe-f55c-483b-abef-894af59b96ca": {
+      "type": "image-with-text",
+      "blocks": {
+        "88d984b1-4b36-43f6-a999-2d537a9afe65": {
+          "type": "heading",
+          "settings": {
+            "heading": "Olivia Martin",
+            "heading_size": "h1"
+          }
+        },
+        "fcbdf05e-f118-4fb0-b498-890ba6ff2bae": {
+          "type": "caption",
+          "settings": {
+            "caption": "Certified Doula",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "f2530acb-9f8c-4eea-a699-a2e7a8722be6": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><span style=\"text-decoration:underline\">Trainings, Mentorships + Certifications<\/span><\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "88d984b1-4b36-43f6-a999-2d537a9afe65",
+        "fcbdf05e-f118-4fb0-b498-890ba6ff2bae",
+        "f2530acb-9f8c-4eea-a699-a2e7a8722be6"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155537.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8b308be6-f788-4d44-92ec-e136adcfc53c": {
+      "type": "rich-text",
+      "blocks": {
+        "9bd28068-c279-422c-88ae-ef68f29a092e": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Our Professional Framework<\/strong>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "9bd28068-c279-422c-88ae-ef68f29a092e"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "6ddadc23-415d-40e0-9d75-46f266ddffdd": {
       "type": "image-with-text",
       "blocks": {
@@ -258,91 +442,6 @@
         "padding_bottom": 36
       }
     },
-    "0acb8abe-1e65-4938-aeaf-28117c9fc2d5": {
-      "type": "rich-text",
-      "blocks": {
-        "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our Team",
-            "heading_size": "h1"
-          }
-        },
-        "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-0",
-        "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "9106bc4f-f557-48f1-906b-16e18a1b0f83": {
-      "type": "image-with-text",
-      "blocks": {
-        "282bbc67-bb2f-4dd8-909f-a73b2f856b08": {
-          "type": "heading",
-          "settings": {
-            "heading": "Brittany Nance",
-            "heading_size": "h1"
-          }
-        },
-        "88a9c708-3204-45f1-824f-0d903701dea4": {
-          "type": "caption",
-          "settings": {
-            "caption": "Certified Doula, Founder Cliffrose Doula Care",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "dceda8a8-0705-497e-9708-1d6fd9ad0114": {
-          "type": "text",
-          "settings": {
-            "text": "<h2><span style=\"text-decoration:underline\">Trainings, Mentorships + Certifications<\/span><\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul>",
-            "text_style": "body"
-          }
-        },
-        "97ad5ee3-b3c5-4ff3-b39e-dca93a4bfdd2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Schedule an Appointment",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "282bbc67-bb2f-4dd8-909f-a73b2f856b08",
-        "88a9c708-3204-45f1-824f-0d903701dea4",
-        "dceda8a8-0705-497e-9708-1d6fd9ad0114",
-        "97ad5ee3-b3c5-4ff3-b39e-dca93a4bfdd2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/B64DBB57-06A9-4BE8-827D-EE00B57AB967_1_105_c.jpg",
-        "height": "large",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "4f85eeae-85d9-4cca-bdf5-6f0685338f88": {
       "type": "image-banner",
       "blocks": {
@@ -398,11 +497,14 @@
     "70a65ce0-2bec-4095-8a3d-340fdcdac889",
     "98da3c2e-7933-465b-be9a-ed5cdc89ae17",
     "9ee6804f-807b-4f60-86ee-ed2ca7cddbd3",
+    "0acb8abe-1e65-4938-aeaf-28117c9fc2d5",
+    "9106bc4f-f557-48f1-906b-16e18a1b0f83",
+    "dea5420b-ab9a-43f9-9649-e42139d3023f",
+    "697779fe-f55c-483b-abef-894af59b96ca",
+    "8b308be6-f788-4d44-92ec-e136adcfc53c",
     "6ddadc23-415d-40e0-9d75-46f266ddffdd",
     "56eb3eb1-f6e9-487e-bddf-a78534b71bf1",
     "8a66e9f1-fb99-4b67-bcf9-8123b2ec9078",
-    "0acb8abe-1e65-4938-aeaf-28117c9fc2d5",
-    "9106bc4f-f557-48f1-906b-16e18a1b0f83",
     "4f85eeae-85d9-4cca-bdf5-6f0685338f88"
   ]
 }
