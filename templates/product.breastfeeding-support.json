@@ -1,5 +1,41 @@
 {
   "sections": {
+    "8294d813-b228-49e7-a8df-6a350c776c15": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Breastfeeding Support Class",
+            "heading_size": "h1"
+          }
+        },
+        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1": {
+          "type": "text",
+          "settings": {
+            "text": "Led by a certified full spectrum doula, this small group class will help ease to sore moments, enable you to connect more closely with your newborn, and product more nourishing milk for you baby. <strong>Book a class below!<\/strong>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0",
+        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.21.12_PM.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -26,6 +62,11 @@
             "picker_type": "button"
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "disabled": true,
@@ -34,14 +75,10 @@
         },
         "buy_buttons": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
           }
         },
         "share": {
@@ -49,37 +86,40 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "judgeme_preview_badge_product_page_3bdcdfbe": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
         }
       },
       "block_order": [
         "vendor",
         "title",
         "price",
-        "judgeme_preview_badge_product_page_3bdcdfbe",
         "variant_picker",
+        "description",
         "quantity_selector",
         "buy_buttons",
-        "description",
         "share"
       ],
       "settings": {
         "enable_sticky_info": true,
         "media_size": "large",
         "constrain_to_viewport": true,
-        "media_fit": "contain",
+        "media_fit": "cover",
         "gallery_layout": "stacked",
         "media_position": "left",
-        "image_zoom": "lightbox",
+        "image_zoom": "none",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 12
+      }
+    },
+    "df1f36a9-3e2d-454c-913e-e97596f041f6": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/breastfeeding-support?hide_gdpr_banner=1&primary_color=377e62\" style=\"min-width:320px;height:730px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "related-products": {
@@ -98,27 +138,12 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "judgeme_section_review_widget_6f47": {
-      "type": "apps",
-      "blocks": {
-        "judgeme_review_widget_c61537d6": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "judgeme_review_widget_c61537d6"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
+    "8294d813-b228-49e7-a8df-6a350c776c15",
     "main",
-    "judgeme_section_review_widget_6f47",
+    "df1f36a9-3e2d-454c-913e-e97596f041f6",
     "related-products"
   ]
 }
