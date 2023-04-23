@@ -4,7 +4,7 @@
       "type": "main-collection-banner",
       "settings": {
         "show_collection_description": true,
-        "show_collection_image": false,
+        "show_collection_image": true,
         "color_scheme": "background-1"
       }
     },
@@ -25,60 +25,10 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "c09d92e5-2a87-408a-8087-801589bc779e": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Birth Doula Services",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-1": {
-          "type": "text",
-          "settings": {
-            "text": "As a full spectrum doula, I work with all reproductive journeys: conception, adoption, surrogacy, pregnancy, labor, and birth. I am there in the postpartum and can help you through a termination process. <strong>I support people through every outcome.<\/strong>",
-            "text_style": "body"
-          }
-        },
-        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Book a consultation",
-            "button_link_1": "https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-0",
-        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-1",
-        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/cliffrose_birth_doula_services.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
     "banner",
-    "product-grid",
-    "c09d92e5-2a87-408a-8087-801589bc779e"
+    "product-grid"
   ]
 }
