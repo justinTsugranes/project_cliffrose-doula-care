@@ -218,6 +218,7 @@
     },
     "dea5420b-ab9a-43f9-9649-e42139d3023f": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "07189778-da7e-471f-a760-f261ced71e56": {
           "type": "heading",
@@ -264,6 +265,7 @@
     },
     "697779fe-f55c-483b-abef-894af59b96ca": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "88d984b1-4b36-43f6-a999-2d537a9afe65": {
           "type": "heading",
