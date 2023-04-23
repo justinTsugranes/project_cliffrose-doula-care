@@ -6,14 +6,14 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0": {
           "type": "heading",
           "settings": {
-            "heading": "Discover Natural Solutions To Ease Your Pregnancy Symptoms",
+            "heading": "Breastfeeding Support Class",
             "heading_size": "h1"
           }
         },
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1": {
           "type": "text",
           "settings": {
-            "text": "Led by a certified full spectrum doula, this small group class will give you the tools and knowledge to navigate your pregnancy with confidence. <strong>Book a class below!<\/strong>",
+            "text": "Led by a certified full spectrum doula, this small group class will help ease to sore moments, enable you to connect more closely with your newborn, and product more nourishing milk for you baby. <strong>Book a class below!<\/strong>",
             "text_style": "body"
           }
         }
@@ -23,7 +23,7 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_12.46.43_PM.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.21.12_PM.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "middle-center",
@@ -116,7 +116,7 @@
     "df1f36a9-3e2d-454c-913e-e97596f041f6": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/natural-remedies-for-common-pregnancy-symptoms?hide_gdpr_banner=1&primary_color=377e62\" style=\"min-width:320px;height:730px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
+        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/breastfeeding-support?hide_gdpr_banner=1&primary_color=377e62\" style=\"min-width:320px;height:730px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
