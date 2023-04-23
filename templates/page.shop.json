@@ -113,8 +113,8 @@
         "template--18772069450030__20d06b30-ad78-40d1-a914-007795dd3205-16822509744728562c-2": {
           "type": "button",
           "settings": {
-            "button_label": "Let's Shop",
-            "button_link": ""
+            "button_label": "LET'S SHOP",
+            "button_link": "shopify:\/\/collections\/all-products"
           }
         }
       },
