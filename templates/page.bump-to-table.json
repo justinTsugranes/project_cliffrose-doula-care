@@ -104,6 +104,7 @@
         "template--18869097726254__a0919d91-739b-4cec-819c-cf737d0d96a8-168234415320200053-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_1.03.22_PM.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -148,7 +149,98 @@
         "template--18869097726254__0a50a2b4-0e02-4f21-8221-bc0f7b4c156e-168234415320200053-2"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_8.52.05_PM.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f687c8b6-7d6c-4cbe-b93d-abe5fc9e0b31": {
+      "type": "image-with-text",
+      "blocks": {
+        "490429d9-f875-4105-be95-97b84c9a4ead": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "f5b5f421-226b-4188-af1e-9b131c740f05": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "e6b0e7d1-e4e9-4cda-bef5-dcd18b1f6254": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "490429d9-f875-4105-be95-97b84c9a4ead",
+        "f5b5f421-226b-4188-af1e-9b131c740f05",
+        "e6b0e7d1-e4e9-4cda-bef5-dcd18b1f6254"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_8.52.05_PM.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f6a8232e-1d4a-4ffc-964d-ef1e0c9c090f": {
+      "type": "image-with-text",
+      "blocks": {
+        "b8cfa362-e652-4c43-ad21-8bbd7f42e912": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "1a703993-7d5f-4461-80a5-c24af5a1449e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "8ded137e-ed35-4684-ae7a-3ba4eb7b880a": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "b8cfa362-e652-4c43-ad21-8bbd7f42e912",
+        "1a703993-7d5f-4461-80a5-c24af5a1449e",
+        "8ded137e-ed35-4684-ae7a-3ba4eb7b880a"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_8.52.05_PM.jpg",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
@@ -167,6 +259,8 @@
     "a7a169c4-c38d-41c0-a135-6cdfb74f1c1e",
     "168234345007532d1c",
     "a0919d91-739b-4cec-819c-cf737d0d96a8",
-    "0a50a2b4-0e02-4f21-8221-bc0f7b4c156e"
+    "0a50a2b4-0e02-4f21-8221-bc0f7b4c156e",
+    "f687c8b6-7d6c-4cbe-b93d-abe5fc9e0b31",
+    "f6a8232e-1d4a-4ffc-964d-ef1e0c9c090f"
   ]
 }
