@@ -1,33 +1,5 @@
 {
   "sections": {
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "background-1"
-      }
-    },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "disabled": true,
-      "settings": {
-        "products_per_page": 8,
-        "columns_desktop": 2,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "enable_filtering": false,
-        "filter_type": "horizontal",
-        "enable_sorting": false,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "c09d92e5-2a87-408a-8087-801589bc779e": {
       "type": "image-banner",
       "blocks": {
@@ -76,6 +48,15 @@
         "show_text_below": true
       }
     },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
     "0e4f03f0-8a40-48f2-8122-1b89a83865c0": {
       "type": "featured-product",
       "blocks": {
@@ -106,9 +87,8 @@
         },
         "5bdbbea2-5d32-4b06-85f0-3decaf90982c": {
           "type": "custom_liquid",
-          "disabled": true,
           "settings": {
-            "custom_liquid": "<!-- Calendly link widget begin -->\n<link href=\"https:\/\/assets.calendly.com\/assets\/external\/widget.css\" rel=\"stylesheet\">\n<script src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" type=\"text\/javascript\" async><\/script>\n<a href=\"\" onclick=\"Calendly.initPopupWidget({url: 'https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation?hide_gdpr_banner=1&primary_color=007a5c'});return false;\">Check our availability<\/a>\n<!-- Calendly link widget end -->"
+            "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=377e62\" style=\"min-width:320px;height:630px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->"
           }
         },
         "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-3": {
@@ -209,22 +189,30 @@
         "padding_bottom": 36
       }
     },
-    "2b8ccce0-25a9-4593-b37f-ca900e8c582f": {
-      "type": "custom-liquid",
+    "product-grid": {
+      "type": "main-collection-product-grid",
       "settings": {
-        "custom_liquid": "",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "products_per_page": 8,
+        "columns_desktop": 2,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": false,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
-    "banner",
-    "product-grid",
     "c09d92e5-2a87-408a-8087-801589bc779e",
+    "banner",
     "0e4f03f0-8a40-48f2-8122-1b89a83865c0",
     "e8f888b7-2ae1-4533-85a6-58cd7107120d",
-    "2b8ccce0-25a9-4593-b37f-ca900e8c582f"
+    "product-grid"
   ]
 }
