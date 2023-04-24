@@ -60,22 +60,22 @@
         "template--18810347290926__fc95f6ac-0835-41eb-8f9a-727b4fa7505b-16818947289c418632-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Free Consultations",
             "heading_size": "h1"
           }
         },
         "template--18810347290926__fc95f6ac-0835-41eb-8f9a-727b4fa7505b-16818947289c418632-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Finding the right support for you and your baby doesn't have to be hard. Get advice from a doula about your care options.<\/p>",
             "text_style": "body"
           }
         },
         "template--18810347290926__fc95f6ac-0835-41eb-8f9a-727b4fa7505b-16818947289c418632-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "BOOK AN APPOINTMENT",
+            "button_link": "shopify:\/\/products\/intro-birth-consultation"
           }
         }
       },
@@ -85,6 +85,7 @@
         "template--18810347290926__fc95f6ac-0835-41eb-8f9a-727b4fa7505b-16818947289c418632-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-18_at_5.25.31_PM.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
