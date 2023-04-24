@@ -147,7 +147,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>REFER A FRIEND<\/strong>",
-            "text": "<p>400 PETALS<\/p>",
+            "text": "<p>400 PETALS<\/p><p>*You get petals, they’ll get 10% off!<\/p>",
             "link_label": "",
             "link": ""
           }
