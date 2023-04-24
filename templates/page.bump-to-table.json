@@ -7,9 +7,75 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "a7a169c4-c38d-41c0-a135-6cdfb74f1c1e": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18869097726254__a7a169c4-c38d-41c0-a135-6cdfb74f1c1e-16823434954f8e979a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--18869097726254__a7a169c4-c38d-41c0-a135-6cdfb74f1c1e-16823434954f8e979a-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--18869097726254__a7a169c4-c38d-41c0-a135-6cdfb74f1c1e-16823434954f8e979a-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869097726254__a7a169c4-c38d-41c0-a135-6cdfb74f1c1e-16823434954f8e979a-0",
+        "template--18869097726254__a7a169c4-c38d-41c0-a135-6cdfb74f1c1e-16823434954f8e979a-1",
+        "template--18869097726254__a7a169c4-c38d-41c0-a135-6cdfb74f1c1e-16823434954f8e979a-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "168234345007532d1c": {
+      "type": "apps",
+      "blocks": {
+        "7db99f92-fdb0-4232-95b0-efd6df331955": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": ""
+          }
+        }
+      },
+      "block_order": [
+        "7db99f92-fdb0-4232-95b0-efd6df331955"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "a7a169c4-c38d-41c0-a135-6cdfb74f1c1e",
+    "168234345007532d1c"
   ]
 }
