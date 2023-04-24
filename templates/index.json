@@ -291,6 +291,68 @@
         "padding_bottom": 52
       }
     },
+    "67d25079-454a-42a5-8f56-8267d6c949f3": {
+      "type": "collection-list",
+      "disabled": true,
+      "blocks": {
+        "template--18729374646574__67d25079-454a-42a5-8f56-8267d6c949f3-1682333027c4f732ce-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "birth-doula-services"
+          }
+        },
+        "7e6f36d9-3cc4-4e5c-8e3c-2b39ce76ee47": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "virtual-doula-services"
+          }
+        },
+        "template--18729374646574__67d25079-454a-42a5-8f56-8267d6c949f3-1682333027c4f732ce-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "online-classes"
+          }
+        },
+        "5fb60fc4-a7f2-4799-8b67-be3ed621d908": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pregnancy"
+          }
+        },
+        "96a167e2-56d2-4db8-b6f2-e7ded7c19c20": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "postpartum"
+          }
+        },
+        "acd9e7dd-f2f3-44be-bae0-80402d12f422": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "all-products"
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374646574__67d25079-454a-42a5-8f56-8267d6c949f3-1682333027c4f732ce-0",
+        "7e6f36d9-3cc4-4e5c-8e3c-2b39ce76ee47",
+        "template--18729374646574__67d25079-454a-42a5-8f56-8267d6c949f3-1682333027c4f732ce-2",
+        "5fb60fc4-a7f2-4799-8b67-be3ed621d908",
+        "96a167e2-56d2-4db8-b6f2-e7ded7c19c20",
+        "acd9e7dd-f2f3-44be-bae0-80402d12f422"
+      ],
+      "settings": {
+        "title": "OUR COLLECTIONS",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "be8f5478-c3de-43e4-8225-4d101ab5a886": {
       "type": "video",
       "disabled": true,
@@ -925,67 +987,6 @@
       "settings": {
         "include_margins": true
       }
-    },
-    "67d25079-454a-42a5-8f56-8267d6c949f3": {
-      "type": "collection-list",
-      "blocks": {
-        "template--18729374646574__67d25079-454a-42a5-8f56-8267d6c949f3-1682333027c4f732ce-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "birth-doula-services"
-          }
-        },
-        "7e6f36d9-3cc4-4e5c-8e3c-2b39ce76ee47": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "virtual-doula-services"
-          }
-        },
-        "template--18729374646574__67d25079-454a-42a5-8f56-8267d6c949f3-1682333027c4f732ce-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "online-classes"
-          }
-        },
-        "5fb60fc4-a7f2-4799-8b67-be3ed621d908": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "pregnancy"
-          }
-        },
-        "96a167e2-56d2-4db8-b6f2-e7ded7c19c20": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "postpartum"
-          }
-        },
-        "acd9e7dd-f2f3-44be-bae0-80402d12f422": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "all-products"
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374646574__67d25079-454a-42a5-8f56-8267d6c949f3-1682333027c4f732ce-0",
-        "7e6f36d9-3cc4-4e5c-8e3c-2b39ce76ee47",
-        "template--18729374646574__67d25079-454a-42a5-8f56-8267d6c949f3-1682333027c4f732ce-2",
-        "5fb60fc4-a7f2-4799-8b67-be3ed621d908",
-        "96a167e2-56d2-4db8-b6f2-e7ded7c19c20",
-        "acd9e7dd-f2f3-44be-bae0-80402d12f422"
-      ],
-      "settings": {
-        "title": "OUR COLLECTIONS",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "background-1",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -996,6 +997,7 @@
     "e4a0444a-c0a3-452f-81b3-9b1dfabc1a7b",
     "3354c3e8-28ab-46d7-a5a0-ec1b4ce33489",
     "0b4a08e4-0497-4171-9fa2-36d0911dfe19",
+    "67d25079-454a-42a5-8f56-8267d6c949f3",
     "be8f5478-c3de-43e4-8225-4d101ab5a886",
     "f7bcc94c-c463-4794-9383-a34bd0437de3",
     "df818c1b-af78-407b-9edf-d3bc3ab979f8",
@@ -1010,7 +1012,6 @@
     "8ab67ccb-2415-451b-8f95-5e7a83214c18",
     "f323249f-afd3-4d2a-8e4d-88a6a30d187a",
     "4e35bf0a-f013-4f06-a0c2-097d84cfc81a",
-    "1682109876d93ff09a",
-    "67d25079-454a-42a5-8f56-8267d6c949f3"
+    "1682109876d93ff09a"
   ]
 }
