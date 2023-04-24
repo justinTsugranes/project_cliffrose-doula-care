@@ -38,6 +38,36 @@
         "padding_bottom": 36
       }
     },
+    "33cd8630-6e5f-4ec5-b8dd-ce99d007f6cf": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18810388480302__33cd8630-6e5f-4ec5-b8dd-ce99d007f6cf-1681894929e04ab493-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "PHOTO GALLERIES",
+            "heading_size": "h1"
+          }
+        },
+        "template--18810388480302__33cd8630-6e5f-4ec5-b8dd-ce99d007f6cf-1681894929e04ab493-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>Some services, amenities, and other elements showcased in photography are subject to change due to social distancing and other safety requirements.<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18810388480302__33cd8630-6e5f-4ec5-b8dd-ce99d007f6cf-1681894929e04ab493-0",
+        "template--18810388480302__33cd8630-6e5f-4ec5-b8dd-ce99d007f6cf-1681894929e04ab493-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "1076afb8-d352-43ae-9de9-b1561a449d3e": {
       "type": "collage",
       "blocks": {
@@ -76,38 +106,9 @@
         "padding_bottom": 36
       }
     },
-    "33cd8630-6e5f-4ec5-b8dd-ce99d007f6cf": {
-      "type": "rich-text",
-      "blocks": {
-        "template--18810388480302__33cd8630-6e5f-4ec5-b8dd-ce99d007f6cf-1681894929e04ab493-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "PHOTO GALLERIES",
-            "heading_size": "h1"
-          }
-        },
-        "template--18810388480302__33cd8630-6e5f-4ec5-b8dd-ce99d007f6cf-1681894929e04ab493-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><em>Some services, amenities, and other elements showcased in photography are subject to change due to social distancing and other safety requirements.<\/em><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18810388480302__33cd8630-6e5f-4ec5-b8dd-ce99d007f6cf-1681894929e04ab493-0",
-        "template--18810388480302__33cd8630-6e5f-4ec5-b8dd-ce99d007f6cf-1681894929e04ab493-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "6c51463a-02c1-4e85-afe4-d862f7e7a3e4": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--18810388480302__6c51463a-02c1-4e85-afe4-d862f7e7a3e4-1681895011b9a86260-0": {
           "type": "slide",
@@ -169,6 +170,7 @@
     },
     "1681895028011265aa": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "bab44352-7e99-48c0-badf-f16090911f78": {
           "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
@@ -189,8 +191,8 @@
   },
   "order": [
     "e8210073-5cb6-4fc8-a1df-d791fac119ee",
-    "1076afb8-d352-43ae-9de9-b1561a449d3e",
     "33cd8630-6e5f-4ec5-b8dd-ce99d007f6cf",
+    "1076afb8-d352-43ae-9de9-b1561a449d3e",
     "6c51463a-02c1-4e85-afe4-d862f7e7a3e4",
     "main",
     "1681895028011265aa"
