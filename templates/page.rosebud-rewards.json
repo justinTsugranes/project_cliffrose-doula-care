@@ -103,11 +103,95 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "77e5579b-8328-4469-a51c-ba429cc12035": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18856779383086__77e5579b-8328-4469-a51c-ba429cc12035-168235014963ff3624-0": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>EVERY $1 SPENT<\/strong>",
+            "text": "<p>5 PETALS<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18856779383086__77e5579b-8328-4469-a51c-ba429cc12035-168235014963ff3624-1": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>SUBMIT A REVIEW<\/strong>",
+            "text": "<p>300 PETALS<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18856779383086__77e5579b-8328-4469-a51c-ba429cc12035-168235014963ff3624-2": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>FOLLOW ON INSTAGRAM<\/strong>",
+            "text": "<p>200 PETALS<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "ba3ae126-7905-457a-b3a7-beee0a34a54d": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>SHARE ON FB<\/strong>",
+            "text": "<p>200 PETALS<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fc5f6e71-ef80-42d3-aa63-aa521a09c0a3": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>REFER A FRIEND<\/strong>",
+            "text": "<p>400 PETALS<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a4595c41-df31-4ed4-8c17-54ea073458b4": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18856779383086__77e5579b-8328-4469-a51c-ba429cc12035-168235014963ff3624-0",
+        "template--18856779383086__77e5579b-8328-4469-a51c-ba429cc12035-168235014963ff3624-1",
+        "template--18856779383086__77e5579b-8328-4469-a51c-ba429cc12035-168235014963ff3624-2",
+        "ba3ae126-7905-457a-b3a7-beee0a34a54d",
+        "fc5f6e71-ef80-42d3-aa63-aa521a09c0a3",
+        "a4595c41-df31-4ed4-8c17-54ea073458b4"
+      ],
+      "settings": {
+        "title": "Earn Petals",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "c473b63c-8854-4f87-a279-3555769625cd",
-    "219e0a23-5fa4-43d8-94af-6c13a048ddf1"
+    "219e0a23-5fa4-43d8-94af-6c13a048ddf1",
+    "77e5579b-8328-4469-a51c-ba429cc12035"
   ]
 }
