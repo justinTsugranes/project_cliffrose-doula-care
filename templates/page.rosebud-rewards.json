@@ -202,7 +202,7 @@
         "template--18856779383086__8a78807e-670d-4818-8305-25e1c4dc2419-168234415320200053-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>They get 10% off coupon. You get400 Seeds<\/p>",
             "text_style": "body"
           }
         },
@@ -221,6 +221,7 @@
         "template--18856779383086__8a78807e-670d-4818-8305-25e1c4dc2419-168234415320200053-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_2.06.02_PM.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
