@@ -13,7 +13,7 @@
         "template--18810347290926__8c0951f7-21d1-4c9a-8179-01a94d3fd3ea-16818947135c7071f1-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Here are our current promotions, deals, and special offerings.",
             "text_style": "body"
           }
         },
@@ -139,6 +139,52 @@
         "padding_bottom": 36
       }
     },
+    "6efc3b04-e6cb-4bfd-9f2b-c75bdc84ac8e": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "ed1ccdc8-f262-484e-bbdd-e435e8375173": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bundle & Save",
+            "heading_size": "h1"
+          }
+        },
+        "e23e33cc-ef3b-4d80-8670-d80873cd24f9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bundles for you and your bundle<\/p>",
+            "text_style": "body"
+          }
+        },
+        "3b0b5e79-1cec-47ba-88cb-77637c99653f": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/bundle-save"
+          }
+        }
+      },
+      "block_order": [
+        "ed1ccdc8-f262-484e-bbdd-e435e8375173",
+        "e23e33cc-ef3b-4d80-8670-d80873cd24f9",
+        "3b0b5e79-1cec-47ba-88cb-77637c99653f"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-19_at_6.40.07_AM.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -152,6 +198,7 @@
     "8c0951f7-21d1-4c9a-8179-01a94d3fd3ea",
     "fc95f6ac-0835-41eb-8f9a-727b4fa7505b",
     "4069b629-0077-4839-9862-9d6812cda4c6",
+    "6efc3b04-e6cb-4bfd-9f2b-c75bdc84ac8e",
     "main"
   ]
 }
