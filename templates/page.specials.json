@@ -111,14 +111,14 @@
         "template--18810347290926__4069b629-0077-4839-9862-9d6812cda4c6-16818947289c418632-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Bundles for you and your bundle<\/p>",
             "text_style": "body"
           }
         },
         "template--18810347290926__4069b629-0077-4839-9862-9d6812cda4c6-16818947289c418632-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "SHOP NOW",
             "button_link": "shopify:\/\/collections\/bundle-save"
           }
         }
