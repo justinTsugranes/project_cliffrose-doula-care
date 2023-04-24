@@ -13,7 +13,7 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1": {
           "type": "text",
           "settings": {
-            "text": "<strong>Want to speak with a doula? Not sure if you would like to have a doula by your side? Book an available time below.<\/strong>",
+            "text": "Want to speak with a doula? Not sure if you would like to have a doula by your side? <strong>Book an available time below. <\/strong>Fill out the brief form so that we can best use our time together. Zoom meeting instructions will be e-mailed to the email that you provide.",
             "text_style": "body"
           }
         },
@@ -146,38 +146,9 @@
         "padding_bottom": 12
       }
     },
-    "ea73d1b1-f1b2-483a-a4cb-98db231b56bc": {
-      "type": "rich-text",
-      "blocks": {
-        "template--18772762755374__ea73d1b1-f1b2-483a-a4cb-98db231b56bc-16818539103b098f2f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "What We Can Cover",
-            "heading_size": "h1"
-          }
-        },
-        "template--18772762755374__ea73d1b1-f1b2-483a-a4cb-98db231b56bc-16818539103b098f2f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h2><strong>Your birth preferences<\/strong><\/h2><p>Your doula will listen attentively to your birth preferences and provide guidance and support in understanding your options, including topics such as natural birth, medicated birth, cesarean birth, and more.<\/p><p><\/p><h2><strong>Birth plan development<\/strong><\/h2><p>Your doula can help you develop a personalized birth plan that aligns with your preferences and values, providing valuable insights and recommendations based on her expertise.<\/p><p><\/p><h2><strong>Comfort measures during labor<\/strong><\/h2><p>Your doula can provide information and guidance on various comfort measures during labor, including breathing techniques, relaxation techniques, movement, and positioning, to help you cope with the physical and emotional aspects of labor.<\/p><p><\/p><h2><strong>Postpartum planning<\/strong><\/h2><p>Your doula can discuss postpartum planning, including topics such as breastfeeding, newborn care, emotional well-being, and self-care, to ensure you are prepared for the postpartum period.<\/p><p><\/p><h2><strong>Emotional support<\/strong><\/h2><p>Your doula recognizes the emotional aspects of pregnancy, childbirth, and postpartum, and can provide compassionate support and guidance in navigating any fears, anxieties, or concerns you may have.<\/p><p><\/p><h2><strong>Birth options and interventions<\/strong><\/h2><p>Your doula can provide information on different birth options and interventions that may arise during childbirth, including risks, benefits, and alternatives, to help you make informed decisions.<\/p><p><\/p><h2><strong>Reproductive justice<\/strong><\/h2><p>As an advocate for reproductive justice, doulas may discuss topics related to social justice, equity, and inclusivity in childbirth, and how it impacts your birthing experience.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18772762755374__ea73d1b1-f1b2-483a-a4cb-98db231b56bc-16818539103b098f2f-0",
-        "template--18772762755374__ea73d1b1-f1b2-483a-a4cb-98db231b56bc-16818539103b098f2f-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-2",
-        "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "fe99535a-d629-4dfd-a87a-76997026802d": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18772762755374__fe99535a-d629-4dfd-a87a-76997026802d-16818539103b098f2f-0": {
           "type": "heading",
@@ -213,6 +184,36 @@
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "ea73d1b1-f1b2-483a-a4cb-98db231b56bc": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18772762755374__ea73d1b1-f1b2-483a-a4cb-98db231b56bc-16818539103b098f2f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "What We Can Cover",
+            "heading_size": "h1"
+          }
+        },
+        "template--18772762755374__ea73d1b1-f1b2-483a-a4cb-98db231b56bc-16818539103b098f2f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>Your birth preferences<\/strong><\/h2><p>Your doula will listen attentively to your birth preferences and provide guidance and support in understanding your options, including topics such as natural birth, medicated birth, cesarean birth, and more.<\/p><p><\/p><h2><strong>Birth plan development<\/strong><\/h2><p>Your doula can help you develop a personalized birth plan that aligns with your preferences and values, providing valuable insights and recommendations based on her expertise.<\/p><p><\/p><h2><strong>Comfort measures during labor<\/strong><\/h2><p>Your doula can provide information and guidance on various comfort measures during labor, including breathing techniques, relaxation techniques, movement, and positioning, to help you cope with the physical and emotional aspects of labor.<\/p><p><\/p><h2><strong>Postpartum planning<\/strong><\/h2><p>Your doula can discuss postpartum planning, including topics such as breastfeeding, newborn care, emotional well-being, and self-care, to ensure you are prepared for the postpartum period.<\/p><p><\/p><h2><strong>Emotional support<\/strong><\/h2><p>Your doula recognizes the emotional aspects of pregnancy, childbirth, and postpartum, and can provide compassionate support and guidance in navigating any fears, anxieties, or concerns you may have.<\/p><p><\/p><h2><strong>Birth options and interventions<\/strong><\/h2><p>Your doula can provide information on different birth options and interventions that may arise during childbirth, including risks, benefits, and alternatives, to help you make informed decisions.<\/p><p><\/p><h2><strong>Reproductive justice<\/strong><\/h2><p>As an advocate for reproductive justice, doulas may discuss topics related to social justice, equity, and inclusivity in childbirth, and how it impacts your birthing experience.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18772762755374__ea73d1b1-f1b2-483a-a4cb-98db231b56bc-16818539103b098f2f-0",
+        "template--18772762755374__ea73d1b1-f1b2-483a-a4cb-98db231b56bc-16818539103b098f2f-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-2",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "related-products": {
@@ -254,9 +255,9 @@
   "order": [
     "8294d813-b228-49e7-a8df-6a350c776c15",
     "main",
-    "ea73d1b1-f1b2-483a-a4cb-98db231b56bc",
     "fe99535a-d629-4dfd-a87a-76997026802d",
     "df1f36a9-3e2d-454c-913e-e97596f041f6",
+    "ea73d1b1-f1b2-483a-a4cb-98db231b56bc",
     "related-products",
     "16820347272dd97f3b"
   ]
