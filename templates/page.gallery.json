@@ -1,11 +1,41 @@
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "disabled": true,
+    "e8210073-5cb6-4fc8-a1df-d791fac119ee": {
+      "type": "collage",
+      "blocks": {
+        "template--18810388480302__e8210073-5cb6-4fc8-a1df-d791fac119ee-168235703077069e12-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_2.06.40_PM.jpg"
+          }
+        },
+        "229049f8-2e33-4435-91b0-9e8672b19250": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_2.05.39_PM.jpg"
+          }
+        },
+        "6807f730-6a40-4038-aa99-1585e788c547": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-21_at_9.31.47_PM_527a0969-10f6-4d21-a0d6-a14fa914cf67.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--18810388480302__e8210073-5cb6-4fc8-a1df-d791fac119ee-168235703077069e12-0",
+        "229049f8-2e33-4435-91b0-9e8672b19250",
+        "6807f730-6a40-4038-aa99-1585e788c547"
+      ],
       "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "33cd8630-6e5f-4ec5-b8dd-ce99d007f6cf": {
@@ -36,25 +66,6 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
-      }
-    },
-    "1681895028011265aa": {
-      "type": "apps",
-      "blocks": {
-        "bab44352-7e99-48c0-badf-f16090911f78": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
-          "settings": {
-            "heading_size": 20,
-            "feed_width": 100,
-            "html_area": ""
-          }
-        }
-      },
-      "block_order": [
-        "bab44352-7e99-48c0-badf-f16090911f78"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "6c51463a-02c1-4e85-afe4-d862f7e7a3e4": {
@@ -109,12 +120,40 @@
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1681895028011265aa": {
+      "type": "apps",
+      "blocks": {
+        "bab44352-7e99-48c0-badf-f16090911f78": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "bab44352-7e99-48c0-badf-f16090911f78"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
-    "main",
+    "e8210073-5cb6-4fc8-a1df-d791fac119ee",
     "33cd8630-6e5f-4ec5-b8dd-ce99d007f6cf",
-    "1681895028011265aa",
-    "6c51463a-02c1-4e85-afe4-d862f7e7a3e4"
+    "6c51463a-02c1-4e85-afe4-d862f7e7a3e4",
+    "main",
+    "1681895028011265aa"
   ]
 }
