@@ -75,8 +75,8 @@
         "template--18810388480302__33cd8630-6e5f-4ec5-b8dd-ce99d007f6cf-1681894929e04ab493-1"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -143,8 +143,8 @@
         "fb40d11e-3eaf-43a5-8d55-d640c7dc5001"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "right",
+        "content_alignment": "right",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
@@ -211,8 +211,8 @@
         "8ca1f14c-ee18-453c-9965-4f2729c6db5d"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
