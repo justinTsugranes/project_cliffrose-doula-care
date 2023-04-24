@@ -14,24 +14,24 @@
         "template--18869097726254__a7a169c4-c38d-41c0-a135-6cdfb74f1c1e-16823434954f8e979a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Bump To Table",
             "heading_size": "h1"
           }
         },
         "template--18869097726254__a7a169c4-c38d-41c0-a135-6cdfb74f1c1e-16823434954f8e979a-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "A Trimester By Trimester Guide to Having a Healthy Pregnancy",
             "text_style": "body"
           }
         },
         "template--18869097726254__a7a169c4-c38d-41c0-a135-6cdfb74f1c1e-16823434954f8e979a-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "Download Now",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -43,6 +43,7 @@
         "template--18869097726254__a7a169c4-c38d-41c0-a135-6cdfb74f1c1e-16823434954f8e979a-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_12.45.14_PM.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
