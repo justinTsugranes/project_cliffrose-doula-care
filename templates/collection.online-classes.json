@@ -2,6 +2,7 @@
   "sections": {
     "c09d92e5-2a87-408a-8087-801589bc779e": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-0": {
           "type": "heading",
@@ -51,10 +52,9 @@
     },
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "settings": {
         "show_collection_description": true,
-        "show_collection_image": false,
+        "show_collection_image": true,
         "color_scheme": "background-1"
       }
     },
