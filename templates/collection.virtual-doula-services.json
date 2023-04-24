@@ -1,0 +1,219 @@
+{
+  "sections": {
+    "c09d92e5-2a87-408a-8087-801589bc779e": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Virtual Birth Doula Services",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-1": {
+          "type": "text",
+          "settings": {
+            "text": "As a full spectrum doula, I work with all reproductive journeys: conception, adoption, surrogacy, pregnancy, labor, and birth. I am there in the postpartum and can help you through a termination process. <strong>I support people through every outcome.<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Book a consultation",
+            "button_link_1": "https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-0",
+        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-1",
+        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.44.58_PM.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "background-1"
+      }
+    },
+    "0e4f03f0-8a40-48f2-8122-1b89a83865c0": {
+      "type": "featured-product",
+      "blocks": {
+        "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "4790a6e9-9b91-42a8-af89-07d284a0c04d": {
+          "type": "text",
+          "settings": {
+            "text": "Consultations are 1-Hour Long and held on Zoom. Book a time below and then check your e-mail for a welcome letter from us as well as the Zoom meeting information.",
+            "text_style": "body"
+          }
+        },
+        "5bdbbea2-5d32-4b06-85f0-3decaf90982c": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=377e62\" style=\"min-width:320px;height:630px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->"
+          }
+        },
+        "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-3": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-4": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-5": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-0",
+        "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-1",
+        "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-2",
+        "4790a6e9-9b91-42a8-af89-07d284a0c04d",
+        "5bdbbea2-5d32-4b06-85f0-3decaf90982c",
+        "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-3",
+        "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-4",
+        "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-5",
+        "template--18771626950958__0e4f03f0-8a40-48f2-8122-1b89a83865c0-168219360637611b8c-6"
+      ],
+      "settings": {
+        "product": "hourly-virtual-consultations",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "cover",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e8f888b7-2ae1-4533-85a6-58cd7107120d": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "We schedule virtual consultations that typically cover the following topics:",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Comfort Measures (environmental, relaxation techniques, affirmations)<\/li><li>Birth Ball Use<\/li><li>Labor Positions<\/li><li>How to Labor at Home<\/li><li>How to Advocate for Yourself & Hospital Policies<\/li><li>Immediate Newborn Care<\/li><li>Miscarriage & Bereavement Support<\/li><li>Adoption<\/li><li>Surrogacy<\/li><\/ul>",
+            "text_style": "body"
+          }
+        },
+        "971aa45b-c33c-4db1-9ac8-da71981da6c0": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-0",
+        "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-1",
+        "971aa45b-c33c-4db1-9ac8-da71981da6c0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.49.36_PM.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 8,
+        "columns_desktop": 2,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": false,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "c09d92e5-2a87-408a-8087-801589bc779e",
+    "banner",
+    "0e4f03f0-8a40-48f2-8122-1b89a83865c0",
+    "e8f888b7-2ae1-4533-85a6-58cd7107120d",
+    "product-grid"
+  ]
+}
