@@ -47,13 +47,6 @@
         "show_text_below": true
       }
     },
-    "main": {
-      "type": "main-page",
-      "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
-    },
     "fc95f6ac-0835-41eb-8f9a-727b4fa7505b": {
       "type": "image-with-text",
       "blocks": {
@@ -143,12 +136,20 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
     }
   },
   "order": [
     "8c0951f7-21d1-4c9a-8179-01a94d3fd3ea",
-    "main",
     "fc95f6ac-0835-41eb-8f9a-727b4fa7505b",
-    "4069b629-0077-4839-9862-9d6812cda4c6"
+    "4069b629-0077-4839-9862-9d6812cda4c6",
+    "main"
   ]
 }
