@@ -21,7 +21,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Schedule an Appointment",
-            "button_link_1": "shopify:\/\/products\/hourly-virtual-consultations",
+            "button_link_1": "shopify:\/\/products\/virtual-consultations",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",

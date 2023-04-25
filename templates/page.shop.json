@@ -414,7 +414,7 @@
         "0d948b4b-5ecf-4582-b14e-c18acc321e83"
       ],
       "settings": {
-        "product": "hourly-virtual-consultations",
+        "product": "virtual-consultations",
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_size": "small",

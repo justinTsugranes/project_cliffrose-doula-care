@@ -69,7 +69,7 @@
             "title": "",
             "text": "<h2><strong>With knowledge comes power, and that's where Cliffrose Doula Care comes in.<\/strong><\/h2><p>Our comprehensive education and support will equip you with the tools and understanding you need to approach pregnancy, birth, and parenthood with confidence and empowerment. Learn how to trust your body, connect with your baby, and make informed decisions that align with your values and preferences.<\/p><p><strong>Don't let fear hold you back from the beautiful reality of a fulfilling birth and parenthood journey.<\/strong><\/p>",
             "link_label": "Book a consultation",
-            "link": "shopify:\/\/products\/hourly-virtual-consultations"
+            "link": "shopify:\/\/products\/virtual-consultations"
           }
         }
       },
@@ -381,7 +381,7 @@
             "heading_size": "h1",
             "subheading": "Learn how to trust your body, connect with your baby, and make informed decisions that align with your values and preferences. <strong>Don't let fear hold you back from the beautiful reality of a fulfilling birth and parenthood journey.<\/strong>",
             "button_label": "Schedule Appointment",
-            "link": "shopify:\/\/products\/hourly-virtual-consultations",
+            "link": "shopify:\/\/products\/virtual-consultations",
             "button_style_secondary": false,
             "box_align": "middle-left",
             "show_text_box": false,
