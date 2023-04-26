@@ -29,7 +29,7 @@
         "template--18856779383086__c473b63c-8854-4f87-a279-3555769625cd-168234415320200053-1": {
           "type": "text",
           "settings": {
-            "text": "<h2><strong>YOU’LL RECEIVE 200 PETALS JUST FOR JOINING! <\/strong>🌹<\/h2>",
+            "text": "<h2><strong>YOU’LL RECEIVE 200 ROSEBUDS JUST FOR JOINING! 🌹<\/strong><\/h2>",
             "text_style": "body"
           }
         },
@@ -79,7 +79,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
-            "title": "<strong>Earn Petals<\/strong>",
+            "title": "<strong>Earn Rosebuds<\/strong>",
             "text": "<p>for shopping & more<\/p>",
             "link_label": "",
             "link": ""
@@ -126,7 +126,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>EVERY $1 SPENT<\/strong>",
-            "text": "<p>5 PETALS<\/p>",
+            "text": "<p>5 ROSEBUDS<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -136,7 +136,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>SUBMIT A REVIEW<\/strong>",
-            "text": "<p>300 PETALS<\/p>",
+            "text": "<p>300 ROSEBUDS<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -146,7 +146,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>FOLLOW ON INSTAGRAM<\/strong>",
-            "text": "<p>200 PETALS<\/p>",
+            "text": "<p>200 ROSEBUDS<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -156,7 +156,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>SHARE ON FB<\/strong>",
-            "text": "<p>200 PETALS<\/p>",
+            "text": "<p>200 ROSEBUDS<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -176,7 +176,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>ON YOUR BIRTHDAY<\/strong>",
-            "text": "<p>500 PETALS<\/p>",
+            "text": "<p>500 ROSEBUDS<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -272,7 +272,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
-            "title": "<strong>500 PETALS<\/strong>",
+            "title": "<strong>500 ROSEBUDS<\/strong>",
             "text": "<p><strong>FOR $5 OFF<\/strong><\/p>",
             "link_label": "",
             "link": ""
@@ -282,7 +282,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
-            "title": "<strong>3000 PETALS<\/strong>",
+            "title": "<strong>3000 ROSEBUDS<\/strong>",
             "text": "<p><strong>FOR $45 OFF<\/strong><\/p>",
             "link_label": "",
             "link": ""
@@ -292,7 +292,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
-            "title": "<strong>10,000 PETALS<\/strong>",
+            "title": "<strong>10,000 ROSEBUDS<\/strong>",
             "text": "<p><strong>FOR $150 OFF<\/strong><\/p>",
             "link_label": "",
             "link": ""
@@ -302,7 +302,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
-            "title": "<strong>15000 PETALS<\/strong>",
+            "title": "<strong>15000 ROSEBUDS<\/strong>",
             "text": "<p><strong>FOR $300 OFF<\/strong><\/p>",
             "link_label": "",
             "link": ""
