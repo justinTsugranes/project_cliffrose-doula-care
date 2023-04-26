@@ -11,6 +11,14 @@
     "c473b63c-8854-4f87-a279-3555769625cd": {
       "type": "image-with-text",
       "blocks": {
+        "2df51eb1-d95f-419e-9689-14c1789fbd16": {
+          "type": "caption",
+          "settings": {
+            "caption": "Growth, Beauty, and New Beginnings",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
         "template--18856779383086__c473b63c-8854-4f87-a279-3555769625cd-168234415320200053-0": {
           "type": "heading",
           "settings": {
@@ -34,6 +42,7 @@
         }
       },
       "block_order": [
+        "2df51eb1-d95f-419e-9689-14c1789fbd16",
         "template--18856779383086__c473b63c-8854-4f87-a279-3555769625cd-168234415320200053-0",
         "template--18856779383086__c473b63c-8854-4f87-a279-3555769625cd-168234415320200053-1",
         "template--18856779383086__c473b63c-8854-4f87-a279-3555769625cd-168234415320200053-2"
@@ -59,6 +68,7 @@
         "template--18856779383086__219e0a23-5fa4-43d8-94af-6c13a048ddf1-168235014963ff3624-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>Sign Up<\/strong>",
             "text": "<p>today<\/p>",
             "link_label": "",
@@ -68,6 +78,7 @@
         "template--18856779383086__219e0a23-5fa4-43d8-94af-6c13a048ddf1-168235014963ff3624-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>Earn Petals<\/strong>",
             "text": "<p>for shopping & more<\/p>",
             "link_label": "",
@@ -77,6 +88,7 @@
         "template--18856779383086__219e0a23-5fa4-43d8-94af-6c13a048ddf1-168235014963ff3624-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>Redeem<\/strong>",
             "text": "<p>for savings<\/p>",
             "link_label": "",
@@ -261,7 +273,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>500 PETALS<\/strong>",
-            "text": "<p>FOR $5 OFF<\/p>",
+            "text": "<p><strong>FOR $5 OFF<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -271,7 +283,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>3000 PETALS<\/strong>",
-            "text": "<p>FOR $45 OFF<\/p>",
+            "text": "<p><strong>FOR $45 OFF<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -281,7 +293,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>10,000 PETALS<\/strong>",
-            "text": "<p>FOR $150 OFF<\/p>",
+            "text": "<p><strong>FOR $150 OFF<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -291,7 +303,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>15000 PETALS<\/strong>",
-            "text": "<p>FOR $300 OFF<\/p>",
+            "text": "<p><strong>FOR $300 OFF<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
