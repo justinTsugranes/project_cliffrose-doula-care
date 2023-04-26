@@ -312,8 +312,8 @@
   "platform_customizations": {
     "custom_css": [
       "\/* add glass morph to image banner cards *\/div.banner__content > div {\/* From https:\/\/css.glass *\/ background: rgba(255, 255, 255, 0.8); border-radius: 16px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); border: 1px solid rgba(255, 255, 255, 0.3);}",
-      "\/* add border radius to text\/image sections *\/.image-with-text__media-item img,.image-with-text--overlap .image-with-text__content {border-radius: 16px;}",
-      ".global-media-settings img, .global-media-settings iframe, .global-media-settings model-viewer, .global-media-settings video {box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);}"
+      "\/* add border radius to text\/image sections *\/\/* .image-with-text__media-item img,.image-with-text--overlap .image-with-text__content {border-radius: 16px;}",
+      " *\/.global-media-settings img,.global-media-settings iframe,.global-media-settings model-viewer,.global-media-settings video {box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);}"
     ]
   }
 }
