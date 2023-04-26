@@ -68,7 +68,7 @@
         "template--18856779383086__219e0a23-5fa4-43d8-94af-6c13a048ddf1-168235014963ff3624-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
+            "image": "shopify:\/\/shop_images\/images.png",
             "title": "<strong>Sign Up<\/strong>",
             "text": "<p>today<\/p>",
             "link_label": "",
@@ -78,7 +78,7 @@
         "template--18856779383086__219e0a23-5fa4-43d8-94af-6c13a048ddf1-168235014963ff3624-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
+            "image": "shopify:\/\/shop_images\/images.png",
             "title": "<strong>Earn Rosebuds<\/strong>",
             "text": "<p>for shopping & more<\/p>",
             "link_label": "",
@@ -88,7 +88,7 @@
         "template--18856779383086__219e0a23-5fa4-43d8-94af-6c13a048ddf1-168235014963ff3624-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
+            "image": "shopify:\/\/shop_images\/images.png",
             "title": "<strong>Redeem<\/strong>",
             "text": "<p>for savings<\/p>",
             "link_label": "",
@@ -104,7 +104,7 @@
       "settings": {
         "title": "HOW IT WORKS",
         "heading_size": "h1",
-        "image_width": "half",
+        "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "center",
