@@ -14,7 +14,7 @@
         "template--18856779383086__c473b63c-8854-4f87-a279-3555769625cd-168234415320200053-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "The Rosebuds Rewards Program",
             "heading_size": "h1"
           }
         },
@@ -39,10 +39,10 @@
         "template--18856779383086__c473b63c-8854-4f87-a279-3555769625cd-168234415320200053-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/wicker-basket-with-ultrasound-images-and-stuff-for-2022-10-18-00-36-11-utc.jpg",
+        "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -149,7 +149,7 @@
           "type": "column",
           "settings": {
             "title": "<strong>REFER A FRIEND<\/strong>",
-            "text": "<p>400 PETALS<\/p><p>*You get petals, they’ll get 10% off!<\/p>",
+            "text": "<p>You both receive $5 off a $20 order<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -162,6 +162,15 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "20b4210e-a296-4ae3-a5c2-2f84e54f3a00": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>NEWSLETTER SIGNUP<\/strong>",
+            "text": "<p>200 PETALS<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -170,7 +179,8 @@
         "template--18856779383086__77e5579b-8328-4469-a51c-ba429cc12035-168235014963ff3624-2",
         "ba3ae126-7905-457a-b3a7-beee0a34a54d",
         "fc5f6e71-ef80-42d3-aa63-aa521a09c0a3",
-        "a4595c41-df31-4ed4-8c17-54ea073458b4"
+        "a4595c41-df31-4ed4-8c17-54ea073458b4",
+        "20b4210e-a296-4ae3-a5c2-2f84e54f3a00"
       ],
       "settings": {
         "title": "EARN PETALS",
