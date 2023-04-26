@@ -112,6 +112,7 @@
         "template--18856779383086__77e5579b-8328-4469-a51c-ba429cc12035-168235014963ff3624-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>EVERY $1 SPENT<\/strong>",
             "text": "<p>5 PETALS<\/p>",
             "link_label": "",
@@ -121,6 +122,7 @@
         "template--18856779383086__77e5579b-8328-4469-a51c-ba429cc12035-168235014963ff3624-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>SUBMIT A REVIEW<\/strong>",
             "text": "<p>300 PETALS<\/p>",
             "link_label": "",
@@ -130,6 +132,7 @@
         "template--18856779383086__77e5579b-8328-4469-a51c-ba429cc12035-168235014963ff3624-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>FOLLOW ON INSTAGRAM<\/strong>",
             "text": "<p>200 PETALS<\/p>",
             "link_label": "",
@@ -139,6 +142,7 @@
         "ba3ae126-7905-457a-b3a7-beee0a34a54d": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>SHARE ON FB<\/strong>",
             "text": "<p>200 PETALS<\/p>",
             "link_label": "",
@@ -148,6 +152,7 @@
         "fc5f6e71-ef80-42d3-aa63-aa521a09c0a3": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>REFER A FRIEND<\/strong>",
             "text": "<p>You both receive $5 off a $20 order<\/p>",
             "link_label": "",
@@ -157,6 +162,7 @@
         "a4595c41-df31-4ed4-8c17-54ea073458b4": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>ON YOUR BIRTHDAY<\/strong>",
             "text": "<p>500 PETALS<\/p>",
             "link_label": "",
@@ -165,7 +171,9 @@
         },
         "20b4210e-a296-4ae3-a5c2-2f84e54f3a00": {
           "type": "column",
+          "disabled": true,
           "settings": {
+            "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>NEWSLETTER SIGNUP<\/strong>",
             "text": "<p>200 PETALS<\/p>",
             "link_label": "",
@@ -212,7 +220,7 @@
         "template--18856779383086__8a78807e-670d-4818-8305-25e1c4dc2419-168234415320200053-1": {
           "type": "text",
           "settings": {
-            "text": "<p>They get 10% off coupon. You get400 Seeds<\/p>",
+            "text": "<p>You both will receive $5 off a $20 order.<\/p>",
             "text_style": "body"
           }
         },
@@ -251,6 +259,7 @@
         "template--18856779383086__7d841ec1-5761-4732-a258-194438964cdc-168235014963ff3624-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>500 PETALS<\/strong>",
             "text": "<p>FOR $5 OFF<\/p>",
             "link_label": "",
@@ -260,17 +269,9 @@
         "template--18856779383086__7d841ec1-5761-4732-a258-194438964cdc-168235014963ff3624-1": {
           "type": "column",
           "settings": {
-            "title": "<strong>1000 PETALS<\/strong>",
-            "text": "<p>FOR $10 OFF<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18856779383086__7d841ec1-5761-4732-a258-194438964cdc-168235014963ff3624-2": {
-          "type": "column",
-          "settings": {
+            "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
             "title": "<strong>3000 PETALS<\/strong>",
-            "text": "<p>FOR $30 OFF<\/p>",
+            "text": "<p>FOR $45 OFF<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -278,8 +279,9 @@
         "a7637767-3835-406e-a170-213d1c537aeb": {
           "type": "column",
           "settings": {
-            "title": "<strong>15,000 PETALS<\/strong>",
-            "text": "<p>FOR $ OFF<\/p>",
+            "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
+            "title": "<strong>10,000 PETALS<\/strong>",
+            "text": "<p>FOR $150 OFF<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -287,8 +289,9 @@
         "6c3101b5-a9b3-4559-86dc-065eed1f42e2": {
           "type": "column",
           "settings": {
-            "title": "<strong>75000 PETALS<\/strong>",
-            "text": "<p>FOR $75 OFF<\/p>",
+            "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
+            "title": "<strong>15000 PETALS<\/strong>",
+            "text": "<p>FOR $300 OFF<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -307,7 +310,6 @@
       "block_order": [
         "template--18856779383086__7d841ec1-5761-4732-a258-194438964cdc-168235014963ff3624-0",
         "template--18856779383086__7d841ec1-5761-4732-a258-194438964cdc-168235014963ff3624-1",
-        "template--18856779383086__7d841ec1-5761-4732-a258-194438964cdc-168235014963ff3624-2",
         "a7637767-3835-406e-a170-213d1c537aeb",
         "6c3101b5-a9b3-4559-86dc-065eed1f42e2",
         "6af644e3-4a26-46ee-97dd-31b2839d8131"
@@ -317,7 +319,7 @@
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "circle",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
