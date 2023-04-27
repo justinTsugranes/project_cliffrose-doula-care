@@ -116,7 +116,14 @@
         "6a7e9d0e-f182-4f1c-b316-e9814b705aa5": {
           "type": "text",
           "settings": {
-            "text": "Have a few questions? Live far away and don't have access to a doula? Have a busy schedule? Book a video meeting below.Consultations are 15-Minutes Long and held on Zoom. Book a time below and then check your email for a welcome letter from us as well as the Zoom meeting information.",
+            "text": "Have a few questions? Live far away and don't have access to a doula? Have a busy schedule? <strong>Schedule A Free 15-Minute Appointment below<\/strong>.",
+            "text_style": "body"
+          }
+        },
+        "dc6c41cb-b225-4095-963c-301361a26b87": {
+          "type": "text",
+          "settings": {
+            "text": "Find an available time slot below. Fill out the brief form so that we can best use our time together. Zoom meeting instructions will be e-mailed to the email that you provide.",
             "text_style": "body"
           }
         },
@@ -144,6 +151,7 @@
         "buy_buttons",
         "0776276a-bffd-4a7f-9541-edbae773dd44",
         "6a7e9d0e-f182-4f1c-b316-e9814b705aa5",
+        "dc6c41cb-b225-4095-963c-301361a26b87",
         "803e7bf3-1f71-47ac-8241-8fbda08e2e34",
         "share"
       ],
@@ -160,37 +168,6 @@
         "enable_video_looping": false,
         "padding_top": 36,
         "padding_bottom": 12
-      }
-    },
-    "fe99535a-d629-4dfd-a87a-76997026802d": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--18772762755374__fe99535a-d629-4dfd-a87a-76997026802d-16818539103b098f2f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Schedule A Free 15-Minute Appointment",
-            "heading_size": "h1"
-          }
-        },
-        "template--18772762755374__fe99535a-d629-4dfd-a87a-76997026802d-16818539103b098f2f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Find an available time slot below. Fill out the brief form so that we can best use our time together. Zoom meeting instructions will be e-mailed to the email that you provide.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18772762755374__fe99535a-d629-4dfd-a87a-76997026802d-16818539103b098f2f-0",
-        "template--18772762755374__fe99535a-d629-4dfd-a87a-76997026802d-16818539103b098f2f-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "df1f36a9-3e2d-454c-913e-e97596f041f6": {
@@ -272,7 +249,6 @@
   "order": [
     "8294d813-b228-49e7-a8df-6a350c776c15",
     "main",
-    "fe99535a-d629-4dfd-a87a-76997026802d",
     "df1f36a9-3e2d-454c-913e-e97596f041f6",
     "ea73d1b1-f1b2-483a-a4cb-98db231b56bc",
     "related-products",
