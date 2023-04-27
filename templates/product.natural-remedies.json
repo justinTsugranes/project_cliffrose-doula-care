@@ -67,6 +67,12 @@
           "settings": {
           }
         },
+        "1f1d1a09-9a08-40f3-a32e-8d4b6f199583": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/natural-remedies-for-common-pregnancy-symptoms?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=377e62\" style=\"min-width:320px;height:630px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->"
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "disabled": true,
@@ -94,6 +100,7 @@
         "price",
         "variant_picker",
         "description",
+        "1f1d1a09-9a08-40f3-a32e-8d4b6f199583",
         "quantity_selector",
         "buy_buttons",
         "share"
@@ -115,6 +122,7 @@
     },
     "df1f36a9-3e2d-454c-913e-e97596f041f6": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/natural-remedies-for-common-pregnancy-symptoms?hide_gdpr_banner=1&primary_color=377e62\" style=\"min-width:320px;height:730px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
         "color_scheme": "background-1",
@@ -138,22 +146,12 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "a272edd2-5c04-4c98-8df7-321bf71a4f74": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "8294d813-b228-49e7-a8df-6a350c776c15",
     "main",
     "df1f36a9-3e2d-454c-913e-e97596f041f6",
-    "related-products",
-    "a272edd2-5c04-4c98-8df7-321bf71a4f74"
+    "related-products"
   ]
 }
