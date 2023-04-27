@@ -311,10 +311,10 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "\/* add glass morph to image banner cards *\/.banner__content > div {background: rgba(255, 255, 255, 0.8); border-radius: 16px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px);}",
       "\/* add border radius to text\/image sections *\/.image-with-text--overlap .image-with-text__content {border-radius: 16px; box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;}",
-      ".multicolumn-list:not(.slider) li div {border-radius: 16px;}",
-      ".multicolumn-list:not(.slider) li > div {box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;}"
+      "\/* *\/.multicolumn-list:not(.slider) li div {border-radius: 16px;}",
+      "\/* *\/.multicolumn-list:not(.slider) li > div {box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;}",
+      "\/* *\/@media screen and (min-width: 749px) {\/* add glass morph to image banner cards *\/.banner__content > div {background: rgba(255, 255, 255, 0.8); border-radius: 16px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px);} }"
     ]
   }
 }
