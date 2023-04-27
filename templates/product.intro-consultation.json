@@ -73,6 +73,12 @@
           "settings": {
           }
         },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "disabled": true,
@@ -94,17 +100,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        },
         "0776276a-bffd-4a7f-9541-edbae773dd44": {
           "type": "icon-with-text",
           "disabled": true,
@@ -117,6 +112,25 @@
             "icon_3": "price_tag",
             "heading_3": "Free"
           }
+        },
+        "6a7e9d0e-f182-4f1c-b316-e9814b705aa5": {
+          "type": "text",
+          "settings": {
+            "text": "Have a few questions? Live far away and don't have access to a doula? Have a busy schedule? Book a video meeting below.Consultations are 15-Minutes Long and held on Zoom. Book a time below and then check your email for a welcome letter from us as well as the Zoom meeting information.",
+            "text_style": "body"
+          }
+        },
+        "803e7bf3-1f71-47ac-8241-8fbda08e2e34": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/intro-birth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=377e62\" style=\"min-width:320px;height:630px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->"
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
         }
       },
       "block_order": [
@@ -124,12 +138,14 @@
         "64039e27-f39f-4450-a904-7e1c06d95d3b",
         "title",
         "price",
+        "description",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
-        "share",
-        "0776276a-bffd-4a7f-9541-edbae773dd44"
+        "0776276a-bffd-4a7f-9541-edbae773dd44",
+        "6a7e9d0e-f182-4f1c-b316-e9814b705aa5",
+        "803e7bf3-1f71-47ac-8241-8fbda08e2e34",
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -179,6 +195,7 @@
     },
     "df1f36a9-3e2d-454c-913e-e97596f041f6": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/intro-birth-consultation?hide_gdpr_banner=1&primary_color=377e62\" style=\"min-width:320px;height:730px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
         "color_scheme": "background-1",
