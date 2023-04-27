@@ -156,6 +156,9 @@
         "07dd7590-ee35-49ea-bd9c-a52a162137e4",
         "fc31c9fe-7fd3-4f3b-a73c-e884f3e0dcb1"
       ],
+      "custom_css": [
+        "@media screen and (min-width: 749px) {.banner__content > div {border-radius: 16px; backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); }}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.46.09_PM.jpg",
         "image_overlay_opacity": 20,
