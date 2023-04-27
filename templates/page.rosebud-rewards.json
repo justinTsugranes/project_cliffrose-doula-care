@@ -102,6 +102,7 @@
         "template--18856779383086__219e0a23-5fa4-43d8-94af-6c13a048ddf1-168235014963ff3624-2"
       ],
       "custom_css": [
+        "div {box-shadow: none;}",
         "img {border-radius: 50%; object-fit: scale-down;}"
       ],
       "settings": {
