@@ -106,7 +106,7 @@
         "share"
       ],
       "settings": {
-        "enable_sticky_info": true,
+        "enable_sticky_info": false,
         "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "cover",
