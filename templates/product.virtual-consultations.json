@@ -68,6 +68,13 @@
           "settings": {
           }
         },
+        "2db0546d-06a2-46aa-8ad4-0aa880468908": {
+          "type": "text",
+          "settings": {
+            "text": "Consultations are 1-Hour Long and held on Zoom. Book a time below and then check your e-mail for a welcome letter from us as well as the Zoom meeting information.",
+            "text_style": "body"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "disabled": true,
@@ -91,7 +98,14 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
+          }
+        },
+        "b3a091aa-b910-483e-911e-b882b8251cc4": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=377e62\" style=\"min-width:320px;height:630px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->"
           }
         },
         "share": {
@@ -105,10 +119,12 @@
         "vendor",
         "title",
         "price",
+        "2db0546d-06a2-46aa-8ad4-0aa880468908",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "description",
+        "b3a091aa-b910-483e-911e-b882b8251cc4",
         "share"
       ],
       "settings": {
@@ -126,39 +142,46 @@
         "padding_bottom": 12
       }
     },
-    "e477a957-5799-4844-ad6b-cf9609776859": {
-      "type": "rich-text",
-      "disabled": true,
+    "6b9f88ff-e219-4a98-9bdf-99cf3296e185": {
+      "type": "image-with-text",
       "blocks": {
-        "template--18771681968430__e477a957-5799-4844-ad6b-cf9609776859-16817246966bb54754-0": {
+        "template--18771681968430__6b9f88ff-e219-4a98-9bdf-99cf3296e185-168259170160937ffc-0": {
           "type": "heading",
           "settings": {
             "heading": "We schedule virtual consultations that typically cover the following topics:",
             "heading_size": "h1"
           }
         },
-        "template--18771681968430__e477a957-5799-4844-ad6b-cf9609776859-16817246966bb54754-1": {
+        "template--18771681968430__6b9f88ff-e219-4a98-9bdf-99cf3296e185-168259170160937ffc-1": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Comfort Measures (environmental, relaxation techniques, affirmations)<\/li><li>Birth Ball Use<\/li><li>Labor Positions<\/li><li>How to Labor at Home<\/li><li>How to Advocate for Yourself & Hospital Policies<\/li><li>Immediate Newborn Care<\/li><li>Miscarriage & Bereavement Support<\/li><li>Adoption<\/li><li>Surrogacy<\/li><\/ul><p>Consultations are 1-Hour Long and held on Zoom. Book a time below and then check your e-mail for a welcome letter from us as well as the Zoom meeting information.<\/p>"
+            "text": "<ul><li>Comfort Measures (environmental, relaxation techniques, affirmations)<\/li><li>Birth Ball Use<\/li><li>Labor Positions<\/li><li>How to Labor at Home<\/li><li>How to Advocate for Yourself & Hospital Policies<\/li><li>Immediate Newborn Care<\/li><li>Miscarriage & Bereavement Support<\/li><li>Adoption<\/li><li>Surrogacy<\/li><\/ul><p>Consultations are 1-Hour Long and held on Zoom. Book a time and then check your e-mail for a welcome letter from us as well as the Zoom meeting information.<\/p>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "template--18771681968430__e477a957-5799-4844-ad6b-cf9609776859-16817246966bb54754-0",
-        "template--18771681968430__e477a957-5799-4844-ad6b-cf9609776859-16817246966bb54754-1"
+        "template--18771681968430__6b9f88ff-e219-4a98-9bdf-99cf3296e185-168259170160937ffc-0",
+        "template--18771681968430__6b9f88ff-e219-4a98-9bdf-99cf3296e185-168259170160937ffc-1"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.49.36_PM_7ff628bc-77fc-4e18-9552-13975a82d274.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "df1f36a9-3e2d-454c-913e-e97596f041f6": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation?hide_gdpr_banner=1&primary_color=377e62\" style=\"min-width:320px;height:730px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
         "color_scheme": "background-1",
@@ -187,7 +210,7 @@
   "order": [
     "8294d813-b228-49e7-a8df-6a350c776c15",
     "main",
-    "e477a957-5799-4844-ad6b-cf9609776859",
+    "6b9f88ff-e219-4a98-9bdf-99cf3296e185",
     "df1f36a9-3e2d-454c-913e-e97596f041f6",
     "related-products"
   ]
