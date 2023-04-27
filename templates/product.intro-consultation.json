@@ -100,19 +100,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "0776276a-bffd-4a7f-9541-edbae773dd44": {
-          "type": "icon-with-text",
-          "disabled": true,
-          "settings": {
-            "layout": "horizontal",
-            "icon_1": "stopwatch",
-            "heading_1": "15-Minute",
-            "icon_2": "map_pin",
-            "heading_2": "Online",
-            "icon_3": "price_tag",
-            "heading_3": "Free"
-          }
-        },
         "6a7e9d0e-f182-4f1c-b316-e9814b705aa5": {
           "type": "text",
           "settings": {
@@ -125,6 +112,18 @@
           "settings": {
             "text": "Find an available time slot below. Fill out the brief form so that we can best use our time together. Zoom meeting instructions will be e-mailed to the email that you provide.",
             "text_style": "body"
+          }
+        },
+        "0776276a-bffd-4a7f-9541-edbae773dd44": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "stopwatch",
+            "heading_1": "15-Minute",
+            "icon_2": "map_pin",
+            "heading_2": "Online",
+            "icon_3": "price_tag",
+            "heading_3": "Free"
           }
         },
         "803e7bf3-1f71-47ac-8241-8fbda08e2e34": {
@@ -149,9 +148,9 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "0776276a-bffd-4a7f-9541-edbae773dd44",
         "6a7e9d0e-f182-4f1c-b316-e9814b705aa5",
         "dc6c41cb-b225-4095-963c-301361a26b87",
+        "0776276a-bffd-4a7f-9541-edbae773dd44",
         "803e7bf3-1f71-47ac-8241-8fbda08e2e34",
         "share"
       ],
