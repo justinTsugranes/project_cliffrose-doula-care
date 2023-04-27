@@ -101,6 +101,9 @@
         "template--18856779383086__219e0a23-5fa4-43d8-94af-6c13a048ddf1-168235014963ff3624-1",
         "template--18856779383086__219e0a23-5fa4-43d8-94af-6c13a048ddf1-168235014963ff3624-2"
       ],
+      "custom_css": [
+        "img {border-radius: 50%; object-fit: scale-down;}"
+      ],
       "settings": {
         "title": "HOW IT WORKS",
         "heading_size": "h1",
@@ -201,6 +204,9 @@
         "fc5f6e71-ef80-42d3-aa63-aa521a09c0a3",
         "a4595c41-df31-4ed4-8c17-54ea073458b4",
         "20b4210e-a296-4ae3-a5c2-2f84e54f3a00"
+      ],
+      "custom_css": [
+        "img {border-radius: 50%;}"
       ],
       "settings": {
         "title": "EARN PETALS",
@@ -325,6 +331,9 @@
         "a7637767-3835-406e-a170-213d1c537aeb",
         "6c3101b5-a9b3-4559-86dc-065eed1f42e2",
         "6af644e3-4a26-46ee-97dd-31b2839d8131"
+      ],
+      "custom_css": [
+        "img {border-radius: 50%;}"
       ],
       "settings": {
         "title": "PETALS = SAVINGS!",
