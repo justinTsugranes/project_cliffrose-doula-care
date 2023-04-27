@@ -130,6 +130,9 @@
         "template--18764259295534__9ee6804f-807b-4f60-86ee-ed2ca7cddbd3-1681851507607d59b9-0",
         "template--18764259295534__9ee6804f-807b-4f60-86ee-ed2ca7cddbd3-1681851507607d59b9-1"
       ],
+      "custom_css": [
+        ".multicolumn-card {box-shadow: none;}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h2",
