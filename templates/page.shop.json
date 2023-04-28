@@ -95,6 +95,7 @@
     },
     "4c42c90e-ff1d-44c9-866c-bca2f6a93b53": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "973dc723-58a7-4c3c-a4fe-f4389488c216": {
           "type": "caption",
@@ -137,6 +138,7 @@
     },
     "eff73dc3-2f5b-490f-b599-4b86152d639e": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--18772069450030__eff73dc3-2f5b-490f-b599-4b86152d639e-1682251276cff859eb-0": {
           "type": "column",
