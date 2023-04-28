@@ -7,13 +7,13 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_2.06.02_PM.jpg",
-            "heading": "Category One",
+            "heading": "Elevate Your Pregnancy Experience",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
+            "subheading": "Browse Our Line of High-Quality Pregnancy Products",
             "button_label": "SHOP NOW",
-            "link": "",
+            "link": "shopify:\/\/collections\/pregnancy",
             "button_style_secondary": false,
-            "box_align": "middle-left",
+            "box_align": "bottom-left",
             "show_text_box": true,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
@@ -24,14 +24,14 @@
         "97759789-1e0f-40b3-ba20-a6239a93d7cf": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_2.05.39_PM.jpg",
-            "heading": "Category Two",
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_8.53.18_PM.jpg",
+            "heading": "Prepare for Your Little One's Arrival",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "SHOP NOW",
-            "link": "",
+            "subheading": "Discover Our Birth-Related Classes and Services",
+            "button_label": "LEARN MORE",
+            "link": "shopify:\/\/collections\/online-classes",
             "button_style_secondary": false,
-            "box_align": "middle-right",
+            "box_align": "top-right",
             "show_text_box": true,
             "text_alignment": "right",
             "image_overlay_opacity": 0,
@@ -43,13 +43,13 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_2023-04-21_at_9.31.47_PM_527a0969-10f6-4d21-a0d6-a14fa914cf67.jpg",
-            "heading": "Category Three",
+            "heading": "Navigate Postpartum with Ease",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
+            "subheading": "Find comfort and support with our postpartum products",
             "button_label": "SHOP NOW",
-            "link": "",
+            "link": "shopify:\/\/collections\/postpartum",
             "button_style_secondary": false,
-            "box_align": "middle-left",
+            "box_align": "top-left",
             "show_text_box": true,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
@@ -61,13 +61,13 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_12.46.43_PM.jpg",
-            "heading": "Category Four",
+            "heading": "Personalized Doula Support",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "SHOP NOW",
-            "link": "",
+            "subheading": "Get the Best Care Possible for You and Your Baby",
+            "button_label": "LEARN MORE",
+            "link": "shopify:\/\/collections\/birth-doula-services",
             "button_style_secondary": false,
-            "box_align": "middle-right",
+            "box_align": "bottom-right",
             "show_text_box": true,
             "text_alignment": "right",
             "image_overlay_opacity": 0,
@@ -85,12 +85,113 @@
       "settings": {
         "layout": "full_bleed",
         "slide_height": "large",
-        "slider_visual": "counter",
+        "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "4c42c90e-ff1d-44c9-866c-bca2f6a93b53": {
+      "type": "rich-text",
+      "blocks": {
+        "973dc723-58a7-4c3c-a4fe-f4389488c216": {
+          "type": "caption",
+          "disabled": true,
+          "settings": {
+            "caption": "Our most beloved products",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "cec092d3-6423-47e0-b051-998a0a46f9ef": {
+          "type": "heading",
+          "settings": {
+            "heading": "AS FEATURED IN",
+            "heading_size": "h1"
+          }
+        },
+        "659b1ca4-56f5-4705-903c-836386f29b10": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "973dc723-58a7-4c3c-a4fe-f4389488c216",
+        "cec092d3-6423-47e0-b051-998a0a46f9ef",
+        "659b1ca4-56f5-4705-903c-836386f29b10"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "eff73dc3-2f5b-490f-b599-4b86152d639e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18772069450030__eff73dc3-2f5b-490f-b599-4b86152d639e-1682251276cff859eb-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a64274f6-77e3-4da0-b982-adeeda8daa89": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8d83e680-56c2-4050-9d20-9a72df687b9f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18772069450030__eff73dc3-2f5b-490f-b599-4b86152d639e-1682251276cff859eb-0",
+        "a64274f6-77e3-4da0-b982-adeeda8daa89",
+        "8d83e680-56c2-4050-9d20-9a72df687b9f"
+      ],
+      "custom_css": [
+        "div {box-shadow: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "20d06b30-ad78-40d1-a914-007795dd3205": {
@@ -138,6 +239,46 @@
         "padding_bottom": 36
       }
     },
+    "8e051f3b-1762-44b5-8d24-944cf4ffc70c": {
+      "type": "rich-text",
+      "blocks": {
+        "fdc733e0-47ad-49bb-97eb-8a3e10ec6a2a": {
+          "type": "caption",
+          "settings": {
+            "caption": "Curated just for you",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "c73b5e96-399c-4442-83a5-da9a6d7cfe0e": {
+          "type": "heading",
+          "settings": {
+            "heading": "SHOP OUR COLLECTIONS",
+            "heading_size": "h1"
+          }
+        },
+        "c988c040-1167-4c4d-876b-ce728f27e37d": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>From pregnancy to postpartum and beyond, we've got you covered.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "fdc733e0-47ad-49bb-97eb-8a3e10ec6a2a",
+        "c73b5e96-399c-4442-83a5-da9a6d7cfe0e",
+        "c988c040-1167-4c4d-876b-ce728f27e37d"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "3fe8d4c2-bbbe-41b8-b157-a767fca91ba8": {
       "type": "collage",
       "blocks": {
@@ -175,18 +316,12 @@
         "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "2047189c-9504-4e3f-8bc3-8d1e24f653a1": {
       "type": "collage",
       "blocks": {
-        "95a54329-db0d-4008-a63b-3065b313266a": {
-          "type": "collection",
-          "settings": {
-            "collection": "postpartum"
-          }
-        },
         "9462f943-00a7-4021-820e-dd8a6b65fabd": {
           "type": "product",
           "settings": {
@@ -200,12 +335,18 @@
             "product": "breastfeeding-support",
             "second_image": false
           }
+        },
+        "95a54329-db0d-4008-a63b-3065b313266a": {
+          "type": "collection",
+          "settings": {
+            "collection": "postpartum"
+          }
         }
       },
       "block_order": [
-        "95a54329-db0d-4008-a63b-3065b313266a",
         "9462f943-00a7-4021-820e-dd8a6b65fabd",
-        "fba1cd53-c27b-42a5-966a-e82f07d0ec76"
+        "fba1cd53-c27b-42a5-966a-e82f07d0ec76",
+        "95a54329-db0d-4008-a63b-3065b313266a"
       ],
       "settings": {
         "heading": "",
@@ -214,17 +355,17 @@
         "mobile_layout": "column",
         "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "fe65923e-b197-480d-9699-abd28d1fa1e7": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "06e4d596-2a10-4c0b-bc26-f4eb821929c6": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_9.14.30_AM_d49bfc1f-c386-4d4e-80bf-3a3809bfc544.jpg"
           }
         },
         "4e10a401-7052-422d-8e5e-1c013edd102d": {
@@ -253,44 +394,13 @@
         "mobile_layout": "column",
         "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
-      }
-    },
-    "8e051f3b-1762-44b5-8d24-944cf4ffc70c": {
-      "type": "rich-text",
-      "blocks": {
-        "fdc733e0-47ad-49bb-97eb-8a3e10ec6a2a": {
-          "type": "caption",
-          "settings": {
-            "caption": "Add a tagline",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "c73b5e96-399c-4442-83a5-da9a6d7cfe0e": {
-          "type": "heading",
-          "settings": {
-            "heading": "SHOP OUR COLLECTIONS",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "fdc733e0-47ad-49bb-97eb-8a3e10ec6a2a",
-        "c73b5e96-399c-4442-83a5-da9a6d7cfe0e"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
       }
     },
     "20d7fb75-89d4-453a-93e4-cf7116f2a6f1": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "template--18772069450030__20d7fb75-89d4-453a-93e4-cf7116f2a6f1-1682272576a840e6fc-0": {
           "type": "featured_collection",
@@ -359,7 +469,7 @@
         "b8ee8f85-7cb2-4178-985e-cded024d1756": {
           "type": "caption",
           "settings": {
-            "caption": "Connect with us",
+            "caption": "Our most beloved products",
             "text_style": "caption-with-letter-spacing",
             "text_size": "medium"
           }
@@ -370,11 +480,20 @@
             "heading": "SHOP OUR BEST SELLERS",
             "heading_size": "h1"
           }
+        },
+        "34137679-8a03-487d-a6f7-0daf552e70c4": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
         }
       },
       "block_order": [
         "b8ee8f85-7cb2-4178-985e-cded024d1756",
-        "template--18772069450030__955a55ba-106e-4aba-9f0f-8b8dc6d8d132-168225180120898620-0"
+        "template--18772069450030__955a55ba-106e-4aba-9f0f-8b8dc6d8d132-168225180120898620-0",
+        "34137679-8a03-487d-a6f7-0daf552e70c4"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -408,6 +527,7 @@
         },
         "template--18772069450030__e6f5e281-b2da-4620-8fd7-852eae3b3ead-1682250751603a195d-3": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_type": "button"
           }
@@ -488,6 +608,7 @@
         },
         "81dfab6b-9da2-4189-ac24-73bd2559c223": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": true
           }
@@ -557,6 +678,7 @@
         },
         "2fa04178-5138-49fe-925b-45781654bca1": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": true
           }
@@ -657,63 +779,22 @@
         "show_text_below": true
       }
     },
-    "eff73dc3-2f5b-490f-b599-4b86152d639e": {
-      "type": "multicolumn",
+    "168267313252ab61cd": {
+      "type": "apps",
+      "disabled": true,
       "blocks": {
-        "template--18772069450030__eff73dc3-2f5b-490f-b599-4b86152d639e-1682251276cff859eb-0": {
-          "type": "column",
+        "5b8358af-2e80-4078-ae88-aad3baf48411": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "a64274f6-77e3-4da0-b982-adeeda8daa89": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "8d83e680-56c2-4050-9d20-9a72df687b9f": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "formId": ""
           }
         }
       },
       "block_order": [
-        "template--18772069450030__eff73dc3-2f5b-490f-b599-4b86152d639e-1682251276cff859eb-0",
-        "a64274f6-77e3-4da0-b982-adeeda8daa89",
-        "8d83e680-56c2-4050-9d20-9a72df687b9f"
-      ],
-      "custom_css": [
-        "div {box-shadow: none; }"
+        "5b8358af-2e80-4078-ae88-aad3baf48411"
       ],
       "settings": {
-        "title": "FEATURED IN",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "include_margins": true
       }
     },
     "cbf70596-f08a-48a0-b8b4-b6dd8e335d3f": {
@@ -745,11 +826,13 @@
   },
   "order": [
     "f41909ac-01fa-4557-856b-385cc8274da8",
+    "4c42c90e-ff1d-44c9-866c-bca2f6a93b53",
+    "eff73dc3-2f5b-490f-b599-4b86152d639e",
     "20d06b30-ad78-40d1-a914-007795dd3205",
+    "8e051f3b-1762-44b5-8d24-944cf4ffc70c",
     "3fe8d4c2-bbbe-41b8-b157-a767fca91ba8",
     "2047189c-9504-4e3f-8bc3-8d1e24f653a1",
     "fe65923e-b197-480d-9699-abd28d1fa1e7",
-    "8e051f3b-1762-44b5-8d24-944cf4ffc70c",
     "20d7fb75-89d4-453a-93e4-cf7116f2a6f1",
     "955a55ba-106e-4aba-9f0f-8b8dc6d8d132",
     "e6f5e281-b2da-4620-8fd7-852eae3b3ead",
@@ -757,7 +840,7 @@
     "7f52db23-2160-48e1-8878-0b7b1d6e9de5",
     "16822509148f6370ae",
     "c7e0bc14-083c-4109-94cc-47dd410fc3bf",
-    "eff73dc3-2f5b-490f-b599-4b86152d639e",
+    "168267313252ab61cd",
     "cbf70596-f08a-48a0-b8b4-b6dd8e335d3f",
     "main"
   ]

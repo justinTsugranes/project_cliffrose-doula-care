@@ -25,6 +25,7 @@
     },
     "cdf1b523-d4f6-4647-bd27-f91403a7c207": {
       "type": "newsletter",
+      "disabled": true,
       "blocks": {
         "sections--18729373794606__cdf1b523-d4f6-4647-bd27-f91403a7c207-16816445278b14bbc4-0": {
           "type": "heading",
