@@ -256,6 +256,7 @@
     },
     "20d7fb75-89d4-453a-93e4-cf7116f2a6f1": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "template--18772069450030__20d7fb75-89d4-453a-93e4-cf7116f2a6f1-1682272576a840e6fc-0": {
           "type": "featured_collection",
@@ -317,6 +318,7 @@
     },
     "955a55ba-106e-4aba-9f0f-8b8dc6d8d132": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18772069450030__955a55ba-106e-4aba-9f0f-8b8dc6d8d132-168225180120898620-0": {
           "type": "heading",
@@ -340,6 +342,7 @@
     },
     "e6f5e281-b2da-4620-8fd7-852eae3b3ead": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--18772069450030__e6f5e281-b2da-4620-8fd7-852eae3b3ead-1682250751603a195d-0": {
           "type": "text",
@@ -409,6 +412,7 @@
     },
     "243c0da9-4edf-467c-909f-db1437811f9c": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "453f3842-8532-48ea-9b83-c2eb8d21239a": {
           "type": "text",
@@ -478,6 +482,7 @@
     },
     "7f52db23-2160-48e1-8878-0b7b1d6e9de5": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "86c20d97-d779-4672-b8c7-ac6b87348491": {
           "type": "text",
@@ -547,6 +552,7 @@
     },
     "16822509148f6370ae": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "d0bf6d76-d8e1-45d6-96ac-f4aeed49e64d": {
           "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
@@ -564,6 +570,7 @@
     },
     "eff73dc3-2f5b-490f-b599-4b86152d639e": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--18772069450030__eff73dc3-2f5b-490f-b599-4b86152d639e-1682251276cff859eb-0": {
           "type": "column",
@@ -620,6 +627,7 @@
     },
     "cbf70596-f08a-48a0-b8b4-b6dd8e335d3f": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "CHECK OUT OUR BLOG",
         "heading_size": "h1",
