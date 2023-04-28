@@ -260,9 +260,6 @@
     </script>
   </head>
   
-  <!--  add breadcrumbs snippet  -->
-  {% render 'breadcrumbs' %} 
-  
   <body class="gradient">
 
     <!-- Google Tag Manager (noscript) -->
@@ -279,6 +276,9 @@
     {%- endif -%}
 
     {% sections 'header-group' %}
+
+    <!--  add breadcrumbs snippet  -->
+    {% render 'breadcrumbs' %} 
 
     <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
       {{ content_for_layout }}
