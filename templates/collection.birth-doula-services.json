@@ -35,7 +35,7 @@
         "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155364_2.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_2.06.02_PM.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -46,144 +46,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": true,
-        "color_scheme": "background-1"
-      }
-    },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "settings": {
-        "products_per_page": 16,
-        "columns_desktop": 3,
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "enable_filtering": false,
-        "filter_type": "horizontal",
-        "enable_sorting": false,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "e8f888b7-2ae1-4533-85a6-58cd7107120d": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Prenatal Care",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We will plan visits together before your estimated due date. Over a couple of hours, we’ll build on our connection and get more comfortable. We’ll discuss your birth preferences to create a Birth Plan, have Labor Prep class to practice relaxation techniques, talk about comfort measures and labor positions, I’ll also give plenty of tips on laboring at home. Through a few visits you’ll get ready for the baby, answer all your questions, and ease concerns.<\/p><p>Wondering what we’ll be talking about? Here’s a <a href=\"https:\/\/cliffrosedoula.squarespace.com\/s\/Planning-Checklist.pdf\" target=\"_blank\">Planning Checklist<\/a> full of topics we can dive into.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-0",
-        "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/wicker-basket-with-ultrasound-images-and-stuff-for-2022-10-18-00-36-11-utc.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "fc418fa7-c9e2-4739-ba49-c6d6c8146c15": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18729374253358__fc418fa7-c9e2-4739-ba49-c6d6c8146c15-1681573430b2e45cde-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Birth Doula",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374253358__fc418fa7-c9e2-4739-ba49-c6d6c8146c15-1681573430b2e45cde-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Whether you choose to give birth at home, at a birthing center, or a hospital, I will be by your side throughout labor to provide encouragement, comfort, and information when questions arise.<\/p><p>Beginning at 37 weeks, I will be available 24\/7 on call. After contacting me at onset of labor, I will be constantly available via phone, video call, and text to provide support as you labor at home or with you at your preferred delivery location through the duration of labor. You can call me for any question, no matter how big or small, anything you need your doula for.<\/p><p>I will remain with you in the immediate hours after your baby is born to assist in skin-to-skin bonding and feeding your baby. I will also arrange to visit with you once you are settled at home, to discuss your experience, give support at home, and see how life is with your new bundle.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374253358__fc418fa7-c9e2-4739-ba49-c6d6c8146c15-1681573430b2e45cde-0",
-        "template--18729374253358__fc418fa7-c9e2-4739-ba49-c6d6c8146c15-1681573430b2e45cde-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155363_1_965b5e1d-1ce8-41af-b934-bd8b140806cf.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "89b62bcb-54fc-4333-a0d8-84ddeda87828": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18729374253358__89b62bcb-54fc-4333-a0d8-84ddeda87828-1681573430b2e45cde-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Postpartum Care",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374253358__89b62bcb-54fc-4333-a0d8-84ddeda87828-1681573430b2e45cde-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Visits are arranged to meet you where you’re at and from the comfort of your home. I want to hear about how you’re adjusting to life with a baby, even if it’s tough stuff: your feelings, emotions and thoughts-good or bad. I will answer any questions you may have, visit with you, and provide resources and tips on infant feeding. I will also help you plan meals and give you a grocery list to make life a little easier. If possible, we can arrange contact-free drop off of what you need—support through community, a meal train, or good friends and family is vital in building your village.<\/p><p>I aim to provide support past the initial weeks with a newborn. Postpartum care is widely underrated and can be so helpful to new parents, those with toddlers or multiple children through simple acts of caring for the parent, while you care for your family.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374253358__89b62bcb-54fc-4333-a0d8-84ddeda87828-1681573430b2e45cde-0",
-        "template--18729374253358__89b62bcb-54fc-4333-a0d8-84ddeda87828-1681573430b2e45cde-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "36a96c12-44d9-4c02-800f-9c7eca24e069": {
@@ -205,6 +67,7 @@
         },
         "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-2": {
           "type": "price",
+          "disabled": true,
           "settings": {
           }
         },
@@ -249,9 +112,9 @@
         "product": "ultimate-cliffrose-birth-package",
         "color_scheme": "background-1",
         "secondary_background": false,
-        "media_size": "medium",
+        "media_size": "small",
         "constrain_to_viewport": true,
-        "media_fit": "contain",
+        "media_fit": "cover",
         "media_position": "left",
         "image_zoom": "lightbox",
         "hide_variants": false,
@@ -260,8 +123,222 @@
         "padding_bottom": 36
       }
     },
+    "96fc1ca5-5833-4f92-b65e-24176c6aa424": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "0beb1a3d-5ffc-4d64-bb3c-506ee4e0c496": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "94fbed5d-3148-4c21-a848-bdff0a38afc1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "afb31bb8-9945-44c8-b861-425d79a5309f": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "bf829b3d-4e52-44e7-b2d5-8d446fed2f7a": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "4ef69811-2cd4-4436-a845-e78c1fd94b70": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "c19a19a4-5cb2-49fa-b000-6cedfd651e78": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "4255d0e2-a5d7-4944-b969-625259decd63": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "0beb1a3d-5ffc-4d64-bb3c-506ee4e0c496",
+        "94fbed5d-3148-4c21-a848-bdff0a38afc1",
+        "afb31bb8-9945-44c8-b861-425d79a5309f",
+        "bf829b3d-4e52-44e7-b2d5-8d446fed2f7a",
+        "4ef69811-2cd4-4436-a845-e78c1fd94b70",
+        "c19a19a4-5cb2-49fa-b000-6cedfd651e78",
+        "4255d0e2-a5d7-4944-b969-625259decd63"
+      ],
+      "settings": {
+        "product": "pure-labor-support",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "cover",
+        "media_position": "right",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 2,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "enable_filtering": false,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e8f888b7-2ae1-4533-85a6-58cd7107120d": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Prenatal Doula Support",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>We will plan and discuss important topics before your estimated due date.<\/h2><p>During these visits, we'll<\/p><ul><li>Build our connection<\/li><li>Discuss your birth preferences<\/li><li>Create a Birth Plan<\/li><li>Practice relaxation techniques in our Labor Prep class<\/li><li>Talk about comfort measures and labor positions<\/li><li>Provide tips on laboring at home<\/li><\/ul><p>These visits are designed to help you get ready for your baby, address any questions or concerns you may have, and ensure you feel prepared and confident for your upcoming birth experience.<\/p><p><strong>Wondering what we'll cover? Check out our <\/strong><a href=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSficKDbiR9TcYFqryZo72Y3v77RRLmb757Ym0XNtpt63Q-P2g\/viewform?usp=sf_link\" title=\"birth planning checklist\"><strong>Planning Checklist <\/strong><\/a><strong>filled with topics we can explore together.<\/strong><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-0",
+        "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wicker-basket-with-ultrasound-images-and-stuff-for-2022-10-18-00-36-11-utc.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "fc418fa7-c9e2-4739-ba49-c6d6c8146c15": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18729374253358__fc418fa7-c9e2-4739-ba49-c6d6c8146c15-1681573430b2e45cde-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Labor Support",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374253358__fc418fa7-c9e2-4739-ba49-c6d6c8146c15-1681573430b2e45cde-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your experienced doula will be by your side throughout your labor, providing continuous support, encouragement, and comfort, regardless of your chosen birth location (home, birthing center, or hospital). Our services include:<\/p><ul><li><strong>Rebozo Massage: <\/strong>Utilizing the traditional Mexican technique of using a shawl-like cloth, your doula will provide gentle and soothing movements to help ease tension and promote relaxation during labor.<\/li><li><strong>Birthing Ball:<\/strong> Your doula will assist you in using a birthing ball, a large inflatable ball, as a tool for comfort, support, and optimal positioning during labor.<\/li><li><strong>Breathing Techniques:<\/strong> Your doula will guide you through various breathing techniques to help you stay relaxed, focused, and manage pain during labor.<\/li><li><strong>Complimentary Birth Photography and Video:<\/strong> As a special gift to you, your doula will capture precious moments of your labor and birth through photography and video, which will be provided to you on a flash drive to treasure for a lifetime.<\/li><li><strong>Birth Room Ambiance:<\/strong> Your doula will create a calming and soothing environment in your birth room with a Himalayan salt lamp, essential oil diffuser, blood orange mist, and arnica massage oil to promote relaxation and comfort during labor.<\/li><\/ul><p>With our comprehensive support through labor, you can feel confident and empowered during this transformative experience.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374253358__fc418fa7-c9e2-4739-ba49-c6d6c8146c15-1681573430b2e45cde-0",
+        "template--18729374253358__fc418fa7-c9e2-4739-ba49-c6d6c8146c15-1681573430b2e45cde-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155363_1_965b5e1d-1ce8-41af-b934-bd8b140806cf.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "89b62bcb-54fc-4333-a0d8-84ddeda87828": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18729374253358__89b62bcb-54fc-4333-a0d8-84ddeda87828-1681573430b2e45cde-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Postpartum Doula Care",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374253358__89b62bcb-54fc-4333-a0d8-84ddeda87828-1681573430b2e45cde-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our postpartum doula services extend beyond the birth, providing essential support during the early weeks of parenthood. We offer:<\/p><ul><li><strong>In-Home Visits:<\/strong> Within the first two weeks postpartum, your doula will schedule visits to your home, providing emotional support, practical assistance, and answering any questions you may have about the birth experience or newborn care.<\/li><li><strong>Emotional Support:<\/strong> Your doula is here to listen and provide a safe space for you to share your feelings, emotions, and thoughts about adjusting to life with a new baby, whether it's the good, the bad, or the tough stuff.<\/li><li><strong>Resources and Tips on Infant Feeding:<\/strong> Your doula will provide valuable resources and tips on infant feeding, including breastfeeding, bottle-feeding, and introducing solids, to help you navigate this important aspect of newborn care.<\/li><li><strong>Meal Planning and Grocery Lists:<\/strong> Your doula will help you plan meals and provide a grocery list to make your life a little easier during the postpartum period. We can also arrange contact-free drop-off of needed items through community support, a meal train, or assistance from friends and family.<\/li><li><strong>Ongoing Postpartum Care:<\/strong> Your doula understands that postpartum care extends beyond the initial weeks with a newborn. We are committed to providing ongoing support to new parents, those with toddlers, or multiple children through simple acts of caring for the parent, while you care for your family.<\/li><\/ul><p>Your postpartum visits are designed to meet you where you're at, from the comfort of your home, and provide comprehensive support to help you navigate the early weeks of parenthood with confidence and ease.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374253358__89b62bcb-54fc-4333-a0d8-84ddeda87828-1681573430b2e45cde-0",
+        "template--18729374253358__89b62bcb-54fc-4333-a0d8-84ddeda87828-1681573430b2e45cde-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18729374253358__27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb-16815739185a20bf27-0": {
           "type": "heading",
@@ -292,6 +369,7 @@
     },
     "e922e7e2-02cd-4791-a68c-7fc76f393023": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--18729374253358__e922e7e2-02cd-4791-a68c-7fc76f393023-1681573727ffd0b90e-0": {
           "type": "column",
@@ -394,12 +472,13 @@
   },
   "order": [
     "c09d92e5-2a87-408a-8087-801589bc779e",
+    "36a96c12-44d9-4c02-800f-9c7eca24e069",
+    "96fc1ca5-5833-4f92-b65e-24176c6aa424",
     "banner",
     "product-grid",
     "e8f888b7-2ae1-4533-85a6-58cd7107120d",
     "fc418fa7-c9e2-4739-ba49-c6d6c8146c15",
     "89b62bcb-54fc-4333-a0d8-84ddeda87828",
-    "36a96c12-44d9-4c02-800f-9c7eca24e069",
     "27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb",
     "e922e7e2-02cd-4791-a68c-7fc76f393023",
     "8ef8dba0-8ae0-415f-8a7e-84a3697a6571"
