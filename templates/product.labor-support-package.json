@@ -6,7 +6,7 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0": {
           "type": "heading",
           "settings": {
-            "heading": "Cliffrose Birth Package",
+            "heading": "Pure Labor Support Package",
             "heading_size": "h1"
           }
         },
@@ -46,51 +46,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "0f55ffa0-e50a-4acf-ad18-997356e50af7": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>The Cliffrose Birth Package<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>As full spectrum doulas, we are dedicated to providing exceptional care and support throughout your entire reproductive journey. From conception to adoption, surrogacy, termination, pregnancy, labor, birth, and postpartum, we are there to support you through every outcome.. Our birth doula service is designed to offer you comprehensive care and guidance during this transformative experience, and we are committed to helping you feel confident, empowered, and prepared for your upcoming birth and parenthood.<\/p><h2>Our Cliffrose Birth Doula Package includes the following services:<\/h2><ul><li>Prenatal Visits -  3 visits for 3 hours each<\/li><li>Labor Support - Rebozo, Birth Ball, Breathing Techniques, Acupressure, Birthroom Ambiance, Meals<\/li><li>1 Overnight Doula (8 hours) for 3 nights<\/li><li>Postpartum Visits - 3 visits for 3 hours each<\/li><li>Meals - Light Labor Meals, Healing Postpartum Meals, Freezer Stockpile<\/li><li>24\/7 On Call Support beginning at 38 weeks<\/li><li>Virtual Consultations as necessary<\/li><\/ul><p><strong>Total Package Price: $3,000.00<\/strong><\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Book a free consultation",
-            "button_link": "shopify:\/\/products\/intro-birth-consultation"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-0",
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-1",
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.04.57_PM.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "main": {
@@ -180,22 +135,49 @@
         "padding_bottom": 12
       }
     },
-    "related-products": {
-      "type": "related-products",
-      "disabled": true,
+    "0f55ffa0-e50a-4acf-ad18-997356e50af7": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>The Pure Labor Support Package<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As full spectrum doulas, we are dedicated to providing exceptional care and support throughout your entire reproductive journey. From conception to adoption, surrogacy, termination, pregnancy, labor, birth, and postpartum, we are there to support you through every outcome.. Our birth doula service is designed to offer you comprehensive care and guidance during this transformative experience, and we are committed to helping you feel confident, empowered, and prepared for your upcoming birth and parenthood.<\/p><h2>Our Pure Labor Support Package includes the following services:<\/h2><ul><li>Prenatal Visit -  1 visit for 4 hours<\/li><li>Labor Support - Rebozo, Birth Ball, Breathing Techniques, Acupressure, Birthroom Ambiance, Labor Meal<\/li><li>Postpartum Visit - 1 visit for 4 hours<\/li><li>24\/7 On Call Support beginning at 38 weeks<\/li><\/ul><p><strong>Total Package Price: $1,000.00<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Book a free consultation",
+            "button_link": "shopify:\/\/products\/intro-birth-consultation"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-0",
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-1",
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2"
+      ],
       "settings": {
-        "heading": "You may also like",
-        "heading_size": "h2",
-        "products_to_show": 4,
-        "columns_desktop": 4,
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.04.57_PM.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
-        "padding_bottom": 28
+        "padding_bottom": 36
       }
     },
     "5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678": {
@@ -204,14 +186,14 @@
         "template--18771812843822__5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678-168164668958c25d7c-0": {
           "type": "heading",
           "settings": {
-            "heading": "3 Prenatal Visits",
+            "heading": "1 Prenatal Visit",
             "heading_size": "h1"
           }
         },
         "template--18771812843822__5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678-168164668958c25d7c-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Our birth package includes three prenatal visits where we will plan and discuss important topics before your estimated due date.<\/h2><p>During these visits, we'll<\/p><ul><li>Build our connection<\/li><li>Discuss your birth preferences<\/li><li>Create a Birth Plan<\/li><li>Practice relaxation techniques in our Labor Prep class<\/li><li>Talk about comfort measures and labor positions<\/li><li>Provide tips on laboring at home<\/li><\/ul><p>These visits are designed to help you get ready for your baby, address any questions or concerns you may have, and ensure you feel prepared and confident for your upcoming birth experience.<\/p><p><strong>Wondering what we'll cover? Check out our <\/strong><a href=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSficKDbiR9TcYFqryZo72Y3v77RRLmb757Ym0XNtpt63Q-P2g\/viewform?usp=sf_link\" title=\"birth planning checklist\"><strong>Planning Checklist <\/strong><\/a><strong>filled with topics we can explore together.<\/strong><\/p>",
+            "text": "<h2>Our pure labor support package includes one prenatal visit where we will plan and discuss important topics before your estimated due date.<\/h2><p>During these visits, we'll<\/p><ul><li>Build our connection<\/li><li>Discuss your birth preferences<\/li><li>Create a Birth Plan<\/li><li>Practice relaxation techniques in our Labor Prep class<\/li><li>Talk about comfort measures and labor positions<\/li><li>Provide tips on laboring at home<\/li><\/ul><p>This visit is designed to help you get ready for your baby, address any questions or concerns you may have, and ensure you feel prepared and confident for your upcoming birth experience.<\/p><p><strong>Wondering what we'll cover? Check out our <\/strong><a href=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSficKDbiR9TcYFqryZo72Y3v77RRLmb757Ym0XNtpt63Q-P2g\/viewform?usp=sf_link\" title=\"birth planning checklist\"><strong>Planning Checklist <\/strong><\/a><strong>filled with topics we can explore together.<\/strong><\/p>",
             "text_style": "body"
           }
         }
@@ -311,6 +293,7 @@
     },
     "e478ea4e-5b04-4094-a631-f0d7fc60d06e": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18771812843822__e478ea4e-5b04-4094-a631-f0d7fc60d06e-1681899460dd00dcec-0": {
           "type": "heading",
@@ -352,7 +335,7 @@
         "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-0": {
           "type": "heading",
           "settings": {
-            "heading": "3 Postpartum Visits",
+            "heading": "1 Postpartum Visit",
             "heading_size": "h1"
           }
         },
@@ -372,79 +355,6 @@
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
         "height": "medium",
         "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "a6433e83-bc13-4dad-800c-5bc979886739": {
-      "type": "image-banner",
-      "blocks": {
-        "template--18771812843822__a6433e83-bc13-4dad-800c-5bc979886739-1681900060b10951c5-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Meals<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771812843822__a6433e83-bc13-4dad-800c-5bc979886739-1681900060b10951c5-1": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>These meals are inspired by recipes from the amazing book <\/strong><em><strong>The First Forty Days: The Essential Art of Nourishing the New Mother <\/strong><\/em><strong>Amely Greeven, Heng Ou, and Marisa Belger. These women lay a foundation of recuperative eating to ensure bodily and mental healing for the birthing person that provides strength for the path of parenthood ahead.<\/strong>",
-            "text_style": "subtitle"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771812843822__a6433e83-bc13-4dad-800c-5bc979886739-1681900060b10951c5-0",
-        "template--18771812843822__a6433e83-bc13-4dad-800c-5bc979886739-1681900060b10951c5-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_8.40.36_AM.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "f1783c93-76a9-4687-a040-ac57b3f5fa02": {
-      "type": "image-with-text",
-      "blocks": {
-        "bc790f69-52c0-4e28-93a2-b979289d5f70": {
-          "type": "heading",
-          "settings": {
-            "heading": "For the Work - Light Labor Meal",
-            "heading_size": "h1"
-          }
-        },
-        "4c8c4e1f-b403-4be1-a195-f5fe0f05e348": {
-          "type": "text",
-          "settings": {
-            "text": "<p>During labor, nutrition and hydration are crucial. Your doula will provide you with a light labor meal to keep your energy levels up and support your body during this important time. The meal includes:<\/p><ul><li><strong>Bone Broth:<\/strong> Rich in essential nutrients and minerals, bone broth provides nourishment and hydration to support your body during labor.<\/li><li><strong>Seaweed Soup:<\/strong> Packed with vitamins and minerals, seaweed soup is a nutrient-dense option that can help replenish your body during labor.<\/li><li><strong>LaborAid Electrolyte Booster: <\/strong>LaborAid is a specially formulated electrolyte drink designed to provide hydration and replenish essential electrolytes during labor, helping to maintain your energy levels.<\/li><li><strong>Frozen Fruit Pops:<\/strong> These refreshing and nutritious frozen fruit pops are a delicious way to stay hydrated and provide a natural source of vitamins and minerals during labor.<\/li><\/ul><p>Our light labor meal is carefully selected to provide you with the nourishment and hydration you need to support your body during labor and help you feel energized throughout the process.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "bc790f69-52c0-4e28-93a2-b979289d5f70",
-        "4c8c4e1f-b403-4be1-a195-f5fe0f05e348"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_8.44.41_AM.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -456,229 +366,21 @@
         "padding_bottom": 36
       }
     },
-    "17671f09-fd83-4ccb-9413-89dfa1fd768c": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18771812843822__17671f09-fd83-4ccb-9413-89dfa1fd768c-1681899460dd00dcec-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "First Week Postpartum Meals",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771812843822__17671f09-fd83-4ccb-9413-89dfa1fd768c-1681899460dd00dcec-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>After giving birth, your body needs nourishment and support to recover and heal. Your doula provides a variety of nutritious meals to help you during your first week postpartum. Our meal options include:<\/p><p><strong>Soup Options:<\/strong><\/p><ul><li>Classic Veggie<\/li><li>Chicken Noodle<\/li><li>Quinoa Lentil Greens<\/li><li>Squash & Red Lentils<\/li><li>Sausage Stew<\/li><li>C-Recovery Veggie<\/li><li>*Seaweed<\/li><li>*Fish Papaya & Peanut<\/li><\/ul><p><strong>Breakfast Congee and Porridge Options:<\/strong><\/p><ul><li>Oats & Chia<\/li><li>Sweet Potato Banana Walnut<\/li><li>Sweet Black Sesame<\/li><li>Farina Cranberry<\/li><li>Barley Blueberry Date<\/li><\/ul><p><strong>Granola Bag:<\/strong><\/p><ul><li>Assorted granola for quick and easy snacks<\/li><\/ul><p><strong>Bone Broths:<\/strong><\/p><ul><li>Lactation enhancement broth to support breastfeeding<\/li><li>Chicken or Beef<\/li><\/ul><p><strong>Soothing Tea and Steams:<\/strong><\/p><ul><li>Herbal teas and steams to promote postpartum healing and relaxation<\/li><\/ul><p><strong>Lactation Cookies:<\/strong><\/p><ul><li>Delicious cookies specifically formulated to support lactation and milk production<\/li><\/ul><p>Our first week postpartum meals are thoughtfully designed to provide you with nourishing and delicious options to support your body's recovery and healing process during this special time.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771812843822__17671f09-fd83-4ccb-9413-89dfa1fd768c-1681899460dd00dcec-0",
-        "template--18771812843822__17671f09-fd83-4ccb-9413-89dfa1fd768c-1681899460dd00dcec-1"
-      ],
+    "related-products": {
+      "type": "related-products",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_8.52.05_PM.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
         "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
         "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "e3acfa3a-ac0f-49a0-845b-ccb9fb0df92a": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18771812843822__e3acfa3a-ac0f-49a0-845b-ccb9fb0df92a-1681899460dd00dcec-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Freezer Stockpile",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771812843822__e3acfa3a-ac0f-49a0-845b-ccb9fb0df92a-1681899460dd00dcec-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Preparing for the arrival of your new baby includes making sure you have nourishing meals on hand for yourself and your family. Your doula provides a freezer stockpile of homemade, nourishing meals that are perfect for during and after birth. Our freezer stockpile includes:<\/p><ul><li><strong>5 homemade, nourishing and hearty freezer family meals<\/strong> to help you recover and replenish during and after birth<\/li><li>Easy to reheat options for convenience<\/li><\/ul><p>Our freezer stockpile ensures that you have delicious and nutritious meals readily available during the postpartum period when your focus is on bonding with your new baby and recovering from childbirth. You can rest easy knowing that you and your family will be well-nourished during this special time.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771812843822__e3acfa3a-ac0f-49a0-845b-ccb9fb0df92a-1681899460dd00dcec-0",
-        "template--18771812843822__e3acfa3a-ac0f-49a0-845b-ccb9fb0df92a-1681899460dd00dcec-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_9.23.13_AM.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "fa767cb1-f77c-433e-b2dc-e2e598f5281f": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--18771812843822__fa767cb1-f77c-433e-b2dc-e2e598f5281f-16819006456f948467-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Birth Goodies",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771812843822__fa767cb1-f77c-433e-b2dc-e2e598f5281f-16819006456f948467-1": {
-          "type": "text",
-          "settings": {
-            "text": "A luxurious gift basket filled with our favorite postpartum goodies, a peri-bottle, date bites, a haaka, postpartum tea, and bone broth.",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771812843822__fa767cb1-f77c-433e-b2dc-e2e598f5281f-16819006456f948467-0",
-        "template--18771812843822__fa767cb1-f77c-433e-b2dc-e2e598f5281f-16819006456f948467-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-19_at_6.40.07_AM.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "56d25483-aade-4985-81b4-235dc93f0bba": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18771812843822__56d25483-aade-4985-81b4-235dc93f0bba-1681900675b1a999cf-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Postpartum Goodies",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771812843822__56d25483-aade-4985-81b4-235dc93f0bba-1681900675b1a999cf-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>As part of our comprehensive doula package, you will receive a luxurious gift basket filled with our favorite postpartum goodies. This special gift is designed to support your postpartum recovery and includes:<\/p><ul><li><strong>Peri-bottle:<\/strong> An essential tool for gentle and effective postpartum care.<\/li><li><strong>Date bites:<\/strong> A delicious and nutritious snack to help boost your energy and support lactation.<\/li><li><strong>Haaka:<\/strong> A silicone breast pump that can help collect and store breast milk while nursing or pumping from the other side.<\/li><li><strong>Postpartum tea:<\/strong> A soothing blend of herbs to support your body's healing process after birth.<\/li><li><strong>Special Goodies:<\/strong> A mix of some of our favorite essentials for new mothers<\/li><\/ul><p>These birth goodies are carefully curated to provide you with comfort, nourishment, and support during your postpartum journey. It's our way of showing you that we care about your well-being and want to help make your postpartum experience as smooth and enjoyable as possible.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771812843822__56d25483-aade-4985-81b4-235dc93f0bba-1681900675b1a999cf-0",
-        "template--18771812843822__56d25483-aade-4985-81b4-235dc93f0bba-1681900675b1a999cf-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_9.14.30_AM.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "88d3f224-7065-4fc5-91aa-2433eb6f41b9": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "template--18771812843822__88d3f224-7065-4fc5-91aa-2433eb6f41b9-16819876324cb0420e-0": {
-          "type": "image",
-          "settings": {
-          }
-        },
-        "template--18771812843822__88d3f224-7065-4fc5-91aa-2433eb6f41b9-16819876324cb0420e-1": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "template--18771812843822__88d3f224-7065-4fc5-91aa-2433eb6f41b9-16819876324cb0420e-2": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18771812843822__88d3f224-7065-4fc5-91aa-2433eb6f41b9-16819876324cb0420e-0",
-        "template--18771812843822__88d3f224-7065-4fc5-91aa-2433eb6f41b9-16819876324cb0420e-1",
-        "template--18771812843822__88d3f224-7065-4fc5-91aa-2433eb6f41b9-16819876324cb0420e-2"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "column",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "799d8fe9-3440-433e-92cc-2b6c94777351": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18771812843822__799d8fe9-3440-433e-92cc-2b6c94777351-1681900675b1a999cf-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Haaka",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771812843822__799d8fe9-3440-433e-92cc-2b6c94777351-1681900675b1a999cf-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771812843822__799d8fe9-3440-433e-92cc-2b6c94777351-1681900675b1a999cf-0",
-        "template--18771812843822__799d8fe9-3440-433e-92cc-2b6c94777351-1681900675b1a999cf-1"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 28
       }
     },
     "ff5834c1-23cd-4261-b5dd-b0214318b68a": {
@@ -732,22 +434,14 @@
   },
   "order": [
     "8294d813-b228-49e7-a8df-6a350c776c15",
-    "0f55ffa0-e50a-4acf-ad18-997356e50af7",
     "main",
-    "related-products",
+    "0f55ffa0-e50a-4acf-ad18-997356e50af7",
     "5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678",
     "c133156c-ab40-47c2-847b-4a56b50bf17a",
     "04c19bbc-f531-4662-806b-fd33b8941ae1",
     "e478ea4e-5b04-4094-a631-f0d7fc60d06e",
     "913e3a22-81da-4c48-960d-2acb1527f4d3",
-    "a6433e83-bc13-4dad-800c-5bc979886739",
-    "f1783c93-76a9-4687-a040-ac57b3f5fa02",
-    "17671f09-fd83-4ccb-9413-89dfa1fd768c",
-    "e3acfa3a-ac0f-49a0-845b-ccb9fb0df92a",
-    "fa767cb1-f77c-433e-b2dc-e2e598f5281f",
-    "56d25483-aade-4985-81b4-235dc93f0bba",
-    "88d3f224-7065-4fc5-91aa-2433eb6f41b9",
-    "799d8fe9-3440-433e-92cc-2b6c94777351",
+    "related-products",
     "ff5834c1-23cd-4261-b5dd-b0214318b68a"
   ]
 }
