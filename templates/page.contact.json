@@ -73,7 +73,7 @@
         "template--18729374974254__0697c246-857a-4287-8ee5-404642272b63-1682271945abc619a1-0": {
           "type": "heading",
           "settings": {
-            "heading": "If you'd like to schedule an appointment to meet online, please select an available time block below.",
+            "heading": "If you'd like to schedule an appointment to <a href=\"\/products\/virtual-consultations\" title=\"Virtual Consultations\">meet online<\/a> or join one of our <a href=\"\/collections\/online-classes\" title=\"Online Classes\">weekly online classes<\/a>, please select an available time block below.",
             "heading_size": "h1"
           }
         },
