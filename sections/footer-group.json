@@ -37,24 +37,6 @@
         "padding_bottom": 52
       }
     },
-    "1682520731fdd906a2": {
-      "type": "apps",
-      "disabled": true,
-      "blocks": {
-        "7a00d34c-2151-434e-ab36-feb34fd40727": {
-          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
-          "settings": {
-            "formId": "URxSX3"
-          }
-        }
-      },
-      "block_order": [
-        "7a00d34c-2151-434e-ab36-feb34fd40727"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -111,7 +93,6 @@
   },
   "order": [
     "cdf1b523-d4f6-4647-bd27-f91403a7c207",
-    "1682520731fdd906a2",
     "footer"
   ]
 }
