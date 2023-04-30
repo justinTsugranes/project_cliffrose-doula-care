@@ -112,7 +112,7 @@
         "product": "ultimate-cliffrose-birth-package",
         "color_scheme": "background-1",
         "secondary_background": false,
-        "media_size": "small",
+        "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "cover",
         "media_position": "left",
@@ -187,7 +187,7 @@
         "product": "pure-labor-support",
         "color_scheme": "background-1",
         "secondary_background": false,
-        "media_size": "small",
+        "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "cover",
         "media_position": "right",
@@ -338,7 +338,6 @@
     },
     "27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--18729374253358__27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb-16815739185a20bf27-0": {
           "type": "heading",
@@ -369,7 +368,6 @@
     },
     "e922e7e2-02cd-4791-a68c-7fc76f393023": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--18729374253358__e922e7e2-02cd-4791-a68c-7fc76f393023-1681573727ffd0b90e-0": {
           "type": "column",
