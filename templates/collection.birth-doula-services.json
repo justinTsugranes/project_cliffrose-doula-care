@@ -427,14 +427,14 @@
         "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-0": {
           "type": "heading",
           "settings": {
-            "heading": "Let's Talk",
+            "heading": "Speak With A Doula",
             "heading_size": "h1"
           }
         },
         "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-1": {
           "type": "text",
           "settings": {
-            "text": "We believe strongly that everyone deserves a doula. No one will be turned away for lack of resources. Reach out and we can discuss how we can support you best.",
+            "text": "We believe strongly that everyone deserves a doula. <strong>No one will be turned away for lack of resources. <\/strong>Reach out and we can discuss how we can best support you best.",
             "text_style": "body"
           }
         },
