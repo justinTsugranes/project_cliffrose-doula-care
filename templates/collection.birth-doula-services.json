@@ -13,7 +13,7 @@
         "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-1": {
           "type": "text",
           "settings": {
-            "text": "As a full spectrum doula, I work with all reproductive journeys: conception, adoption, surrogacy, pregnancy, labor, and birth. I am there in the postpartum and can help you through a termination process. <strong>I support people through every outcome.<\/strong>",
+            "text": "We are here to provide you with expert care, guidance, and emotional support throughout your labor and birth process. With a deep understanding of the physical and emotional aspects of childbirth, our doulas will work closely with you and your birth team to create a birth plan that aligns with your unique needs and desires.",
             "text_style": "body"
           }
         },
@@ -59,18 +59,17 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
-      "disabled": true,
       "settings": {
         "products_per_page": 16,
-        "columns_desktop": 4,
-        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "image_ratio": "square",
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": false,
-        "enable_filtering": true,
+        "enable_filtering": false,
         "filter_type": "horizontal",
-        "enable_sorting": true,
+        "enable_sorting": false,
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36
@@ -174,8 +173,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
+        "height": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -225,7 +224,7 @@
           "settings": {
             "title": "<strong>Overnight Doula<\/strong>",
             "text": "<p>The most shared fear among new parents are the sleepless nights. It’s true, new babies can be night owls, but with the extra support of an overnight doula it can be the best bonding experience with your new baby.<\/p><p>Call me, text or video chat for help and encouragement with nighttime bottle feedings, initial lactation education, questions about pumping and milk storage—anything to help you and your baby find your rhythm.<\/p>",
-            "link_label": "",
+            "link_label": "Learn more",
             "link": ""
           }
         },
@@ -234,7 +233,7 @@
           "settings": {
             "title": "Adoption & Surrogacy",
             "text": "<p>Are you building your family, but aren’t sure where to find the right resources? Deciding to adopt or have a surrogate carrier are both dig decisions. You deserve to walk into parenthood feeling empowered and ready.<\/p><p>We will have consultations to answer your questions and I can provide local resources such as milk donors, parent support groups, and suggest LGBTQIA+ providers. We can talk about your legal rights as parents. I provide birth support for surrogate carriers in addition to the intended parents.<\/p>",
-            "link_label": "",
+            "link_label": "Learn more",
             "link": ""
           }
         },
@@ -243,7 +242,7 @@
           "settings": {
             "title": "Miscarriage & Bereavement",
             "text": "<p>Going through such a difficult time, that is often suffered alone and in silence, I walk with and support your family through the loss of your baby. <\/p><p>If that loss is through miscarriage, stillbirth, or a diagnosis that means the baby will not live long after being delivered, with gentle encouragement, we say hello and goodbye to your little one, honor their life, and I remain available for grief counseling thereafter via phone and video calls, texts, and email.<\/p>",
-            "link_label": "",
+            "link_label": "Learn more",
             "link": ""
           }
         }
