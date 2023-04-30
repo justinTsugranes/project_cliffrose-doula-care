@@ -101,7 +101,7 @@
     "1738b23c-def2-40f8-b022-7cc2c96e9607": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula?hide_landing_page_details=1&hide_gdpr_banner=1&primary_color=377e62\" style=\"min-width:320px;height:630px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
+        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula?hide_landing_page_details=1&hide_gdpr_banner=1&primary_color=377e62\" style=\"min-width:320px;height:650px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
         "color_scheme": "background-1",
         "padding_top": 0,
         "padding_bottom": 52
