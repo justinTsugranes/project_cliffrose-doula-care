@@ -186,6 +186,80 @@
         "padding_bottom": 36
       }
     },
+    "36a96c12-44d9-4c02-800f-9c7eca24e069": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-3": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-4": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-5": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-6": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-0",
+        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-1",
+        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-2",
+        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-3",
+        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-4",
+        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-5",
+        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-6"
+      ],
+      "settings": {
+        "product": "ultimate-cliffrose-birth-package",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb": {
       "type": "rich-text",
       "blocks": {
@@ -289,7 +363,7 @@
         "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Contact Me",
+            "button_label_1": "Contact Us",
             "button_link_1": "shopify:\/\/pages\/contact",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -325,6 +399,7 @@
     "e8f888b7-2ae1-4533-85a6-58cd7107120d",
     "fc418fa7-c9e2-4739-ba49-c6d6c8146c15",
     "89b62bcb-54fc-4333-a0d8-84ddeda87828",
+    "36a96c12-44d9-4c02-800f-9c7eca24e069",
     "27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb",
     "e922e7e2-02cd-4791-a68c-7fc76f393023",
     "8ef8dba0-8ae0-415f-8a7e-84a3697a6571"
