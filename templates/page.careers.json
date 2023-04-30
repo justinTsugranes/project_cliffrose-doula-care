@@ -1,7 +1,55 @@
 {
   "sections": {
+    "5b3131f1-52bb-43a4-9e88-89183c2a6b6c": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18859141398830__5b3131f1-52bb-43a4-9e88-89183c2a6b6c-1682881344bd18cc4b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join Our Ladies& Gentlemen",
+            "heading_size": "h1"
+          }
+        },
+        "template--18859141398830__5b3131f1-52bb-43a4-9e88-89183c2a6b6c-1682881344bd18cc4b-1": {
+          "type": "text",
+          "settings": {
+            "text": "As one of the Ladies and Gentlemen of The Ritz-Carlton, you are the most important asset in our service commitment to our guests. By joining us as we not only meet, but also exceed, our guests’ expectations, you embody the legendary service that makes us a leading luxury brand.",
+            "text_style": "body"
+          }
+        },
+        "template--18859141398830__5b3131f1-52bb-43a4-9e88-89183c2a6b6c-1682881344bd18cc4b-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Search Careers at Cliffrose Doula Care",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18859141398830__5b3131f1-52bb-43a4-9e88-89183c2a6b6c-1682881344bd18cc4b-0",
+        "template--18859141398830__5b3131f1-52bb-43a4-9e88-89183c2a6b6c-1682881344bd18cc4b-1",
+        "template--18859141398830__5b3131f1-52bb-43a4-9e88-89183c2a6b6c-1682881344bd18cc4b-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
@@ -9,6 +57,7 @@
     }
   },
   "order": [
+    "5b3131f1-52bb-43a4-9e88-89183c2a6b6c",
     "main"
   ]
 }
