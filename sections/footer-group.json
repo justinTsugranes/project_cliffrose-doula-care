@@ -2,27 +2,6 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
-    "16821710206bab9c64": {
-      "type": "apps",
-      "disabled": true,
-      "blocks": {
-        "30654f17-0b60-43f8-a7d3-4afedf2508bd": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
-          "disabled": true,
-          "settings": {
-            "heading_size": 30,
-            "feed_width": 100,
-            "html_area": ""
-          }
-        }
-      },
-      "block_order": [
-        "30654f17-0b60-43f8-a7d3-4afedf2508bd"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "cdf1b523-d4f6-4647-bd27-f91403a7c207": {
       "type": "newsletter",
       "blocks": {
@@ -121,7 +100,7 @@
         "show_social": true,
         "enable_country_selector": true,
         "enable_language_selector": true,
-        "payment_enable": false,
+        "payment_enable": true,
         "show_policy": true,
         "margin_top": 0,
         "padding_top": 36,
@@ -130,7 +109,6 @@
     }
   },
   "order": [
-    "16821710206bab9c64",
     "cdf1b523-d4f6-4647-bd27-f91403a7c207",
     "1682520731fdd906a2",
     "footer"
