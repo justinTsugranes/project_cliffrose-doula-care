@@ -1,7 +1,16 @@
 {
   "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
     "5b3131f1-52bb-43a4-9e88-89183c2a6b6c": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--18859141398830__5b3131f1-52bb-43a4-9e88-89183c2a6b6c-1682881344bd18cc4b-0": {
           "type": "heading",
@@ -47,17 +56,153 @@
         "show_text_below": true
       }
     },
-    "main": {
-      "type": "main-page",
+    "d1caab53-fee9-4a99-abef-eaedf403b714": {
+      "type": "image-with-text",
       "disabled": true,
+      "blocks": {
+        "template--18859141398830__d1caab53-fee9-4a99-abef-eaedf403b714-1682881429d7a1c84e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Fostering a Culture of Creativity",
+            "heading_size": "h1"
+          }
+        },
+        "template--18859141398830__d1caab53-fee9-4a99-abef-eaedf403b714-1682881429d7a1c84e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our Ladies and Gentlemen are deeply committed to providing impeccable service—a commitment we honor by empowering them to go above and beyond to bring unforgettable moments to life for our guests.<\/p><p>From creative culinary experiences and memorable outings to thoughtful gifts and amenities, the genuine care that our Ladies and Gentlemen show to our guests is at the heart of The Ritz-Carlton experience. Here, you’ll find inspiration in the work of your fellow Ladies and Gentlemen as often as they will be inspired by you.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18859141398830__d1caab53-fee9-4a99-abef-eaedf403b714-1682881429d7a1c84e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18859141398830__d1caab53-fee9-4a99-abef-eaedf403b714-1682881429d7a1c84e-0",
+        "template--18859141398830__d1caab53-fee9-4a99-abef-eaedf403b714-1682881429d7a1c84e-1",
+        "template--18859141398830__d1caab53-fee9-4a99-abef-eaedf403b714-1682881429d7a1c84e-2"
+      ],
       "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b78dd428-fce5-43f8-b4e2-ace5badc8c79": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--18859141398830__b78dd428-fce5-43f8-b4e2-ace5badc8c79-1682881344bd18cc4b-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--18859141398830__b78dd428-fce5-43f8-b4e2-ace5badc8c79-1682881344bd18cc4b-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--18859141398830__b78dd428-fce5-43f8-b4e2-ace5badc8c79-1682881344bd18cc4b-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18859141398830__b78dd428-fce5-43f8-b4e2-ace5badc8c79-1682881344bd18cc4b-0",
+        "template--18859141398830__b78dd428-fce5-43f8-b4e2-ace5badc8c79-1682881344bd18cc4b-1",
+        "template--18859141398830__b78dd428-fce5-43f8-b4e2-ace5badc8c79-1682881344bd18cc4b-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "0ba3635b-b58a-43ee-a633-4ccd8516904b": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--18859141398830__0ba3635b-b58a-43ee-a633-4ccd8516904b-1682881429d7a1c84e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hone Your Craft in Good Company",
+            "heading_size": "h1"
+          }
+        },
+        "template--18859141398830__0ba3635b-b58a-43ee-a633-4ccd8516904b-1682881429d7a1c84e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As a Lady or Gentleman of The Ritz-Carlton, you bring a unique blend of experience, passion, and integrity to your role—and you’re not alone. Here, you are surrounded by like-minded hospitality professionals who strive to learn from and support each other. As your career aspirations are fulfilled, you’ll have the chance to experience unprecedented growth, both professionally and personally.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18859141398830__0ba3635b-b58a-43ee-a633-4ccd8516904b-1682881429d7a1c84e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Search Careers at Cliffrose Doula Care",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18859141398830__0ba3635b-b58a-43ee-a633-4ccd8516904b-1682881429d7a1c84e-0",
+        "template--18859141398830__0ba3635b-b58a-43ee-a633-4ccd8516904b-1682881429d7a1c84e-1",
+        "template--18859141398830__0ba3635b-b58a-43ee-a633-4ccd8516904b-1682881429d7a1c84e-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
+    "main",
     "5b3131f1-52bb-43a4-9e88-89183c2a6b6c",
-    "main"
+    "d1caab53-fee9-4a99-abef-eaedf403b714",
+    "b78dd428-fce5-43f8-b4e2-ace5badc8c79",
+    "0ba3635b-b58a-43ee-a633-4ccd8516904b"
   ]
 }
