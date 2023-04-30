@@ -60,6 +60,7 @@
       "blocks": {
         "2efa2e29-e726-44dd-bcdb-7e00ceb9731b": {
           "type": "brand_information",
+          "disabled": true,
           "settings": {
             "show_social": false
           }
