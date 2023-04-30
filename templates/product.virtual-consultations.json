@@ -75,6 +75,12 @@
             "text_style": "body"
           }
         },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "disabled": true,
@@ -102,12 +108,6 @@
             "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=377e62\" style=\"min-width:320px;height:630px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->"
           }
         },
-        "description": {
-          "type": "description",
-          "disabled": true,
-          "settings": {
-          }
-        },
         "share": {
           "type": "share",
           "settings": {
@@ -120,11 +120,11 @@
         "title",
         "price",
         "2db0546d-06a2-46aa-8ad4-0aa880468908",
+        "description",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "b3a091aa-b910-483e-911e-b882b8251cc4",
-        "description",
         "share"
       ],
       "settings": {
