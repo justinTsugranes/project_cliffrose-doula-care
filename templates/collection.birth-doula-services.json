@@ -48,156 +48,6 @@
         "show_text_below": true
       }
     },
-    "36a96c12-44d9-4c02-800f-9c7eca24e069": {
-      "type": "featured-product",
-      "disabled": true,
-      "blocks": {
-        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-2": {
-          "type": "price",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-3": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-4": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-5": {
-          "type": "buy_buttons",
-          "disabled": true,
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-6": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-0",
-        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-1",
-        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-2",
-        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-3",
-        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-4",
-        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-5",
-        "template--18771324829998__36a96c12-44d9-4c02-800f-9c7eca24e069-168285139875f62de2-6"
-      ],
-      "settings": {
-        "product": "ultimate-cliffrose-birth-package",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "cover",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "96fc1ca5-5833-4f92-b65e-24176c6aa424": {
-      "type": "featured-product",
-      "disabled": true,
-      "blocks": {
-        "0beb1a3d-5ffc-4d64-bb3c-506ee4e0c496": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "94fbed5d-3148-4c21-a848-bdff0a38afc1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "afb31bb8-9945-44c8-b861-425d79a5309f": {
-          "type": "price",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "bf829b3d-4e52-44e7-b2d5-8d446fed2f7a": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "4ef69811-2cd4-4436-a845-e78c1fd94b70": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "c19a19a4-5cb2-49fa-b000-6cedfd651e78": {
-          "type": "buy_buttons",
-          "disabled": true,
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "4255d0e2-a5d7-4944-b969-625259decd63": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "0beb1a3d-5ffc-4d64-bb3c-506ee4e0c496",
-        "94fbed5d-3148-4c21-a848-bdff0a38afc1",
-        "afb31bb8-9945-44c8-b861-425d79a5309f",
-        "bf829b3d-4e52-44e7-b2d5-8d446fed2f7a",
-        "4ef69811-2cd4-4436-a845-e78c1fd94b70",
-        "c19a19a4-5cb2-49fa-b000-6cedfd651e78",
-        "4255d0e2-a5d7-4944-b969-625259decd63"
-      ],
-      "settings": {
-        "product": "pure-labor-support",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "cover",
-        "media_position": "right",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -248,7 +98,7 @@
         "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/wicker-basket-with-ultrasound-images-and-stuff-for-2022-10-18-00-36-11-utc.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_12.47.01_PM.jpg",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -519,8 +369,6 @@
   },
   "order": [
     "c09d92e5-2a87-408a-8087-801589bc779e",
-    "36a96c12-44d9-4c02-800f-9c7eca24e069",
-    "96fc1ca5-5833-4f92-b65e-24176c6aa424",
     "banner",
     "product-grid",
     "e8f888b7-2ae1-4533-85a6-58cd7107120d",
