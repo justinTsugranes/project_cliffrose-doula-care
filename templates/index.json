@@ -186,18 +186,21 @@
         },
         "5fb60fc4-a7f2-4799-8b67-be3ed621d908": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "pregnancy"
           }
         },
         "96a167e2-56d2-4db8-b6f2-e7ded7c19c20": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "postpartum"
           }
         },
         "acd9e7dd-f2f3-44be-bae0-80402d12f422": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "all-products"
           }
