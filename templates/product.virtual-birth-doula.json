@@ -1,0 +1,447 @@
+{
+  "sections": {
+    "8294d813-b228-49e7-a8df-6a350c776c15": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pure Labor Support Package",
+            "heading_size": "h1"
+          }
+        },
+        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1": {
+          "type": "text",
+          "settings": {
+            "text": "As full spectrum doulas, We work with all reproductive journeys: conception, adoption, surrogacy, pregnancy, labor, and birth. We are there in the postpartum and can help you through a termination process. <strong>We support people through every outcome.<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Book a free consultation",
+            "button_link_1": "shopify:\/\/products\/intro-birth-consultation",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0",
+        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1",
+        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_12.47.01_PM.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "disabled": true,
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8": {
+          "type": "text",
+          "settings": {
+            "text": "Text block",
+            "text_style": "body"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8",
+        "description",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "stacked",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "0f55ffa0-e50a-4acf-ad18-997356e50af7": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>The Pure Labor Support Package<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As full spectrum doulas, we are dedicated to providing exceptional care and support throughout your entire reproductive journey. From conception to adoption, surrogacy, termination, pregnancy, labor, birth, and postpartum, we are there to support you through every outcome.. Our birth doula service is designed to offer you comprehensive care and guidance during this transformative experience, and we are committed to helping you feel confident, empowered, and prepared for your upcoming birth and parenthood.<\/p><h2>Our Pure Labor Support Package includes the following services:<\/h2><ul><li>Prenatal Visit -  1 visit for 4 hours<\/li><li>Labor Support - Rebozo, Birth Ball, Breathing Techniques, Acupressure, Birthroom Ambiance, Labor Meal<\/li><li>Postpartum Visit - 1 visit for 4 hours<\/li><li>24\/7 On Call Support beginning at 38 weeks<\/li><\/ul><p><strong>Total Package Price: $1,000.00<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Book a free consultation",
+            "button_link": "shopify:\/\/products\/intro-birth-consultation"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-0",
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-1",
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.04.57_PM.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18771812843822__5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678-168164668958c25d7c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "1 Prenatal Visit",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771812843822__5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678-168164668958c25d7c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Our pure labor support package includes one prenatal visit where we will plan and discuss important topics before your estimated due date.<\/h2><p>During these visits, we'll<\/p><ul><li>Build our connection<\/li><li>Discuss your birth preferences<\/li><li>Create a Birth Plan<\/li><li>Practice relaxation techniques in our Labor Prep class<\/li><li>Talk about comfort measures and labor positions<\/li><li>Provide tips on laboring at home<\/li><\/ul><p>This visit is designed to help you get ready for your baby, address any questions or concerns you may have, and ensure you feel prepared and confident for your upcoming birth experience.<\/p><p><strong>Wondering what we'll cover? Check out our <\/strong><a href=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSficKDbiR9TcYFqryZo72Y3v77RRLmb757Ym0XNtpt63Q-P2g\/viewform?usp=sf_link\" title=\"birth planning checklist\"><strong>Planning Checklist <\/strong><\/a><strong>filled with topics we can explore together.<\/strong><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771812843822__5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678-168164668958c25d7c-0",
+        "template--18771812843822__5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678-168164668958c25d7c-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_8.32.20_AM.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "c133156c-ab40-47c2-847b-4a56b50bf17a": {
+      "type": "image-with-text",
+      "blocks": {
+        "969a4179-d67c-476e-956c-0ee75dca4759": {
+          "type": "heading",
+          "settings": {
+            "heading": "24\/7 On-Call Support",
+            "heading_size": "h1"
+          }
+        },
+        "e8115073-cfbf-41ea-b880-f700772502dd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are here for you 24\/7 with on-call availability starting at 38 weeks gestation and continuing through your entire pregnancy, birth, and postpartum period.<\/p><p>You can count on us to be there whenever you need us, whether it's answering questions, providing guidance, or offering support during labor and beyond.<\/p><p>With our on-call availability, you can have peace of mind knowing that we are just a call or message away, ready to provide the support you need whenever you need it most.<\/p><p>After contacting your doula at onset of labor, We will be constantly available via phone, video call, and text to provide support as you labor at home or with you at your preferred delivery location through the duration of labor. <\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "969a4179-d67c-476e-956c-0ee75dca4759",
+        "e8115073-cfbf-41ea-b880-f700772502dd"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.44.58_PM_b5bccd03-42fa-4a34-92ad-dc17856ee8e4.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "04c19bbc-f531-4662-806b-fd33b8941ae1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18771812843822__04c19bbc-f531-4662-806b-fd33b8941ae1-168164668958c25d7c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Labor Support",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771812843822__04c19bbc-f531-4662-806b-fd33b8941ae1-168164668958c25d7c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your experienced doula will be by your side throughout your labor, providing continuous support, encouragement, and comfort, regardless of your chosen birth location (home, birthing center, or hospital). Our services include:<\/p><ul><li><strong>Rebozo Massage: <\/strong>Utilizing the traditional Mexican technique of using a shawl-like cloth, your doula will provide gentle and soothing movements to help ease tension and promote relaxation during labor.<\/li><li><strong>Birthing Ball:<\/strong> Your doula will assist you in using a birthing ball, a large inflatable ball, as a tool for comfort, support, and optimal positioning during labor.<\/li><li><strong>Breathing Techniques:<\/strong> Your doula will guide you through various breathing techniques to help you stay relaxed, focused, and manage pain during labor.<\/li><li><strong>Complimentary Birth Photography and Video:<\/strong> As a special gift to you, your doula will capture precious moments of your labor and birth through photography and video, which will be provided to you on a flash drive to treasure for a lifetime.<\/li><li><strong>Birth Room Ambiance:<\/strong> Your doula will create a calming and soothing environment in your birth room with a Himalayan salt lamp, essential oil diffuser, blood orange mist, and arnica massage oil to promote relaxation and comfort during labor.<\/li><\/ul><p>With our comprehensive support through labor, you can feel confident and empowered during this transformative experience.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771812843822__04c19bbc-f531-4662-806b-fd33b8941ae1-168164668958c25d7c-0",
+        "template--18771812843822__04c19bbc-f531-4662-806b-fd33b8941ae1-168164668958c25d7c-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155363_1.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e478ea4e-5b04-4094-a631-f0d7fc60d06e": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--18771812843822__e478ea4e-5b04-4094-a631-f0d7fc60d06e-1681899460dd00dcec-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "1 Overnight Doula",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771812843822__e478ea4e-5b04-4094-a631-f0d7fc60d06e-1681899460dd00dcec-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Experience peace of mind knowing that our dedicated doula will be with you throughout the night, providing comprehensive support after your baby's birth. Our services include:<\/p><ul><li><strong>Overnight Support:<\/strong> Your doula will be by your side all night, providing compassionate care and assistance as you navigate the postpartum period.<\/li><li><strong>Skin-to-Skin Bonding:<\/strong> Your doula will help facilitate skin-to-skin contact between you and your baby, promoting bonding and establishing breastfeeding, if desired.<\/li><li><strong>Feeding Support:<\/strong> Your doula will offer guidance and assistance with breastfeeding or bottle-feeding, ensuring that you and your baby are comfortable and well-supported.<\/li><\/ul><p>With our overnight doula care, you can rest assured knowing that you have a knowledgeable and caring professional by your side throughout the night, providing nurturing support for you and your newborn.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771812843822__e478ea4e-5b04-4094-a631-f0d7fc60d06e-1681899460dd00dcec-0",
+        "template--18771812843822__e478ea4e-5b04-4094-a631-f0d7fc60d06e-1681899460dd00dcec-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.21.12_PM.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "913e3a22-81da-4c48-960d-2acb1527f4d3": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "1 Postpartum Visit",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our postpartum doula services extend beyond the birth, providing essential support during the early weeks of parenthood. We offer:<\/p><ul><li><strong>In-Home Visits:<\/strong> Within the first two weeks postpartum, your doula will schedule visits to your home, providing emotional support, practical assistance, and answering any questions you may have about the birth experience or newborn care.<\/li><li><strong>Emotional Support:<\/strong> Your doula is here to listen and provide a safe space for you to share your feelings, emotions, and thoughts about adjusting to life with a new baby, whether it's the good, the bad, or the tough stuff.<\/li><li><strong>Resources and Tips on Infant Feeding:<\/strong> Your doula will provide valuable resources and tips on infant feeding, including breastfeeding, bottle-feeding, and introducing solids, to help you navigate this important aspect of newborn care.<\/li><li><strong>Meal Planning and Grocery Lists:<\/strong> Your doula will help you plan meals and provide a grocery list to make your life a little easier during the postpartum period. We can also arrange contact-free drop-off of needed items through community support, a meal train, or assistance from friends and family.<\/li><li><strong>Ongoing Postpartum Care:<\/strong> Your doula understands that postpartum care extends beyond the initial weeks with a newborn. We are committed to providing ongoing support to new parents, those with toddlers, or multiple children through simple acts of caring for the parent, while you care for your family.<\/li><\/ul><p>Your postpartum visits are designed to meet you where you're at, from the comfort of your home, and provide comprehensive support to help you navigate the early weeks of parenthood with confidence and ease.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-0",
+        "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h1",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "ff5834c1-23cd-4261-b5dd-b0214318b68a": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18771812843822__ff5834c1-23cd-4261-b5dd-b0214318b68a-168164672051c53a4e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Let's Talk",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771812843822__ff5834c1-23cd-4261-b5dd-b0214318b68a-168164672051c53a4e-1": {
+          "type": "text",
+          "settings": {
+            "text": "We believe strongly that everyone deserves a doula. <strong>No one will be turned away for lack of resources. <\/strong>Reach out and we can discuss how we can support you best.",
+            "text_style": "body"
+          }
+        },
+        "template--18771812843822__ff5834c1-23cd-4261-b5dd-b0214318b68a-168164672051c53a4e-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Contact",
+            "button_link_1": "shopify:\/\/products\/intro-birth-consultation",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18771812843822__ff5834c1-23cd-4261-b5dd-b0214318b68a-168164672051c53a4e-0",
+        "template--18771812843822__ff5834c1-23cd-4261-b5dd-b0214318b68a-168164672051c53a4e-1",
+        "template--18771812843822__ff5834c1-23cd-4261-b5dd-b0214318b68a-168164672051c53a4e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.52.17_PM.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "desktop_content_position": "middle-right",
+        "show_text_box": true,
+        "desktop_content_alignment": "right",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "8294d813-b228-49e7-a8df-6a350c776c15",
+    "main",
+    "0f55ffa0-e50a-4acf-ad18-997356e50af7",
+    "5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678",
+    "c133156c-ab40-47c2-847b-4a56b50bf17a",
+    "04c19bbc-f531-4662-806b-fd33b8941ae1",
+    "e478ea4e-5b04-4094-a631-f0d7fc60d06e",
+    "913e3a22-81da-4c48-960d-2acb1527f4d3",
+    "related-products",
+    "ff5834c1-23cd-4261-b5dd-b0214318b68a"
+  ]
+}
