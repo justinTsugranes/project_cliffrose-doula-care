@@ -21,7 +21,7 @@
         "template--18859141398830__5b3131f1-52bb-43a4-9e88-89183c2a6b6c-1682881344bd18cc4b-1": {
           "type": "text",
           "settings": {
-            "text": "As one of the Ladies and Gentlemen of The Ritz-Carlton, you are the most important asset in our service commitment to our guests. By joining us as we not only meet, but also exceed, our guests’ expectations, you embody the legendary service that makes us a leading luxury brand.",
+            "text": "As one of the Ladies and Gentlemen of Cliffrose Doula Care, you are the most important asset in our service commitment to our clients. By joining us as we not only meet, but also exceed, our clients’ expectations, you embody the legendary service that makes us leading birthing companions.",
             "text_style": "body"
           }
         },
@@ -43,6 +43,7 @@
         "template--18859141398830__5b3131f1-52bb-43a4-9e88-89183c2a6b6c-1682881344bd18cc4b-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_2.06.40_PM.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -78,7 +79,7 @@
         "template--18859141398830__d1caab53-fee9-4a99-abef-eaedf403b714-1682881429d7a1c84e-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_12.47.01_PM.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_2.06.40_PM.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -95,7 +96,7 @@
     "b78dd428-fce5-43f8-b4e2-ace5badc8c79": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/pregnant-women-in-prenatal-class-touching-belly-2021-08-26-15-46-11-utc.webp",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_2.06.40_PM.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
@@ -128,7 +129,7 @@
         "template--18859141398830__0ba3635b-b58a-43ee-a633-4ccd8516904b-1682881429d7a1c84e-2": {
           "type": "button",
           "settings": {
-            "button_label": "Search Careers at Cliffrose Doula Care",
+            "button_label": "Search Careers",
             "button_link": ""
           }
         }
@@ -139,7 +140,7 @@
         "template--18859141398830__0ba3635b-b58a-43ee-a633-4ccd8516904b-1682881429d7a1c84e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-18_at_4.38.54_PM.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_2.06.40_PM.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
