@@ -35,7 +35,7 @@
         "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-05-02_at_6.06.24_AM.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-05-02_at_5.14.16_AM.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -55,6 +55,52 @@
         "show_collection_description": true,
         "show_collection_image": true,
         "color_scheme": "background-1"
+      }
+    },
+    "c199ea3e-7946-47b1-b3f0-c60fa7404600": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18969798443310__c199ea3e-7946-47b1-b3f0-c60fa7404600-16830221892d236519-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "We schedule virtual consultations that typically cover the following topics:",
+            "heading_size": "h1"
+          }
+        },
+        "template--18969798443310__c199ea3e-7946-47b1-b3f0-c60fa7404600-16830221892d236519-1": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Comfort Measures (environmental, relaxation techniques, affirmations)<\/li><li>Birth Ball Use<\/li><li>Labor Positions<\/li><li>How to Labor at Home<\/li><li>How to Advocate for Yourself & Hospital Policies<\/li><li>Immediate Newborn Care<\/li><li>Miscarriage & Bereavement Support<\/li><li>Adoption<\/li><li>Surrogacy<\/li><\/ul>",
+            "text_style": "body"
+          }
+        },
+        "template--18969798443310__c199ea3e-7946-47b1-b3f0-c60fa7404600-16830221892d236519-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18969798443310__c199ea3e-7946-47b1-b3f0-c60fa7404600-16830221892d236519-0",
+        "template--18969798443310__c199ea3e-7946-47b1-b3f0-c60fa7404600-16830221892d236519-1",
+        "template--18969798443310__c199ea3e-7946-47b1-b3f0-c60fa7404600-16830221892d236519-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.49.36_PM_7ff628bc-77fc-4e18-9552-13975a82d274.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "product-grid": {
@@ -77,6 +123,7 @@
     },
     "e8f888b7-2ae1-4533-85a6-58cd7107120d": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-0": {
           "type": "heading",
@@ -114,6 +161,7 @@
     },
     "fc418fa7-c9e2-4739-ba49-c6d6c8146c15": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18729374253358__fc418fa7-c9e2-4739-ba49-c6d6c8146c15-1681573430b2e45cde-0": {
           "type": "heading",
@@ -151,6 +199,7 @@
     },
     "89b62bcb-54fc-4333-a0d8-84ddeda87828": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18729374253358__89b62bcb-54fc-4333-a0d8-84ddeda87828-1681573430b2e45cde-0": {
           "type": "heading",
@@ -271,55 +320,6 @@
         "padding_bottom": 36
       }
     },
-    "82a474c2-748a-4f1b-8922-cee8fac2e825": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--18771324829998__82a474c2-748a-4f1b-8922-cee8fac2e825-16828528327c641613-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Cliffrose Birth Package",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771324829998__82a474c2-748a-4f1b-8922-cee8fac2e825-16828528327c641613-1": {
-          "type": "text",
-          "settings": {
-            "text": "The ultimate way to enter parenthood",
-            "text_style": "body"
-          }
-        },
-        "template--18771324829998__82a474c2-748a-4f1b-8922-cee8fac2e825-16828528327c641613-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Learn More",
-            "button_link_1": "shopify:\/\/products\/ultimate-cliffrose-birth-package",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18771324829998__82a474c2-748a-4f1b-8922-cee8fac2e825-16828528327c641613-0",
-        "template--18771324829998__82a474c2-748a-4f1b-8922-cee8fac2e825-16828528327c641613-1",
-        "template--18771324829998__82a474c2-748a-4f1b-8922-cee8fac2e825-16828528327c641613-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.48.46_PM.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "8ef8dba0-8ae0-415f-8a7e-84a3697a6571": {
       "type": "image-banner",
       "blocks": {
@@ -372,13 +372,13 @@
   "order": [
     "c09d92e5-2a87-408a-8087-801589bc779e",
     "banner",
+    "c199ea3e-7946-47b1-b3f0-c60fa7404600",
     "product-grid",
     "e8f888b7-2ae1-4533-85a6-58cd7107120d",
     "fc418fa7-c9e2-4739-ba49-c6d6c8146c15",
     "89b62bcb-54fc-4333-a0d8-84ddeda87828",
     "27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb",
     "e922e7e2-02cd-4791-a68c-7fc76f393023",
-    "82a474c2-748a-4f1b-8922-cee8fac2e825",
     "8ef8dba0-8ae0-415f-8a7e-84a3697a6571"
   ]
 }
