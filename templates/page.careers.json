@@ -29,7 +29,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Search Careers at Cliffrose Doula Care",
-            "button_link_1": "",
+            "button_link_1": "https:\/\/www.linkedin.com\/company\/cliffrose-doula\/jobs\/",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -130,7 +130,7 @@
           "type": "button",
           "settings": {
             "button_label": "Search Careers",
-            "button_link": ""
+            "button_link": "https:\/\/www.linkedin.com\/company\/cliffrose-doula\/jobs"
           }
         }
       },
