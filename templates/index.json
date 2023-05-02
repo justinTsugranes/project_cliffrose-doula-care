@@ -51,6 +51,21 @@
         "show_text_below": false
       }
     },
+    "8927efad-e406-4489-b907-8dfcd2ea6246": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
     "3354c3e8-28ab-46d7-a5a0-ec1b4ce33489": {
       "type": "image-with-text",
       "blocks": {
@@ -131,7 +146,7 @@
         "template--18729374646574__df818c1b-af78-407b-9edf-d3bc3ab979f8-1682184832658d0e18-1": {
           "type": "text",
           "settings": {
-            "text": "<p>As full spectrum doulas, we are dedicated to providing exceptional care and support throughout your entire reproductive journey.<\/p><p>From conception to adoption, surrogacy, termination, pregnancy, labor, birth, and postpartum, we are there to support you through every outcome.. Our birth doula service is designed to offer you comprehensive care and guidance during this transformative experience, and we are committed to helping you feel prepared for your upcoming birth and parenthood.<\/p><h2>Our Cliffrose Birth Doula Package includes the following services:<\/h2><ul><li>Prenatal Visits -  3 visits for 3 hours each<\/li><li>Labor Support - Rebozo, Birth Ball, Breathing Techniques, Acupressure, Birthroom Ambiance, Meals<\/li><li>1 Overnight Doula (8 hours) for 3 nights<\/li><li>Postpartum Visits - 3 visits for 3 hours each<\/li><li>Meals - Light Labor Meals, Healing Postpartum Meals, Freezer Stockpile<\/li><li>24\/7 On Call Support beginning at 38 weeks<\/li><li>Virtual Consultations as necessary<\/li><\/ul><p><strong>Total Package Price: $3,000.00<\/strong><\/p>",
+            "text": "<p>As full spectrum doulas, we are dedicated to providing exceptional care and support throughout your entire reproductive journey.<\/p><p>From conception to adoption, surrogacy, termination, pregnancy, labor, birth, and postpartum, we are there to support you through every outcome.. Our birth doula service is designed to offer you comprehensive care and guidance during this transformative experience, and we are committed to helping you feel prepared for your upcoming birth and parenthood.<\/p><h2>Our Cliffrose Birth Doula Package includes the following services:<\/h2><ul><li>Prenatal Visits -  3 visits for 3 hours each<\/li><li>Labor Support - Rebozo, Birth Ball, Breathing Techniques, Acupressure, Birthroom Ambiance, Meals<\/li><li>1 Overnight Doula (8 hours) for 3 nights<\/li><li>Postpartum Visits - 3 visits for 3 hours each<\/li><li>Meals - Light Labor Meals, Healing Postpartum Meals, Freezer Stockpile<\/li><li>24\/7 On Call Support beginning at 38 weeks<\/li><li>Virtual Consultations as necessary<\/li><\/ul>",
             "text_style": "body"
           }
         },
@@ -851,6 +866,7 @@
   },
   "order": [
     "image_banner",
+    "8927efad-e406-4489-b907-8dfcd2ea6246",
     "3354c3e8-28ab-46d7-a5a0-ec1b4ce33489",
     "0b4a08e4-0497-4171-9fa2-36d0911dfe19",
     "df818c1b-af78-407b-9edf-d3bc3ab979f8",
