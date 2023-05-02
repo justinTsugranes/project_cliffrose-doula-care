@@ -5,28 +5,28 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement-bar-0": {
-          "type": "announcement",
-          "settings": {
-            "text": "SPECIAL OFFER | FREE 15-MINUTE CONSULTATION WITH A DOULA. DETAILS",
-            "text_alignment": "center",
-            "color_scheme": "background-1",
-            "link": "shopify:\/\/products\/intro-birth-consultation"
-          }
-        },
         "e87b7968-fa22-4392-b1e2-7e9cdc188c3a": {
           "type": "announcement",
           "settings": {
             "text": "We support families through pregnancy, childbirth, and postpartum",
             "text_alignment": "center",
-            "color_scheme": "accent-1",
+            "color_scheme": "background-1",
             "link": ""
+          }
+        },
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "SPECIAL OFFER | FREE 15-MINUTE CONSULTATION WITH A DOULA. DETAILS",
+            "text_alignment": "center",
+            "color_scheme": "accent-1",
+            "link": "shopify:\/\/products\/intro-birth-consultation"
           }
         }
       },
       "block_order": [
-        "announcement-bar-0",
-        "e87b7968-fa22-4392-b1e2-7e9cdc188c3a"
+        "e87b7968-fa22-4392-b1e2-7e9cdc188c3a",
+        "announcement-bar-0"
       ],
       "settings": {
       }
