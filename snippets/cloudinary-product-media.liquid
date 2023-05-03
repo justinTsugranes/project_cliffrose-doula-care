@@ -1,0 +1,29 @@
+{% comment %}
+  Uses cloudinary-image-tag or cloudinary-video-tag to render product images or videos,  automatically optimized for quality and format.
+  Accepts:
+  - cld_media: {Object} Product Media object
+
+  Usage:
+  {% render 'cld-product-media',
+    media: cld_media,
+    image_transformations: transformations
+    video_transformations: transformations
+  %}
+{% endcomment %}
+
+{%- if cld_media.type == 'image' -%}
+  {%- assign trans = 'q_auto,f_auto' | append: image_transformations -%}
+  {%- assign image_sizes = cld_media.breakpoints | map: 'width' -%}
+  {%- if image_sizes.size == 0 -%}
+    {% assign image_sizes = '320,640,960,1080,1280,1600,1920' | split: ',' %}
+  {%- endif -%}
+  {% assign p_id = cld_media.public_id | replace: ' ', '%20' %}
+  {%- render 'cloudinary-image-tag', public_id: p_id, sizes: image_sizes, transformations: trans, alt: cld_media.alt -%}
+{%- elsif cld_media.type == 'video' -%}
+  {%- assign trans = 'q_auto,f_auto' | append: video_transformations -%}
+  {%- render 'cloudinary-video-tag', public_id: cld_media.public_id, type: 'video', transformations: trans -%}
+{% else %}
+  {% comment %}
+    handale and 3D
+  {% endcomment %}
+{%- endif -%}

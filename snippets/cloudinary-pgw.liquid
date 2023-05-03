@@ -1,0 +1,42 @@
+{% comment %}
+    Renders the Cloudinary Product Gallery widget to display product images and videos in a customizable, responsive and accessible user interface.
+
+    Accepts:
+    - gallery_tag: {string} The tag used to identify all media that should be displayed by the Product Gallery Widget
+
+    Usage:
+    {% render 'cloudinary-pgw',
+      media: cld_media,
+    %}
+{% endcomment %}
+
+{% assign config = shop.metafields.cloudinary.config.value %}
+{% assign use_pgw = settings.use_pgw %}
+{% assign gallery_conf = settings.pgw_conf %}
+
+{% if use_pgw %}
+  <div id="cld-gallery" style="max-width:100%; margin: auto;">
+  </div>
+  <script type="text/javascript">
+    let galleryConf = { 
+    container: "#cld-gallery", 
+    cloudName: "{{ config.cloudName }}",
+    secure: true,
+    {% if config.cname != "none" %}
+      privateCdn: true,
+      secureDistribution: "{{ config.cname }}",
+    {% endif %}
+    queryParam: "AM",
+    mediaAssets: [
+    {% for m in media %}
+      {publicId: "{{ m.public_id }}" , mediaType: "{{ m.type | downcase }}" },
+    {% endfor %}
+    ] 
+    }
+    {% if gallery_conf != empty %}
+    addtionalConf = JSON.parse({{ gallery_conf | json }})
+    Object.assign(galleryConf, addtionalConf)
+    {% endif %}
+  </script>
+  <script src="https://product-gallery.cloudinary.com/all.js" onload="var pgw = cloudinary.galleryWidget(galleryConf); pgw.render();" type="text/javascript" async="async"></script>
+{% endif %}

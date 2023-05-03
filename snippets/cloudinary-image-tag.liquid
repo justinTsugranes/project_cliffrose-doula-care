@@ -1,0 +1,32 @@
+{% comment %}
+  Builds an image tag with multiple sources to render images from Cloudinary lazily, applying transformations
+  and with appropriate responsive breakpoints set.
+
+  Accepts:
+  - public_id: {string} The public ID of an asset
+  - transformations {string} Cloudinary transformations in URL format
+  - sizes {array[number]} Image sizes
+  - alt {sting} Image alt text
+
+  Usage:
+  {% render 'cloudinary-image-tag',
+    public_id: public_id,
+    transformations: transformations
+    sizes: [320, 640, 960, 1080, 1280, 1600, 1920]
+    alt: "alt text"
+  %}
+{% endcomment %}
+
+<img
+  class="lazyload"
+  data-srcset="
+    {%- for size in sizes -%}
+    {%- assign trans = transformations | append: '/c_scale,w_' | append: size -%}
+    {%- render 'cloudinary-url', public_id: public_id, type: 'image', transformations: trans %} {{ size }}w,
+    {%- endfor -%}
+  "
+  data-sizes="auto"
+  data-src="medium"
+  alt="{{ alt | escape }}"
+  width="100%"
+>

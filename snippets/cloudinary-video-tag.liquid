@@ -1,0 +1,117 @@
+{% comment %}
+    Renders a video from Cloudinary, applying transformations, either using the video player, if enabled, or by building a video tag.
+
+    Accepts:
+    - public_id: {string} The public ID of an asset 
+    - transformations {string} Cloudinary transformations in URL format
+    - mute : {bool} Start the video muted
+    - controls: {bool} Show the video controls
+    - loop: {bool} Show the video in a loop
+
+    Usage:
+    {% render 'cloudinary-video-tag',
+      public_id: public_id,
+      transformations: transformations
+      mute: true || false
+      controls: true || false
+      loop: true || false
+    %}
+{% endcomment %}
+
+
+{%- assign config = shop.metafields.cloudinary.config.value -%}
+{%- assign use_videoplayer = settings.use_videoplayer -%}
+{%- assign videoplayer_config = settings.videoplayer_conf | default: "{}" -%}
+{%- assign videoplayer_js = settings.videoplayer_js_url -%}
+{%- assign videoplayer_css = settings.videoplayer_css_url -%}
+{%- assign video_tag_id = public_id | sha1 | slice: 0, 8 -%}
+{% if mute != empty %}
+    {% if mute %}
+        {% assign muted = "true" %}
+    {% else %}
+        {% assign muted = "false" %}
+    {% endif %}
+    {% else %}
+        {% assign muted = "false" %}
+{% endif %}
+{% if controls != empty %}
+    {% if controls %}
+        {% assign ctrl = "true" %}
+    {% else %}
+        {% assign ctrl = "false" %}
+    {% endif %}
+    {% else %}
+        {% assign ctrl = "true" %}
+{% endif %}
+{% if loop != empty %}
+    {% if loop %}
+        {% assign lp = "true" %}
+    {% else %}
+        {% assign lp = "false" %}
+    {% endif %}
+    {% else %}
+        {% assign lp = "false" %}
+{% endif %}
+
+{%- if use_videoplayer -%}
+<script type="text/javascript" style="display: none;">
+    function hasLink(list) {
+        for ( let item of list.children ) {
+            if (item.href === "{{ videoplayer_css }}") {
+                return true;
+            }
+        }
+        return false;
+    }
+    var head = document.querySelector('HEAD');
+        if (!hasLink(head)) {
+            var link = document.createElement('link');
+            link.rel = 'stylesheet'; 
+            link.type = 'text/css';
+            link.href="{{ videoplayer_css }}" 
+            head.appendChild(link);
+        }
+    </script>
+    <script src="{{ videoplayer_js }}" type="text/javascript"></script>
+    <video id ="{{ video_tag_id }}"
+        muted="{{ muted }}"
+        controls="{{ ctrl }}"
+        loop="{{ lp }}"
+    ></video>
+
+<script type="text/javascript" style="display: none">
+    function cldVp(cloudName, vpConf , id, publicId, transformations) {
+        let conf = {
+          cloud_name: cloudName, 
+          secure: true,
+          fluid: true,
+          {% if config.cname != "none" %}
+              privateCdn: true,
+              secureDistribution: "{{ config.cname }}",
+          {% endif %}
+        }
+        Object.assign(conf, vpConf.player)
+        let player = cloudinary.videoPlayer(id, conf)
+        let sourceConf = {
+            publicId: publicId,
+            transformation: {raw: transformations},
+            queryParams: {_i: "am"}
+        }
+        if (vpConf.source) {
+                Object.assign(sourceConf, vpConf.source)
+        }
+        player.source(sourceConf)
+
+    }
+        window.cldVp("{{ config.cloudName }}", JSON.parse({{ videoplayer_config | json }}), "{{ video_tag_id }}", "{{ public_id }}", "{{ transformations }}")
+    </script>
+{%- else -%}
+    <video id ="{{ video_tag_id }}"
+        src="{%- render 'cloudinary-url', public_id: public_id, type: 'video', transformations: transformations -%}"
+        muted="{{ muted }}"
+        controls="{{ ctrl }}"
+        loop="{{ lp }}"
+        width="100%"
+    ></video>
+{%- endif -%}
+

@@ -1,0 +1,17 @@
+{% comment %}
+    Creates a Cloudinary URL from an asset’s public ID and any specified transformations.
+
+    Accepts:
+    - public_id: {string} The public ID of an asset 
+    - transformations {string} Cloudinary transformations in URL format
+
+    Usage:
+    {% render 'cld-url',
+      public_id: public_id,
+      type: asset_type
+      transformations: transformations
+    %}
+{% endcomment %}
+{%- assign config = shop.metafields.cloudinary.config.value -%}
+{%- assign queryParms = "_i=AM" -%}
+https://{% if config.cname == 'none' %}res.cloudinary.com/{{ config.cloudName }}{% else %}{{ config.cname }}{% endif %}/{{ type }}/upload/{{ transformations }}/{{ public_id }}?{{ queryParms }}
