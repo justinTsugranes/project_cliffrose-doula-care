@@ -2,6 +2,7 @@
   "sections": {
     "a7a169c4-c38d-41c0-a135-6cdfb74f1c1e": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--18869097726254__a7a169c4-c38d-41c0-a135-6cdfb74f1c1e-16823434954f8e979a-0": {
           "type": "heading",
@@ -56,6 +57,85 @@
         "padding_bottom": 28
       }
     },
+    "7b85f0a3-758a-46d6-bdad-9af611c7e153": {
+      "type": "featured-product",
+      "blocks": {
+        "template--18869097726254__7b85f0a3-758a-46d6-bdad-9af611c7e153-1683108809c1d71d95-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--18869097726254__7b85f0a3-758a-46d6-bdad-9af611c7e153-1683108809c1d71d95-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--18869097726254__7b85f0a3-758a-46d6-bdad-9af611c7e153-1683108809c1d71d95-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "efef32b3-3f2b-40f5-88ab-0adf77f72605": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": ""
+          }
+        },
+        "template--18869097726254__7b85f0a3-758a-46d6-bdad-9af611c7e153-1683108809c1d71d95-3": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--18869097726254__7b85f0a3-758a-46d6-bdad-9af611c7e153-1683108809c1d71d95-4": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--18869097726254__7b85f0a3-758a-46d6-bdad-9af611c7e153-1683108809c1d71d95-5": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--18869097726254__7b85f0a3-758a-46d6-bdad-9af611c7e153-1683108809c1d71d95-6": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--18869097726254__7b85f0a3-758a-46d6-bdad-9af611c7e153-1683108809c1d71d95-0",
+        "template--18869097726254__7b85f0a3-758a-46d6-bdad-9af611c7e153-1683108809c1d71d95-1",
+        "template--18869097726254__7b85f0a3-758a-46d6-bdad-9af611c7e153-1683108809c1d71d95-2",
+        "efef32b3-3f2b-40f5-88ab-0adf77f72605",
+        "template--18869097726254__7b85f0a3-758a-46d6-bdad-9af611c7e153-1683108809c1d71d95-3",
+        "template--18869097726254__7b85f0a3-758a-46d6-bdad-9af611c7e153-1683108809c1d71d95-4",
+        "template--18869097726254__7b85f0a3-758a-46d6-bdad-9af611c7e153-1683108809c1d71d95-5",
+        "template--18869097726254__7b85f0a3-758a-46d6-bdad-9af611c7e153-1683108809c1d71d95-6"
+      ],
+      "settings": {
+        "product": "bump-to-table-a-trimester-by-trimester-meal-planning-guide",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "168234345007532d1c": {
       "type": "apps",
       "blocks": {
@@ -75,6 +155,7 @@
     },
     "988bff75-9502-480d-bf17-02e120fc3460": {
       "type": "multirow",
+      "disabled": true,
       "blocks": {
         "template--18869097726254__988bff75-9502-480d-bf17-02e120fc3460-168234450246a497d1-2": {
           "type": "row",
@@ -123,7 +204,7 @@
         "button_style": "secondary",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
+        "image_layout": "alternate-right",
         "section_color_scheme": "background-1",
         "row_color_scheme": "background-1",
         "mobile_content_alignment": "left",
@@ -135,6 +216,7 @@
   "order": [
     "a7a169c4-c38d-41c0-a135-6cdfb74f1c1e",
     "main",
+    "7b85f0a3-758a-46d6-bdad-9af611c7e153",
     "168234345007532d1c",
     "988bff75-9502-480d-bf17-02e120fc3460"
   ]
