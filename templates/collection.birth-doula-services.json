@@ -19,6 +19,7 @@
         },
         "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-2": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Contact Us",
             "button_link_1": "shopify:\/\/pages\/contact",
@@ -50,6 +51,7 @@
     },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
@@ -76,6 +78,7 @@
     },
     "8d7dbcd2-5358-43f6-aa37-ed6dd565eebf": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
