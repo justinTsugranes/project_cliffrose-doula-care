@@ -580,9 +580,9 @@
       ],
       "settings": {
         "product": "intro-birth-consultation",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "secondary_background": false,
-        "media_size": "medium",
+        "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "media_position": "left",
