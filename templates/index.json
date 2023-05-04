@@ -862,6 +862,15 @@
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "3975ea0e-7552-40fb-8e65-f042b7a0edfc": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{%- assign cld_media = product.metafields.cloudinary.productmedia_v1.value -%}\n{%- render 'cloudinary-pgw', media: cld_media -%}",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -884,6 +893,7 @@
     "f94009ae-aedb-43f1-a324-08cd7513ad10",
     "7f7b405e-4b55-46eb-8ddf-944b659c9cdc",
     "16d6166f-b8f2-4798-b440-146bf209e8e9",
-    "f7bcc94c-c463-4794-9383-a34bd0437de3"
+    "f7bcc94c-c463-4794-9383-a34bd0437de3",
+    "3975ea0e-7552-40fb-8e65-f042b7a0edfc"
   ]
 }
