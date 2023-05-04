@@ -513,6 +513,86 @@
         "padding_bottom": 36
       }
     },
+    "17f15613-fb7b-4f21-80d9-186f48cb892b": {
+      "type": "featured-product",
+      "blocks": {
+        "template--18771812843822__17f15613-fb7b-4f21-80d9-186f48cb892b-16831925353a1ecb09-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--18771812843822__17f15613-fb7b-4f21-80d9-186f48cb892b-16831925353a1ecb09-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--18771812843822__17f15613-fb7b-4f21-80d9-186f48cb892b-16831925353a1ecb09-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "5e35c77d-6ba3-4504-a281-26d39902ea38": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/intro-birth-consultation?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=377e62\" style=\"min-width:320px;height:630px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->"
+          }
+        },
+        "template--18771812843822__17f15613-fb7b-4f21-80d9-186f48cb892b-16831925353a1ecb09-3": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--18771812843822__17f15613-fb7b-4f21-80d9-186f48cb892b-16831925353a1ecb09-4": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--18771812843822__17f15613-fb7b-4f21-80d9-186f48cb892b-16831925353a1ecb09-5": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--18771812843822__17f15613-fb7b-4f21-80d9-186f48cb892b-16831925353a1ecb09-6": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771812843822__17f15613-fb7b-4f21-80d9-186f48cb892b-16831925353a1ecb09-0",
+        "template--18771812843822__17f15613-fb7b-4f21-80d9-186f48cb892b-16831925353a1ecb09-1",
+        "template--18771812843822__17f15613-fb7b-4f21-80d9-186f48cb892b-16831925353a1ecb09-2",
+        "5e35c77d-6ba3-4504-a281-26d39902ea38",
+        "template--18771812843822__17f15613-fb7b-4f21-80d9-186f48cb892b-16831925353a1ecb09-3",
+        "template--18771812843822__17f15613-fb7b-4f21-80d9-186f48cb892b-16831925353a1ecb09-4",
+        "template--18771812843822__17f15613-fb7b-4f21-80d9-186f48cb892b-16831925353a1ecb09-5",
+        "template--18771812843822__17f15613-fb7b-4f21-80d9-186f48cb892b-16831925353a1ecb09-6"
+      ],
+      "settings": {
+        "product": "intro-birth-consultation",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "fa767cb1-f77c-433e-b2dc-e2e598f5281f": {
       "type": "image-banner",
       "disabled": true,
@@ -743,6 +823,7 @@
     "f1783c93-76a9-4687-a040-ac57b3f5fa02",
     "17671f09-fd83-4ccb-9413-89dfa1fd768c",
     "e3acfa3a-ac0f-49a0-845b-ccb9fb0df92a",
+    "17f15613-fb7b-4f21-80d9-186f48cb892b",
     "fa767cb1-f77c-433e-b2dc-e2e598f5281f",
     "56d25483-aade-4985-81b4-235dc93f0bba",
     "88d3f224-7065-4fc5-91aa-2433eb6f41b9",
