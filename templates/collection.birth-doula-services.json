@@ -50,7 +50,6 @@
     },
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
@@ -71,6 +70,20 @@
         "filter_type": "horizontal",
         "enable_sorting": false,
         "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8d7dbcd2-5358-43f6-aa37-ed6dd565eebf": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -373,6 +386,7 @@
     "c09d92e5-2a87-408a-8087-801589bc779e",
     "banner",
     "product-grid",
+    "8d7dbcd2-5358-43f6-aa37-ed6dd565eebf",
     "e8f888b7-2ae1-4533-85a6-58cd7107120d",
     "fc418fa7-c9e2-4739-ba49-c6d6c8146c15",
     "89b62bcb-54fc-4333-a0d8-84ddeda87828",
