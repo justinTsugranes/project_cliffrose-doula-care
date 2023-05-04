@@ -49,54 +49,9 @@
         "show_text_below": true
       }
     },
-    "4069b629-0077-4839-9862-9d6812cda4c6": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18810347290926__4069b629-0077-4839-9862-9d6812cda4c6-16818947289c418632-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Bundle & Save",
-            "heading_size": "h1"
-          }
-        },
-        "template--18810347290926__4069b629-0077-4839-9862-9d6812cda4c6-16818947289c418632-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Bundles for you and your bundle<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--18810347290926__4069b629-0077-4839-9862-9d6812cda4c6-16818947289c418632-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/collections\/bundle-save"
-          }
-        }
-      },
-      "block_order": [
-        "template--18810347290926__4069b629-0077-4839-9862-9d6812cda4c6-16818947289c418632-0",
-        "template--18810347290926__4069b629-0077-4839-9862-9d6812cda4c6-16818947289c418632-1",
-        "template--18810347290926__4069b629-0077-4839-9862-9d6812cda4c6-16818947289c418632-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-19_at_6.40.07_AM.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "5e85f4be-a8a1-41e9-bd78-5e6959f4c011": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Currently On Sale",
         "heading_size": "h1",
@@ -122,55 +77,8 @@
         "padding_bottom": 36
       }
     },
-    "05cb9b16-1b0a-4ad2-9f7b-5c1372578e7f": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "01396e81-9f03-4ac6-b983-0fc335db21b2": {
-          "type": "heading",
-          "settings": {
-            "heading": "On Sale",
-            "heading_size": "h1"
-          }
-        },
-        "a7f9d835-5fa0-47a9-848a-fa6b9e800b8d": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Bundles for you and your bundle<\/p>",
-            "text_style": "body"
-          }
-        },
-        "2f55f89d-754d-4cde-9427-3f5f66bdf1fa": {
-          "type": "button",
-          "settings": {
-            "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/collections\/bundle-save"
-          }
-        }
-      },
-      "block_order": [
-        "01396e81-9f03-4ac6-b983-0fc335db21b2",
-        "a7f9d835-5fa0-47a9-848a-fa6b9e800b8d",
-        "2f55f89d-754d-4cde-9427-3f5f66bdf1fa"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-19_at_6.40.07_AM.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "fc95f6ac-0835-41eb-8f9a-727b4fa7505b": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18810347290926__fc95f6ac-0835-41eb-8f9a-727b4fa7505b-16818947289c418632-0": {
           "type": "heading",
@@ -201,10 +109,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-18_at_5.25.31_PM.jpg",
-        "height": "adapt",
+        "height": "medium",
         "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -246,10 +154,10 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-19_at_6.40.07_AM.jpg",
-        "height": "small",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -270,9 +178,7 @@
   },
   "order": [
     "8c0951f7-21d1-4c9a-8179-01a94d3fd3ea",
-    "4069b629-0077-4839-9862-9d6812cda4c6",
     "5e85f4be-a8a1-41e9-bd78-5e6959f4c011",
-    "05cb9b16-1b0a-4ad2-9f7b-5c1372578e7f",
     "fc95f6ac-0835-41eb-8f9a-727b4fa7505b",
     "6efc3b04-e6cb-4bfd-9f2b-c75bdc84ac8e",
     "main"
