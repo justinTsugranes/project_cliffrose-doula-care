@@ -1,5 +1,55 @@
 {
   "sections": {
+    "763e58eb-9c9c-40fb-aff6-3e5fcd258cc6": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--18729374613806__763e58eb-9c9c-40fb-aff6-3e5fcd258cc6-16831949521b2a877f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cliffrose Collections",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374613806__763e58eb-9c9c-40fb-aff6-3e5fcd258cc6-16831949521b2a877f-1": {
+          "type": "text",
+          "settings": {
+            "text": "Carefully Curated For You",
+            "text_style": "body"
+          }
+        },
+        "template--18729374613806__763e58eb-9c9c-40fb-aff6-3e5fcd258cc6-16831949521b2a877f-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374613806__763e58eb-9c9c-40fb-aff6-3e5fcd258cc6-16831949521b2a877f-0",
+        "template--18729374613806__763e58eb-9c9c-40fb-aff6-3e5fcd258cc6-16831949521b2a877f-1",
+        "template--18729374613806__763e58eb-9c9c-40fb-aff6-3e5fcd258cc6-16831949521b2a877f-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_2.06.40_PM.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-list-collections",
       "settings": {
@@ -12,6 +62,7 @@
     }
   },
   "order": [
+    "763e58eb-9c9c-40fb-aff6-3e5fcd258cc6",
     "main"
   ]
 }
