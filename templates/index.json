@@ -202,7 +202,7 @@
         "template--18729374646574__df818c1b-af78-407b-9edf-d3bc3ab979f8-1682184832658d0e18-2": {
           "type": "button",
           "settings": {
-            "button_label": "Learn More",
+            "button_label": "LEARN MORE",
             "button_link": "shopify:\/\/products\/cliffrose-birth-package"
           }
         }
@@ -549,8 +549,8 @@
         "template--18607813067054__f323249f-afd3-4d2a-8e4d-88a6a30d187a-168104637185d78e48-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Schedule a Consultation",
-            "button_link_1": "shopify:\/\/products\/intro-birth-consultation",
+            "button_label_1": "CONTACT US",
+            "button_link_1": "shopify:\/\/pages\/contact",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
