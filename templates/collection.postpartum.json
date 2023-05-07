@@ -2,6 +2,7 @@
   "sections": {
     "c09d92e5-2a87-408a-8087-801589bc779e": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-0": {
           "type": "heading",
@@ -51,26 +52,76 @@
     },
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
         "color_scheme": "background-1"
       }
     },
-    "8d7dbcd2-5358-43f6-aa37-ed6dd565eebf": {
-      "type": "video",
-      "disabled": true,
+    "product-grid": {
+      "type": "main-collection-product-grid",
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
+        "products_per_page": 24,
+        "columns_desktop": 2,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "enable_filtering": false,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "8ef8dba0-8ae0-415f-8a7e-84a3697a6571": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Speak With A Doula",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-1": {
+          "type": "text",
+          "settings": {
+            "text": "We believe strongly that everyone deserves a doula. <strong>No one will be turned away for lack of resources. <\/strong>Reach out and we can discuss how we can best support you best.",
+            "text_style": "body"
+          }
+        },
+        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Contact Us",
+            "button_link_1": "shopify:\/\/pages\/contact",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-0",
+        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-1",
+        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.46.09_PM.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-right",
+        "show_text_box": true,
+        "desktop_content_alignment": "right",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "e159e720-6ed9-4ccd-aa37-859b9ea8e36c": {
@@ -156,72 +207,6 @@
         "padding_bottom": 36
       }
     },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "settings": {
-        "products_per_page": 24,
-        "columns_desktop": 2,
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": false,
-        "enable_filtering": false,
-        "filter_type": "horizontal",
-        "enable_sorting": false,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "8ef8dba0-8ae0-415f-8a7e-84a3697a6571": {
-      "type": "image-banner",
-      "blocks": {
-        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Speak With A Doula",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-1": {
-          "type": "text",
-          "settings": {
-            "text": "We believe strongly that everyone deserves a doula. <strong>No one will be turned away for lack of resources. <\/strong>Reach out and we can discuss how we can best support you best.",
-            "text_style": "body"
-          }
-        },
-        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Contact Us",
-            "button_link_1": "shopify:\/\/pages\/contact",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-0",
-        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-1",
-        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.46.09_PM.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-right",
-        "show_text_box": true,
-        "desktop_content_alignment": "right",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "3d34ef5b-09a1-4c14-a0fd-eb5f9190ac2b": {
       "type": "featured-blog",
       "disabled": true,
@@ -244,11 +229,10 @@
   "order": [
     "c09d92e5-2a87-408a-8087-801589bc779e",
     "banner",
-    "8d7dbcd2-5358-43f6-aa37-ed6dd565eebf",
-    "e159e720-6ed9-4ccd-aa37-859b9ea8e36c",
-    "89b62bcb-54fc-4333-a0d8-84ddeda87828",
     "product-grid",
     "8ef8dba0-8ae0-415f-8a7e-84a3697a6571",
+    "e159e720-6ed9-4ccd-aa37-859b9ea8e36c",
+    "89b62bcb-54fc-4333-a0d8-84ddeda87828",
     "3d34ef5b-09a1-4c14-a0fd-eb5f9190ac2b"
   ]
 }
