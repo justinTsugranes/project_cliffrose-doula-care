@@ -202,14 +202,14 @@
         "template--18772069450030__20d06b30-ad78-40d1-a914-007795dd3205-16822509744728562c-0": {
           "type": "heading",
           "settings": {
-            "heading": "<a href=\"\/collections\/all-products\" title=\"Shop All\">BIRTH ESSENTIALS<\/a>",
+            "heading": "BIRTH ESSENTIALS",
             "heading_size": "h1"
           }
         },
         "template--18772069450030__20d06b30-ad78-40d1-a914-007795dd3205-16822509744728562c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Get everything you need to feel prepared for your big day.<\/p>",
+            "text": "<p>Get everything you need to feel prepared for your big day. We carry perri bottles, sitz baths, nipple cream and so much more.<\/p>",
             "text_style": "body"
           }
         },
