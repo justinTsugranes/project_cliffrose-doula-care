@@ -221,6 +221,7 @@
     },
     "dea5420b-ab9a-43f9-9649-e42139d3023f": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "07189778-da7e-471f-a760-f261ced71e56": {
           "type": "heading",
@@ -267,6 +268,7 @@
     },
     "697779fe-f55c-483b-abef-894af59b96ca": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "88d984b1-4b36-43f6-a999-2d537a9afe65": {
           "type": "heading",
@@ -340,14 +342,14 @@
         "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-0": {
           "type": "heading",
           "settings": {
-            "heading": "As full spectrum doulas…",
+            "heading": "We are full-spectrum doulas",
             "heading_size": "h1"
           }
         },
         "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We support all reproductive journeys from conception to birth, adoption, surrogacy, and termination.<\/p><p>We provide emotional, informational, and physical support through every outcome, following an individual-centered care model that excludes no reproductive experience.<\/p>",
+            "text": "<p>We provide individual-centered care for all reproductive experiences, including conception, adoption, surrogacy, pregnancy, labor, birth, and termination.<\/p><p>Our mission is to support people through every outcome with dignity, respect, and compassion.<\/p>",
             "text_style": "body"
           }
         }
@@ -377,14 +379,14 @@
         "template--18764259295534__56eb3eb1-f6e9-487e-bddf-a78534b71bf1-1681639870eeeda013-0": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Here's our professional framework<\/strong>",
+            "heading": "A companion and continuous support system",
             "heading_size": "h1"
           }
         },
         "template--18764259295534__56eb3eb1-f6e9-487e-bddf-a78534b71bf1-1681639870eeeda013-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We are doulas: a companion who helps an individual by providing emotional, informational, and physical support through a transitional period of life. We follow a full-spectrum, individual-centered care model; excluding no reproductive experience.<\/p><p>We will be by your side continuously providing encouragement, comfort, and informational assistance when questions arise.<\/p><p>Through every outcome, we will be your advocate and informational resource to help you make informed decisions, trusting your choices, your body, and the process.<\/p><p>We are not medical professionals. As a doula, we do not “prescribe treatment”; any suggestions or information provided within our role as a doula must be done with the proviso that we will advise you, as  client, to check with your primary care provider before using any application.<\/p>",
+            "text": "<p>Your doula is your companion and continuous support system. We provide emotional, informational, and physical support to help you navigate this transitional period of life. We believe in evidence-based education, sharing knowledge and alternatives to empower you to make informed decisions that honor your choices, body, and process.<\/p><p>As your doula, we are your advocates and informational resources. We will be by your side, providing encouragement, comfort, and support throughout your journey. We respect your autonomy, recognizing that you know yourself best, and we honor your choices.<\/p>",
             "text_style": "body"
           }
         }
@@ -414,7 +416,7 @@
         "template--18764259295534__8a66e9f1-fb99-4b67-bcf9-8123b2ec9078-1681637899fcc77dd4-0": {
           "type": "heading",
           "settings": {
-            "heading": "Guiding Values + Emergent Principles",
+            "heading": "Guiding values + emergent principles",
             "heading_size": "h1"
           }
         },
@@ -451,7 +453,7 @@
         "template--18764259295534__4f85eeae-85d9-4cca-bdf5-6f0685338f88-168164672051c53a4e-0": {
           "type": "heading",
           "settings": {
-            "heading": "Speak With A Doula",
+            "heading": "Speak with a doula",
             "heading_size": "h1"
           }
         },
