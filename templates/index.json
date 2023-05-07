@@ -160,7 +160,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -306,7 +306,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_8.32.20_AM.jpg",
-        "height": "medium",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
@@ -343,11 +343,11 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-05-02_at_5.12.38_AM.jpg",
-        "height": "medium",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "right",
         "content_layout": "no-overlap",
         "color_scheme": "accent-1",
         "image_behavior": "none",
@@ -380,7 +380,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155363_1.jpg",
-        "height": "medium",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
@@ -417,7 +417,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.21.12_PM.jpg",
-        "height": "medium",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "middle",
@@ -454,7 +454,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
-        "height": "medium",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
