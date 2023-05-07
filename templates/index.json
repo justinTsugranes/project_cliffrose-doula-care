@@ -38,12 +38,12 @@
         "@media screen and (min-width: 749px) {.banner__content > div {border-radius: 16px; backdrop-filter: blur(3px); -webkit-backdrop-filter: blur(3px); }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.46.09_PM.jpg",
-        "image_overlay_opacity": 20,
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_2.06.02_PM.jpg",
+        "image_overlay_opacity": 10,
         "image_height": "large",
-        "desktop_content_position": "top-right",
+        "desktop_content_position": "top-left",
         "show_text_box": false,
-        "desktop_content_alignment": "right",
+        "desktop_content_alignment": "left",
         "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
