@@ -543,7 +543,7 @@
         "template--18772069450030__e6f5e281-b2da-4620-8fd7-852eae3b3ead-1682250751603a195d-5": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": false
           }
         },
         "template--18772069450030__e6f5e281-b2da-4620-8fd7-852eae3b3ead-1682250751603a195d-6": {
@@ -612,7 +612,7 @@
         "81dfab6b-9da2-4189-ac24-73bd2559c223": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": false
           }
         },
         "781fbb28-579e-492d-8608-ef375259a79b": {
@@ -681,7 +681,7 @@
         "2fa04178-5138-49fe-925b-45781654bca1": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": false
           }
         },
         "0d948b4b-5ecf-4582-b14e-c18acc321e83": {
