@@ -2,6 +2,7 @@
   "sections": {
     "f41909ac-01fa-4557-856b-385cc8274da8": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "3959bf40-7d67-4133-95c4-0bb03f30bcd3": {
           "type": "slide",
@@ -367,7 +368,7 @@
         "06e4d596-2a10-4c0b-bc26-f4eb821929c6": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bump_to_table_21c2b678-52a0-454e-abfa-7475b716d097.png"
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_1.02.24_PM.jpg"
           }
         },
         "4e10a401-7052-422d-8e5e-1c013edd102d": {
