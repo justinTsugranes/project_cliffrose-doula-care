@@ -75,6 +75,7 @@
     },
     "e159e720-6ed9-4ccd-aa37-859b9ea8e36c": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--19033838223662__e159e720-6ed9-4ccd-aa37-859b9ea8e36c-1683462731fffba060-0": {
           "type": "heading",
@@ -119,6 +120,7 @@
     },
     "89b62bcb-54fc-4333-a0d8-84ddeda87828": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18729374253358__89b62bcb-54fc-4333-a0d8-84ddeda87828-1681573430b2e45cde-0": {
           "type": "heading",
@@ -156,9 +158,8 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
-      "disabled": true,
       "settings": {
-        "products_per_page": 16,
+        "products_per_page": 24,
         "columns_desktop": 2,
         "image_ratio": "square",
         "show_secondary_image": false,
