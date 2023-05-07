@@ -82,6 +82,7 @@
         },
         "e29f0e4e-7e0d-4e47-b2f6-7af2df96370a": {
           "type": "popup",
+          "disabled": true,
           "settings": {
             "text": "Contact Us For Scheduling",
             "page": "contact"
@@ -114,6 +115,13 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "0ec33f44-16ca-4885-af18-c60d163f25dd": {
+          "type": "text",
+          "settings": {
+            "text": "<a href=\"\/products\/intro-birth-consultation\" title=\"Intro Birth Consultation\"><strong>Book a free consultation<\/strong><\/a>",
+            "text_style": "subtitle"
+          }
         }
       },
       "block_order": [
@@ -126,7 +134,8 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "share"
+        "share",
+        "0ec33f44-16ca-4885-af18-c60d163f25dd"
       ],
       "settings": {
         "enable_sticky_info": false,
