@@ -6,7 +6,7 @@
         "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-0": {
           "type": "heading",
           "settings": {
-            "heading": "Birth Doula Services",
+            "heading": "Postpartum Recovery",
             "heading_size": "h1"
           }
         },
@@ -60,6 +60,7 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "settings": {
         "products_per_page": 16,
         "columns_desktop": 2,
@@ -87,80 +88,6 @@
         "description": "",
         "full_width": false,
         "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "e8f888b7-2ae1-4533-85a6-58cd7107120d": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Prenatal Doula Support",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Before your estimated due date, we’ll have some visits together to get you ready and feeling good!<\/h2><p>During these visits, we'll<\/p><ul><li>Build our connection<\/li><li>Discuss your birth preferences<\/li><li>Create a Birth Plan<\/li><li>Practice relaxation techniques in our Labor Prep class<\/li><li>Talk about comfort measures and labor positions<\/li><li>Provide tips on laboring at home<\/li><\/ul><p>These visits are designed to help you get ready for your baby, address any questions or concerns you may have, and ensure you feel prepared and confident for your upcoming birth experience.<\/p><p><strong>Wondering what we'll cover? Check out our <\/strong><a href=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSficKDbiR9TcYFqryZo72Y3v77RRLmb757Ym0XNtpt63Q-P2g\/viewform?usp=sf_link\" title=\"birth planning checklist\"><strong>Planning Checklist <\/strong><\/a><strong>filled with topics we can explore together.<\/strong><\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-0",
-        "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_12.47.01_PM.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "fc418fa7-c9e2-4739-ba49-c6d6c8146c15": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18729374253358__fc418fa7-c9e2-4739-ba49-c6d6c8146c15-1681573430b2e45cde-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Labor Support",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374253358__fc418fa7-c9e2-4739-ba49-c6d6c8146c15-1681573430b2e45cde-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Your experienced doula will be by your side throughout your labor, providing continuous support, encouragement, and comfort, regardless of your chosen birth location (home, birthing center, or hospital). Our services include:<\/p><ul><li><strong>Rebozo Massage: <\/strong>Utilizing the traditional Mexican technique of using a shawl-like cloth, your doula will provide gentle and soothing movements to help ease tension and promote relaxation during labor.<\/li><li><strong>Birthing Ball:<\/strong> Your doula will assist you in using a birthing ball, a large inflatable ball, as a tool for comfort, support, and optimal positioning during labor.<\/li><li><strong>Breathing Techniques:<\/strong> Your doula will guide you through various breathing techniques to help you stay relaxed, focused, and manage pain during labor.<\/li><li><strong>Complimentary Birth Photography and Video:<\/strong> As a special gift to you, your doula will capture precious moments of your labor and birth through photography and video, which will be provided to you on a flash drive to treasure for a lifetime.<\/li><li><strong>Birth Room Ambiance:<\/strong> Your doula will create a calming and soothing environment in your birth room with a Himalayan salt lamp, essential oil diffuser, blood orange mist, and arnica massage oil to promote relaxation and comfort during labor.<\/li><\/ul><p>With our comprehensive support through labor, you can feel confident and empowered during this transformative experience.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374253358__fc418fa7-c9e2-4739-ba49-c6d6c8146c15-1681573430b2e45cde-0",
-        "template--18729374253358__fc418fa7-c9e2-4739-ba49-c6d6c8146c15-1681573430b2e45cde-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155363_1_965b5e1d-1ce8-41af-b934-bd8b140806cf.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -202,115 +129,30 @@
         "padding_bottom": 36
       }
     },
-    "27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb": {
+    "e159e720-6ed9-4ccd-aa37-859b9ea8e36c": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
-        "template--18729374253358__27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb-16815739185a20bf27-0": {
+        "template--19033838223662__e159e720-6ed9-4ccd-aa37-859b9ea8e36c-1683462731fffba060-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "heading": "Additional Support Options",
+            "heading": "Talk about your brand",
             "heading_size": "h1"
           }
         },
-        "template--18729374253358__27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb-16815739185a20bf27-1": {
+        "template--19033838223662__e159e720-6ed9-4ccd-aa37-859b9ea8e36c-1683462731fffba060-1": {
           "type": "text",
           "settings": {
-            "text": "<p>I offer 24\/7 scheduled support at the rate of $100\/hour for the following services<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374253358__27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb-16815739185a20bf27-0",
-        "template--18729374253358__27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb-16815739185a20bf27-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "e922e7e2-02cd-4791-a68c-7fc76f393023": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "template--18729374253358__e922e7e2-02cd-4791-a68c-7fc76f393023-1681573727ffd0b90e-0": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Overnight Doula<\/strong>",
-            "text": "<p>The most shared fear among new parents are the sleepless nights. It’s true, new babies can be night owls, but with the extra support of an overnight doula it can be the best bonding experience with your new baby.<\/p><p>Call me, text or video chat for help and encouragement with nighttime bottle feedings, initial lactation education, questions about pumping and milk storage—anything to help you and your baby find your rhythm.<\/p>",
-            "link_label": "Learn more",
-            "link": ""
+            "text": "<p>We aim to provide support past the initial weeks with a newborn. Postpartum care is widely underrated and can be so helpful to new parents, those with toddlers or multiple children through simple acts of caring for the parent, while you care for your family.<\/p><p>Visits are arranged to meet you where you’re at and from the comfort of your home. We want to hear about how you’re adjusting to life with a baby, even if it’s tough stuff: your feelings, emotions and thoughts-good or bad. Your doula will answer any questions you may have, visit with you, and provide resources and tips on infant feeding. Your doula will also help you plan meals and give you a grocery list to make life a little easier. If possible, we can arrange contact-free drop off of what you need—support through community, a meal train, or good friends and family are all vital in building your village.<\/p>"
           }
         },
-        "template--18729374253358__e922e7e2-02cd-4791-a68c-7fc76f393023-1681573727ffd0b90e-1": {
-          "type": "column",
+        "template--19033838223662__e159e720-6ed9-4ccd-aa37-859b9ea8e36c-1683462731fffba060-2": {
+          "type": "button",
+          "disabled": true,
           "settings": {
-            "title": "Adoption & Surrogacy",
-            "text": "<p>Are you building your family, but aren’t sure where to find the right resources? Deciding to adopt or have a surrogate carrier are both dig decisions. You deserve to walk into parenthood feeling empowered and ready.<\/p><p>We will have consultations to answer your questions and I can provide local resources such as milk donors, parent support groups, and suggest LGBTQIA+ providers. We can talk about your legal rights as parents. I provide birth support for surrogate carriers in addition to the intended parents.<\/p>",
-            "link_label": "Learn more",
-            "link": ""
-          }
-        },
-        "template--18729374253358__e922e7e2-02cd-4791-a68c-7fc76f393023-1681573727ffd0b90e-2": {
-          "type": "column",
-          "settings": {
-            "title": "Miscarriage & Bereavement",
-            "text": "<p>Going through such a difficult time, that is often suffered alone and in silence, I walk with and support your family through the loss of your baby. <\/p><p>If that loss is through miscarriage, stillbirth, or a diagnosis that means the baby will not live long after being delivered, with gentle encouragement, we say hello and goodbye to your little one, honor their life, and I remain available for grief counseling thereafter via phone and video calls, texts, and email.<\/p>",
-            "link_label": "Learn more",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374253358__e922e7e2-02cd-4791-a68c-7fc76f393023-1681573727ffd0b90e-0",
-        "template--18729374253358__e922e7e2-02cd-4791-a68c-7fc76f393023-1681573727ffd0b90e-1",
-        "template--18729374253358__e922e7e2-02cd-4791-a68c-7fc76f393023-1681573727ffd0b90e-2"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "82a474c2-748a-4f1b-8922-cee8fac2e825": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--18771324829998__82a474c2-748a-4f1b-8922-cee8fac2e825-16828528327c641613-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Cliffrose Birth Package",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771324829998__82a474c2-748a-4f1b-8922-cee8fac2e825-16828528327c641613-1": {
-          "type": "text",
-          "settings": {
-            "text": "The ultimate way to enter parenthood",
-            "text_style": "body"
-          }
-        },
-        "template--18771324829998__82a474c2-748a-4f1b-8922-cee8fac2e825-16828528327c641613-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Learn More",
-            "button_link_1": "shopify:\/\/products\/cliffrose-birth-package",
-            "button_style_secondary_1": false,
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -318,22 +160,17 @@
         }
       },
       "block_order": [
-        "template--18771324829998__82a474c2-748a-4f1b-8922-cee8fac2e825-16828528327c641613-0",
-        "template--18771324829998__82a474c2-748a-4f1b-8922-cee8fac2e825-16828528327c641613-1",
-        "template--18771324829998__82a474c2-748a-4f1b-8922-cee8fac2e825-16828528327c641613-2"
+        "template--19033838223662__e159e720-6ed9-4ccd-aa37-859b9ea8e36c-1683462731fffba060-0",
+        "template--19033838223662__e159e720-6ed9-4ccd-aa37-859b9ea8e36c-1683462731fffba060-1",
+        "template--19033838223662__e159e720-6ed9-4ccd-aa37-859b9ea8e36c-1683462731fffba060-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.48.46_PM.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "8ef8dba0-8ae0-415f-8a7e-84a3697a6571": {
@@ -390,12 +227,8 @@
     "banner",
     "product-grid",
     "8d7dbcd2-5358-43f6-aa37-ed6dd565eebf",
-    "e8f888b7-2ae1-4533-85a6-58cd7107120d",
-    "fc418fa7-c9e2-4739-ba49-c6d6c8146c15",
     "89b62bcb-54fc-4333-a0d8-84ddeda87828",
-    "27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb",
-    "e922e7e2-02cd-4791-a68c-7fc76f393023",
-    "82a474c2-748a-4f1b-8922-cee8fac2e825",
+    "e159e720-6ed9-4ccd-aa37-859b9ea8e36c",
     "8ef8dba0-8ae0-415f-8a7e-84a3697a6571"
   ]
 }
