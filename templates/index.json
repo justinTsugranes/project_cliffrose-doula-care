@@ -117,6 +117,7 @@
     },
     "3354c3e8-28ab-46d7-a5a0-ec1b4ce33489": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18729374646574__3354c3e8-28ab-46d7-a5a0-ec1b4ce33489-1681723923abde2125-0": {
           "type": "heading",
@@ -497,7 +498,7 @@
     "4e35bf0a-f013-4f06-a0c2-097d84cfc81a": {
       "type": "featured-blog",
       "settings": {
-        "heading": "Advocacy, Parenting, and Resources for Modern Moms",
+        "heading": "Beyond Birth: A blog about pregnancy, birth, and newborn care",
         "heading_size": "h1",
         "blog": "beyond-birth",
         "post_limit": 4,
