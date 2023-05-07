@@ -62,7 +62,7 @@
       "type": "main-collection-product-grid",
       "settings": {
         "products_per_page": 16,
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "image_ratio": "square",
         "show_secondary_image": false,
         "show_vendor": false,
@@ -287,55 +287,6 @@
         "padding_bottom": 36
       }
     },
-    "82a474c2-748a-4f1b-8922-cee8fac2e825": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--18771324829998__82a474c2-748a-4f1b-8922-cee8fac2e825-16828528327c641613-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Cliffrose Birth Package",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771324829998__82a474c2-748a-4f1b-8922-cee8fac2e825-16828528327c641613-1": {
-          "type": "text",
-          "settings": {
-            "text": "The ultimate way to enter parenthood",
-            "text_style": "body"
-          }
-        },
-        "template--18771324829998__82a474c2-748a-4f1b-8922-cee8fac2e825-16828528327c641613-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Learn More",
-            "button_link_1": "shopify:\/\/products\/cliffrose-birth-package",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18771324829998__82a474c2-748a-4f1b-8922-cee8fac2e825-16828528327c641613-0",
-        "template--18771324829998__82a474c2-748a-4f1b-8922-cee8fac2e825-16828528327c641613-1",
-        "template--18771324829998__82a474c2-748a-4f1b-8922-cee8fac2e825-16828528327c641613-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.48.46_PM.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "8ef8dba0-8ae0-415f-8a7e-84a3697a6571": {
       "type": "image-banner",
       "blocks": {
@@ -356,7 +307,7 @@
         "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Contact Us",
+            "button_label_1": "CONTACT US",
             "button_link_1": "shopify:\/\/pages\/contact",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -395,7 +346,6 @@
     "89b62bcb-54fc-4333-a0d8-84ddeda87828",
     "27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb",
     "e922e7e2-02cd-4791-a68c-7fc76f393023",
-    "82a474c2-748a-4f1b-8922-cee8fac2e825",
     "8ef8dba0-8ae0-415f-8a7e-84a3697a6571"
   ]
 }
