@@ -57,6 +57,24 @@
         "color_scheme": "background-1"
       }
     },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 3,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "enable_filtering": false,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "c199ea3e-7946-47b1-b3f0-c60fa7404600": {
       "type": "image-with-text",
       "blocks": {
@@ -99,24 +117,6 @@
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "settings": {
-        "products_per_page": 16,
-        "columns_desktop": 2,
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": false,
-        "enable_filtering": false,
-        "filter_type": "horizontal",
-        "enable_sorting": false,
-        "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -340,7 +340,7 @@
         "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Contact Us",
+            "button_label_1": "CONTACT US",
             "button_link_1": "shopify:\/\/pages\/contact",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -372,8 +372,8 @@
   "order": [
     "c09d92e5-2a87-408a-8087-801589bc779e",
     "banner",
-    "c199ea3e-7946-47b1-b3f0-c60fa7404600",
     "product-grid",
+    "c199ea3e-7946-47b1-b3f0-c60fa7404600",
     "e8f888b7-2ae1-4533-85a6-58cd7107120d",
     "fc418fa7-c9e2-4739-ba49-c6d6c8146c15",
     "89b62bcb-54fc-4333-a0d8-84ddeda87828",
