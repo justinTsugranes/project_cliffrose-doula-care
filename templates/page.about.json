@@ -94,7 +94,7 @@
         "image_height": "medium",
         "desktop_content_position": "middle-right",
         "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "right",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
