@@ -6,7 +6,7 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0": {
           "type": "heading",
           "settings": {
-            "heading": "Breastfeeding Support Class",
+            "heading": "Breastfeeding Support",
             "heading_size": "h1"
           }
         },
@@ -25,7 +25,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-05-07_at_2.58.09_PM.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
