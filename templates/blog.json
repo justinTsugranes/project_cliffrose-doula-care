@@ -67,7 +67,7 @@
         "template--18729374122286__c543ea2d-fd87-4d36-9944-fee99a178056-16821699988e95d1e4-2": {
           "type": "button",
           "settings": {
-            "button_label": "View Birth Resources",
+            "button_label": "VIEW BIRTH RESOURCES",
             "button_link": "shopify:\/\/pages\/resources",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -92,6 +92,7 @@
     },
     "1682125671cd1c44a9": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "c16d45a6-04eb-4000-963b-80a8a6ad1df9": {
           "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
