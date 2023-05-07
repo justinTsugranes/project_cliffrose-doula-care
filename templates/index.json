@@ -184,6 +184,7 @@
     },
     "df818c1b-af78-407b-9edf-d3bc3ab979f8": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18729374646574__df818c1b-af78-407b-9edf-d3bc3ab979f8-1682184832658d0e18-0": {
           "type": "heading",
