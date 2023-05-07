@@ -13,7 +13,7 @@
         "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-1": {
           "type": "text",
           "settings": {
-            "text": "Visits are arranged to meet you where you’re at and from the comfort of your home.",
+            "text": "Postpartum care is widely underrated and can be so helpful to new parents, those with toddlers or multiple children through simple acts of caring for the parent, while you care for your family.",
             "text_style": "body"
           }
         },
@@ -51,28 +51,11 @@
     },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
         "color_scheme": "background-1"
-      }
-    },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "settings": {
-        "products_per_page": 16,
-        "columns_desktop": 2,
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": false,
-        "enable_filtering": false,
-        "filter_type": "horizontal",
-        "enable_sorting": false,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "8d7dbcd2-5358-43f6-aa37-ed6dd565eebf": {
@@ -92,7 +75,6 @@
     },
     "e159e720-6ed9-4ccd-aa37-859b9ea8e36c": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--19033838223662__e159e720-6ed9-4ccd-aa37-859b9ea8e36c-1683462731fffba060-0": {
           "type": "heading",
@@ -105,7 +87,7 @@
         "template--19033838223662__e159e720-6ed9-4ccd-aa37-859b9ea8e36c-1683462731fffba060-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We aim to provide support past the initial weeks with a newborn. Postpartum care is widely underrated and can be so helpful to new parents, those with toddlers or multiple children through simple acts of caring for the parent, while you care for your family.<\/p><p>We want to hear about how you’re adjusting to life with a baby, even if it’s tough stuff: your feelings, emotions and thoughts-good or bad. Your doula will answer any questions you may have, visit with you, and provide resources and tips on infant feeding. Your doula will also help you plan meals and give you a grocery list to make life a little easier. If possible, we can arrange contact-free drop off of what you need—support through community, a meal train, or good friends and family are all vital in building your village.<\/p>"
+            "text": "<p>We aim to provide support past the initial weeks with a newborn. Visits are arranged to meet you where you’re at and from the comfort of your home.<\/p><p>We want to hear about how you’re adjusting to life with a baby, even if it’s tough stuff: your feelings, emotions and thoughts-good or bad. Your doula will answer any questions you may have, visit with you, and provide resources and tips on infant feeding. Your doula will also help you plan meals and give you a grocery list to make life a little easier. If possible, we can arrange contact-free drop off of what you need—support through community, a meal train, or good friends and family are all vital in building your village.<\/p>"
           }
         },
         "template--19033838223662__e159e720-6ed9-4ccd-aa37-859b9ea8e36c-1683462731fffba060-2": {
@@ -172,6 +154,24 @@
         "padding_bottom": 36
       }
     },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 2,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "enable_filtering": false,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "8ef8dba0-8ae0-415f-8a7e-84a3697a6571": {
       "type": "image-banner",
       "blocks": {
@@ -222,6 +222,7 @@
     },
     "3d34ef5b-09a1-4c14-a0fd-eb5f9190ac2b": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Blog posts",
         "heading_size": "h1",
@@ -241,10 +242,10 @@
   "order": [
     "c09d92e5-2a87-408a-8087-801589bc779e",
     "banner",
-    "product-grid",
     "8d7dbcd2-5358-43f6-aa37-ed6dd565eebf",
     "e159e720-6ed9-4ccd-aa37-859b9ea8e36c",
     "89b62bcb-54fc-4333-a0d8-84ddeda87828",
+    "product-grid",
     "8ef8dba0-8ae0-415f-8a7e-84a3697a6571",
     "3d34ef5b-09a1-4c14-a0fd-eb5f9190ac2b"
   ]
