@@ -13,26 +13,14 @@
         "template--18771872317742__0ae07fe3-5d76-4102-a19a-f405b622aede-1682075422d57e59e0-1": {
           "type": "text",
           "settings": {
-            "text": "Here and many of the questions that we receive the most often about birth, pregnancy, doula services, and entering motherhood. <strong>If you can't find the answer to your question, please reach out to us.<\/strong>",
+            "text": "Here and many of the questions that we receive the most often about birth, pregnancy, doula services, and entering motherhood. <strong>If you can't find the answer to your question, please r<\/strong><a href=\"\/pages\/contact\" title=\"Contact\"><strong>each out to us<\/strong><\/a><strong>.<\/strong>",
             "text_style": "body"
-          }
-        },
-        "template--18771872317742__0ae07fe3-5d76-4102-a19a-f405b622aede-1682075422d57e59e0-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "CONTACT US",
-            "button_link_1": "shopify:\/\/pages\/contact",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
         "template--18771872317742__0ae07fe3-5d76-4102-a19a-f405b622aede-1682075422d57e59e0-0",
-        "template--18771872317742__0ae07fe3-5d76-4102-a19a-f405b622aede-1682075422d57e59e0-1",
-        "template--18771872317742__0ae07fe3-5d76-4102-a19a-f405b622aede-1682075422d57e59e0-2"
+        "template--18771872317742__0ae07fe3-5d76-4102-a19a-f405b622aede-1682075422d57e59e0-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pregnant-woman-s-belly-closeup-hands-hugging-bell-2022-10-11-19-51-50-utc.jpg",
