@@ -360,8 +360,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pregnant-woman-s-belly-closeup-hands-hugging-bell-2022-10-11-19-51-50-utc.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
+        "height": "medium",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -398,7 +398,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/belly-of-a-pregnant-woman-isolated-2023-04-14-20-30-27-utc.jpg",
         "height": "medium",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -435,7 +435,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-18_at_4.38.39_PM.jpg",
         "height": "medium",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
