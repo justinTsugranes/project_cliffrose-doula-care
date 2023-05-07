@@ -32,6 +32,11 @@
             "picker_type": "button"
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
@@ -40,13 +45,8 @@
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": false
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true
           }
         },
         "share": {
@@ -62,9 +62,9 @@
         "price",
         "judgeme_preview_badge_product_page_3bdcdfbe",
         "variant_picker",
+        "description",
         "quantity_selector",
         "buy_buttons",
-        "description",
         "share"
       ],
       "settings": {
