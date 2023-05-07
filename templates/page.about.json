@@ -221,7 +221,6 @@
     },
     "dea5420b-ab9a-43f9-9649-e42139d3023f": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "07189778-da7e-471f-a760-f261ced71e56": {
           "type": "heading",
@@ -268,7 +267,6 @@
     },
     "697779fe-f55c-483b-abef-894af59b96ca": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "88d984b1-4b36-43f6-a999-2d537a9afe65": {
           "type": "heading",
@@ -349,7 +347,7 @@
         "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We work with all reproductive journeys:<br\/>conception, adoption, surrogacy, pregnancy, labor, and birth. We are there in the postpartum and can help you through a termination process.<\/p><p><strong>We support people through every outcome.<\/strong><\/p>",
+            "text": "<p>We support all reproductive journeys from conception to birth, adoption, surrogacy, and termination.<\/p><p>We provide emotional, informational, and physical support through every outcome, following an individual-centered care model that excludes no reproductive experience.<\/p>",
             "text_style": "body"
           }
         }
