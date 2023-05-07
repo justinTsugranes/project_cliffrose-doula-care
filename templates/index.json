@@ -136,14 +136,14 @@
         "template--18729374646574__3354c3e8-28ab-46d7-a5a0-ec1b4ce33489-1681723923abde2125-0": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Doula Care for a Confident and Empowered Birth<\/strong>",
+            "heading": "<strong>Benefits of Doula Care<\/strong>",
             "heading_size": "h1"
           }
         },
         "template--18729374646574__3354c3e8-28ab-46d7-a5a0-ec1b4ce33489-1681723923abde2125-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>For many women, the idea of giving birth can be a source of fear, anxiety, and doubt.<\/h2><h3>At Cliffrose Doula Care, we believe that every woman deserves to feel empowered and confident throughout the birthing process.<\/h3><p>That's why we offer a range of classes and resources designed to provide you with the tools you need to achieve a beautiful birth and postpartum experience. Don't leave your birth to chance – join us today and take the first step towards a more positive and fulfilling birth experience.<\/p>",
+            "text": "<h2>We already know that having someone there for you, cheering you on, believing in your choices feels really, <em>really good<\/em>—but here’s some science to back it up…<\/h2><h2><\/h2><ul><li>Doulas are a form of pain relief—requests for <strong>pain medication goes down 10%<\/strong> with a doula present<\/li><li>Doulas boost self-confidence—15% increase in spontaneous birth and <strong>shorter labor by 45 minutes<\/strong> on average<\/li><li>Doulas encourage advocacy + increase safety—<strong>34% fewer negative experiences<\/strong><\/li><\/ul>",
             "text_style": "body"
           }
         }
@@ -167,8 +167,47 @@
         "padding_bottom": 36
       }
     },
+    "ca804eee-20a3-4ca9-bb00-607c06c9341c": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "951e6b44-281a-44ad-b091-e61873aa7a8b": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Doula Care for a Confident and Empowered Birth<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "7dd61b7a-68df-4574-8b3b-420a0e63239a": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>For many women, the idea of giving birth can be a source of fear, anxiety, and doubt.<\/h2><h3>At Cliffrose Doula Care, we believe that every woman deserves to feel empowered and confident throughout the birthing process.<\/h3><p>That's why we offer a range of classes and resources designed to provide you with the tools you need to achieve a beautiful birth and postpartum experience. Don't leave your birth to chance – join us today and take the first step towards a more positive and fulfilling birth experience.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "951e6b44-281a-44ad-b091-e61873aa7a8b",
+        "7dd61b7a-68df-4574-8b3b-420a0e63239a"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pregnant-woman-in-dress-with-ultrasound-image-exp-2022-10-18-00-37-10-utc.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "0b4a08e4-0497-4171-9fa2-36d0911dfe19": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18729374646574__0b4a08e4-0497-4171-9fa2-36d0911dfe19-1682183746b8a72aa5-0": {
           "type": "heading",
@@ -730,6 +769,7 @@
     "67d25079-454a-42a5-8f56-8267d6c949f3",
     "16222dfa-dd8f-4917-b72f-29a4112a0c59",
     "3354c3e8-28ab-46d7-a5a0-ec1b4ce33489",
+    "ca804eee-20a3-4ca9-bb00-607c06c9341c",
     "0b4a08e4-0497-4171-9fa2-36d0911dfe19",
     "df818c1b-af78-407b-9edf-d3bc3ab979f8",
     "4ba36fc0-f01f-42c1-bb90-6cd795b8be37",
