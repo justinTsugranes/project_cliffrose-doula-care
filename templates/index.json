@@ -117,6 +117,7 @@
     },
     "16222dfa-dd8f-4917-b72f-29a4112a0c59": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -131,7 +132,6 @@
     },
     "3354c3e8-28ab-46d7-a5a0-ec1b4ce33489": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18729374646574__3354c3e8-28ab-46d7-a5a0-ec1b4ce33489-1681723923abde2125-0": {
           "type": "heading",
@@ -153,14 +153,14 @@
         "template--18729374646574__3354c3e8-28ab-46d7-a5a0-ec1b4ce33489-1681723923abde2125-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pregnant-woman-s-belly-closeup-hands-hugging-bell-2022-10-11-19-51-50-utc.jpg",
-        "height": "large",
+        "image": "shopify:\/\/shop_images\/pregnant-woman-in-dress-with-ultrasound-image-exp-2022-10-18-00-37-10-utc.jpg",
+        "height": "medium",
         "desktop_image_width": "small",
         "layout": "text_first",
-        "desktop_content_position": "middle",
+        "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -180,7 +180,7 @@
         "template--18729374646574__0b4a08e4-0497-4171-9fa2-36d0911dfe19-1682183746b8a72aa5-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>We already know that having someone there for you, cheering you on, believing in your choices feels really, <em>really good<\/em>—but here’s some science to back it up…<\/h2><h2><\/h2><ul><li>Doulas are a form of pain relief—requests for pain medication goes down <strong>10%<\/strong> with a doula present<\/li><li>Doulas boost self-confidence—<strong>15%<\/strong> increase in spontaneous birth and shorter labor by <strong>45<\/strong>minutes on average<\/li><li>Doulas encourage advocacy + increase safety—<strong>34%<\/strong> fewer negative experiences<\/li><\/ul>"
+            "text": "<h2>We already know that having someone there for you, cheering you on, believing in your choices feels really, <em>really good<\/em>—but here’s some science to back it up…<\/h2><h2><\/h2><ul><li>Doulas are a form of pain relief—requests for <strong>pain medication goes down 10%<\/strong> with a doula present<\/li><li>Doulas boost self-confidence—15% increase in spontaneous birth and <strong>shorter labor by 45 minutes<\/strong> on average<\/li><li>Doulas encourage advocacy + increase safety—<strong>34% fewer negative experiences<\/strong><\/li><\/ul>"
           }
         }
       },
@@ -191,7 +191,7 @@
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -548,6 +548,7 @@
     },
     "f323249f-afd3-4d2a-8e4d-88a6a30d187a": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--18607813067054__f323249f-afd3-4d2a-8e4d-88a6a30d187a-168104637185d78e48-0": {
           "type": "heading",
@@ -596,7 +597,6 @@
     },
     "f94009ae-aedb-43f1-a324-08cd7513ad10": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--18607813067054__f94009ae-aedb-43f1-a324-08cd7513ad10-1681036615f1e077d2-2": {
           "type": "column",
