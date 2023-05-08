@@ -135,7 +135,7 @@
         "template--18969798443310__e63099a0-aaa0-42b1-8206-fe62558a797b-1683539919a3048c32-1": {
           "type": "text",
           "settings": {
-            "text": "<h2><strong>Your birth preferences<\/strong><\/h2><p>Your doula will listen attentively to your birth preferences and provide guidance and support in understanding your options, including topics such as natural birth, medicated birth, cesarean birth, and more.<\/p><h2><strong>Birth plan development<\/strong><\/h2><p>Your doula can help you develop a personalized birth plan that aligns with your preferences and values, providing valuable insights and recommendations based on her expertise.<\/p><h2><strong>Comfort measures during labor<\/strong><\/h2><p>Your doula can provide information and guidance on various comfort measures during labor, including birthing ball & peanut ball exercises, breathing techniques, relaxation techniques, movement, and positioning, to help you cope with the physical and emotional aspects of labor.<\/p><h2><strong>Postpartum planning<\/strong><\/h2><p>Your doula can discuss postpartum planning, including topics such as breastfeeding, newborn care, emotional well-being, and self-care, to ensure you are prepared for the postpartum period.<\/p><h2><strong>Emotional support<\/strong><\/h2><p>Your doula recognizes the emotional aspects of pregnancy, childbirth, and postpartum, and can provide compassionate support and guidance in navigating any fears, anxieties, or concerns you may have.<\/p><h2><strong>Birth options and interventions<\/strong><\/h2><p>Your doula can provide information on different birth options and interventions that may arise during childbirth, including risks, benefits, and alternatives, to help you make informed decisions.<\/p><h2><strong>Reproductive justice<\/strong><\/h2><p>As an advocate for reproductive justice, doulas may discuss topics related to social justice, equity, and inclusivity in childbirth, and how it impacts your birthing experience.<\/p>",
+            "text": "<h2><strong>Your birth options & preferences<\/strong><\/h2><p>Your doula will listen attentively to your birth preferences and provide guidance and support in understanding your options, including topics such as natural birth, medicated birth, cesarean birth, and more.<\/p><h2><strong>Birth plan development<\/strong><\/h2><p>Your doula can help you develop a personalized birth plan that aligns with your preferences and values, providing valuable insights and recommendations based on their expertise.<\/p><h2><strong>Comfort measures during labor<\/strong><\/h2><p>Your doula can provide information and guidance on various comfort measures during labor, including birthing ball & peanut ball exercises, breathing techniques, relaxation techniques, movement, and positioning, to help you cope with the physical and emotional aspects of labor.<\/p><h2><strong>Postpartum planning<\/strong><\/h2><p>Your doula can discuss postpartum planning, including topics such as breastfeeding, newborn care, emotional well-being, and self-care, to ensure you are prepared for the postpartum period.<\/p><h2><strong>Emotional support<\/strong><\/h2><p>Your doula recognizes the emotional aspects of pregnancy, childbirth, and postpartum, and can provide compassionate support and guidance in navigating any fears, anxieties, or concerns you may have.<\/p><h2><strong>Birth options and interventions<\/strong><\/h2><p>Your doula can provide information on different birth options and interventions that may arise during childbirth, including risks, benefits, and alternatives, to help you make informed decisions.<\/p><h2><strong>Reproductive justice<\/strong><\/h2><p>As an advocate for reproductive justice, doulas may discuss topics related to social justice, equity, and inclusivity in childbirth, and how it impacts your birthing experience.<\/p>",
             "text_style": "body"
           }
         },
@@ -154,13 +154,14 @@
         "template--18969798443310__e63099a0-aaa0-42b1-8206-fe62558a797b-1683539919a3048c32-2"
       ],
       "settings": {
-        "height": "medium",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.44.58_PM.jpg",
+        "height": "large",
         "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
