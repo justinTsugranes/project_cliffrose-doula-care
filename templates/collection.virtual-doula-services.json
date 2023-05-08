@@ -49,9 +49,58 @@
         "show_text_below": true
       }
     },
+    "0ddf3d80-169f-4dff-a214-746600afb37c": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "93536183-8709-4262-85a6-17edf855b834": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ collection.title }}",
+            "heading_size": "h1"
+          }
+        },
+        "5e233977-20c7-461a-b7e4-a743d71fd4a0": {
+          "type": "text",
+          "settings": {
+            "text": "We are here to provide you with expert care, guidance, and emotional support throughout your labor and birth process. Our doulas will work closely with you and your birth team to create a birth plan that aligns with your unique needs and desires.",
+            "text_style": "body"
+          }
+        },
+        "ab84bc29-29b9-435f-b7ed-65ae5fb556cd": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "CONTACT US",
+            "button_link_1": "shopify:\/\/products\/intro-birth-consultation",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "93536183-8709-4262-85a6-17edf855b834",
+        "5e233977-20c7-461a-b7e4-a743d71fd4a0",
+        "ab84bc29-29b9-435f-b7ed-65ae5fb556cd"
+      ],
+      "settings": {
+        "image": "{{ collection.image }}",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
-      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
@@ -418,6 +467,7 @@
   },
   "order": [
     "c09d92e5-2a87-408a-8087-801589bc779e",
+    "0ddf3d80-169f-4dff-a214-746600afb37c",
     "banner",
     "product-grid",
     "c199ea3e-7946-47b1-b3f0-c60fa7404600",
