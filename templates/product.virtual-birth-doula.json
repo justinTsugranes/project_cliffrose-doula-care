@@ -187,7 +187,7 @@
         "template--18771812843822__5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678-168164668958c25d7c-0": {
           "type": "heading",
           "settings": {
-            "heading": "2 Virtual Prenatal Visits",
+            "heading": "<strong>2 Virtual Prenatal Visits<\/strong>",
             "heading_size": "h1"
           }
         },
@@ -205,13 +205,13 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_8.32.20_AM.jpg",
-        "height": "adapt",
+        "height": "medium",
         "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "content_layout": "overlap",
+        "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -224,7 +224,7 @@
         "969a4179-d67c-476e-956c-0ee75dca4759": {
           "type": "heading",
           "settings": {
-            "heading": "24\/7 On-Call Support",
+            "heading": "<strong>24\/7 On-Call Support<\/strong>",
             "heading_size": "h1"
           }
         },
@@ -247,8 +247,8 @@
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "content_layout": "overlap",
+        "color_scheme": "accent-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -261,7 +261,7 @@
         "template--18771812843822__04c19bbc-f531-4662-806b-fd33b8941ae1-168164668958c25d7c-0": {
           "type": "heading",
           "settings": {
-            "heading": "Virtual Labor Support",
+            "heading": "<strong>Virtual Labor Support<\/strong>",
             "heading_size": "h1"
           }
         },
@@ -284,8 +284,8 @@
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "content_layout": "overlap",
+        "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -298,7 +298,7 @@
         "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-0": {
           "type": "heading",
           "settings": {
-            "heading": "2 Virtual Postpartum Visits",
+            "heading": "<strong>2 Virtual Postpartum Visits<\/strong>",
             "heading_size": "h1"
           }
         },
@@ -321,8 +321,8 @@
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "content_layout": "overlap",
+        "color_scheme": "accent-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
