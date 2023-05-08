@@ -13,8 +13,9 @@
         },
         "template--18729374253358__ce85c669-276b-4afa-a0c1-6237ec717630-1683538762e9228075-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "{{ collection.title }}",
+            "text": "Create Description Meta field",
             "text_style": "body"
           }
         },
@@ -37,11 +38,12 @@
         "template--18729374253358__ce85c669-276b-4afa-a0c1-6237ec717630-1683538762e9228075-2"
       ],
       "settings": {
+        "image": "{{ collection.image }}",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "middle-left",
         "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
