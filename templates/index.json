@@ -37,7 +37,7 @@
       "custom_css": [
         "h2,p {color: #1c1c1c;}",
         "a {background: #377e62; color: #ffffff;}",
-        "a:hover{color: #ffffff;}",
+        "a:hover {color: #ffffff;}",
         "@media screen and (min-width: 749px) {.banner__content > div {border-radius: 16px; backdrop-filter: blur(3px); -webkit-backdrop-filter: blur(3px); }}"
       ],
       "settings": {
@@ -163,7 +163,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
