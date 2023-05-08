@@ -51,6 +51,7 @@
     },
     "main": {
       "type": "main-product",
+      "disabled": true,
       "blocks": {
         "vendor": {
           "type": "text",
@@ -66,12 +67,12 @@
         },
         "price": {
           "type": "price",
-          "disabled": true,
           "settings": {
           }
         },
         "variant_picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_type": "button"
           }
@@ -121,8 +122,8 @@
         "share"
       ],
       "settings": {
-        "enable_sticky_info": true,
-        "media_size": "large",
+        "enable_sticky_info": false,
+        "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "gallery_layout": "stacked",
