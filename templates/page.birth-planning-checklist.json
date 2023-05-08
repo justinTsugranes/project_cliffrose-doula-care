@@ -6,14 +6,14 @@
         "template--19044730732846__4e18b42c-dd1e-4b83-a542-21b531f9c2dd-1683538762e9228075-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Client Intake Form",
             "heading_size": "h1"
           }
         },
         "template--19044730732846__4e18b42c-dd1e-4b83-a542-21b531f9c2dd-1683538762e9228075-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "This form is designed to collect relevant information about your pregnancy, birth expectations, and anticipated needs, so that we can tailor our services to best support you and your family.",
             "text_style": "body"
           }
         },
