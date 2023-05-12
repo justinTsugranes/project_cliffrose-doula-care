@@ -8,54 +8,9 @@
         "padding_bottom": 28
       }
     },
-    "70a65ce0-2bec-4095-8a3d-340fdcdac889": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "e4efc10d-20ca-44bc-96c3-570e4ae5f889": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "a Cliffrose thrives in a challenging environment.",
-            "heading_size": "h1"
-          }
-        },
-        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h1>So can you.<\/h1><p>Your roots grow deeper than you know and you are strong as hell. But when doubt or fear creeps in, having someone in your corner to remind you that <em>you got this <\/em>means everything.<\/p><p>Doula care centers on the individual, focusing on your vision for your best life because you know yourself best.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-0",
-        "template--18764259295534__e4efc10d-20ca-44bc-96c3-570e4ae5f889-1681580886e40d61c6-1"
-      ],
-      "settings": {
-        "desktop_content_position": "right",
-        "content_alignment": "right",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "98da3c2e-7933-465b-be9a-ed5cdc89ae17": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--18764259295534__98da3c2e-7933-465b-be9a-ed5cdc89ae17-1681639335bf7b76ea-0": {
           "type": "heading",
@@ -102,209 +57,18 @@
         "show_text_below": true
       }
     },
-    "9ee6804f-807b-4f60-86ee-ed2ca7cddbd3": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--18764259295534__9ee6804f-807b-4f60-86ee-ed2ca7cddbd3-1681851507607d59b9-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/birthing_advocacy_doula_training.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18764259295534__9ee6804f-807b-4f60-86ee-ed2ca7cddbd3-1681851507607d59b9-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18764259295534__9ee6804f-807b-4f60-86ee-ed2ca7cddbd3-1681851507607d59b9-0",
-        "template--18764259295534__9ee6804f-807b-4f60-86ee-ed2ca7cddbd3-1681851507607d59b9-1"
-      ],
-      "custom_css": [
-        ".multicolumn-card {box-shadow: none;}"
-      ],
+    "70a65ce0-2bec-4095-8a3d-340fdcdac889": {
+      "type": "video",
       "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
         "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "8b308be6-f788-4d44-92ec-e136adcfc53c": {
-      "type": "rich-text",
-      "blocks": {
-        "9bd28068-c279-422c-88ae-ef68f29a092e": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Our Professional Framework<\/strong>",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "9bd28068-c279-422c-88ae-ef68f29a092e"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "6ddadc23-415d-40e0-9d75-46f266ddffdd": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "We are full-spectrum doulas",
-            "heading_size": "h1"
-          }
-        },
-        "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We provide individual-centered care for all reproductive experiences, including conception, adoption, surrogacy, pregnancy, labor, birth, and termination.<\/p><p>Our mission is to support people through every outcome with dignity, respect, and compassion.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-0",
-        "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/pregnant-woman-s-belly-closeup-hands-hugging-bell-2022-10-11-19-51-50-utc.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "56eb3eb1-f6e9-487e-bddf-a78534b71bf1": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18764259295534__56eb3eb1-f6e9-487e-bddf-a78534b71bf1-1681639870eeeda013-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "A companion and continuous support system",
-            "heading_size": "h1"
-          }
-        },
-        "template--18764259295534__56eb3eb1-f6e9-487e-bddf-a78534b71bf1-1681639870eeeda013-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Your doula is your companion and continuous support system. We provide emotional, informational, and physical support to help you navigate this transitional period of life. We believe in evidence-based education, sharing knowledge and alternatives to empower you to make informed decisions that honor your choices, body, and process.<\/p><p>As your doula, we are your advocates and informational resources. We will be by your side, providing encouragement, comfort, and support throughout your journey. We respect your autonomy, recognizing that you know yourself best, and we honor your choices.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18764259295534__56eb3eb1-f6e9-487e-bddf-a78534b71bf1-1681639870eeeda013-0",
-        "template--18764259295534__56eb3eb1-f6e9-487e-bddf-a78534b71bf1-1681639870eeeda013-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/belly-of-a-pregnant-woman-isolated-2023-04-14-20-30-27-utc.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "8a66e9f1-fb99-4b67-bcf9-8123b2ec9078": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18764259295534__8a66e9f1-fb99-4b67-bcf9-8123b2ec9078-1681637899fcc77dd4-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Guiding values + emergent principles",
-            "heading_size": "h1"
-          }
-        },
-        "template--18764259295534__8a66e9f1-fb99-4b67-bcf9-8123b2ec9078-1681637899fcc77dd4-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We believe that deep change starts with shaping the smallest patterns of our daily lives and that what we value most we should embody. These principles are the roots we’ve grow from: where our values emerge and we can constantly revisit to stay aligned with justice and a bright future…<\/p><ul><li><strong>Education<\/strong>: evidence-based, sharing knowledge, alternatives<\/li><li><strong>Equality + Access for all:<\/strong> elevating above systematic oppression, marginalized communities, BIPOC, LGBTQIA2+, Disability Justice, Reproductive Justice<\/li><li><strong>Transparency + Authenticity<\/strong>: building trust takes time<\/li><li><strong>Autonomy<\/strong>: people know themselves best, honoring choices<\/li><li><strong>Wellness<\/strong>: mind, body + spirit on a full spectrum of needs<\/li><\/ul>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18764259295534__8a66e9f1-fb99-4b67-bcf9-8123b2ec9078-1681637899fcc77dd4-0",
-        "template--18764259295534__8a66e9f1-fb99-4b67-bcf9-8123b2ec9078-1681637899fcc77dd4-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-18_at_4.38.39_PM.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "0acb8abe-1e65-4938-aeaf-28117c9fc2d5": {
-      "type": "rich-text",
-      "blocks": {
-        "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our Birth Team",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-0"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "9106bc4f-f557-48f1-906b-16e18a1b0f83": {
@@ -353,94 +117,209 @@
         "padding_bottom": 36
       }
     },
-    "dea5420b-ab9a-43f9-9649-e42139d3023f": {
-      "type": "image-with-text",
+    "9ee6804f-807b-4f60-86ee-ed2ca7cddbd3": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18764259295534__9ee6804f-807b-4f60-86ee-ed2ca7cddbd3-1681851507607d59b9-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/birthing_advocacy_doula_training.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18764259295534__9ee6804f-807b-4f60-86ee-ed2ca7cddbd3-1681851507607d59b9-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7cb413ce-2b4d-495f-9248-1560f2918019": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18764259295534__9ee6804f-807b-4f60-86ee-ed2ca7cddbd3-1681851507607d59b9-0",
+        "template--18764259295534__9ee6804f-807b-4f60-86ee-ed2ca7cddbd3-1681851507607d59b9-1",
+        "7cb413ce-2b4d-495f-9248-1560f2918019"
+      ],
+      "custom_css": [
+        ".multicolumn-card {box-shadow: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "822f8dea-4f61-42ef-9438-661b946d70e2": {
+      "type": "slideshow",
+      "blocks": {
+        "template--19099745583406__822f8dea-4f61-42ef-9438-661b946d70e2-168388675586fa3d7c-0": {
+          "type": "slide",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--19099745583406__822f8dea-4f61-42ef-9438-661b946d70e2-168388675586fa3d7c-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--19099745583406__822f8dea-4f61-42ef-9438-661b946d70e2-168388675586fa3d7c-0",
+        "template--19099745583406__822f8dea-4f61-42ef-9438-661b946d70e2-168388675586fa3d7c-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "8b308be6-f788-4d44-92ec-e136adcfc53c": {
+      "type": "rich-text",
       "disabled": true,
       "blocks": {
-        "07189778-da7e-471f-a760-f261ced71e56": {
+        "9bd28068-c279-422c-88ae-ef68f29a092e": {
           "type": "heading",
           "settings": {
-            "heading": "Sylvia Rodriguez",
+            "heading": "<strong>Our Professional Framework<\/strong>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "9bd28068-c279-422c-88ae-ef68f29a092e"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "6ddadc23-415d-40e0-9d75-46f266ddffdd": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "I am a full-spectrum doula",
             "heading_size": "h1"
           }
         },
-        "69b1b290-d59f-433b-8909-72a1813017ce": {
-          "type": "caption",
-          "settings": {
-            "caption": "Certified Doula",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "524501df-7508-4f79-a95e-6a49b030be57": {
+        "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-1": {
           "type": "text",
           "settings": {
-            "text": "<h2><span style=\"text-decoration:underline\">Trainings, Mentorships + Certifications<\/span><\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul>",
+            "text": "<p>We provide individual-centered care for all reproductive experiences, including conception, adoption, surrogacy, pregnancy, labor, birth, and termination.<\/p><p>Our mission is to support people through every outcome with dignity, respect, and compassion.<\/p>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
-        "07189778-da7e-471f-a760-f261ced71e56",
-        "69b1b290-d59f-433b-8909-72a1813017ce",
-        "524501df-7508-4f79-a95e-6a49b030be57"
+        "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-0",
+        "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.21.12_PM.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
+        "image": "shopify:\/\/shop_images\/brittany.nance.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "697779fe-f55c-483b-abef-894af59b96ca": {
+    "56eb3eb1-f6e9-487e-bddf-a78534b71bf1": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
-        "88d984b1-4b36-43f6-a999-2d537a9afe65": {
+        "template--18764259295534__56eb3eb1-f6e9-487e-bddf-a78534b71bf1-1681639870eeeda013-0": {
           "type": "heading",
           "settings": {
-            "heading": "Olivia Martin",
+            "heading": "A companion and continuous support system",
             "heading_size": "h1"
           }
         },
-        "fcbdf05e-f118-4fb0-b498-890ba6ff2bae": {
-          "type": "caption",
-          "settings": {
-            "caption": "Certified Doula",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "f2530acb-9f8c-4eea-a699-a2e7a8722be6": {
+        "template--18764259295534__56eb3eb1-f6e9-487e-bddf-a78534b71bf1-1681639870eeeda013-1": {
           "type": "text",
           "settings": {
-            "text": "<h2><span style=\"text-decoration:underline\">Trainings, Mentorships + Certifications<\/span><\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul>",
+            "text": "<p>Your doula is your companion and continuous support system. We provide emotional, informational, and physical support to help you navigate this transitional period of life. We believe in evidence-based education, sharing knowledge and alternatives to empower you to make informed decisions that honor your choices, body, and process.<\/p><p>As your doula, we are your advocates and informational resources. We will be by your side, providing encouragement, comfort, and support throughout your journey. We respect your autonomy, recognizing that you know yourself best, and we honor your choices.<\/p>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
-        "88d984b1-4b36-43f6-a999-2d537a9afe65",
-        "fcbdf05e-f118-4fb0-b498-890ba6ff2bae",
-        "f2530acb-9f8c-4eea-a699-a2e7a8722be6"
+        "template--18764259295534__56eb3eb1-f6e9-487e-bddf-a78534b71bf1-1681639870eeeda013-0",
+        "template--18764259295534__56eb3eb1-f6e9-487e-bddf-a78534b71bf1-1681639870eeeda013-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155537.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
+        "image": "shopify:\/\/shop_images\/belly-of-a-pregnant-woman-isolated-2023-04-14-20-30-27-utc.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -538,18 +417,14 @@
   },
   "order": [
     "main",
-    "70a65ce0-2bec-4095-8a3d-340fdcdac889",
-    "e4efc10d-20ca-44bc-96c3-570e4ae5f889",
     "98da3c2e-7933-465b-be9a-ed5cdc89ae17",
+    "70a65ce0-2bec-4095-8a3d-340fdcdac889",
+    "9106bc4f-f557-48f1-906b-16e18a1b0f83",
     "9ee6804f-807b-4f60-86ee-ed2ca7cddbd3",
+    "822f8dea-4f61-42ef-9438-661b946d70e2",
     "8b308be6-f788-4d44-92ec-e136adcfc53c",
     "6ddadc23-415d-40e0-9d75-46f266ddffdd",
     "56eb3eb1-f6e9-487e-bddf-a78534b71bf1",
-    "8a66e9f1-fb99-4b67-bcf9-8123b2ec9078",
-    "0acb8abe-1e65-4938-aeaf-28117c9fc2d5",
-    "9106bc4f-f557-48f1-906b-16e18a1b0f83",
-    "dea5420b-ab9a-43f9-9649-e42139d3023f",
-    "697779fe-f55c-483b-abef-894af59b96ca",
     "ce9eb544-f948-4664-ba01-6e24ea289f79",
     "4f85eeae-85d9-4cca-bdf5-6f0685338f88"
   ]
