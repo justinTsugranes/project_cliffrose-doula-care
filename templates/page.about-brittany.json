@@ -325,19 +325,12 @@
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
-        },
-        "95e090c5-a5bb-42b3-9ac9-e9d937cd5220": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
         }
       },
       "block_order": [
         "f6ad55a4-fc95-4fd9-a13c-175a83fed4f4",
         "9bd28068-c279-422c-88ae-ef68f29a092e",
-        "6f18488e-221b-410f-8b80-cb188be2310d",
-        "95e090c5-a5bb-42b3-9ac9-e9d937cd5220"
+        "6f18488e-221b-410f-8b80-cb188be2310d"
       ],
       "settings": {
         "desktop_content_position": "left",
