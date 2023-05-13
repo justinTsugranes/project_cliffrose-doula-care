@@ -57,7 +57,7 @@
         "template--18810846511406__0924b7c9-964a-4a5a-91a0-50f584ec996b-16818981958dea8d62-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We will plan visits together before your estimated due date. Over a couple of hours, we’ll build on our connection and get more comfortable. We’ll discuss your birth preferences to create a Birth Plan, have Labor Prep class to practice relaxation techniques, talk about comfort measures and labor positions, I’ll also give plenty of tips on laboring at home. Through a few visits you’ll get ready for the baby, answer all your questions, and ease concerns.<\/p><p>Wondering what we’ll be talking about? Here’s a <a href=\"https:\/\/cliffrosedoula.squarespace.com\/s\/Planning-Checklist.pdf\" target=\"_blank\">Planning Checklist<\/a> full of topics we can dive into.<\/p>",
+            "text": "<h2><strong>You may be feeling uncertain, anxious, or unprepared for the journey ahead. You're not alone in this; every parent-to-be experiences these feelings.<\/strong><\/h2>",
             "text_style": "body"
           }
         }
@@ -68,13 +68,13 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "content_layout": "overlap",
+        "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -83,7 +83,6 @@
     },
     "3a5af9d3-6251-42ff-b0b7-d9c0dba4745c": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18810846511406__3a5af9d3-6251-42ff-b0b7-d9c0dba4745c-16818981958dea8d62-0": {
           "type": "heading",
@@ -95,7 +94,7 @@
         "template--18810846511406__3a5af9d3-6251-42ff-b0b7-d9c0dba4745c-16818981958dea8d62-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Our expert doulas will guide you through the often confusing and overwhelming journey of pregnancy. We've been there, and we know the way.<\/p>",
             "text_style": "body"
           }
         },
@@ -118,8 +117,8 @@
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "content_layout": "overlap",
+        "color_scheme": "accent-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
