@@ -36,6 +36,140 @@
         "show_text_below": true
       }
     },
+    "ffdd1a50-c0fa-456a-89ee-c62735ed17ca": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--18873568035118__ffdd1a50-c0fa-456a-89ee-c62735ed17ca-168415258743e5623a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Navigate Pregnancy Naturally with 'Ease Your Pregnancy Symptoms'",
+            "heading_size": "h1"
+          }
+        },
+        "template--18873568035118__ffdd1a50-c0fa-456a-89ee-c62735ed17ca-168415258743e5623a-1": {
+          "type": "text",
+          "settings": {
+            "text": "Guided by a certified full spectrum doula, this intimate group class empowers you with holistic tools to confidently traverse your pregnancy journey. Embark on your learning voyage today!",
+            "text_style": "body"
+          }
+        },
+        "template--18873568035118__ffdd1a50-c0fa-456a-89ee-c62735ed17ca-168415258743e5623a-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Book Now",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18873568035118__ffdd1a50-c0fa-456a-89ee-c62735ed17ca-168415258743e5623a-0",
+        "template--18873568035118__ffdd1a50-c0fa-456a-89ee-c62735ed17ca-168415258743e5623a-1",
+        "template--18873568035118__ffdd1a50-c0fa-456a-89ee-c62735ed17ca-168415258743e5623a-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "29bcc589-4e45-4aae-98a0-1ebfed6cc1b1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18873568035118__29bcc589-4e45-4aae-98a0-1ebfed6cc1b1-16841523606ed96b36-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--18873568035118__29bcc589-4e45-4aae-98a0-1ebfed6cc1b1-16841523606ed96b36-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Are common pregnancy symptoms like morning sickness, heartburn, and fatigue casting a shadow over your pregnancy joy?<\/p><p>Join our weekly online class where we unveil natural remedies and share valuable tips to help you alleviate these common discomforts.<\/p>"
+          }
+        },
+        "template--18873568035118__29bcc589-4e45-4aae-98a0-1ebfed6cc1b1-16841523606ed96b36-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18873568035118__29bcc589-4e45-4aae-98a0-1ebfed6cc1b1-16841523606ed96b36-0",
+        "template--18873568035118__29bcc589-4e45-4aae-98a0-1ebfed6cc1b1-16841523606ed96b36-1",
+        "template--18873568035118__29bcc589-4e45-4aae-98a0-1ebfed6cc1b1-16841523606ed96b36-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "bc4906c0-3125-4f6b-866c-e28e5efa9642": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18873568035118__bc4906c0-3125-4f6b-866c-e28e5efa9642-1684152313b7f2554a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Learn from a Certified Doula, Connect with a Community",
+            "heading_size": "h1"
+          }
+        },
+        "template--18873568035118__bc4906c0-3125-4f6b-866c-e28e5efa9642-1684152313b7f2554a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>This class isn't just about symptom relief—it's about building your confidence and community. Learn from a certified full spectrum doula in a small, supportive group setting. Enjoy the opportunity to connect with other expectant parents, forging bonds and creating a community that enriches your pregnancy journey.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18873568035118__bc4906c0-3125-4f6b-866c-e28e5efa9642-1684152313b7f2554a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18873568035118__bc4906c0-3125-4f6b-866c-e28e5efa9642-1684152313b7f2554a-0",
+        "template--18873568035118__bc4906c0-3125-4f6b-866c-e28e5efa9642-1684152313b7f2554a-1",
+        "template--18873568035118__bc4906c0-3125-4f6b-866c-e28e5efa9642-1684152313b7f2554a-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -136,11 +270,57 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "153a401a-35a0-4fe5-b05e-2322071e0df4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18873568035118__153a401a-35a0-4fe5-b05e-2322071e0df4-16841523606ed96b36-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Start Your Journey Towards a Joyful Pregnancy",
+            "heading_size": "h1"
+          }
+        },
+        "template--18873568035118__153a401a-35a0-4fe5-b05e-2322071e0df4-16841523606ed96b36-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Don't let common pregnancy discomforts dim your glow. Sign up now to start enjoying your pregnancy journey to the fullest!<\/p>"
+          }
+        },
+        "template--18873568035118__153a401a-35a0-4fe5-b05e-2322071e0df4-16841523606ed96b36-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Sign Up Now",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18873568035118__153a401a-35a0-4fe5-b05e-2322071e0df4-16841523606ed96b36-0",
+        "template--18873568035118__153a401a-35a0-4fe5-b05e-2322071e0df4-16841523606ed96b36-1",
+        "template--18873568035118__153a401a-35a0-4fe5-b05e-2322071e0df4-16841523606ed96b36-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "8294d813-b228-49e7-a8df-6a350c776c15",
+    "ffdd1a50-c0fa-456a-89ee-c62735ed17ca",
+    "29bcc589-4e45-4aae-98a0-1ebfed6cc1b1",
+    "bc4906c0-3125-4f6b-866c-e28e5efa9642",
     "main",
-    "related-products"
+    "related-products",
+    "153a401a-35a0-4fe5-b05e-2322071e0df4"
   ]
 }
