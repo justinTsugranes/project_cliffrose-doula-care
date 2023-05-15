@@ -2,7 +2,6 @@
   "sections": {
     "f41909ac-01fa-4557-856b-385cc8274da8": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "3959bf40-7d67-4133-95c4-0bb03f30bcd3": {
           "type": "slide",
@@ -10,7 +9,7 @@
             "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_2.06.02_PM.jpg",
             "heading": "Elevate Your Pregnancy Experience",
             "heading_size": "h1",
-            "subheading": "Browse Our Line of High-Quality Pregnancy Products",
+            "subheading": "Your journey to parenthood is beautiful, and we're here to support you every step of the way with products that bring comfort, care, and confidence.",
             "button_label": "SHOP NOW",
             "link": "shopify:\/\/collections\/pregnancy",
             "button_style_secondary": false,
@@ -203,14 +202,14 @@
         "template--18772069450030__20d06b30-ad78-40d1-a914-007795dd3205-16822509744728562c-0": {
           "type": "heading",
           "settings": {
-            "heading": "BIRTH ESSENTIALS",
+            "heading": "HANDPICKED ESSENTIALS",
             "heading_size": "h1"
           }
         },
         "template--18772069450030__20d06b30-ad78-40d1-a914-007795dd3205-16822509744728562c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Get everything you need to feel prepared for your big day. We carry perri bottles, sitz baths, nipple cream and so much more.<\/p>",
+            "text": "<p>We've curated an array of pregnancy, labor, and postpartum products that we trust and recommend. Each product in our collection is aimed at enhancing your comfort, easing your transition, and promoting optimal wellness throughout your journey.<\/p>",
             "text_style": "body"
           }
         },
@@ -342,7 +341,7 @@
         "95a54329-db0d-4008-a63b-3065b313266a": {
           "type": "collection",
           "settings": {
-            "collection": "postpartum"
+            "collection": "labor"
           }
         }
       },
@@ -381,7 +380,7 @@
         "eba03069-7e65-4508-90d0-a79a11c95548": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "postpartum"
           }
         }
       },
