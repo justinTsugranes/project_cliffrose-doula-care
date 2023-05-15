@@ -715,7 +715,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>You'll welcome your baby into the world with confidence, secure in the support and care provided by our experienced doulas.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -743,11 +743,21 @@
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d1466c0f-e0e1-42bd-abd2-12c81b97152a": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -769,6 +779,7 @@
     "97e30142-9b0a-4f77-bbbb-b5fec17119b2",
     "14f0fc5a-68bd-44fb-b10e-55c4c61ad79e",
     "14973a14-cc3e-4333-84b9-07ec64856434",
-    "df3dc16d-1864-4992-83fe-24159281e457"
+    "df3dc16d-1864-4992-83fe-24159281e457",
+    "d1466c0f-e0e1-42bd-abd2-12c81b97152a"
   ]
 }
