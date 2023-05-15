@@ -2,19 +2,18 @@
   "sections": {
     "a7a169c4-c38d-41c0-a135-6cdfb74f1c1e": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--18869097726254__a7a169c4-c38d-41c0-a135-6cdfb74f1c1e-16823434954f8e979a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Bump To Table",
+            "heading": "Bump To Table: A Trimester By Trimester Meal Planning Guide",
             "heading_size": "h1"
           }
         },
         "template--18869097726254__a7a169c4-c38d-41c0-a135-6cdfb74f1c1e-16823434954f8e979a-1": {
           "type": "text",
           "settings": {
-            "text": "A Trimester By Trimester Guide to Having a Healthy Pregnancy",
+            "text": "You're a soon-to-be mom, longing for a nourishing, healthy pregnancy, but you're unsure of what meals best support you and your growing baby. Don't worry, we have a guide for you.",
             "text_style": "body"
           }
         },
@@ -211,6 +210,96 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "21478709-5761-44c5-aed0-2c1fbf8bb744": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18869097726254__21478709-5761-44c5-aed0-2c1fbf8bb744-16841523606ed96b36-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your Journey Towards Nourishing Pregnancy",
+            "heading_size": "h1"
+          }
+        },
+        "template--18869097726254__21478709-5761-44c5-aed0-2c1fbf8bb744-16841523606ed96b36-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Crafted from real mom-to-be experiences, this guide is filled with delectable, nutrient-dense recipes tailored to your unique needs at every stage of pregnancy. It not only gives you a plan but also equips you with valuable tips to journey through your pregnancy with joy and confidence.<\/p>"
+          }
+        },
+        "template--18869097726254__21478709-5761-44c5-aed0-2c1fbf8bb744-16841523606ed96b36-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869097726254__21478709-5761-44c5-aed0-2c1fbf8bb744-16841523606ed96b36-0",
+        "template--18869097726254__21478709-5761-44c5-aed0-2c1fbf8bb744-16841523606ed96b36-1",
+        "template--18869097726254__21478709-5761-44c5-aed0-2c1fbf8bb744-16841523606ed96b36-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "ff5e408f-f1ae-467e-9824-a07f6a6e06c3": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18869097726254__ff5e408f-f1ae-467e-9824-a07f6a6e06c3-168415258743e5623a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Embark on Your Nourishment Journey",
+            "heading_size": "h1"
+          }
+        },
+        "template--18869097726254__ff5e408f-f1ae-467e-9824-a07f6a6e06c3-168415258743e5623a-1": {
+          "type": "text",
+          "settings": {
+            "text": "Don't leave your pregnancy nutrition to chance. Grab your free copy of \"Bump To Table\". Start making delicious, wholesome meals that both you and your baby will love, and experience a successful journey to motherhood, one bite at a time!",
+            "text_style": "body"
+          }
+        },
+        "template--18869097726254__ff5e408f-f1ae-467e-9824-a07f6a6e06c3-168415258743e5623a-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Download Now",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869097726254__ff5e408f-f1ae-467e-9824-a07f6a6e06c3-168415258743e5623a-0",
+        "template--18869097726254__ff5e408f-f1ae-467e-9824-a07f6a6e06c3-168415258743e5623a-1",
+        "template--18869097726254__ff5e408f-f1ae-467e-9824-a07f6a6e06c3-168415258743e5623a-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -218,6 +307,8 @@
     "main",
     "7b85f0a3-758a-46d6-bdad-9af611c7e153",
     "168234345007532d1c",
-    "988bff75-9502-480d-bf17-02e120fc3460"
+    "988bff75-9502-480d-bf17-02e120fc3460",
+    "21478709-5761-44c5-aed0-2c1fbf8bb744",
+    "ff5e408f-f1ae-467e-9824-a07f6a6e06c3"
   ]
 }
