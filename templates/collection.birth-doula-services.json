@@ -334,6 +334,49 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "006a084d-e5b9-42de-a8c5-ca3fbff3f1d6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18771324829998__006a084d-e5b9-42de-a8c5-ca3fbff3f1d6-16841523606ed96b36-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Becoming a parent is an incredible journey",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771324829998__006a084d-e5b9-42de-a8c5-ca3fbff3f1d6-16841523606ed96b36-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>It can also be filled with uncertainty, stress, and fear of the unknown. You may feel overwhelmed by the changes, decisions, and responsibilities that come with this new stage in life.<\/p>"
+          }
+        },
+        "template--18771324829998__006a084d-e5b9-42de-a8c5-ca3fbff3f1d6-16841523606ed96b36-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18771324829998__006a084d-e5b9-42de-a8c5-ca3fbff3f1d6-16841523606ed96b36-0",
+        "template--18771324829998__006a084d-e5b9-42de-a8c5-ca3fbff3f1d6-16841523606ed96b36-1",
+        "template--18771324829998__006a084d-e5b9-42de-a8c5-ca3fbff3f1d6-16841523606ed96b36-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -346,6 +389,7 @@
     "89b62bcb-54fc-4333-a0d8-84ddeda87828",
     "27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb",
     "e922e7e2-02cd-4791-a68c-7fc76f393023",
-    "8ef8dba0-8ae0-415f-8a7e-84a3697a6571"
+    "8ef8dba0-8ae0-415f-8a7e-84a3697a6571",
+    "006a084d-e5b9-42de-a8c5-ca3fbff3f1d6"
   ]
 }
