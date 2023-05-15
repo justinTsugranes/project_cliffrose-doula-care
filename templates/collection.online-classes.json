@@ -116,7 +116,7 @@
         "f4a5a337-b947-4f2b-ac23-76d3f07f7c7d": {
           "type": "text",
           "settings": {
-            "text": "<p>All our classes are live, interactive, and hosted via Zoom, enabling you to learn from the comfort of your own space. Each class is an hour-long, priced at an affordable rate of $35.<\/p>",
+            "text": "<p>All our classes are live, interactive, and hosted via Zoom, enabling you to learn from the comfort of your own space.<\/p><p>Each class is an hour-long and priced at an affordable rate of $35.<\/p>",
             "text_style": "body"
           }
         },
