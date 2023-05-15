@@ -1,30 +1,36 @@
 {
   "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "background-1"
+      }
+    },
     "ce85c669-276b-4afa-a0c1-6237ec717630": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--18729374253358__ce85c669-276b-4afa-a0c1-6237ec717630-1683538762e9228075-0": {
           "type": "heading",
           "settings": {
-            "heading": "{{ collection.title }}",
+            "heading": "Empower Your Parenthood Journey with Our Live Online Classes",
             "heading_size": "h1"
           }
         },
         "template--18729374253358__ce85c669-276b-4afa-a0c1-6237ec717630-1683538762e9228075-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "Create Description Meta field",
+            "text": "Tailored to your unique path, our classes equip you with evidence-based knowledge and practical resources. Prepare for the wondrous journey of birth and beyond, in a way that respects your individual needs.",
             "text_style": "body"
           }
         },
         "template--18729374253358__ce85c669-276b-4afa-a0c1-6237ec717630-1683538762e9228075-2": {
           "type": "buttons",
-          "disabled": true,
           "settings": {
-            "button_label_1": "Dynamic Button",
-            "button_link_1": "",
+            "button_label_1": "View All Classes",
+            "button_link_1": "shopify:\/\/collections\/online-classes",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -41,9 +47,9 @@
         "image": "{{ collection.image }}",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "middle-left",
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
@@ -51,12 +57,96 @@
         "show_text_below": true
       }
     },
-    "banner": {
-      "type": "main-collection-banner",
+    "dc19041b-fa15-429d-85ce-06676fc8ad54": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19135030133038__dc19041b-fa15-429d-85ce-06676fc8ad54-1684152313b7f2554a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unveil the Mysteries of Parenthood",
+            "heading_size": "h1"
+          }
+        },
+        "template--19135030133038__dc19041b-fa15-429d-85ce-06676fc8ad54-1684152313b7f2554a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We cover a wide spectrum of topics, from natural remedies for pregnancy discomforts, childbirth techniques, breastfeeding tips, to strategies for a seamless postpartum transition. Our classes are designed to empower you with knowledge, confidence, and personalized care.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--19135030133038__dc19041b-fa15-429d-85ce-06676fc8ad54-1684152313b7f2554a-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19135030133038__dc19041b-fa15-429d-85ce-06676fc8ad54-1684152313b7f2554a-0",
+        "template--19135030133038__dc19041b-fa15-429d-85ce-06676fc8ad54-1684152313b7f2554a-1",
+        "template--19135030133038__dc19041b-fa15-429d-85ce-06676fc8ad54-1684152313b7f2554a-2"
+      ],
       "settings": {
-        "show_collection_description": true,
-        "show_collection_image": true,
-        "color_scheme": "background-1"
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-05-14_at_5.29.02_AM.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f822a603-92e6-495a-8ff0-b6e6a54dadd8": {
+      "type": "image-with-text",
+      "blocks": {
+        "08d83878-b703-4674-ab97-61fc057dc63a": {
+          "type": "heading",
+          "settings": {
+            "heading": "Convenient and Affordable Learning",
+            "heading_size": "h1"
+          }
+        },
+        "f4a5a337-b947-4f2b-ac23-76d3f07f7c7d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All our classes are live, interactive, and hosted via Zoom, enabling you to learn from the comfort of your own space. Each class is an hour-long, priced at an affordable rate of $35.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "ea27ac06-7040-4b38-9cc2-6104cbd28181": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "08d83878-b703-4674-ab97-61fc057dc63a",
+        "f4a5a337-b947-4f2b-ac23-76d3f07f7c7d",
+        "ea27ac06-7040-4b38-9cc2-6104cbd28181"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-gustavo-fring-3984370_1_4e048ef0-b0e7-4f0f-9ff3-47cf7b292a73.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "product-grid": {
@@ -76,11 +166,56 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "ef7875a8-f671-43e5-a7d0-649c9249a1e1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19135030133038__ef7875a8-f671-43e5-a7d0-649c9249a1e1-16841523606ed96b36-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Begin Your Learning Journey",
+            "heading_size": "h1"
+          }
+        },
+        "template--19135030133038__ef7875a8-f671-43e5-a7d0-649c9249a1e1-16841523606ed96b36-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ready to embark on a transformative learning journey? Explore our range of online classes today. Your empowered path to parenthood awaits.<\/p>"
+          }
+        },
+        "template--19135030133038__ef7875a8-f671-43e5-a7d0-649c9249a1e1-16841523606ed96b36-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "View All Classes",
+            "button_link": "shopify:\/\/collections\/online-classes",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19135030133038__ef7875a8-f671-43e5-a7d0-649c9249a1e1-16841523606ed96b36-0",
+        "template--19135030133038__ef7875a8-f671-43e5-a7d0-649c9249a1e1-16841523606ed96b36-1",
+        "template--19135030133038__ef7875a8-f671-43e5-a7d0-649c9249a1e1-16841523606ed96b36-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "ce85c669-276b-4afa-a0c1-6237ec717630",
     "banner",
-    "product-grid"
+    "ce85c669-276b-4afa-a0c1-6237ec717630",
+    "dc19041b-fa15-429d-85ce-06676fc8ad54",
+    "f822a603-92e6-495a-8ff0-b6e6a54dadd8",
+    "product-grid",
+    "ef7875a8-f671-43e5-a7d0-649c9249a1e1"
   ]
 }
