@@ -86,6 +86,7 @@
     },
     "29bcc589-4e45-4aae-98a0-1ebfed6cc1b1": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18873568035118__29bcc589-4e45-4aae-98a0-1ebfed6cc1b1-16841523606ed96b36-0": {
           "type": "heading",
@@ -128,6 +129,7 @@
     },
     "bc4906c0-3125-4f6b-866c-e28e5efa9642": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18873568035118__bc4906c0-3125-4f6b-866c-e28e5efa9642-1684152313b7f2554a-0": {
           "type": "heading",
@@ -273,6 +275,7 @@
     },
     "153a401a-35a0-4fe5-b05e-2322071e0df4": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18873568035118__153a401a-35a0-4fe5-b05e-2322071e0df4-16841523606ed96b36-0": {
           "type": "heading",
