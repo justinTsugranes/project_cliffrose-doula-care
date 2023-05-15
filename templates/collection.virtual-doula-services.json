@@ -58,25 +58,6 @@
         "color_scheme": "background-1"
       }
     },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "disabled": true,
-      "settings": {
-        "products_per_page": 16,
-        "columns_desktop": 3,
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": false,
-        "enable_filtering": false,
-        "filter_type": "horizontal",
-        "enable_sorting": false,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "c199ea3e-7946-47b1-b3f0-c60fa7404600": {
       "type": "image-with-text",
       "disabled": true,
@@ -177,7 +158,7 @@
         "template--18969798443310__7349c304-73b2-4802-81a7-6ddc5c70d938-1684152313b7f2554a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Pregnancy and childbirth come with a myriad of questions and uncertainties.",
+            "heading": "Pregnancy and childbirth come with a myriad of questions and uncertainties",
             "heading_size": "h1"
           }
         },
@@ -209,8 +190,8 @@
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "content_layout": "overlap",
+        "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -254,10 +235,28 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-1",
+        "color_scheme": "accent-2",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 3,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "enable_filtering": false,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "e266894d-19b2-4458-8637-366880deb96f": {
@@ -371,9 +370,9 @@
         "heading": "Our Virtual Doula Services Include",
         "heading_size": "h1",
         "heading_alignment": "center",
-        "layout": "none",
+        "layout": "section",
         "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
+        "container_color_scheme": "accent-1",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
@@ -435,7 +434,7 @@
         "template--18969798443310__e312c8d6-a824-48a2-92cd-4017d4178bc7-1684152313b7f2554a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Don't Fear, Your Doula Is Here",
             "heading_size": "h1"
           }
         },
@@ -448,6 +447,7 @@
         },
         "template--18969798443310__e312c8d6-a824-48a2-92cd-4017d4178bc7-1684152313b7f2554a-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -461,13 +461,13 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-05-02_at_5.12.38_AM.jpg",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "content_layout": "overlap",
+        "color_scheme": "accent-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -477,6 +477,15 @@
     "cc2133c7-e4c3-42e1-a5b9-dad5ff5ff5c7": {
       "type": "multicolumn",
       "blocks": {
+        "template--18969798443310__cc2133c7-e4c3-42e1-a5b9-dad5ff5ff5c7-1684152697ec1097cf-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>You'll enjoy your pregnancy without having to worry about 9 months of Google searches about how to take care of yourself and your developing baby.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "template--18969798443310__cc2133c7-e4c3-42e1-a5b9-dad5ff5ff5c7-1684152697ec1097cf-0": {
           "type": "column",
           "settings": {
@@ -494,21 +503,12 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "template--18969798443310__cc2133c7-e4c3-42e1-a5b9-dad5ff5ff5c7-1684152697ec1097cf-2": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
+        "template--18969798443310__cc2133c7-e4c3-42e1-a5b9-dad5ff5ff5c7-1684152697ec1097cf-2",
         "template--18969798443310__cc2133c7-e4c3-42e1-a5b9-dad5ff5ff5c7-1684152697ec1097cf-0",
-        "template--18969798443310__cc2133c7-e4c3-42e1-a5b9-dad5ff5ff5c7-1684152697ec1097cf-1",
-        "template--18969798443310__cc2133c7-e4c3-42e1-a5b9-dad5ff5ff5c7-1684152697ec1097cf-2"
+        "template--18969798443310__cc2133c7-e4c3-42e1-a5b9-dad5ff5ff5c7-1684152697ec1097cf-1"
       ],
       "settings": {
         "title": "With our Virtual Doula Services,",
@@ -530,7 +530,7 @@
     "a4f57708-a8e8-4a4a-9fa9-a357d8ebe6f6": {
       "type": "contact-form",
       "settings": {
-        "heading": "Contact Us",
+        "heading": "Have Any Questions? Contact Us",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "padding_top": 36,
@@ -607,11 +607,11 @@
   "order": [
     "c09d92e5-2a87-408a-8087-801589bc779e",
     "banner",
-    "product-grid",
     "c199ea3e-7946-47b1-b3f0-c60fa7404600",
     "e63099a0-aaa0-42b1-8206-fe62558a797b",
     "7349c304-73b2-4802-81a7-6ddc5c70d938",
     "1b926abd-6698-493f-b663-34aa7a27d739",
+    "product-grid",
     "e266894d-19b2-4458-8637-366880deb96f",
     "d3a9cdcf-9cfb-4874-872f-3e905c2d0ef8",
     "e312c8d6-a824-48a2-92cd-4017d4178bc7",
