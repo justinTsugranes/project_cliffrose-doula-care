@@ -853,6 +853,243 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "661a46e0-416e-415e-a21c-698393fb6999": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18771812843822__661a46e0-416e-415e-a21c-698393fb6999-168415258743e5623a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771812843822__661a46e0-416e-415e-a21c-698393fb6999-168415258743e5623a-1": {
+          "type": "text",
+          "settings": {
+            "text": "Welcome to the pinnacle of personalized birth experiences - our Cliffrose Birth Package.",
+            "text_style": "body"
+          }
+        },
+        "template--18771812843822__661a46e0-416e-415e-a21c-698393fb6999-168415258743e5623a-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18771812843822__661a46e0-416e-415e-a21c-698393fb6999-168415258743e5623a-0",
+        "template--18771812843822__661a46e0-416e-415e-a21c-698393fb6999-168415258743e5623a-1",
+        "template--18771812843822__661a46e0-416e-415e-a21c-698393fb6999-168415258743e5623a-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "19f61c61-1bc6-4d50-abc7-ab9059b11f92": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18771812843822__19f61c61-1bc6-4d50-abc7-ab9059b11f92-16841523606ed96b36-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771812843822__19f61c61-1bc6-4d50-abc7-ab9059b11f92-16841523606ed96b36-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You're a conscious individual who appreciates the finer things in life. You value comprehensive support, detailed preparation, and superior care during your transformative journey towards parenthood.<\/p>"
+          }
+        },
+        "template--18771812843822__19f61c61-1bc6-4d50-abc7-ab9059b11f92-16841523606ed96b36-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18771812843822__19f61c61-1bc6-4d50-abc7-ab9059b11f92-16841523606ed96b36-0",
+        "template--18771812843822__19f61c61-1bc6-4d50-abc7-ab9059b11f92-16841523606ed96b36-1",
+        "template--18771812843822__19f61c61-1bc6-4d50-abc7-ab9059b11f92-16841523606ed96b36-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "042acb86-0c49-49de-8f60-96d3b7762e9e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18771812843822__042acb86-0c49-49de-8f60-96d3b7762e9e-1684152313b7f2554a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771812843822__042acb86-0c49-49de-8f60-96d3b7762e9e-1684152313b7f2554a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The birthing journey can feel overwhelming, filled with questions and unknowns. How will you manage labor? Who will support you when you bring your baby home? How can you maintain your wellbeing during this monumental transition?<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18771812843822__042acb86-0c49-49de-8f60-96d3b7762e9e-1684152313b7f2554a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18771812843822__042acb86-0c49-49de-8f60-96d3b7762e9e-1684152313b7f2554a-0",
+        "template--18771812843822__042acb86-0c49-49de-8f60-96d3b7762e9e-1684152313b7f2554a-1",
+        "template--18771812843822__042acb86-0c49-49de-8f60-96d3b7762e9e-1684152313b7f2554a-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "dfe5f200-d112-4166-a783-04f53194cd5d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18771812843822__dfe5f200-d112-4166-a783-04f53194cd5d-16841523606ed96b36-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771812843822__dfe5f200-d112-4166-a783-04f53194cd5d-16841523606ed96b36-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>That's where the Cliffrose Birth Package steps in. Experience unparalleled support, from in-depth prenatal preparations to nurturing postpartum care. Our dedicated doulas, equipped with extensive tools and techniques, ensure a soothing environment that aligns with your birth preferences and nurtures your transition into parenthood.<\/p>"
+          }
+        },
+        "template--18771812843822__dfe5f200-d112-4166-a783-04f53194cd5d-16841523606ed96b36-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18771812843822__dfe5f200-d112-4166-a783-04f53194cd5d-16841523606ed96b36-0",
+        "template--18771812843822__dfe5f200-d112-4166-a783-04f53194cd5d-16841523606ed96b36-1",
+        "template--18771812843822__dfe5f200-d112-4166-a783-04f53194cd5d-16841523606ed96b36-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "97e30142-9b0a-4f77-bbbb-b5fec17119b2": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--18771812843822__97e30142-9b0a-4f77-bbbb-b5fec17119b2-1684152529d9a7cdb6-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Plan (Collapsible Content): Your personalized package includes:Three 3-hour prenatal visits to craft your unique birth plan and practice relaxation techniques.Continuous labor support, utilizing methods such as rebozo, birth ball, and breathing techniques, and including light meals to keep you nourished and energized.Overnight doula care, providing 8 hours of support tailored to your needs.Three 3-hour postpartum visits, offering emotional support and practical assistance, complemented by healing meals.24\/7 on-call support, available from 38 weeks gestation onwards.Virtual consultations, connecting you with expert advice via Zoom and SMS.Free access to all online classes, ensuring you're well-prepared and informed.",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--18771812843822__97e30142-9b0a-4f77-bbbb-b5fec17119b2-1684152529d9a7cdb6-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--18771812843822__97e30142-9b0a-4f77-bbbb-b5fec17119b2-1684152529d9a7cdb6-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--18771812843822__97e30142-9b0a-4f77-bbbb-b5fec17119b2-1684152529d9a7cdb6-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18771812843822__97e30142-9b0a-4f77-bbbb-b5fec17119b2-1684152529d9a7cdb6-0",
+        "template--18771812843822__97e30142-9b0a-4f77-bbbb-b5fec17119b2-1684152529d9a7cdb6-1",
+        "template--18771812843822__97e30142-9b0a-4f77-bbbb-b5fec17119b2-1684152529d9a7cdb6-2",
+        "template--18771812843822__97e30142-9b0a-4f77-bbbb-b5fec17119b2-1684152529d9a7cdb6-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -875,6 +1112,11 @@
     "88d3f224-7065-4fc5-91aa-2433eb6f41b9",
     "799d8fe9-3440-433e-92cc-2b6c94777351",
     "related-products",
-    "ff5834c1-23cd-4261-b5dd-b0214318b68a"
+    "ff5834c1-23cd-4261-b5dd-b0214318b68a",
+    "661a46e0-416e-415e-a21c-698393fb6999",
+    "19f61c61-1bc6-4d50-abc7-ab9059b11f92",
+    "042acb86-0c49-49de-8f60-96d3b7762e9e",
+    "dfe5f200-d112-4166-a783-04f53194cd5d",
+    "97e30142-9b0a-4f77-bbbb-b5fec17119b2"
   ]
 }
