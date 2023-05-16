@@ -1,28 +1,36 @@
 {
   "sections": {
-    "c09d92e5-2a87-408a-8087-801589bc779e": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "background-1"
+      }
+    },
+    "b82def59-a7c6-4128-b8b9-35a9464f5b8c": {
       "type": "image-banner",
       "blocks": {
-        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-0": {
+        "template--18771324829998__b82def59-a7c6-4128-b8b9-35a9464f5b8c-1684241428011e508e-0": {
           "type": "heading",
           "settings": {
-            "heading": "Birth Doula Services",
+            "heading": "In-person Birth Doula Services",
             "heading_size": "h1"
           }
         },
-        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-1": {
+        "template--18771324829998__b82def59-a7c6-4128-b8b9-35a9464f5b8c-1684241428011e508e-1": {
           "type": "text",
           "settings": {
-            "text": "We are here to provide you with expert care, guidance, and emotional support throughout your labor and birth process and beyond!",
+            "text": "Experience Support Like Never Before",
             "text_style": "body"
           }
         },
-        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-2": {
+        "template--18771324829998__b82def59-a7c6-4128-b8b9-35a9464f5b8c-1684241428011e508e-2": {
           "type": "buttons",
-          "disabled": true,
           "settings": {
-            "button_label_1": "CONTACT US",
-            "button_link_1": "shopify:\/\/pages\/contact",
+            "button_label_1": "Schedule a Free Consultation",
+            "button_link_1": "shopify:\/\/products\/intro-birth-consultation",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -31,12 +39,12 @@
         }
       },
       "block_order": [
-        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-0",
-        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-1",
-        "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-2"
+        "template--18771324829998__b82def59-a7c6-4128-b8b9-35a9464f5b8c-1684241428011e508e-0",
+        "template--18771324829998__b82def59-a7c6-4128-b8b9-35a9464f5b8c-1684241428011e508e-1",
+        "template--18771324829998__b82def59-a7c6-4128-b8b9-35a9464f5b8c-1684241428011e508e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pregnant-woman-s-belly-closeup-hands-hugging-bell-2022-10-11-19-51-50-utc.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-05-04_at_7.47.13_PM.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -49,13 +57,71 @@
         "show_text_below": true
       }
     },
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
+    "174ab2c5-0fa3-4f0b-8957-e5df30bdc3bd": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18771324829998__174ab2c5-0fa3-4f0b-8957-e5df30bdc3bd-16842414368d32b4cb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Choosing the right doula is an essential step in your childbirth journey",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771324829998__174ab2c5-0fa3-4f0b-8957-e5df30bdc3bd-16842414368d32b4cb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Cliffrose Doula Care, we provide a comforting presence, continuous emotional support, and evidence-based knowledge to help you make informed decisions about your care<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771324829998__174ab2c5-0fa3-4f0b-8957-e5df30bdc3bd-16842414368d32b4cb-0",
+        "template--18771324829998__174ab2c5-0fa3-4f0b-8957-e5df30bdc3bd-16842414368d32b4cb-1"
+      ],
       "settings": {
-        "show_collection_description": true,
-        "show_collection_image": true,
-        "color_scheme": "background-1"
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "0e9c5b2e-7cf0-4433-a8a0-c1f6b18f08e7": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0a6bdaa9-3e09-4396-adda-980baf3244c2": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18771324829998__0a6bdaa9-3e09-4396-adda-980baf3244c2-16842414368d32b4cb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Meet Our Packages",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771324829998__0a6bdaa9-3e09-4396-adda-980baf3244c2-16842414368d32b4cb-0"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
       }
     },
     "product-grid": {
@@ -72,22 +138,7 @@
         "filter_type": "vertical",
         "enable_sorting": false,
         "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "8d7dbcd2-5358-43f6-aa37-ed6dd565eebf": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -121,7 +172,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -158,7 +209,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -195,9 +246,147 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2eafda6c-236e-4ba7-bd3c-8f536acdac8f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18771324829998__2eafda6c-236e-4ba7-bd3c-8f536acdac8f-16842414368d32b4cb-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771324829998__2eafda6c-236e-4ba7-bd3c-8f536acdac8f-16842414368d32b4cb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our goal is not only to support you during labor and delivery but also to empower you with knowledge and resources. Our blog contains valuable information, tips, and insights to help you prepare for your unique birth journey.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771324829998__2eafda6c-236e-4ba7-bd3c-8f536acdac8f-16842414368d32b4cb-0",
+        "template--18771324829998__2eafda6c-236e-4ba7-bd3c-8f536acdac8f-16842414368d32b4cb-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "100a1749-c95f-487d-b1b6-0b6a3bd56237": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Beyond Birth: A blog about pregnancy and parenting for modern moms",
+        "heading_size": "h1",
+        "blog": "beyond-birth",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "769157d5-2185-4b07-afdc-e67b044fb4e9": {
+      "type": "newsletter",
+      "blocks": {
+        "template--18771324829998__769157d5-2185-4b07-afdc-e67b044fb4e9-168424151082e8eb5a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join our community for exclusive content and updates",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771324829998__769157d5-2185-4b07-afdc-e67b044fb4e9-168424151082e8eb5a-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Subscribe to our blog to have information about pregnancy, birth, and newborn care sent directly to you.<\/p>"
+          }
+        },
+        "template--18771324829998__769157d5-2185-4b07-afdc-e67b044fb4e9-168424151082e8eb5a-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18771324829998__769157d5-2185-4b07-afdc-e67b044fb4e9-168424151082e8eb5a-0",
+        "template--18771324829998__769157d5-2185-4b07-afdc-e67b044fb4e9-168424151082e8eb5a-1",
+        "template--18771324829998__769157d5-2185-4b07-afdc-e67b044fb4e9-168424151082e8eb5a-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "68cc8aa0-4f8e-4611-9747-518553520868": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18771324829998__68cc8aa0-4f8e-4611-9747-518553520868-168424161179ec5028-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Start your journey",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771324829998__68cc8aa0-4f8e-4611-9747-518553520868-168424161179ec5028-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Join the many mothers who have had a supported, empowered, and positive birth experience with Cliffrose Doula Care.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18771324829998__68cc8aa0-4f8e-4611-9747-518553520868-168424161179ec5028-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Schedule a Free Consultation",
+            "button_link": "shopify:\/\/products\/intro-birth-consultation"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771324829998__68cc8aa0-4f8e-4611-9747-518553520868-168424161179ec5028-0",
+        "template--18771324829998__68cc8aa0-4f8e-4611-9747-518553520868-168424161179ec5028-1",
+        "template--18771324829998__68cc8aa0-4f8e-4611-9747-518553520868-168424161179ec5028-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-05-07_at_2.58.09_PM.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "cb947bb7-afb7-4c6b-8e6a-fd4a4c1692d3": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Get in Touch Today",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -289,6 +478,7 @@
     },
     "8ef8dba0-8ae0-415f-8a7e-84a3697a6571": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-0": {
           "type": "heading",
@@ -334,63 +524,25 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
-    },
-    "006a084d-e5b9-42de-a8c5-ca3fbff3f1d6": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--18771324829998__006a084d-e5b9-42de-a8c5-ca3fbff3f1d6-16841523606ed96b36-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Becoming a parent is an incredible journey",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771324829998__006a084d-e5b9-42de-a8c5-ca3fbff3f1d6-16841523606ed96b36-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>It can also be filled with uncertainty, stress, and fear of the unknown. You may feel overwhelmed by the changes, decisions, and responsibilities that come with this new stage in life.<\/p>"
-          }
-        },
-        "template--18771324829998__006a084d-e5b9-42de-a8c5-ca3fbff3f1d6-16841523606ed96b36-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18771324829998__006a084d-e5b9-42de-a8c5-ca3fbff3f1d6-16841523606ed96b36-0",
-        "template--18771324829998__006a084d-e5b9-42de-a8c5-ca3fbff3f1d6-16841523606ed96b36-1",
-        "template--18771324829998__006a084d-e5b9-42de-a8c5-ca3fbff3f1d6-16841523606ed96b36-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
-    "c09d92e5-2a87-408a-8087-801589bc779e",
     "banner",
+    "b82def59-a7c6-4128-b8b9-35a9464f5b8c",
+    "174ab2c5-0fa3-4f0b-8957-e5df30bdc3bd",
+    "0e9c5b2e-7cf0-4433-a8a0-c1f6b18f08e7",
+    "0a6bdaa9-3e09-4396-adda-980baf3244c2",
     "product-grid",
-    "8d7dbcd2-5358-43f6-aa37-ed6dd565eebf",
     "e8f888b7-2ae1-4533-85a6-58cd7107120d",
     "fc418fa7-c9e2-4739-ba49-c6d6c8146c15",
     "89b62bcb-54fc-4333-a0d8-84ddeda87828",
+    "2eafda6c-236e-4ba7-bd3c-8f536acdac8f",
+    "100a1749-c95f-487d-b1b6-0b6a3bd56237",
+    "769157d5-2185-4b07-afdc-e67b044fb4e9",
+    "68cc8aa0-4f8e-4611-9747-518553520868",
+    "cb947bb7-afb7-4c6b-8e6a-fd4a4c1692d3",
     "27a2cd06-29e0-40d7-a0f8-aab5df5a2cdb",
     "e922e7e2-02cd-4791-a68c-7fc76f393023",
-    "8ef8dba0-8ae0-415f-8a7e-84a3697a6571",
-    "006a084d-e5b9-42de-a8c5-ca3fbff3f1d6"
+    "8ef8dba0-8ae0-415f-8a7e-84a3697a6571"
   ]
 }
