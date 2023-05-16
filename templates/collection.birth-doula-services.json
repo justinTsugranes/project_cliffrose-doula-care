@@ -302,14 +302,61 @@
         "maxwidth": 1080
       }
     },
+    "1c375b87-c49b-46bd-b539-2b4affe38706": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18771324829998__1c375b87-c49b-46bd-b539-2b4affe38706-1684269270ab069f33-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Support Made For You",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771324829998__1c375b87-c49b-46bd-b539-2b4affe38706-1684269270ab069f33-1": {
+          "type": "text",
+          "settings": {
+            "text": "Step into a supportive space tailored to your unique journey towards parenthood.",
+            "text_style": "body"
+          }
+        },
+        "template--18771324829998__1c375b87-c49b-46bd-b539-2b4affe38706-1684269270ab069f33-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Schedule a Free Consultation",
+            "button_link_1": "shopify:\/\/products\/intro-birth-consultation",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18771324829998__1c375b87-c49b-46bd-b539-2b4affe38706-1684269270ab069f33-0",
+        "template--18771324829998__1c375b87-c49b-46bd-b539-2b4affe38706-1684269270ab069f33-1",
+        "template--18771324829998__1c375b87-c49b-46bd-b539-2b4affe38706-1684269270ab069f33-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-05-16_at_4.37.44_PM.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "2eafda6c-236e-4ba7-bd3c-8f536acdac8f": {
       "type": "rich-text",
       "blocks": {
         "template--18771324829998__2eafda6c-236e-4ba7-bd3c-8f536acdac8f-16842414368d32b4cb-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Beyond Birth: A blog about pregnancy and parenting for modern moms",
             "heading_size": "h1"
           }
         },
@@ -326,7 +373,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 40,
@@ -336,7 +383,7 @@
     "100a1749-c95f-487d-b1b6-0b6a3bd56237": {
       "type": "featured-blog",
       "settings": {
-        "heading": "Beyond Birth: A blog about pregnancy and parenting for modern moms",
+        "heading": "",
         "heading_size": "h1",
         "blog": "beyond-birth",
         "post_limit": 3,
@@ -493,6 +540,7 @@
     "89b62bcb-54fc-4333-a0d8-84ddeda87828",
     "ad683c48-0eae-4c7f-abbf-11b5d391cd01",
     "4f1389ef-c3f2-4de3-9a5e-5dc3bee31e75",
+    "1c375b87-c49b-46bd-b539-2b4affe38706",
     "2eafda6c-236e-4ba7-bd3c-8f536acdac8f",
     "100a1749-c95f-487d-b1b6-0b6a3bd56237",
     "769157d5-2185-4b07-afdc-e67b044fb4e9",

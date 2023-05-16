@@ -13,15 +13,14 @@
         "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-1": {
           "type": "text",
           "settings": {
-            "text": "Access personalized care and support from the comfort of your own home with our virtual doula services. From birth options and preferences to labor preparation, postpartum planning, emotional support, and reproductive justice, we cover it all.",
+            "text": "Access personalized care and support from the comfort of your own home with our virtual doula services. From <strong>birth options<\/strong> and preferences to <strong>labor preparation<\/strong>, <strong>postpartum planning<\/strong>, <strong>emotional support, and reproductive justice<\/strong>, we cover it all.",
             "text_style": "body"
           }
         },
         "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-2": {
           "type": "buttons",
-          "disabled": true,
           "settings": {
-            "button_label_1": "CONTACT US",
+            "button_label_1": "Schedule a Free Consultation",
             "button_link_1": "shopify:\/\/products\/intro-birth-consultation",
             "button_style_secondary_1": false,
             "button_label_2": "",
