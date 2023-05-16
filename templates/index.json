@@ -129,7 +129,7 @@
           "settings": {
             "heading": "Prenatal Care",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Together, we'll discuss your birth preferences, create a Birth Plan, practice relaxation techniques in a Labor Prep class, and cover comfort measures and labor positions.<\/p>",
             "page": ""
           }
         },
@@ -138,7 +138,7 @@
           "settings": {
             "heading": "Labor Support",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>No matter where you choose to give birth - at home, a birthing center, or a hospital - We will be there to provide unwavering support throughout your labor<\/p>",
             "page": ""
           }
         },
@@ -147,7 +147,16 @@
           "settings": {
             "heading": "Postpartum Recovery",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Your doula is here to <strong>support you <\/strong>during the postpartum period, meeting you where you're at and from the comfort of your own home. Your doula is here to <strong>listen to you<\/strong>, whether it's about the challenges or joys of adjusting to life with a newborn.<\/p>",
+            "page": ""
+          }
+        },
+        "5d5ba868-c008-45ac-a7e3-8d129aff5797": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "24\/7 On-Call Support",
+            "icon": "check_mark",
+            "row_content": "<p>Starting at 37 weeks, We are on call 24\/7 and will be readily available via phone, video call, and text to provide guidance, comfort, and information as you labor at home or at your chosen delivery location.<\/p>",
             "page": ""
           }
         }
@@ -155,7 +164,8 @@
       "block_order": [
         "template--18729374646574__d463519f-a7db-4bf2-a6d8-58a3f69c2f83-1684152529d9a7cdb6-0",
         "template--18729374646574__d463519f-a7db-4bf2-a6d8-58a3f69c2f83-1684152529d9a7cdb6-1",
-        "template--18729374646574__d463519f-a7db-4bf2-a6d8-58a3f69c2f83-1684152529d9a7cdb6-2"
+        "template--18729374646574__d463519f-a7db-4bf2-a6d8-58a3f69c2f83-1684152529d9a7cdb6-2",
+        "5d5ba868-c008-45ac-a7e3-8d129aff5797"
       ],
       "settings": {
         "caption": "Birth Doula Services that guide and support you through every stage",
@@ -320,7 +330,7 @@
         "template--18729374646574__a69c2719-da9d-4848-8676-daed64bb232c-16841937828ac68367-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-05-07_at_2.58.09_PM.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-21_at_9.31.47_PM_527a0969-10f6-4d21-a0d6-a14fa914cf67.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -388,6 +398,87 @@
         "padding_bottom": 36
       }
     },
+    "8ab67ccb-2415-451b-8f95-5e7a83214c18": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What's the difference between Doulas and Midwives? Do doulas deliver babies?",
+            "icon": "check_mark",
+            "row_content": "<p>Doulas are birth professionals that can work alongside midwives and doctors alike. In hospitals, birth centers and homes, we do our work “from the hips up”, that is to say doulas are here for your mental, emotional, and physical support focusing only on the immediate needs of the birthing person and their chosen partner to aid in the labor process and postpartum.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What kind of births do you support? Do you only support natural births?",
+            "icon": "check_mark",
+            "row_content": "<p><strong>All births are natural!<\/strong><\/p><p>Really, birth is a natural occurrence so we support any and every type of birth and birthing body. No matter if you want no drugs or all the drugs, we will be there cheering you on and celebrating your choices.<\/p><p>“I do not care what kind of birth you have… a home birth, scheduled cesarean, epidural hospital birth, or if you birth alone in the woods next to a baby deer. I care that you are supported in your choices, and that you were respected”<\/p><p>- <strong>January Harshe, <\/strong><em><strong>Birth Without Fear<\/strong><\/em><\/p>",
+            "page": ""
+          }
+        },
+        "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do doulas have any breastfeeding or lactation training?",
+            "icon": "check_mark",
+            "row_content": "<p>Yes we do! Doulas receive lactation training and can assist in coaching, feeding positions, developing a good latch, nutritional information, using a pump and how to navigate a feeding schedule. Our training is focused on the immediate postpartum and setting up good feeding habits early, we also have a great reference list for lactation consultants if you would like extended assistance.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Should I hire a doula?",
+            "icon": "check_mark",
+            "row_content": "<p>Having a doula on your labor team can mean:<\/p><ul><li>fewer medical interventions during labor (less likely to have any pain medication, continuous electronic fetal monitoring, epidurals, vacuum or forceps-assisted births, and Cesareans)<\/li><li>increased release of natural oxytocin<\/li><li>more attention or hands on support than is reasonable for one partner or labor nurse to provide over an extended period of time<\/li><li>shorter labor, by about 40 minutes!<\/li><\/ul><p><em>*Research from Cochrane Database Syst Rev. 2017<\/em><\/p>",
+            "page": ""
+          }
+        },
+        "b7b2c48c-23a3-4602-919d-f6984c42a999": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Should I have a doula if I have a partner?",
+            "icon": "check_mark",
+            "row_content": "<p><strong>We could never replace the connection between you and your partner.<\/strong><\/p><p>Doulas do more than assist the birthing person through labor, we support the partner through encouragement and by helping them to feel they have all the tools, knowledge and strength to support you through the process and to take as active a role they feel comfortable with.<\/p><p>Your doula and partner will work together to form a birth team, wholly invested in making you comfortable and getting baby Earthside.<\/p>",
+            "page": ""
+          }
+        },
+        "661892a2-a8d0-4858-a9e8-a912967fee46": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is it really possible to birth without pain medication?",
+            "icon": "check_mark",
+            "row_content": "<p>YES, YES, YES!<\/p><p>You absolutely are capable of having a medication-free labor and your doula will support you throughout the experience. <\/p><p>There have been many studies that show continuous support leads to better labor outcomes. I highly recommend visiting my Evidence-Based Birth blog for numerous eye-opening reads.<\/p><p>Doulas themselves are a form of pain relief. Studies show the constant reassuring presence of a doula greatly reduces stress levels and clients are less likely to request pain medication. We also rely on many forms of homeopathic medicine that have been traditionally used by midwives for centuries; medicine that has practical use today! We trust in the wisdom of the women before us and do our research to find medication-free pain relief that is safe, effective, and reliable.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-1",
+        "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-2",
+        "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-3",
+        "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-0",
+        "b7b2c48c-23a3-4602-919d-f6984c42a999",
+        "661892a2-a8d0-4858-a9e8-a912967fee46"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Frequently Asked Questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "color_scheme": "accent-1",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": true,
+        "image_ratio": "large",
+        "desktop_layout": "image_first",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "a8c8e11e-75c8-4087-aae2-e1aacee25d4b": {
       "type": "image-banner",
       "blocks": {
@@ -411,12 +502,12 @@
         "template--18729374646574__a8c8e11e-75c8-4087-aae2-e1aacee25d4b-1684194224cfd26781-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-21_at_9.31.47_PM_527a0969-10f6-4d21-a0d6-a14fa914cf67.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-05-07_at_2.58.09_PM.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "middle-left",
         "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
@@ -424,14 +515,90 @@
         "show_text_below": true
       }
     },
+    "61068ec0-ca84-4472-8a61-6ff4e7038ede": {
+      "type": "newsletter",
+      "blocks": {
+        "template--18729374646574__61068ec0-ca84-4472-8a61-6ff4e7038ede-1684231087c6cc6630-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join our community for exclusive content and updates",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374646574__61068ec0-ca84-4472-8a61-6ff4e7038ede-1684231087c6cc6630-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<h2>Subscribe to our blog to have information about pregnancy, birth, and newborn care sent directly to you.<\/h2>"
+          }
+        },
+        "template--18729374646574__61068ec0-ca84-4472-8a61-6ff4e7038ede-1684231087c6cc6630-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374646574__61068ec0-ca84-4472-8a61-6ff4e7038ede-1684231087c6cc6630-0",
+        "template--18729374646574__61068ec0-ca84-4472-8a61-6ff4e7038ede-1684231087c6cc6630-1",
+        "template--18729374646574__61068ec0-ca84-4472-8a61-6ff4e7038ede-1684231087c6cc6630-2"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "75922bb9-fc7b-466b-8100-cd953eb0e6da": {
+      "type": "judgeme_carousel_section",
+      "disabled": true,
+      "settings": {
+        "maxwidth": 1080
+      }
+    },
     "dff5bde8-d1c7-4868-8919-86ff8521952f": {
       "type": "contact-form",
       "settings": {
-        "heading": "Speak With a Doula",
+        "heading": "Start Your Journey with Cliffrose Doula Care Today",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "16842313520c9f172b": {
+      "type": "apps",
+      "blocks": {
+        "b1be7537-a084-48a5-b895-9f65e265cd37": {
+          "type": "shopify:\/\/apps\/tiktok-feed\/blocks\/app-block\/dff5c34c-92b5-4b95-9e54-70077288e284",
+          "settings": {
+            "heading": "TikTok Feed"
+          }
+        }
+      },
+      "block_order": [
+        "b1be7537-a084-48a5-b895-9f65e265cd37"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "168418153551c040e4": {
+      "type": "apps",
+      "disabled": true,
+      "blocks": {
+        "6fe96a0f-7081-497b-8716-b6e3a4ac8b4a": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "6fe96a0f-7081-497b-8716-b6e3a4ac8b4a"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "4ba36fc0-f01f-42c1-bb90-6cd795b8be37": {
@@ -662,106 +829,6 @@
         "padding_bottom": 36
       }
     },
-    "8ab67ccb-2415-451b-8f95-5e7a83214c18": {
-      "type": "collapsible-content",
-      "disabled": true,
-      "blocks": {
-        "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Should I hire a doula?",
-            "icon": "check_mark",
-            "row_content": "<p>Having a doula on your labor team can mean:<\/p><ul><li>fewer medical interventions during labor (less likely to have any pain medication, continuous electronic fetal monitoring, epidurals, vacuum or forceps-assisted births, and Cesareans)<\/li><li>increased release of natural oxytocin<\/li><li>more attention or hands on support than is reasonable for one partner or labor nurse to provide over an extended period of time<\/li><li>shorter labor, by about 40 minutes!<\/li><\/ul><p><em>*Research from Cochrane Database Syst Rev. 2017<\/em><\/p>",
-            "page": ""
-          }
-        },
-        "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What's the difference between Doulas and Midwives? Do doulas deliver babies?",
-            "icon": "check_mark",
-            "row_content": "<p>Doulas are birth professionals that can work alongside midwives and doctors alike. In hospitals, birth centers and homes, we do our work “from the hips up”, that is to say doulas are here for your mental, emotional, and physical support focusing only on the immediate needs of the birthing person and their chosen partner to aid in the labor process and postpartum.<\/p>",
-            "page": ""
-          }
-        },
-        "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What kind of births do you support? Do you only support natural births?",
-            "icon": "check_mark",
-            "row_content": "<p><strong>All births are natural!<\/strong><\/p><p>Really, birth is a natural occurrence so we support any and every type of birth and birthing body. No matter if you want no drugs or all the drugs, we will be there cheering you on and celebrating your choices.<\/p><p>“I do not care what kind of birth you have… a home birth, scheduled cesarean, epidural hospital birth, or if you birth alone in the woods next to a baby deer. I care that you are supported in your choices, and that you were respected”<\/p><p>- <strong>January Harshe, <\/strong><em><strong>Birth Without Fear<\/strong><\/em><\/p>",
-            "page": ""
-          }
-        },
-        "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Do doulas have any breastfeeding or lactation training?",
-            "icon": "check_mark",
-            "row_content": "<p>Yes we do! Doulas receive lactation training and can assist in coaching, feeding positions, developing a good latch, nutritional information, using a pump and how to navigate a feeding schedule. Our training is focused on the immediate postpartum and setting up good feeding habits early, we also have a great reference list for lactation consultants if you would like extended assistance.<\/p>",
-            "page": ""
-          }
-        },
-        "b7b2c48c-23a3-4602-919d-f6984c42a999": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Should I have a doula if I have a partner?",
-            "icon": "check_mark",
-            "row_content": "<p><strong>We could never replace the connection between you and your partner.<\/strong><\/p><p>Doulas do more than assist the birthing person through labor, we support the partner through encouragement and by helping them to feel they have all the tools, knowledge and strength to support you through the process and to take as active a role they feel comfortable with.<\/p><p>Your doula and partner will work together to form a birth team, wholly invested in making you comfortable and getting baby Earthside.<\/p>",
-            "page": ""
-          }
-        },
-        "661892a2-a8d0-4858-a9e8-a912967fee46": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Is it really possible to birth without pain medication?",
-            "icon": "check_mark",
-            "row_content": "<p>YES, YES, YES!<\/p><p>You absolutely are capable of having a medication-free labor and your doula will support you throughout the experience. <\/p><p>There have been many studies that show continuous support leads to better labor outcomes. I highly recommend visiting my Evidence-Based Birth blog for numerous eye-opening reads.<\/p><p>Doulas themselves are a form of pain relief. Studies show the constant reassuring presence of a doula greatly reduces stress levels and clients are less likely to request pain medication. We also rely on many forms of homeopathic medicine that have been traditionally used by midwives for centuries; medicine that has practical use today! We trust in the wisdom of the women before us and do our research to find medication-free pain relief that is safe, effective, and reliable.<\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-0",
-        "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-1",
-        "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-2",
-        "template--18607813067054__8ab67ccb-2415-451b-8f95-5e7a83214c18-16805602098bd8215d-3",
-        "b7b2c48c-23a3-4602-919d-f6984c42a999",
-        "661892a2-a8d0-4858-a9e8-a912967fee46"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "Frequently Asked Questions",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "section",
-        "color_scheme": "accent-1",
-        "container_color_scheme": "background-1",
-        "open_first_collapsible_row": true,
-        "image_ratio": "large",
-        "desktop_layout": "image_first",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "4e35bf0a-f013-4f06-a0c2-097d84cfc81a": {
-      "type": "featured-blog",
-      "disabled": true,
-      "settings": {
-        "heading": "Beyond Birth: A blog about pregnancy, birth, and newborn care",
-        "heading_size": "h1",
-        "blog": "beyond-birth",
-        "post_limit": 4,
-        "columns_desktop": 2,
-        "color_scheme": "background-1",
-        "show_image": true,
-        "show_date": false,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "ca804eee-20a3-4ca9-bb00-607c06c9341c": {
       "type": "image-with-text",
       "disabled": true,
@@ -799,146 +866,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "df818c1b-af78-407b-9edf-d3bc3ab979f8": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18729374646574__df818c1b-af78-407b-9edf-d3bc3ab979f8-1682184832658d0e18-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>The Cliffrose Birth Package<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374646574__df818c1b-af78-407b-9edf-d3bc3ab979f8-1682184832658d0e18-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our birth doula service is designed to offer you comprehensive care and guidance during this transformative experience, and we are committed to helping you feel prepared for your upcoming birth and parenthood.<\/p><h2>Package includes the following services:<\/h2><ul><li><strong>Prenatal Visits<\/strong> -  3 visits for 3 hours each<\/li><li><strong>Labor Support<\/strong> - Rebozo, Birth Ball, Breathing Techniques, Acupressure, Birthroom Ambiance<\/li><li><strong>Overnight Doula<\/strong> - 8 hours<\/li><li><strong>Postpartum Visits <\/strong>- 3 visits for 3 hours each<\/li><li><strong>Meals<\/strong> - Labor Meals, Healing Postpartum Meals, Freezer Stockpiles<\/li><li>24\/7 <strong>On Call Support<\/strong> - beginning at 38 weeks<\/li><li><strong>Virtual Consultations<\/strong> - as necessary<\/li><li>Free access to all <a href=\"\/collections\/online-classes\" title=\"Online Classes\"><strong>Online Classes<\/strong><\/a><\/li><\/ul>",
-            "text_style": "body"
-          }
-        },
-        "template--18729374646574__df818c1b-af78-407b-9edf-d3bc3ab979f8-1682184832658d0e18-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "LEARN MORE",
-            "button_link": "shopify:\/\/products\/cliffrose-birth-package"
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374646574__df818c1b-af78-407b-9edf-d3bc3ab979f8-1682184832658d0e18-0",
-        "template--18729374646574__df818c1b-af78-407b-9edf-d3bc3ab979f8-1682184832658d0e18-1",
-        "template--18729374646574__df818c1b-af78-407b-9edf-d3bc3ab979f8-1682184832658d0e18-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.48.46_PM.jpg",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "f94009ae-aedb-43f1-a324-08cd7513ad10": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "template--18607813067054__f94009ae-aedb-43f1-a324-08cd7513ad10-1681036615f1e077d2-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/pregnant-woman-in-dress-with-ultrasound-image-exp-2022-10-18-00-37-10-utc.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18607813067054__f94009ae-aedb-43f1-a324-08cd7513ad10-1681036615f1e077d2-1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<h2><strong>With knowledge comes power, and that's where Cliffrose Doula Care comes in.<\/strong><\/h2><p>Our comprehensive education and support will equip you with the tools and understanding you need to approach pregnancy, birth, and parenthood with confidence and empowerment. Learn how to trust your body, connect with your baby, and make informed decisions that align with your values and preferences.<\/p><p><strong>Don't let fear hold you back from the beautiful reality of a fulfilling birth and parenthood journey.<\/strong><\/p>",
-            "link_label": "Book a consultation",
-            "link": "shopify:\/\/products\/virtual-consultations"
-          }
-        }
-      },
-      "block_order": [
-        "template--18607813067054__f94009ae-aedb-43f1-a324-08cd7513ad10-1681036615f1e077d2-2",
-        "template--18607813067054__f94009ae-aedb-43f1-a324-08cd7513ad10-1681036615f1e077d2-1"
-      ],
-      "settings": {
-        "title": "<strong>Confidence for a Joyful Pregnancy and Birth<\/strong>",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "https:\/\/calendly.com\/cliffrosedoula\/private-birth-consultation",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "f323249f-afd3-4d2a-8e4d-88a6a30d187a": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--18607813067054__f323249f-afd3-4d2a-8e4d-88a6a30d187a-168104637185d78e48-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Speak With A Doula",
-            "heading_size": "h1"
-          }
-        },
-        "template--18607813067054__f323249f-afd3-4d2a-8e4d-88a6a30d187a-168104637185d78e48-1": {
-          "type": "text",
-          "settings": {
-            "text": "We believe strongly that everyone deserves a doula. <strong>No one will be turned away for lack of resources. <\/strong>Reach out and we can discuss how we can best support you best",
-            "text_style": "body"
-          }
-        },
-        "template--18607813067054__f323249f-afd3-4d2a-8e4d-88a6a30d187a-168104637185d78e48-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "CONTACT US",
-            "button_link_1": "shopify:\/\/pages\/contact",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18607813067054__f323249f-afd3-4d2a-8e4d-88a6a30d187a-168104637185d78e48-0",
-        "template--18607813067054__f323249f-afd3-4d2a-8e4d-88a6a30d187a-168104637185d78e48-1",
-        "template--18607813067054__f323249f-afd3-4d2a-8e4d-88a6a30d187a-168104637185d78e48-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.52.17_PM.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-right",
-        "show_text_box": true,
-        "desktop_content_alignment": "right",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
@@ -951,19 +878,19 @@
     "99a14fe1-3628-4679-b469-b459bf2a56c8",
     "a69c2719-da9d-4848-8676-daed64bb232c",
     "4cd10aaa-86a9-46a0-b9ac-d7d9bc6f898a",
+    "8ab67ccb-2415-451b-8f95-5e7a83214c18",
     "a8c8e11e-75c8-4087-aae2-e1aacee25d4b",
+    "61068ec0-ca84-4472-8a61-6ff4e7038ede",
+    "75922bb9-fc7b-466b-8100-cd953eb0e6da",
     "dff5bde8-d1c7-4868-8919-86ff8521952f",
+    "16842313520c9f172b",
+    "168418153551c040e4",
     "4ba36fc0-f01f-42c1-bb90-6cd795b8be37",
     "471e9594-6f9f-44f6-9a45-f30212625d6d",
     "b8b23962-3b38-4e13-af46-c59ed11c3c62",
     "0d8c309a-2944-40a7-9bd1-380e5b87ec30",
     "539c9767-5c1f-472b-af3a-9dd61b203980",
     "3354c3e8-28ab-46d7-a5a0-ec1b4ce33489",
-    "8ab67ccb-2415-451b-8f95-5e7a83214c18",
-    "4e35bf0a-f013-4f06-a0c2-097d84cfc81a",
-    "ca804eee-20a3-4ca9-bb00-607c06c9341c",
-    "df818c1b-af78-407b-9edf-d3bc3ab979f8",
-    "f94009ae-aedb-43f1-a324-08cd7513ad10",
-    "f323249f-afd3-4d2a-8e4d-88a6a30d187a"
+    "ca804eee-20a3-4ca9-bb00-607c06c9341c"
   ]
 }
