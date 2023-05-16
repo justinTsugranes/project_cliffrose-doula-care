@@ -123,6 +123,7 @@
     },
     "feae2534-69ab-460b-8878-f8c6ae5bfd65": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--18729374646574__feae2534-69ab-460b-8878-f8c6ae5bfd65-1684232851e9a59cf6-0": {
           "type": "column",
@@ -610,6 +611,7 @@
     },
     "75922bb9-fc7b-466b-8100-cd953eb0e6da": {
       "type": "judgeme_carousel_section",
+      "disabled": true,
       "settings": {
         "maxwidth": 1080
       }
