@@ -259,6 +259,43 @@
         "padding_bottom": 36
       }
     },
+    "ad683c48-0eae-4c7f-abbf-11b5d391cd01": {
+      "type": "image-with-text",
+      "blocks": {
+        "f9d9b7ad-7abe-4fac-8b75-8dcc5bdb93b7": {
+          "type": "heading",
+          "settings": {
+            "heading": "24\/7 On-Call Support",
+            "heading_size": "h1"
+          }
+        },
+        "c562822e-adcf-4ebd-9861-5bd2f974a7fb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are here for you 24\/7 with on-call availability starting at 38 weeks gestation and continuing through your entire pregnancy, birth, and postpartum period.<\/p><p>You can count on us to be there whenever you need us, whether it's answering questions, providing guidance, or offering support during labor and beyond.<\/p><p>With our on-call availability, you can have peace of mind knowing that we are just a call or message away, ready to provide the support you need whenever you need it most.<\/p><p>After contacting your doula at onset of labor, we will be constantly available via phone, video call, and text to provide support as you labor before they meet you at home or at your preferred delivery location through the duration of labor.<\/p><p><a href=\"https:\/\/cliffrosedoula.com\/products\/intro-birth-consultation\" title=\"Intro Birth Consultation\">Book a free consultation &gt;<\/a><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "f9d9b7ad-7abe-4fac-8b75-8dcc5bdb93b7",
+        "c562822e-adcf-4ebd-9861-5bd2f974a7fb"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "2eafda6c-236e-4ba7-bd3c-8f536acdac8f": {
       "type": "rich-text",
       "blocks": {
@@ -305,25 +342,6 @@
         "show_view_all": true,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "1684267780aaa4c4fd": {
-      "type": "apps",
-      "blocks": {
-        "cb662807-ee69-4628-9d94-cb1d2e033230": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
-          "settings": {
-            "heading_size": 20,
-            "feed_width": 100,
-            "html_area": ""
-          }
-        }
-      },
-      "block_order": [
-        "cb662807-ee69-4628-9d94-cb1d2e033230"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "769157d5-2185-4b07-afdc-e67b044fb4e9": {
@@ -467,9 +485,9 @@
     "e8f888b7-2ae1-4533-85a6-58cd7107120d",
     "fc418fa7-c9e2-4739-ba49-c6d6c8146c15",
     "89b62bcb-54fc-4333-a0d8-84ddeda87828",
+    "ad683c48-0eae-4c7f-abbf-11b5d391cd01",
     "2eafda6c-236e-4ba7-bd3c-8f536acdac8f",
     "100a1749-c95f-487d-b1b6-0b6a3bd56237",
-    "1684267780aaa4c4fd",
     "769157d5-2185-4b07-afdc-e67b044fb4e9",
     "68cc8aa0-4f8e-4611-9747-518553520868",
     "cb947bb7-afb7-4c6b-8e6a-fd4a4c1692d3",
