@@ -566,23 +566,6 @@
         "padding_bottom": 36
       }
     },
-    "16842313520c9f172b": {
-      "type": "apps",
-      "blocks": {
-        "b1be7537-a084-48a5-b895-9f65e265cd37": {
-          "type": "shopify:\/\/apps\/tiktok-feed\/blocks\/app-block\/dff5c34c-92b5-4b95-9e54-70077288e284",
-          "settings": {
-            "heading": "TikTok Feed"
-          }
-        }
-      },
-      "block_order": [
-        "b1be7537-a084-48a5-b895-9f65e265cd37"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "168418153551c040e4": {
       "type": "apps",
       "disabled": true,
@@ -883,7 +866,6 @@
     "61068ec0-ca84-4472-8a61-6ff4e7038ede",
     "75922bb9-fc7b-466b-8100-cd953eb0e6da",
     "dff5bde8-d1c7-4868-8919-86ff8521952f",
-    "16842313520c9f172b",
     "168418153551c040e4",
     "4ba36fc0-f01f-42c1-bb90-6cd795b8be37",
     "471e9594-6f9f-44f6-9a45-f30212625d6d",
