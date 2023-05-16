@@ -296,6 +296,12 @@
         "padding_bottom": 36
       }
     },
+    "4f1389ef-c3f2-4de3-9a5e-5dc3bee31e75": {
+      "type": "judgeme_carousel_section",
+      "settings": {
+        "maxwidth": 1080
+      }
+    },
     "2eafda6c-236e-4ba7-bd3c-8f536acdac8f": {
       "type": "rich-text",
       "blocks": {
@@ -339,7 +345,7 @@
         "show_image": true,
         "show_date": false,
         "show_author": false,
-        "show_view_all": true,
+        "show_view_all": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -486,6 +492,7 @@
     "fc418fa7-c9e2-4739-ba49-c6d6c8146c15",
     "89b62bcb-54fc-4333-a0d8-84ddeda87828",
     "ad683c48-0eae-4c7f-abbf-11b5d391cd01",
+    "4f1389ef-c3f2-4de3-9a5e-5dc3bee31e75",
     "2eafda6c-236e-4ba7-bd3c-8f536acdac8f",
     "100a1749-c95f-487d-b1b6-0b6a3bd56237",
     "769157d5-2185-4b07-afdc-e67b044fb4e9",
