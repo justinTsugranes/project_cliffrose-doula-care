@@ -102,31 +102,36 @@
         "padding_bottom": 36
       }
     },
-    "0a6bdaa9-3e09-4396-adda-980baf3244c2": {
-      "type": "rich-text",
-      "blocks": {
-        "template--18771324829998__0a6bdaa9-3e09-4396-adda-980baf3244c2-16842414368d32b4cb-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our Birth Packages",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771324829998__0a6bdaa9-3e09-4396-adda-980baf3244c2-16842414368d32b4cb-0"
-      ],
+    "59ee13b0-51aa-4f0d-8ed6-79ee5eeb15ba": {
+      "type": "featured-collection",
       "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
+        "title": "Explore Our Birth Packages",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "birth-doula-services",
+        "products_to_show": 2,
+        "columns_desktop": 2,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
         "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "settings": {
         "products_per_page": 8,
         "columns_desktop": 3,
@@ -438,7 +443,7 @@
     "b82def59-a7c6-4128-b8b9-35a9464f5b8c",
     "174ab2c5-0fa3-4f0b-8957-e5df30bdc3bd",
     "0e9c5b2e-7cf0-4433-a8a0-c1f6b18f08e7",
-    "0a6bdaa9-3e09-4396-adda-980baf3244c2",
+    "59ee13b0-51aa-4f0d-8ed6-79ee5eeb15ba",
     "product-grid",
     "e8f888b7-2ae1-4533-85a6-58cd7107120d",
     "fc418fa7-c9e2-4739-ba49-c6d6c8146c15",
