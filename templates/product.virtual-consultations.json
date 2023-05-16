@@ -6,14 +6,14 @@
         "template--18771681968430__64f75edf-857a-4fce-a893-524d3ddf1697-168415258743e5623a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Embrace Your Journey with Virtual Birth Doula Consultations",
+            "heading": "Virtual Birth Doula Consultations",
             "heading_size": "h1"
           }
         },
         "template--18771681968430__64f75edf-857a-4fce-a893-524d3ddf1697-168415258743e5623a-1": {
           "type": "text",
           "settings": {
-            "text": "Meet your experienced doula from the comfort of your home. Let's explore together your queries and apprehensions about pregnancy, childbirth, and postpartum. <strong>Schedule a 1-hour video consultation below!<\/strong>",
+            "text": "Meet your experienced doula from the comfort of your home. Get answers to your questions about pregnancy, childbirth, and postpartum. <strong>Schedule a 1-hour video consultation below!<\/strong>",
             "text_style": "body"
           }
         },
@@ -71,7 +71,20 @@
         },
         "2db0546d-06a2-46aa-8ad4-0aa880468908": {
           "type": "text",
-          "disabled": true,
+          "settings": {
+            "text": "Duration: One focused hour",
+            "text_style": "body"
+          }
+        },
+        "96375314-e4f3-4b8a-8350-1e018541d59c": {
+          "type": "text",
+          "settings": {
+            "text": "Platform: Zoom",
+            "text_style": "body"
+          }
+        },
+        "691b2185-ccd5-4565-bb1e-228aca928c1d": {
+          "type": "text",
           "settings": {
             "text": "Consultations are 1-Hour Long and held on Zoom. Book a time below and then check your e-mail for a welcome letter from us as well as the Zoom meeting information.",
             "text_style": "body"
@@ -122,6 +135,8 @@
         "title",
         "price",
         "2db0546d-06a2-46aa-8ad4-0aa880468908",
+        "96375314-e4f3-4b8a-8350-1e018541d59c",
+        "691b2185-ccd5-4565-bb1e-228aca928c1d",
         "description",
         "variant_picker",
         "quantity_selector",
@@ -157,7 +172,7 @@
         "template--18771681968430__719f2f06-e7b2-4ece-bec6-4ef65948b072-1684152313b7f2554a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our consultation covers a spectrum of topics:<\/p><ul><li>Comfort Measures: Explore environmental influences, relaxation techniques, and affirmations for a serene birthing experience.<\/li><li>Birth Ball Use: Master the use of a birth ball for optimal comfort and labor progression.<\/li><li>Labor Positions: Uncover effective labor positions for a smoother childbirth.<\/li><li>Laboring at Home: Learn the ropes of managing labor in your cozy space.<\/li><li>Advocacy & Understanding Hospital Policies: Empower yourself with the knowledge to advocate for your needs and understand hospital policies.<\/li><li>Immediate Newborn Care: Grasp the essentials of newborn care in the early days and weeks.<\/li><li>Specialized Support: Get guidance and support for unique situations like Miscarriage, Bereavement, Adoption, and Surrogacy.<\/li><\/ul>",
+            "text": "<h2>Some of the topics our clients typically inquire about include:<\/h2><ul><li><strong>Comfort Measures:<\/strong> Explore environmental influences, relaxation techniques, and affirmations for a serene birthing experience.<\/li><li><strong>Birth Ball Use:<\/strong> Master the use of a birth ball for optimal comfort and labor progression.<\/li><li><strong>Labor Positions:<\/strong> Uncover effective labor positions for a smoother childbirth.<\/li><li><strong>Laboring at Home:<\/strong> Learn the ropes of managing labor in your cozy space.<\/li><li><strong>Advocacy & Understanding Hospital Policies: <\/strong>Empower yourself with the knowledge to advocate for your needs and understand hospital policies.<\/li><li><strong>Immediate Newborn Care: <\/strong>Grasp the essentials of newborn care in the early days and weeks.<\/li><li><strong>Specialized Support: <\/strong>Get guidance and support for unique situations like Miscarriage, Bereavement, Adoption, and Surrogacy.<\/li><\/ul>",
             "text_style": "body"
           }
         },
@@ -183,7 +198,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -203,7 +218,7 @@
         "template--18771681968430__9530a7ce-ef00-47b4-9984-a6e4c3d53de3-16841523606ed96b36-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our virtual consultation is a personal dialogue. We focus on your unique journey, preferences, and concerns, and our guidance is tailored to your needs. Please fill your contact form in detail so we can provide you with the personalized care you deserve.<\/p>"
+            "text": "<p>Our virtual consultations are personal dialogues. We focus on your unique journey, personal preferences, and concerns, and our guidance is always genuine and evidence-based.<\/p>"
           }
         }
       },
@@ -222,7 +237,6 @@
     },
     "bcb42088-474c-43d4-a799-bf1e8c022b1e": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18771681968430__bcb42088-474c-43d4-a799-bf1e8c022b1e-1684152313b7f2554a-0": {
           "type": "heading",
@@ -241,8 +255,8 @@
         "template--18771681968430__bcb42088-474c-43d4-a799-bf1e8c022b1e-1684152313b7f2554a-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Book a Free Consultation",
+            "button_link": "shopify:\/\/products\/intro-birth-consultation"
           }
         }
       },
@@ -252,6 +266,7 @@
         "template--18771681968430__bcb42088-474c-43d4-a799-bf1e8c022b1e-1684152313b7f2554a-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-18_at_5.25.31_PM.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -265,40 +280,12 @@
         "padding_bottom": 36
       }
     },
-    "6b9f88ff-e219-4a98-9bdf-99cf3296e185": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18771681968430__6b9f88ff-e219-4a98-9bdf-99cf3296e185-168259170160937ffc-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "We schedule virtual consultations that typically cover the following topics:",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771681968430__6b9f88ff-e219-4a98-9bdf-99cf3296e185-168259170160937ffc-1": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li>Comfort Measures (environmental, relaxation techniques, affirmations)<\/li><li>Birth Ball Use<\/li><li>Labor Positions<\/li><li>How to Labor at Home<\/li><li>How to Advocate for Yourself & Hospital Policies<\/li><li>Immediate Newborn Care<\/li><li>Miscarriage & Bereavement Support<\/li><li>Adoption<\/li><li>Surrogacy<\/li><\/ul>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771681968430__6b9f88ff-e219-4a98-9bdf-99cf3296e185-168259170160937ffc-0",
-        "template--18771681968430__6b9f88ff-e219-4a98-9bdf-99cf3296e185-168259170160937ffc-1"
-      ],
+    "bf3a2aa5-eec6-408d-9a79-fae847bcba19": {
+      "type": "contact-form",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.49.36_PM_7ff628bc-77fc-4e18-9552-13975a82d274.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "heading": "Have any questions? Contact Us",
+        "heading_size": "h1",
         "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -327,7 +314,7 @@
     "719f2f06-e7b2-4ece-bec6-4ef65948b072",
     "9530a7ce-ef00-47b4-9984-a6e4c3d53de3",
     "bcb42088-474c-43d4-a799-bf1e8c022b1e",
-    "6b9f88ff-e219-4a98-9bdf-99cf3296e185",
+    "bf3a2aa5-eec6-408d-9a79-fae847bcba19",
     "related-products"
   ]
 }
