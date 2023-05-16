@@ -13,7 +13,7 @@
         "07dd7590-ee35-49ea-bd9c-a52a162137e4": {
           "type": "text",
           "settings": {
-            "text": "As an expecting mother, you want to have a safe, comfortable, and unforgettable birth experience whiling bringing your baby into the world in an empowering, positive environment.",
+            "text": "As an expecting mother, you want to have a safe, comfortable, and unforgettable birth experience while bringing your baby into the world in an empowering, positive environment.",
             "text_style": "subtitle"
           }
         },
@@ -610,7 +610,6 @@
     },
     "75922bb9-fc7b-466b-8100-cd953eb0e6da": {
       "type": "judgeme_carousel_section",
-      "disabled": true,
       "settings": {
         "maxwidth": 1080
       }
