@@ -307,20 +307,39 @@
         "padding_bottom": 36
       }
     },
+    "1684267780aaa4c4fd": {
+      "type": "apps",
+      "blocks": {
+        "cb662807-ee69-4628-9d94-cb1d2e033230": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "cb662807-ee69-4628-9d94-cb1d2e033230"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "769157d5-2185-4b07-afdc-e67b044fb4e9": {
       "type": "newsletter",
       "blocks": {
         "template--18771324829998__769157d5-2185-4b07-afdc-e67b044fb4e9-168424151082e8eb5a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Join our community for exclusive content and updates",
+            "heading": "Join our newsletter for exclusive content, updates, and deals",
             "heading_size": "h1"
           }
         },
         "template--18771324829998__769157d5-2185-4b07-afdc-e67b044fb4e9-168424151082e8eb5a-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Subscribe to our blog to have information about pregnancy, birth, and newborn care sent directly to you.<\/p>"
+            "text": "<p>Subscribe to our blog to have awesome information about pregnancy, birth, and newborn care sent directly to you.<\/p>"
           }
         },
         "template--18771324829998__769157d5-2185-4b07-afdc-e67b044fb4e9-168424151082e8eb5a-2": {
@@ -450,6 +469,7 @@
     "89b62bcb-54fc-4333-a0d8-84ddeda87828",
     "2eafda6c-236e-4ba7-bd3c-8f536acdac8f",
     "100a1749-c95f-487d-b1b6-0b6a3bd56237",
+    "1684267780aaa4c4fd",
     "769157d5-2185-4b07-afdc-e67b044fb4e9",
     "68cc8aa0-4f8e-4611-9747-518553520868",
     "cb947bb7-afb7-4c6b-8e6a-fd4a4c1692d3",
