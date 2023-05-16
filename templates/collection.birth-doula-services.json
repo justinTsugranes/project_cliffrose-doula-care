@@ -369,7 +369,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-05-07_at_2.58.09_PM.jpg",
         "height": "medium",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
