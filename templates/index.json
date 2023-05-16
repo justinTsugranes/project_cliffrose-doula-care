@@ -42,7 +42,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_2.06.02_PM.jpg",
-        "image_overlay_opacity": 10,
+        "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "top-left",
         "show_text_box": false,
@@ -60,7 +60,7 @@
         "template--18729374646574__956a2330-3be4-424d-b38d-8c7a05dac815-16841837842663fa02-0": {
           "type": "heading",
           "settings": {
-            "heading": "Becoming a parent is an incredible journey",
+            "heading": "Pregnancy is an incredible journey",
             "heading_size": "h1"
           }
         },
@@ -297,14 +297,62 @@
         "padding_bottom": 36
       }
     },
+    "a69c2719-da9d-4848-8676-daed64bb232c": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--18729374646574__a69c2719-da9d-4848-8676-daed64bb232c-16841937828ac68367-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your Success",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374646574__a69c2719-da9d-4848-8676-daed64bb232c-16841937828ac68367-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With our holistic support, you will feel confident, prepared, and empowered throughout your pregnancy, during labor, and in the postpartum period. You'll have a trusted guide by your side, helping you navigate each new experience and challenge<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18729374646574__a69c2719-da9d-4848-8676-daed64bb232c-16841937828ac68367-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374646574__a69c2719-da9d-4848-8676-daed64bb232c-16841937828ac68367-0",
+        "template--18729374646574__a69c2719-da9d-4848-8676-daed64bb232c-16841937828ac68367-1",
+        "template--18729374646574__a69c2719-da9d-4848-8676-daed64bb232c-16841937828ac68367-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-05-08_at_5.53.32_AM.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "4cd10aaa-86a9-46a0-b9ac-d7d9bc6f898a": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--18729374646574__4cd10aaa-86a9-46a0-b9ac-d7d9bc6f898a-1684152697ec1097cf-0": {
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Our holistic support will help you navigate each new experience and challenge with ease, making your transition to parenthood a beautiful and rewarding journey. You'll remain connected with your core values, maintaining a healthy lifestyle, reducing your environmental impact, and nurturing a supportive home for your family.<\/p>",
+            "text": "<p>Our holistic support will help you navigate each new experience and challenge with ease, making your transition to parenthood a beautiful and rewarding journey.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -313,7 +361,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>You'll remain connected with your core values<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -322,7 +370,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>maintaining a healthy lifestyle, reducing your environmental impact, and nurturing a supportive home for your family.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -334,7 +382,7 @@
         "template--18729374646574__4cd10aaa-86a9-46a0-b9ac-d7d9bc6f898a-1684152697ec1097cf-2"
       ],
       "settings": {
-        "title": "Highlight the successful outcomes that clients can expect, broken down into separate columns for pregnancy, labor, and postpartum.",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -346,6 +394,52 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a8c8e11e-75c8-4087-aae2-e1aacee25d4b": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18729374646574__a8c8e11e-75c8-4087-aae2-e1aacee25d4b-1684194224cfd26781-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Embark on the beautiful journey of parenthood with confidence and joy",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374646574__a8c8e11e-75c8-4087-aae2-e1aacee25d4b-1684194224cfd26781-1": {
+          "type": "text",
+          "settings": {
+            "text": "You'll transition from feeling overwhelmed by the uncertainties of parenthood to feeling secure, empowered, and connected with your baby",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374646574__a8c8e11e-75c8-4087-aae2-e1aacee25d4b-1684194224cfd26781-0",
+        "template--18729374646574__a8c8e11e-75c8-4087-aae2-e1aacee25d4b-1684194224cfd26781-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-21_at_9.31.47_PM_527a0969-10f6-4d21-a0d6-a14fa914cf67.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "dff5bde8-d1c7-4868-8919-86ff8521952f": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Speak With a Doula",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -536,96 +630,6 @@
         "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "a69c2719-da9d-4848-8676-daed64bb232c": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18729374646574__a69c2719-da9d-4848-8676-daed64bb232c-16841937828ac68367-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Your Success",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374646574__a69c2719-da9d-4848-8676-daed64bb232c-16841937828ac68367-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>With our holistic support, you will feel confident, prepared, and empowered throughout your pregnancy, during labor, and in the postpartum period. You'll have a trusted guide by your side, helping you navigate each new experience and challenge<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--18729374646574__a69c2719-da9d-4848-8676-daed64bb232c-16841937828ac68367-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374646574__a69c2719-da9d-4848-8676-daed64bb232c-16841937828ac68367-0",
-        "template--18729374646574__a69c2719-da9d-4848-8676-daed64bb232c-16841937828ac68367-1",
-        "template--18729374646574__a69c2719-da9d-4848-8676-daed64bb232c-16841937828ac68367-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "a8c8e11e-75c8-4087-aae2-e1aacee25d4b": {
-      "type": "image-banner",
-      "blocks": {
-        "template--18729374646574__a8c8e11e-75c8-4087-aae2-e1aacee25d4b-1684194224cfd26781-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Your Transformation",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374646574__a8c8e11e-75c8-4087-aae2-e1aacee25d4b-1684194224cfd26781-1": {
-          "type": "text",
-          "settings": {
-            "text": "You'll transition from feeling overwhelmed by the uncertainties of parenthood to feeling secure, empowered, and connected with your baby, ready to embark on the beautiful journey of parenthood with confidence and joy",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374646574__a8c8e11e-75c8-4087-aae2-e1aacee25d4b-1684194224cfd26781-0",
-        "template--18729374646574__a8c8e11e-75c8-4087-aae2-e1aacee25d4b-1684194224cfd26781-1"
-      ],
-      "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "dff5bde8-d1c7-4868-8919-86ff8521952f": {
-      "type": "contact-form",
-      "settings": {
-        "heading": "Contact form",
-        "heading_size": "h1",
-        "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -955,15 +959,15 @@
     "67d25079-454a-42a5-8f56-8267d6c949f3",
     "c88152b4-8d61-42e6-a58c-873053f902f5",
     "99a14fe1-3628-4679-b469-b459bf2a56c8",
+    "a69c2719-da9d-4848-8676-daed64bb232c",
     "4cd10aaa-86a9-46a0-b9ac-d7d9bc6f898a",
+    "a8c8e11e-75c8-4087-aae2-e1aacee25d4b",
+    "dff5bde8-d1c7-4868-8919-86ff8521952f",
     "4ba36fc0-f01f-42c1-bb90-6cd795b8be37",
     "471e9594-6f9f-44f6-9a45-f30212625d6d",
     "b8b23962-3b38-4e13-af46-c59ed11c3c62",
     "0d8c309a-2944-40a7-9bd1-380e5b87ec30",
     "539c9767-5c1f-472b-af3a-9dd61b203980",
-    "a69c2719-da9d-4848-8676-daed64bb232c",
-    "a8c8e11e-75c8-4087-aae2-e1aacee25d4b",
-    "dff5bde8-d1c7-4868-8919-86ff8521952f",
     "3354c3e8-28ab-46d7-a5a0-ec1b4ce33489",
     "8ab67ccb-2415-451b-8f95-5e7a83214c18",
     "4e35bf0a-f013-4f06-a0c2-097d84cfc81a",
