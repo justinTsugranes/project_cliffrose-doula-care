@@ -240,6 +240,63 @@
         "padding_bottom": 52
       }
     },
+    "4112abb6-540a-4adc-a109-3cf055627282": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--18969798443310__4112abb6-540a-4adc-a109-3cf055627282-16844205081934045e-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
+            "title": "Install a proven plan to double your revenue",
+            "text": "<p>Get access to the exclusive video series where Donald Miller teaches you how to implement a plan to double your revenue in just 6 months.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18969798443310__4112abb6-540a-4adc-a109-3cf055627282-16844205081934045e-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
+            "title": "Start seeing results right away",
+            "text": "<p>Each lesson in the Flight School program is designed to increase your revenue upon implementation, and after you finish, you’ll have a comprehensive growth plan, saving you and your team hours every week.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18969798443310__4112abb6-540a-4adc-a109-3cf055627282-16844205081934045e-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5eb0f4a2daa5aada39ed8447a64edaa7.jpg",
+            "title": "Learn from a community of growth-minded business owners",
+            "text": "<p>Through the exclusive Flight School community, you’ll join a group of peers you can connect with, learn from, and partner with to share best practices.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18969798443310__4112abb6-540a-4adc-a109-3cf055627282-16844205081934045e-0",
+        "template--18969798443310__4112abb6-540a-4adc-a109-3cf055627282-16844205081934045e-1",
+        "template--18969798443310__4112abb6-540a-4adc-a109-3cf055627282-16844205081934045e-2"
+      ],
+      "settings": {
+        "title": "In our Virtual Doula Services , you'll...",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Book a Free Consultation",
+        "button_link": "shopify:\/\/products\/intro-birth-consultation",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -610,6 +667,7 @@
     "e63099a0-aaa0-42b1-8206-fe62558a797b",
     "7349c304-73b2-4802-81a7-6ddc5c70d938",
     "1b926abd-6698-493f-b663-34aa7a27d739",
+    "4112abb6-540a-4adc-a109-3cf055627282",
     "product-grid",
     "e266894d-19b2-4458-8637-366880deb96f",
     "d3a9cdcf-9cfb-4874-872f-3e905c2d0ef8",
