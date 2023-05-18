@@ -1,5 +1,14 @@
 {
   "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "background-1"
+      }
+    },
     "c09d92e5-2a87-408a-8087-801589bc779e": {
       "type": "image-banner",
       "blocks": {
@@ -46,109 +55,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": true,
-        "color_scheme": "background-1"
-      }
-    },
-    "c199ea3e-7946-47b1-b3f0-c60fa7404600": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18969798443310__c199ea3e-7946-47b1-b3f0-c60fa7404600-16830221892d236519-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our <strong>Virtual Doula<\/strong> services include:",
-            "heading_size": "h1"
-          }
-        },
-        "template--18969798443310__c199ea3e-7946-47b1-b3f0-c60fa7404600-16830221892d236519-1": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li>Virtual Prenatals<\/li><li>Birth Plan Creation<\/li><li>Labor Prep Classes<\/li><li>Continuous Labor Support<\/li><li>Virtual Postpartum Visits<\/li><li>Comfort Measures (environmental, relaxation techniques, affirmations)<\/li><li>Birth Ball Use<\/li><li>Labor Positions<\/li><li>How to Labor at Home<\/li><li>How to Advocate for Yourself & Hospital Policies<\/li><li>Immediate Newborn Care<\/li><li>Miscarriage & Bereavement Support<\/li><li>Adoption<\/li><li>Surrogacy<\/li><\/ul><p><a href=\"\/products\/intro-birth-consultation\" title=\"Intro Birth Consultation\">Book a free consultation &gt;<\/a><\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--18969798443310__c199ea3e-7946-47b1-b3f0-c60fa7404600-16830221892d236519-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18969798443310__c199ea3e-7946-47b1-b3f0-c60fa7404600-16830221892d236519-0",
-        "template--18969798443310__c199ea3e-7946-47b1-b3f0-c60fa7404600-16830221892d236519-1",
-        "template--18969798443310__c199ea3e-7946-47b1-b3f0-c60fa7404600-16830221892d236519-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.49.36_PM_7ff628bc-77fc-4e18-9552-13975a82d274.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "e63099a0-aaa0-42b1-8206-fe62558a797b": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18969798443310__e63099a0-aaa0-42b1-8206-fe62558a797b-1683539919a3048c32-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Topics We Typically Cover:",
-            "heading_size": "h1"
-          }
-        },
-        "template--18969798443310__e63099a0-aaa0-42b1-8206-fe62558a797b-1683539919a3048c32-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h2><strong>Your birth options & preferences<\/strong><\/h2><p>Your doula will listen attentively to your birth preferences and provide guidance and support in understanding your options, including topics such as natural birth, medicated birth, cesarean birth, and more.<\/p><h2><strong>Birth plan development<\/strong><\/h2><p>Your doula can help you develop a personalized birth plan that aligns with your preferences and values, providing valuable insights and recommendations based on their expertise.<\/p><h2><strong>Comfort measures during labor<\/strong><\/h2><p>Your doula can provide information and guidance on various comfort measures during labor, including birthing ball & peanut ball exercises, breathing techniques, relaxation techniques, movement, and positioning, to help you cope with the physical and emotional aspects of labor.<\/p><h2><strong>Postpartum planning<\/strong><\/h2><p>Your doula can discuss postpartum planning, including topics such as breastfeeding, newborn care, emotional well-being, and self-care, to ensure you are prepared for the postpartum period.<\/p><h2><strong>Emotional support<\/strong><\/h2><p>Your doula recognizes the emotional aspects of pregnancy, childbirth, and postpartum, and can provide compassionate support and guidance in navigating any fears, anxieties, or concerns you may have.<\/p><h2><strong>Birth options and interventions<\/strong><\/h2><p>Your doula can provide information on different birth options and interventions that may arise during childbirth, including risks, benefits, and alternatives, to help you make informed decisions.<\/p><h2><strong>Reproductive justice<\/strong><\/h2><p>As an advocate for reproductive justice, doulas may discuss topics related to social justice, equity, and inclusivity in childbirth, and how it impacts your birthing experience.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--18969798443310__e63099a0-aaa0-42b1-8206-fe62558a797b-1683539919a3048c32-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18969798443310__e63099a0-aaa0-42b1-8206-fe62558a797b-1683539919a3048c32-0",
-        "template--18969798443310__e63099a0-aaa0-42b1-8206-fe62558a797b-1683539919a3048c32-1",
-        "template--18969798443310__e63099a0-aaa0-42b1-8206-fe62558a797b-1683539919a3048c32-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.44.58_PM.jpg",
-        "height": "large",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "7349c304-73b2-4802-81a7-6ddc5c70d938": {
@@ -676,6 +582,50 @@
         "padding_bottom": 36
       }
     },
+    "8a1ac7e4-7513-4226-b275-f10927169896": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--18969798443310__8a1ac7e4-7513-4226-b275-f10927169896-16844205081934045e-0": {
+          "type": "column",
+          "settings": {
+            "title": "Virtual Doula Services",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18969798443310__8a1ac7e4-7513-4226-b275-f10927169896-16844205081934045e-1": {
+          "type": "column",
+          "settings": {
+            "title": "In-Person Doula Services",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18969798443310__8a1ac7e4-7513-4226-b275-f10927169896-16844205081934045e-0",
+        "template--18969798443310__8a1ac7e4-7513-4226-b275-f10927169896-16844205081934045e-1"
+      ],
+      "settings": {
+        "title": "How is a Virtual Doula<strong> different <\/strong>from an In Person Doula?",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "d3a9cdcf-9cfb-4874-872f-3e905c2d0ef8": {
       "type": "image-banner",
       "blocks": {
@@ -776,8 +726,9 @@
         "template--18969798443310__cc2133c7-e4c3-42e1-a5b9-dad5ff5ff5c7-1684152697ec1097cf-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-21_at_9.31.47_PM_527a0969-10f6-4d21-a0d6-a14fa914cf67.jpg",
             "title": "",
-            "text": "<p>You'll enjoy your pregnancy without having to worry about 9 months of Google searches about how to take care of yourself and your developing baby.<\/p>",
+            "text": "<h2><strong>You'll enjoy your pregnancy without having to worry about 9 months of Google searches about how to take care of yourself and your developing baby.<\/strong><\/h2>",
             "link_label": "",
             "link": ""
           }
@@ -785,8 +736,9 @@
         "template--18969798443310__cc2133c7-e4c3-42e1-a5b9-dad5ff5ff5c7-1684152697ec1097cf-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_2.06.02_PM.jpg",
             "title": "",
-            "text": "<p>You'll experience childbirth as an empowered journey, filled with knowledge, support, and a deep sense of preparedness. <\/p>",
+            "text": "<h2><strong>You'll experience childbirth as an empowered journey, filled with knowledge, support, and a deep sense of preparedness. <\/strong><\/h2>",
             "link_label": "",
             "link": ""
           }
@@ -794,8 +746,9 @@
         "template--18969798443310__cc2133c7-e4c3-42e1-a5b9-dad5ff5ff5c7-1684152697ec1097cf-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/newborn-baby-is-holding-moms-fingers-2021-10-13-19-36-47-utc.jpg",
             "title": "",
-            "text": "<p>You'll welcome your little one into the world, secure in the bond that our virtual presence has nurtured.<\/p>",
+            "text": "<h2><strong>You'll welcome your little one into the world, secure in the bond that our virtual presence has nurtured.<\/strong><\/h2>",
             "link_label": "",
             "link": ""
           }
@@ -809,15 +762,42 @@
       "settings": {
         "title": "With our Virtual Doula Services,",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
+        "image_width": "half",
+        "image_ratio": "circle",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a8f3bd81-ad9b-4166-9b30-bd6710cd8307": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Our Virtual Doula Services",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "virtual-doula-services",
+        "products_to_show": 2,
+        "columns_desktop": 2,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
@@ -898,13 +878,92 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "ac9ed268-46fa-4648-9aae-b020369437aa": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--18969798443310__ac9ed268-46fa-4648-9aae-b020369437aa-1684422064b0c7078e-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does Flight School work for any industry?",
+            "icon": "check_mark",
+            "row_content": "<p>Yes! Flight School will work for any industry, and our weekly Q&A calls ensure you get the help you need to apply the frameworks to your specific business and industry.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18969798443310__ac9ed268-46fa-4648-9aae-b020369437aa-1684422064b0c7078e-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much does it cost?",
+            "icon": "check_mark",
+            "row_content": "<p>Small Business Flight School is a one-time purchase of $2,495. Keep access as long as you maintain a yearly subscription to Business Made Simple ($275\/year).<\/p>",
+            "page": ""
+          }
+        },
+        "template--18969798443310__ac9ed268-46fa-4648-9aae-b020369437aa-1684422064b0c7078e-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Six months is too slow for me. Can I go through at a different pace?",
+            "icon": "check_mark",
+            "row_content": "<p>While we recommend a six-month pace, you can choose a different pace inside the platform. We’ll send you email reminders based on the timeframe you choose.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18969798443310__ac9ed268-46fa-4648-9aae-b020369437aa-1684422064b0c7078e-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I’m already a Business Made Simple member. What’s the cost for me?",
+            "icon": "check_mark",
+            "row_content": "<p>If you’re a current Business Made Simple member, we’ll deduct $275 from your Flight School purchase.<\/p><p>Note: A current Business Made Simple subscription is required to maintain access to Flight School. You will still be charged $275 for your upcoming Business Made Simple renewal.<\/p>",
+            "page": ""
+          }
+        },
+        "726fd9a7-fff0-4abe-bc14-0662347f772d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will I lose access to the Flight School content after 6 months?",
+            "icon": "check_mark",
+            "row_content": "<p>No! Once you enroll in Flight School, you will have access to the Flight School video content and the exclusive community permanently, as long as you maintain your $275\/year Business Made Simple subscription.<\/p>",
+            "page": ""
+          }
+        },
+        "dc1491bc-157a-4525-8566-95e4ef3fa9b7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How will I interact with others in the Flight School community?",
+            "icon": "check_mark",
+            "row_content": "<p>Enrolling in Flight School gives you exclusive lifetime* access to a VIP community. Post questions and comment on others’ posts to get real-time support from other business owners committed to growing their businesses. The VIP Flight School community is designed to support you as you build your Flight Plan and grow your small business.<\/p><p><em>*As long as you maintain a yearly Business Made Simple subscription at $275\/year<\/em><\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18969798443310__ac9ed268-46fa-4648-9aae-b020369437aa-1684422064b0c7078e-0",
+        "template--18969798443310__ac9ed268-46fa-4648-9aae-b020369437aa-1684422064b0c7078e-1",
+        "template--18969798443310__ac9ed268-46fa-4648-9aae-b020369437aa-1684422064b0c7078e-2",
+        "template--18969798443310__ac9ed268-46fa-4648-9aae-b020369437aa-1684422064b0c7078e-3",
+        "726fd9a7-fff0-4abe-bc14-0662347f772d",
+        "dc1491bc-157a-4525-8566-95e4ef3fa9b7"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "color_scheme": "accent-2",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "c09d92e5-2a87-408a-8087-801589bc779e",
     "banner",
-    "c199ea3e-7946-47b1-b3f0-c60fa7404600",
-    "e63099a0-aaa0-42b1-8206-fe62558a797b",
+    "c09d92e5-2a87-408a-8087-801589bc779e",
     "7349c304-73b2-4802-81a7-6ddc5c70d938",
     "1b926abd-6698-493f-b663-34aa7a27d739",
     "4112abb6-540a-4adc-a109-3cf055627282",
@@ -916,11 +975,14 @@
     "7da98ea2-f3bb-48ca-b55f-c47cd7ef4fa4",
     "e08c1c10-fdbf-4c11-a888-bac40bed689f",
     "cf8d3d74-1bd1-40fc-97bd-9bd01b58f056",
+    "8a1ac7e4-7513-4226-b275-f10927169896",
     "d3a9cdcf-9cfb-4874-872f-3e905c2d0ef8",
     "e312c8d6-a824-48a2-92cd-4017d4178bc7",
     "cc2133c7-e4c3-42e1-a5b9-dad5ff5ff5c7",
+    "a8f3bd81-ad9b-4166-9b30-bd6710cd8307",
     "a4f57708-a8e8-4a4a-9fa9-a357d8ebe6f6",
     "1684160738a02e5867",
-    "8ef8dba0-8ae0-415f-8a7e-84a3697a6571"
+    "8ef8dba0-8ae0-415f-8a7e-84a3697a6571",
+    "ac9ed268-46fa-4648-9aae-b020369437aa"
   ]
 }
