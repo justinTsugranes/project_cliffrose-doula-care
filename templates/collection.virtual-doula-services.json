@@ -436,6 +436,246 @@
         "padding_bottom": 36
       }
     },
+    "6eacadfb-3056-4f64-866c-f059ee220e42": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--18969798443310__6eacadfb-3056-4f64-866c-f059ee220e42-168442113570dadcf2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "What you get in",
+            "heading_size": "h1"
+          }
+        },
+        "template--18969798443310__6eacadfb-3056-4f64-866c-f059ee220e42-168442113570dadcf2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Small Business Flight School<\/h1>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18969798443310__6eacadfb-3056-4f64-866c-f059ee220e42-168442113570dadcf2-0",
+        "template--18969798443310__6eacadfb-3056-4f64-866c-f059ee220e42-168442113570dadcf2-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "2f1ea206-d579-4a4a-8c11-8917b1684f54": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--18969798443310__2f1ea206-d579-4a4a-8c11-8917b1684f54-168442105717c0bd2c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>A 6-Month Video Training Series to Completely Overhaul Your Business<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18969798443310__2f1ea206-d579-4a4a-8c11-8917b1684f54-168442105717c0bd2c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You’ll get 22 videos averaging 15-25 minutes length dripped out to you over the course of 6 months. The video training includes deep dive learning and actionable steps on filling out your business growth plan (your “Flight Plan”). You’ll finish the program with total clarity about where you business is going and how you’re going to get there.<\/p><p><a href=\"https:\/\/app.businessmadesimple.com\/flight-school\/sign-up\/\" target=\"_blank\"><strong>Join Now<\/strong><\/a><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18969798443310__2f1ea206-d579-4a4a-8c11-8917b1684f54-168442105717c0bd2c-0",
+        "template--18969798443310__2f1ea206-d579-4a4a-8c11-8917b1684f54-168442105717c0bd2c-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-05-14_at_5.29.02_AM.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "3d57bb50-158b-4ab6-b232-2a79dfe7cbba": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "2e58ca9c-053c-4b20-aa96-f75c8af6a397": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Weekly Q&A Calls with Business Made Simple Experts<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "61623e6b-fe69-45d8-b70b-17a36505f194": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Have you been a part of masterminds where you felt like nobody was dealing with similar issues or knew how to help you? That’s why we have a weekly Q&A with business coaches and fellow like-minded entrepreneurs. Every week, you’ll have the opportunity to ask questions and get advice from mentors and experts who know the tangible challenges small business owners from many different industries are facing – and they know how to help.<\/p><p><a href=\"https:\/\/app.businessmadesimple.com\/flight-school\/sign-up\/\" target=\"_blank\"><strong>Join Now<\/strong><\/a><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "2e58ca9c-053c-4b20-aa96-f75c8af6a397",
+        "61623e6b-fe69-45d8-b70b-17a36505f194"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-05-14_at_5.29.02_AM.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "7da98ea2-f3bb-48ca-b55f-c47cd7ef4fa4": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1e369047-4790-44d2-8e2c-9c7ed3247a3a": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Access to the Members-Only Flight School Community<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "98b89c34-d5d9-4258-93cd-b6124b063090": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Are you eager to connect with other business owners in a similar industry and business phase? With the members-only Flight School Community, you’ll get 24\/7 access to our private forum where you can connect with other business owners you can relate to and get questions answered by your peers and certified Business Coaches.<\/p><p><a href=\"https:\/\/app.businessmadesimple.com\/flight-school\/sign-up\/\" target=\"_blank\"><strong>Join Now<\/strong><\/a><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1e369047-4790-44d2-8e2c-9c7ed3247a3a",
+        "98b89c34-d5d9-4258-93cd-b6124b063090"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-05-14_at_5.29.02_AM.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "e08c1c10-fdbf-4c11-a888-bac40bed689f": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "99032731-0127-480f-972d-c7bbe64d2ccd": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Quarterly Q&A Calls with Donald Miller<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "f05ec544-0d4c-4355-b45e-8ceffbe140a4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Do you want regular accountability long after you finish our 6-month program? As a Flight School member, you’ll get insider access (for life) to Donald Miller each quarter as he coaches the Flight School community on improving and implementing your Flight Plan. That means that every quarter (even after you finish Flight School), you’ll have accountability and reminders to ensure you stay on track so you can experience growth for years to come.<\/p><p><a href=\"https:\/\/app.businessmadesimple.com\/flight-school\/sign-up\/\" target=\"_blank\"><strong>Join Now<\/strong><\/a><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "99032731-0127-480f-972d-c7bbe64d2ccd",
+        "f05ec544-0d4c-4355-b45e-8ceffbe140a4"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-05-14_at_5.29.02_AM.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "cf8d3d74-1bd1-40fc-97bd-9bd01b58f056": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--18969798443310__cf8d3d74-1bd1-40fc-97bd-9bd01b58f056-16844205081934045e-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/join.png",
+            "title": "",
+            "text": "<h2><strong>Join Small Business Flight School<\/strong><\/h2>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18969798443310__cf8d3d74-1bd1-40fc-97bd-9bd01b58f056-16844205081934045e-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/growth-plan.png",
+            "title": "",
+            "text": "<h2><strong>Create your growth plan using our proven frameworks<\/strong><\/h2>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18969798443310__cf8d3d74-1bd1-40fc-97bd-9bd01b58f056-16844205081934045e-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/success.png",
+            "title": "",
+            "text": "<h2><strong>Become a wildly successful business owner with scaling revenue<\/strong><\/h2>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18969798443310__cf8d3d74-1bd1-40fc-97bd-9bd01b58f056-16844205081934045e-0",
+        "template--18969798443310__cf8d3d74-1bd1-40fc-97bd-9bd01b58f056-16844205081934045e-1",
+        "template--18969798443310__cf8d3d74-1bd1-40fc-97bd-9bd01b58f056-16844205081934045e-2"
+      ],
+      "settings": {
+        "title": "How it Works",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "JOIN NOW",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "d3a9cdcf-9cfb-4874-872f-3e905c2d0ef8": {
       "type": "image-banner",
       "blocks": {
@@ -670,6 +910,12 @@
     "4112abb6-540a-4adc-a109-3cf055627282",
     "product-grid",
     "e266894d-19b2-4458-8637-366880deb96f",
+    "6eacadfb-3056-4f64-866c-f059ee220e42",
+    "2f1ea206-d579-4a4a-8c11-8917b1684f54",
+    "3d57bb50-158b-4ab6-b232-2a79dfe7cbba",
+    "7da98ea2-f3bb-48ca-b55f-c47cd7ef4fa4",
+    "e08c1c10-fdbf-4c11-a888-bac40bed689f",
+    "cf8d3d74-1bd1-40fc-97bd-9bd01b58f056",
     "d3a9cdcf-9cfb-4874-872f-3e905c2d0ef8",
     "e312c8d6-a824-48a2-92cd-4017d4178bc7",
     "cc2133c7-e4c3-42e1-a5b9-dad5ff5ff5c7",
