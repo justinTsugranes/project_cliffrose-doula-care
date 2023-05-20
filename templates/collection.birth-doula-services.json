@@ -29,8 +29,8 @@
         "template--18771324829998__b82def59-a7c6-4128-b8b9-35a9464f5b8c-1684241428011e508e-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Schedule a Free Consultation",
-            "button_link_1": "shopify:\/\/products\/intro-birth-consultation",
+            "button_label_1": "Contact Us",
+            "button_link_1": "shopify:\/\/pages\/contact",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -322,8 +322,8 @@
         "template--18771324829998__1c375b87-c49b-46bd-b539-2b4affe38706-1684269270ab069f33-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Schedule a Free Consultation",
-            "button_link_1": "shopify:\/\/products\/intro-birth-consultation",
+            "button_label_1": "Contact Us",
+            "button_link_1": "shopify:\/\/pages\/contact",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
