@@ -302,8 +302,8 @@
         "template--18729374646574__c88152b4-8d61-42e6-a58c-873053f902f5-168415258743e5623a-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Schedule a a Free Consultation",
-            "button_link_1": "shopify:\/\/products\/intro-birth-consultation",
+            "button_label_1": "Contact Us",
+            "button_link_1": "shopify:\/\/pages\/contact",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
