@@ -646,8 +646,8 @@
         "template--18969798443310__d3a9cdcf-9cfb-4874-872f-3e905c2d0ef8-168415258743e5623a-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Schedule a Free Consultation",
-            "button_link_1": "shopify:\/\/products\/intro-birth-consultation",
+            "button_label_1": "Contact Us",
+            "button_link_1": "shopify:\/\/pages\/contact",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -728,7 +728,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_2023-04-21_at_9.31.47_PM_527a0969-10f6-4d21-a0d6-a14fa914cf67.jpg",
             "title": "",
-            "text": "<h2><strong>You'll enjoy your pregnancy without having to worry about 9 months of Google searches about how to take care of yourself and your developing baby.<\/strong><\/h2>",
+            "text": "<h2>Enjoy your pregnancy without having to worry about 9 months of Google searches about how to take care of yourself and your developing baby.<\/h2>",
             "link_label": "",
             "link": ""
           }
@@ -738,7 +738,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_2.06.02_PM.jpg",
             "title": "",
-            "text": "<h2><strong>You'll experience childbirth as an empowered journey, filled with knowledge, support, and a deep sense of preparedness. <\/strong><\/h2>",
+            "text": "<h2>Experience childbirth as an empowered journey, filled with knowledge, support, and a deep sense of preparedness. <\/h2>",
             "link_label": "",
             "link": ""
           }
@@ -748,7 +748,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/newborn-baby-is-holding-moms-fingers-2021-10-13-19-36-47-utc.jpg",
             "title": "",
-            "text": "<h2><strong>You'll welcome your little one into the world, secure in the bond that our virtual presence has nurtured.<\/strong><\/h2>",
+            "text": "<h2>Welcome your little one into the world, secure in the bond that our virtual presence has nurtured.<\/h2>",
             "link_label": "",
             "link": ""
           }
@@ -760,7 +760,7 @@
         "template--18969798443310__cc2133c7-e4c3-42e1-a5b9-dad5ff5ff5c7-1684152697ec1097cf-1"
       ],
       "settings": {
-        "title": "With our Virtual Doula Services,",
+        "title": "With our Virtual Doula Services You'll,",
         "heading_size": "h1",
         "image_width": "half",
         "image_ratio": "circle",
