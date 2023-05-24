@@ -778,6 +778,7 @@
     },
     "a8f3bd81-ad9b-4166-9b30-bd6710cd8307": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Our Virtual Doula Services",
         "heading_size": "h1",
