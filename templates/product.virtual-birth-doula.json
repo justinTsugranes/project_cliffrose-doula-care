@@ -156,8 +156,8 @@
         "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2": {
           "type": "button",
           "settings": {
-            "button_label": "Book a free consultation",
-            "button_link": "shopify:\/\/products\/intro-birth-consultation"
+            "button_label": "Contact Us",
+            "button_link": "shopify:\/\/pages\/contact"
           }
         }
       },
@@ -194,7 +194,7 @@
         "template--18771812843822__5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678-168164668958c25d7c-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Our virtual doula service includes two prenatal consultations where we will plan and discuss important topics before your estimated due date.<\/h2><p>During these visits, we'll<\/p><ul><li>Build our connection<\/li><li>Discuss your birth preferences<\/li><li>Create a Birth Plan<\/li><li>Practice relaxation techniques in our Labor Prep class<\/li><li>Talk about comfort measures and labor positions<\/li><li>Provide tips on laboring at home<\/li><\/ul><p>This visit is designed to help you get ready for your baby, address any questions or concerns you may have, and ensure you feel prepared and confident for your upcoming birth experience.<\/p><p><strong>To see what we'll cover, check out our <\/strong><a href=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSficKDbiR9TcYFqryZo72Y3v77RRLmb757Ym0XNtpt63Q-P2g\/viewform?usp=sf_link\" title=\"birth planning checklist\"><strong>Planning Checklist<\/strong><\/a><strong>.<\/strong><\/p>",
+            "text": "<h2>Our virtual doula service includes two prenatal consultations where we will plan and discuss important topics before your estimated due date.<\/h2><p>During these visits, we'll<\/p><ul><li>Build our connection<\/li><li>Discuss your birth preferences<\/li><li>Create a Birth Plan<\/li><li>Practice relaxation techniques in our Labor Prep class<\/li><li>Talk about comfort measures and labor positions<\/li><li>Provide tips on laboring at home<\/li><\/ul><p>This visit is designed to help you get ready for your baby, address any questions or concerns you may have, and ensure you feel prepared and confident for your upcoming birth experience.<\/p><p><strong>To see what we'll cover, check out our <\/strong><a href=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSficKDbiR9TcYFqryZo72Y3v77RRLmb757Ym0XNtpt63Q-P2g\/viewform?usp=sf_link\" title=\"birth planning checklist\"><strong>Planning Checklist<\/strong><\/a><strong>.<\/strong><\/p><p><a href=\"\/pages\/contact\" title=\"Contact\"><strong>Contact Us &gt;<\/strong><\/a><\/p>",
             "text_style": "body"
           }
         }
@@ -231,7 +231,7 @@
         "e8115073-cfbf-41ea-b880-f700772502dd": {
           "type": "text",
           "settings": {
-            "text": "<p>We're here for you around the clock, starting at 38 weeks gestation and continuing through your entire pregnancy, birth, and postpartum period.<\/p><p>Count on us to be available whenever you need us, whether it's to answer questions, offer guidance, or provide support during labor and beyond.<\/p><p>With our on-call availability, you can rest assured knowing that we're just a phone call, video chat, or text message away, ready to offer the support you need whenever you need it most.<\/p><p>When you contact your doula at the onset of labor, we'll be there to provide support as you labor at home or at your preferred delivery location, through the duration of your labor.<\/p><p><a href=\"\/products\/intro-birth-consultation\" title=\"Intro Birth Consultation\">Book a free consultation &gt;<\/a><\/p>",
+            "text": "<p>We're here for you around the clock, starting at 38 weeks gestation and continuing through your entire pregnancy, birth, and postpartum period.<\/p><p>Count on us to be available whenever you need us, whether it's to answer questions, offer guidance, or provide support during labor and beyond.<\/p><p>With our on-call availability, you can rest assured knowing that we're just a phone call, video chat, or text message away, ready to offer the support you need whenever you need it most.<\/p><p>When you contact your doula at the onset of labor, we'll be there to provide support as you labor at home or at your preferred delivery location, through the duration of your labor.<\/p><p><a href=\"\/pages\/contact\" title=\"Contact\"><strong>Contact Us &gt;<\/strong><\/a><\/p>",
             "text_style": "body"
           }
         }
@@ -268,7 +268,7 @@
         "template--18771812843822__04c19bbc-f531-4662-806b-fd33b8941ae1-168164668958c25d7c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Throughout your labor, your doula will provide continuous support and encouragement via video, chat, or messaging.<\/p><h3>Your doula will help you with:<\/h3><ul><li><strong>Birthing Ball:<\/strong> Your doula will assist you in using a birthing ball for comfort, support, and optimal positioning during labor.<\/li><li><strong>Breathing Techniques:<\/strong> Your doula will guide you through various breathing techniques to help you stay relaxed, focused, and manage pain during labor.<\/li><li><strong>Advocacy:<\/strong> Your doula is there to help you communicate with healthcare staff about your needs and preferences.<\/li><li><strong>Affirmations:<\/strong> Your doula will be guiding you through the entire journey.<\/li><\/ul><p><a href=\"\/products\/intro-birth-consultation\" title=\"Intro Birth Consultation\">Book a free consultation &gt;<\/a><\/p>",
+            "text": "<p>Throughout your labor, your doula will provide continuous support and encouragement via video, chat, or messaging.<\/p><h3>Your doula will help you with:<\/h3><ul><li><strong>Birthing Ball:<\/strong> Your doula will assist you in using a birthing ball for comfort, support, and optimal positioning during labor.<\/li><li><strong>Breathing Techniques:<\/strong> Your doula will guide you through various breathing techniques to help you stay relaxed, focused, and manage pain during labor.<\/li><li><strong>Advocacy:<\/strong> Your doula is there to help you communicate with healthcare staff about your needs and preferences.<\/li><li><strong>Affirmations:<\/strong> Your doula will be guiding you through the entire journey.<\/li><\/ul><p><a href=\"\/pages\/contact\" title=\"Contact\"><strong>Contact Us &gt;<\/strong><\/a><\/p>",
             "text_style": "body"
           }
         }
@@ -305,7 +305,7 @@
         "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our postpartum doula services extend beyond the birth, providing essential support during the early weeks of parenthood. We offer:<\/p><ul><li><strong>Virtual Visits:<\/strong> Within the first two weeks postpartum, your doula will schedule video calls, providing emotional support, practical assistance, and answering any questions you may have about the birth experience or newborn care.<\/li><li><strong>Emotional Support:<\/strong> Your doula is here to listen and provide a safe space for you to share your feelings, emotions, and thoughts about adjusting to life with a new baby.<\/li><li><strong>Infant Feeding:<\/strong> Your doula will provide valuable resources and tips on infant feeding, including breastfeeding, bottle-feeding, and introducing solids.<\/li><li><strong>Meal Planning:<\/strong> Your doula will help you plan meals and provide a grocery list to make your life easier during the postpartum period. We can also arrange contact-free drop-off of needed items.<\/li><li><strong>Ongoing Postpartum Care:<\/strong> We are committed to providing ongoing support to new parents, those with toddlers, or multiple children through simple acts of caring for the parent, while you care for your family.<\/li><\/ul><p>Our postpartum visits are designed to help you navigate the early weeks of parenthood with confidence and ease.<\/p><p><a href=\"\/products\/intro-birth-consultation\" title=\"Intro Birth Consultation\">Book a free consultation &gt;<\/a><\/p>",
+            "text": "<p>Our postpartum doula services extend beyond the birth, providing essential support during the early weeks of parenthood. We offer:<\/p><ul><li><strong>Virtual Visits:<\/strong> Within the first two weeks postpartum, your doula will schedule video calls, providing emotional support, practical assistance, and answering any questions you may have about the birth experience or newborn care.<\/li><li><strong>Emotional Support:<\/strong> Your doula is here to listen and provide a safe space for you to share your feelings, emotions, and thoughts about adjusting to life with a new baby.<\/li><li><strong>Infant Feeding:<\/strong> Your doula will provide valuable resources and tips on infant feeding, including breastfeeding, bottle-feeding, and introducing solids.<\/li><li><strong>Meal Planning:<\/strong> Your doula will help you plan meals and provide a grocery list to make your life easier during the postpartum period. We can also arrange contact-free drop-off of needed items.<\/li><li><strong>Ongoing Postpartum Care:<\/strong> We are committed to providing ongoing support to new parents, those with toddlers, or multiple children through simple acts of caring for the parent, while you care for your family.<\/li><\/ul><p>Our postpartum visits are designed to help you navigate the early weeks of parenthood with confidence and ease.<\/p><p><a href=\"\/pages\/contact\" title=\"Contact\"><strong>Contact Us &gt;<\/strong><\/a><\/p>",
             "text_style": "body"
           }
         }
@@ -366,8 +366,8 @@
         "template--18771812843822__ff5834c1-23cd-4261-b5dd-b0214318b68a-168164672051c53a4e-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Contact",
-            "button_link_1": "shopify:\/\/products\/intro-birth-consultation",
+            "button_label_1": "Contact Us",
+            "button_link_1": "shopify:\/\/pages\/contact",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
