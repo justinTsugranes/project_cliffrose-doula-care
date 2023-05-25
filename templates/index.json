@@ -120,8 +120,8 @@
         "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "feae2534-69ab-460b-8878-f8c6ae5bfd65": {
@@ -357,7 +357,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pexels-pixabay-269141.jpg",
-        "height": "medium",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
@@ -366,7 +366,7 @@
         "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 72,
         "padding_bottom": 36
       }
     },
@@ -394,7 +394,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-21_at_9.31.47_PM_527a0969-10f6-4d21-a0d6-a14fa914cf67.jpg",
-        "height": "medium",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
@@ -403,7 +403,7 @@
         "color_scheme": "accent-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 60,
         "padding_bottom": 36
       }
     },
@@ -576,40 +576,6 @@
         "desktop_layout": "image_first",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "61068ec0-ca84-4472-8a61-6ff4e7038ede": {
-      "type": "newsletter",
-      "blocks": {
-        "template--18729374646574__61068ec0-ca84-4472-8a61-6ff4e7038ede-1684231087c6cc6630-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Join our community for exclusive content and updates",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374646574__61068ec0-ca84-4472-8a61-6ff4e7038ede-1684231087c6cc6630-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<h2>Subscribe to our blog to have information about pregnancy, birth, and newborn care sent directly to you.<\/h2>"
-          }
-        },
-        "template--18729374646574__61068ec0-ca84-4472-8a61-6ff4e7038ede-1684231087c6cc6630-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374646574__61068ec0-ca84-4472-8a61-6ff4e7038ede-1684231087c6cc6630-0",
-        "template--18729374646574__61068ec0-ca84-4472-8a61-6ff4e7038ede-1684231087c6cc6630-1",
-        "template--18729374646574__61068ec0-ca84-4472-8a61-6ff4e7038ede-1684231087c6cc6630-2"
-      ],
-      "settings": {
-        "color_scheme": "accent-2",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "75922bb9-fc7b-466b-8100-cd953eb0e6da": {
@@ -927,7 +893,6 @@
     "4cd10aaa-86a9-46a0-b9ac-d7d9bc6f898a",
     "a8c8e11e-75c8-4087-aae2-e1aacee25d4b",
     "8ab67ccb-2415-451b-8f95-5e7a83214c18",
-    "61068ec0-ca84-4472-8a61-6ff4e7038ede",
     "75922bb9-fc7b-466b-8100-cd953eb0e6da",
     "dff5bde8-d1c7-4868-8919-86ff8521952f",
     "168418153551c040e4",
