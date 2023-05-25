@@ -317,6 +317,7 @@
         },
         "template--18771324829998__1c375b87-c49b-46bd-b539-2b4affe38706-1684269270ab069f33-2": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Contact Us",
             "button_link_1": "shopify:\/\/pages\/contact",
@@ -359,7 +360,7 @@
         "template--18771324829998__68cc8aa0-4f8e-4611-9747-518553520868-168424161179ec5028-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Join the many mothers who have had powerful, unique and positive birth experiences with Cliffrose Doula Care.<\/p>",
+            "text": "<p>Join the many mothers who have had powerful, unique and positive birth experiences with Cliffrose Doula Care.<\/p><p><strong>Contact Us Below!<\/strong><\/p>",
             "text_style": "body"
           }
         }
