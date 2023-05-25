@@ -99,8 +99,8 @@
         "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "1b926abd-6698-493f-b663-34aa7a27d739": {
@@ -116,7 +116,7 @@
         "template--18969798443310__1b926abd-6698-493f-b663-34aa7a27d739-16841523606ed96b36-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We offer you a personalized touch of wisdom and support right from your living room. From crafting a birth plan to labor preparation classes, continuous labor support, and postpartum planning, we've got you covered.<\/p>"
+            "text": "<p>We offer you a personalized touch of wisdom and support <strong>right from your living room<\/strong>.<\/p><p>From crafting a birth plan to <strong>labor prep classes<\/strong>, <strong>labor support<\/strong>, and <strong>postpartum planning<\/strong>, we've got you covered.<\/p>"
           }
         },
         "template--18969798443310__1b926abd-6698-493f-b663-34aa7a27d739-16841523606ed96b36-2": {
@@ -142,13 +142,12 @@
         "content_alignment": "center",
         "color_scheme": "accent-2",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 52,
         "padding_bottom": 52
       }
     },
     "4112abb6-540a-4adc-a109-3cf055627282": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--18969798443310__4112abb6-540a-4adc-a109-3cf055627282-16844205081934045e-0": {
           "type": "column",
@@ -194,8 +193,8 @@
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Book a Free Consultation",
-        "button_link": "shopify:\/\/products\/intro-birth-consultation",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -328,13 +327,13 @@
         "4f4d0029-4acf-4a4c-a92d-617b91039a53"
       ],
       "settings": {
-        "caption": "",
+        "caption": "BIRTH DOULA SERVICES THAT GUIDE AND SUPPORT YOU THROUGH EVERY STAGE",
         "heading": "Our Virtual Doula Services Include",
         "heading_size": "h1",
         "heading_alignment": "center",
-        "layout": "section",
-        "color_scheme": "background-1",
-        "container_color_scheme": "accent-1",
+        "layout": "row",
+        "color_scheme": "accent-1",
+        "container_color_scheme": "background-1",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
@@ -344,7 +343,6 @@
     },
     "6eacadfb-3056-4f64-866c-f059ee220e42": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--18969798443310__6eacadfb-3056-4f64-866c-f059ee220e42-168442113570dadcf2-0": {
           "type": "heading",
@@ -375,7 +373,6 @@
     },
     "2f1ea206-d579-4a4a-8c11-8917b1684f54": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18969798443310__2f1ea206-d579-4a4a-8c11-8917b1684f54-168442105717c0bd2c-0": {
           "type": "heading",
@@ -413,7 +410,6 @@
     },
     "3d57bb50-158b-4ab6-b232-2a79dfe7cbba": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "2e58ca9c-053c-4b20-aa96-f75c8af6a397": {
           "type": "heading",
@@ -451,7 +447,6 @@
     },
     "7da98ea2-f3bb-48ca-b55f-c47cd7ef4fa4": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "1e369047-4790-44d2-8e2c-9c7ed3247a3a": {
           "type": "heading",
@@ -489,7 +484,6 @@
     },
     "e08c1c10-fdbf-4c11-a888-bac40bed689f": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "99032731-0127-480f-972d-c7bbe64d2ccd": {
           "type": "heading",
@@ -527,7 +521,6 @@
     },
     "cf8d3d74-1bd1-40fc-97bd-9bd01b58f056": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--18969798443310__cf8d3d74-1bd1-40fc-97bd-9bd01b58f056-16844205081934045e-0": {
           "type": "column",
@@ -716,7 +709,7 @@
         "color_scheme": "accent-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 72,
         "padding_bottom": 36
       }
     },
@@ -776,34 +769,6 @@
         "padding_bottom": 36
       }
     },
-    "a8f3bd81-ad9b-4166-9b30-bd6710cd8307": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Our Virtual Doula Services",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "virtual-doula-services",
-        "products_to_show": 2,
-        "columns_desktop": 2,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "a4f57708-a8e8-4a4a-9fa9-a357d8ebe6f6": {
       "type": "contact-form",
       "settings": {
@@ -834,7 +799,6 @@
     },
     "ac9ed268-46fa-4648-9aae-b020369437aa": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
         "template--18969798443310__ac9ed268-46fa-4648-9aae-b020369437aa-1684422064b0c7078e-0": {
           "type": "collapsible_row",
@@ -905,62 +869,13 @@
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "section",
-        "color_scheme": "accent-2",
-        "container_color_scheme": "background-2",
+        "color_scheme": "accent-1",
+        "container_color_scheme": "background-1",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "8ef8dba0-8ae0-415f-8a7e-84a3697a6571": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Speak With A Doula",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-1": {
-          "type": "text",
-          "settings": {
-            "text": "We believe strongly that everyone deserves a doula. <strong>No one will be turned away for lack of resources. <\/strong>Reach out and we can discuss how we can best support you best.",
-            "text_style": "body"
-          }
-        },
-        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "CONTACT US",
-            "button_link_1": "shopify:\/\/pages\/contact",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-0",
-        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-1",
-        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.46.09_PM.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-right",
-        "show_text_box": true,
-        "desktop_content_alignment": "right",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     }
   },
@@ -982,10 +897,8 @@
     "d3a9cdcf-9cfb-4874-872f-3e905c2d0ef8",
     "e312c8d6-a824-48a2-92cd-4017d4178bc7",
     "cc2133c7-e4c3-42e1-a5b9-dad5ff5ff5c7",
-    "a8f3bd81-ad9b-4166-9b30-bd6710cd8307",
     "a4f57708-a8e8-4a4a-9fa9-a357d8ebe6f6",
     "1684160738a02e5867",
-    "ac9ed268-46fa-4648-9aae-b020369437aa",
-    "8ef8dba0-8ae0-415f-8a7e-84a3697a6571"
+    "ac9ed268-46fa-4648-9aae-b020369437aa"
   ]
 }
