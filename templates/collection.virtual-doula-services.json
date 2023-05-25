@@ -148,6 +148,7 @@
     },
     "4112abb6-540a-4adc-a109-3cf055627282": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--18969798443310__4112abb6-540a-4adc-a109-3cf055627282-16844205081934045e-0": {
           "type": "column",
@@ -216,8 +217,8 @@
         "filter_type": "horizontal",
         "enable_sorting": false,
         "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "e266894d-19b2-4458-8637-366880deb96f": {
@@ -343,6 +344,7 @@
     },
     "6eacadfb-3056-4f64-866c-f059ee220e42": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18969798443310__6eacadfb-3056-4f64-866c-f059ee220e42-168442113570dadcf2-0": {
           "type": "heading",
@@ -373,6 +375,7 @@
     },
     "2f1ea206-d579-4a4a-8c11-8917b1684f54": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18969798443310__2f1ea206-d579-4a4a-8c11-8917b1684f54-168442105717c0bd2c-0": {
           "type": "heading",
@@ -410,6 +413,7 @@
     },
     "3d57bb50-158b-4ab6-b232-2a79dfe7cbba": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "2e58ca9c-053c-4b20-aa96-f75c8af6a397": {
           "type": "heading",
@@ -447,6 +451,7 @@
     },
     "7da98ea2-f3bb-48ca-b55f-c47cd7ef4fa4": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1e369047-4790-44d2-8e2c-9c7ed3247a3a": {
           "type": "heading",
@@ -484,6 +489,7 @@
     },
     "e08c1c10-fdbf-4c11-a888-bac40bed689f": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "99032731-0127-480f-972d-c7bbe64d2ccd": {
           "type": "heading",
@@ -521,6 +527,7 @@
     },
     "cf8d3d74-1bd1-40fc-97bd-9bd01b58f056": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--18969798443310__cf8d3d74-1bd1-40fc-97bd-9bd01b58f056-16844205081934045e-0": {
           "type": "column",
@@ -775,8 +782,8 @@
         "heading": "Have Any Questions? Contact Us",
         "heading_size": "h1",
         "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 76,
+        "padding_bottom": 72
       }
     },
     "1684160738a02e5867": {
@@ -799,6 +806,7 @@
     },
     "ac9ed268-46fa-4648-9aae-b020369437aa": {
       "type": "collapsible-content",
+      "disabled": true,
       "blocks": {
         "template--18969798443310__ac9ed268-46fa-4648-9aae-b020369437aa-1684422064b0c7078e-0": {
           "type": "collapsible_row",
