@@ -407,60 +407,6 @@
         "padding_bottom": 72
       }
     },
-    "4cd10aaa-86a9-46a0-b9ac-d7d9bc6f898a": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "template--18729374646574__4cd10aaa-86a9-46a0-b9ac-d7d9bc6f898a-1684152697ec1097cf-0": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>making your transition to parenthood a beautiful and rewarding journey.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18729374646574__4cd10aaa-86a9-46a0-b9ac-d7d9bc6f898a-1684152697ec1097cf-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>You'll remain connected with your core values<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18729374646574__4cd10aaa-86a9-46a0-b9ac-d7d9bc6f898a-1684152697ec1097cf-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>maintaining a healthy lifestyle, reducing your environmental impact, and nurturing a supportive home for your family.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374646574__4cd10aaa-86a9-46a0-b9ac-d7d9bc6f898a-1684152697ec1097cf-0",
-        "template--18729374646574__4cd10aaa-86a9-46a0-b9ac-d7d9bc6f898a-1684152697ec1097cf-1",
-        "template--18729374646574__4cd10aaa-86a9-46a0-b9ac-d7d9bc6f898a-1684152697ec1097cf-2"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "a8c8e11e-75c8-4087-aae2-e1aacee25d4b": {
       "type": "image-banner",
       "blocks": {
@@ -613,193 +559,9 @@
         "include_margins": true
       }
     },
-    "4ba36fc0-f01f-42c1-bb90-6cd795b8be37": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18729374646574__4ba36fc0-f01f-42c1-bb90-6cd795b8be37-1681723923abde2125-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Prenatal Care",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374646574__4ba36fc0-f01f-42c1-bb90-6cd795b8be37-1681723923abde2125-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Together, we'll discuss your birth preferences, create a Birth Plan, practice relaxation techniques in a Labor Prep class, and cover comfort measures and labor positions.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374646574__4ba36fc0-f01f-42c1-bb90-6cd795b8be37-1681723923abde2125-0",
-        "template--18729374646574__4ba36fc0-f01f-42c1-bb90-6cd795b8be37-1681723923abde2125-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_8.32.20_AM.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "471e9594-6f9f-44f6-9a45-f30212625d6d": {
-      "type": "image-with-text",
-      "blocks": {
-        "4d13ae67-7fee-437a-a7a7-00b1903071af": {
-          "type": "heading",
-          "settings": {
-            "heading": "24\/7 On-Call Support",
-            "heading_size": "h1"
-          }
-        },
-        "853d1021-2290-44ad-a68a-20d13bde8a40": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Starting at 37 weeks, We are on call 24\/7 and will be readily available via phone, video call, and text to provide guidance, comfort, and information as you labor at home or at your chosen delivery location.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "4d13ae67-7fee-437a-a7a7-00b1903071af",
-        "853d1021-2290-44ad-a68a-20d13bde8a40"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-05-02_at_5.12.38_AM.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "right",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "b8b23962-3b38-4e13-af46-c59ed11c3c62": {
-      "type": "image-with-text",
-      "blocks": {
-        "4cd37690-7721-4f31-b139-20e7905f38f4": {
-          "type": "heading",
-          "settings": {
-            "heading": "Labor Birth Doula",
-            "heading_size": "h1"
-          }
-        },
-        "38477c66-4c7a-4962-8a4a-d1244ea1a01c": {
-          "type": "text",
-          "settings": {
-            "text": "<p>No matter where you choose to give birth - at home, a birthing center, or a hospital - We will be there to provide unwavering support throughout your labor<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "4cd37690-7721-4f31-b139-20e7905f38f4",
-        "38477c66-4c7a-4962-8a4a-d1244ea1a01c"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155363_1.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "0d8c309a-2944-40a7-9bd1-380e5b87ec30": {
-      "type": "image-with-text",
-      "blocks": {
-        "f606d3ae-c461-4b97-aa07-b8304beee136": {
-          "type": "heading",
-          "settings": {
-            "heading": "Overnight Doula",
-            "heading_size": "h1"
-          }
-        },
-        "d4944832-b52e-441b-a5b8-475f984391d5": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We understand that the first night after your baby's birth can be overwhelming. Experience peace of mind knowing that your doula will be with you to help you with feeding, diaper changes, soothing techniques, and any other support you may need.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "f606d3ae-c461-4b97-aa07-b8304beee136",
-        "d4944832-b52e-441b-a5b8-475f984391d5"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.21.12_PM.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "539c9767-5c1f-472b-af3a-9dd61b203980": {
-      "type": "image-with-text",
-      "blocks": {
-        "3d15a318-eca2-4e40-8b37-ad054b1922cd": {
-          "type": "heading",
-          "settings": {
-            "heading": "Postpartum Recovery",
-            "heading_size": "h1"
-          }
-        },
-        "ad288893-e6d3-4a2c-b0af-addc4618c236": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Your doula is here to <strong>support you <\/strong>during the postpartum period, meeting you where you're at and from the comfort of your own home. Your doula is here to <strong>listen to you<\/strong>, whether it's about the challenges or joys of adjusting to life with a newborn.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "3d15a318-eca2-4e40-8b37-ad054b1922cd",
-        "ad288893-e6d3-4a2c-b0af-addc4618c236"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "3354c3e8-28ab-46d7-a5a0-ec1b4ce33489": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18729374646574__3354c3e8-28ab-46d7-a5a0-ec1b4ce33489-1681723923abde2125-0": {
           "type": "heading",
@@ -837,6 +599,7 @@
     },
     "ca804eee-20a3-4ca9-bb00-607c06c9341c": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "951e6b44-281a-44ad-b091-e61873aa7a8b": {
           "type": "heading",
@@ -883,17 +646,11 @@
     "c88152b4-8d61-42e6-a58c-873053f902f5",
     "99a14fe1-3628-4679-b469-b459bf2a56c8",
     "a69c2719-da9d-4848-8676-daed64bb232c",
-    "4cd10aaa-86a9-46a0-b9ac-d7d9bc6f898a",
     "a8c8e11e-75c8-4087-aae2-e1aacee25d4b",
     "8ab67ccb-2415-451b-8f95-5e7a83214c18",
     "75922bb9-fc7b-466b-8100-cd953eb0e6da",
     "dff5bde8-d1c7-4868-8919-86ff8521952f",
     "168418153551c040e4",
-    "4ba36fc0-f01f-42c1-bb90-6cd795b8be37",
-    "471e9594-6f9f-44f6-9a45-f30212625d6d",
-    "b8b23962-3b38-4e13-af46-c59ed11c3c62",
-    "0d8c309a-2944-40a7-9bd1-380e5b87ec30",
-    "539c9767-5c1f-472b-af3a-9dd61b203980",
     "3354c3e8-28ab-46d7-a5a0-ec1b4ce33489",
     "ca804eee-20a3-4ca9-bb00-607c06c9341c"
   ]
