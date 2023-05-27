@@ -81,46 +81,173 @@
         "padding_bottom": 36
       }
     },
-    "3a5af9d3-6251-42ff-b0b7-d9c0dba4745c": {
-      "type": "image-with-text",
+    "90d09396-722b-45e0-b074-57f606675e2a": {
+      "type": "collapsible-content",
       "blocks": {
-        "template--18810846511406__3a5af9d3-6251-42ff-b0b7-d9c0dba4745c-16818981958dea8d62-0": {
-          "type": "heading",
+        "template--18810902053166__90d09396-722b-45e0-b074-57f606675e2a-1685202660f16a6c03-0": {
+          "type": "collapsible_row",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "Rebozo Massage",
+            "icon": "check_mark",
+            "row_content": "<p>Utilizing the traditional Mexican technique of using a shawl-like cloth, your doula will provide gentle and soothing movements to help ease tension and promote relaxation.<\/p>",
+            "page": ""
           }
         },
-        "template--18810846511406__3a5af9d3-6251-42ff-b0b7-d9c0dba4745c-16818981958dea8d62-1": {
-          "type": "text",
+        "template--18810902053166__90d09396-722b-45e0-b074-57f606675e2a-1685202660f16a6c03-1": {
+          "type": "collapsible_row",
           "settings": {
-            "text": "<p>Your experienced doula will be by your side throughout your labor, providing continuous support, encouragement, and comfort, regardless of your chosen birth location (home, birthing center, or hospital). Every doula comes with a tool kit including:<\/p><ul><li><strong>Rebozo: <\/strong>Utilizing the traditional Mexican technique of using a shawl-like cloth, your doula will provide gentle and soothing movements to help ease tension and promote relaxation.<\/li><li><strong>Birthing Ball:<\/strong> Your doula will assist you in using a birthing ball, a large inflatable ball, as a tool for comfort, support, and optimal positioning during labor.<\/li><li><strong>Breathing Techniques:<\/strong> Your doula will guide you through various breathing techniques to manage pain so you stay relaxed, feel calm and focused on birthing your baby.<\/li><li><strong>Complimentary Birth Photography and Video:<\/strong> As a special gift, your doula will capture precious moments of your labor and birth through photography and video, which will be provided to you on a flash drive to treasure for a lifetime.<\/li><li><strong>Birth Room Ambiance:<\/strong> Your doula will create a calming and soothing environment in your birth room with a Himalayan salt lamp, tiny tea lights, essential oil diffuser for aromatherapy, arnica massage oil and many more tools specific to your needs.<\/li><\/ul><p>With our comprehensive support through labor, you can feel secure, like we have your back! And your front too :)<\/p><p><a href=\"https:\/\/cliffrose-doula.myshopify.com\/pages\/contact\" title=\"Contact\"><strong>Contact Us &gt;<\/strong><\/a><\/p>",
-            "text_style": "body"
+            "heading": "Birthing Ball & Peanut Ball",
+            "icon": "check_mark",
+            "row_content": "<p>Your doula will assist you in using a birthing ball, a large inflatable ball, as a tool for comfort, support, and optimal positioning during labor.<\/p>",
+            "page": ""
           }
         },
-        "template--18810846511406__3a5af9d3-6251-42ff-b0b7-d9c0dba4745c-16818981958dea8d62-2": {
-          "type": "button",
+        "template--18810902053166__90d09396-722b-45e0-b074-57f606675e2a-1685202660f16a6c03-2": {
+          "type": "collapsible_row",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "heading": "Breathing Techniques",
+            "icon": "check_mark",
+            "row_content": "<p>Your doula will guide you through various breathing techniques to manage pain so you stay relaxed, feel calm and focused on birthing your baby.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18810902053166__90d09396-722b-45e0-b074-57f606675e2a-1685202660f16a6c03-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Complimentary Birth Photography & Video",
+            "icon": "check_mark",
+            "row_content": "<p>As a special gift, your doula will capture precious moments of your labor and birth through photography and video, which will be provided to you on a flash drive to treasure for a lifetime.<\/p>",
+            "page": ""
+          }
+        },
+        "7826bb1c-8d96-4d7b-8790-1726a3f744f1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Birth Room Ambiance & Aromatherapy",
+            "icon": "check_mark",
+            "row_content": "<p>Your doula will create a calming and soothing environment in your birth room with a Himalayan salt lamp, tiny tea lights, essential oil diffuser for aromatherapy, arnica massage oil and many more tools specific to your needs.<\/p>",
+            "page": ""
+          }
+        },
+        "a87a9d2a-c1f8-4eed-905e-46b7846126de": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Counter Pressure & Physcial Support",
+            "icon": "check_mark",
+            "row_content": "<p>Provide techniques like hip squeezes, back pressure, and other hands-on comfort measures.<\/p>",
+            "page": ""
+          }
+        },
+        "9538773d-4cdd-44d9-b8b5-ceb81b869d7b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Hydrotherapy Assistance",
+            "icon": "check_mark",
+            "row_content": "<p>If the birthing facility has the resources, I can assist with using water for pain relief, either through a shower, bath, or birthing pool.<\/p>",
+            "page": ""
+          }
+        },
+        "b6b0fda3-0dca-4716-939b-c1d09d113806": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Acupressure or Light Touch Massage",
+            "icon": "check_mark",
+            "row_content": "<p>These techniques can help manage labor pain and promote relaxation.<\/p>",
+            "page": ""
+          }
+        },
+        "d780fed0-773e-4922-b9c5-ba7dd1c7ea42": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Position Suggestions",
+            "icon": "check_mark",
+            "row_content": "<p>Offer guidance on different labor positions that can help ease discomfort, assist with baby's descent, and enhance the progress of labor.<\/p>",
+            "page": ""
+          }
+        },
+        "e8c925b7-2551-419b-9564-f2e5f9d1d5e3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Emotional Support",
+            "icon": "check_mark",
+            "row_content": "<p>Continual emotional reassurance and encouragement can be incredibly helpful during labor.<\/p>",
+            "page": ""
+          }
+        },
+        "0a0c4ef5-76f2-4d27-8c94-402ddffb0282": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Visualization and Mindfulness Techniques",
+            "icon": "check_mark",
+            "row_content": "<p>Guiding the mother through visualization exercises or mindfulness meditation can help manage pain and anxiety.<\/p>",
+            "page": ""
+          }
+        },
+        "d6e0553c-0d57-4f43-99a8-e0802bfc54a8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Advocacy",
+            "icon": "check_mark",
+            "row_content": "<p>Help the mother understand her options at every stage of labor, assist in communicating with the medical team, and support her in making informed decisions.<\/p>",
+            "page": ""
+          }
+        },
+        "5092d4f7-8a01-4ae9-a857-fb7f3a9d91c3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "TENS Unit",
+            "icon": "check_mark",
+            "row_content": "<p>a TENS (Transcutaneous Electrical Nerve Stimulation) unit can be used for pain relief during labor.<\/p>",
+            "page": ""
+          }
+        },
+        "f3b98e5b-8307-481e-b062-7d0d136c9c03": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Cooling & Heating Therapy",
+            "icon": "check_mark",
+            "row_content": "<p> Simple things like cool washcloths on the forehead or a warm blanket can provide comfort.<\/p>",
+            "page": ""
+          }
+        },
+        "a84c45c5-1ad9-4ad6-9d2c-b6f5e806551e": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Immediate Postpartum Support",
+            "icon": "check_mark",
+            "row_content": "<p> Several hours of immediate postpartum support, including assistance with initial breastfeeding, bonding, and settling in at home or the birthing facility.<\/p>",
+            "page": ""
           }
         }
       },
       "block_order": [
-        "template--18810846511406__3a5af9d3-6251-42ff-b0b7-d9c0dba4745c-16818981958dea8d62-0",
-        "template--18810846511406__3a5af9d3-6251-42ff-b0b7-d9c0dba4745c-16818981958dea8d62-1",
-        "template--18810846511406__3a5af9d3-6251-42ff-b0b7-d9c0dba4745c-16818981958dea8d62-2"
+        "template--18810902053166__90d09396-722b-45e0-b074-57f606675e2a-1685202660f16a6c03-0",
+        "template--18810902053166__90d09396-722b-45e0-b074-57f606675e2a-1685202660f16a6c03-1",
+        "template--18810902053166__90d09396-722b-45e0-b074-57f606675e2a-1685202660f16a6c03-2",
+        "template--18810902053166__90d09396-722b-45e0-b074-57f606675e2a-1685202660f16a6c03-3",
+        "7826bb1c-8d96-4d7b-8790-1726a3f744f1",
+        "a87a9d2a-c1f8-4eed-905e-46b7846126de",
+        "9538773d-4cdd-44d9-b8b5-ceb81b869d7b",
+        "b6b0fda3-0dca-4716-939b-c1d09d113806",
+        "d780fed0-773e-4922-b9c5-ba7dd1c7ea42",
+        "e8c925b7-2551-419b-9564-f2e5f9d1d5e3",
+        "0a0c4ef5-76f2-4d27-8c94-402ddffb0282",
+        "d6e0553c-0d57-4f43-99a8-e0802bfc54a8",
+        "5092d4f7-8a01-4ae9-a857-fb7f3a9d91c3",
+        "f3b98e5b-8307-481e-b062-7d0d136c9c03",
+        "a84c45c5-1ad9-4ad6-9d2c-b6f5e806551e"
       ],
       "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
+        "caption": "",
+        "heading": "During labor, you will receive:",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
         "color_scheme": "accent-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -130,6 +257,6 @@
     "ba3e7a25-353b-4e65-9fb2-c87d2557b96b",
     "main",
     "0924b7c9-964a-4a5a-91a0-50f584ec996b",
-    "3a5af9d3-6251-42ff-b0b7-d9c0dba4745c"
+    "90d09396-722b-45e0-b074-57f606675e2a"
   ]
 }
