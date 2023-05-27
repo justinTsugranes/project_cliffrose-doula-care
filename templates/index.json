@@ -20,8 +20,8 @@
         "fc31c9fe-7fd3-4f3b-a73c-e884f3e0dcb1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "View Birth Services",
-            "button_link_1": "shopify:\/\/collections\/birth-doula-services",
+            "button_label_1": "Contact Me",
+            "button_link_1": "shopify:\/\/pages\/contact",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
