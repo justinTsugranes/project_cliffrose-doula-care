@@ -29,7 +29,7 @@
         "template--18729374253358__c09d92e5-2a87-408a-8087-801589bc779e-1681573451f0a6c354-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Contact Us",
+            "button_label_1": "Contact Me",
             "button_link_1": "shopify:\/\/pages\/contact",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -109,14 +109,14 @@
         "template--18969798443310__1b926abd-6698-493f-b663-34aa7a27d739-16841523606ed96b36-0": {
           "type": "heading",
           "settings": {
-            "heading": "We've got you covered",
+            "heading": "I've got you covered",
             "heading_size": "h1"
           }
         },
         "template--18969798443310__1b926abd-6698-493f-b663-34aa7a27d739-16841523606ed96b36-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We offer you a personalized touch of wisdom and support <strong>right from your living room<\/strong>.<\/p><p>From crafting a birth plan to <strong>labor prep classes<\/strong>, <strong>labor support<\/strong>, and <strong>postpartum planning<\/strong>, we've got you covered.<\/p>"
+            "text": "<p>I offer you a personalized touch of wisdom and support <strong>right from your living room<\/strong>.<\/p><p>From crafting a <strong>birth plan<\/strong> to <strong>labor prep classes<\/strong>, <strong>labor support<\/strong>, and <strong>postpartum planning<\/strong>, I'm here for <strong>you<\/strong>.<\/p>"
           }
         },
         "template--18969798443310__1b926abd-6698-493f-b663-34aa7a27d739-16841523606ed96b36-2": {
@@ -532,7 +532,6 @@
         "template--18969798443310__cf8d3d74-1bd1-40fc-97bd-9bd01b58f056-16844205081934045e-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/join.png",
             "title": "",
             "text": "<h2><strong>Join Small Business Flight School<\/strong><\/h2>",
             "link_label": "",
@@ -542,7 +541,6 @@
         "template--18969798443310__cf8d3d74-1bd1-40fc-97bd-9bd01b58f056-16844205081934045e-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/growth-plan.png",
             "title": "",
             "text": "<h2><strong>Create your growth plan using our proven frameworks<\/strong><\/h2>",
             "link_label": "",
@@ -552,7 +550,6 @@
         "template--18969798443310__cf8d3d74-1bd1-40fc-97bd-9bd01b58f056-16844205081934045e-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/success.png",
             "title": "",
             "text": "<h2><strong>Become a wildly successful business owner with scaling revenue<\/strong><\/h2>",
             "link_label": "",
