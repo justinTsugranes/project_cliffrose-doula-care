@@ -118,24 +118,11 @@
           "settings": {
             "text": "<p>I offer you a personalized touch of wisdom and support <strong>right from your living room<\/strong>.<\/p><p>From crafting a <strong>birth plan<\/strong> to <strong>labor prep classes<\/strong>, <strong>labor support<\/strong>, and <strong>postpartum planning<\/strong>, I'm here for <strong>you<\/strong>.<\/p>"
           }
-        },
-        "template--18969798443310__1b926abd-6698-493f-b663-34aa7a27d739-16841523606ed96b36-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "template--18969798443310__1b926abd-6698-493f-b663-34aa7a27d739-16841523606ed96b36-0",
-        "template--18969798443310__1b926abd-6698-493f-b663-34aa7a27d739-16841523606ed96b36-1",
-        "template--18969798443310__1b926abd-6698-493f-b663-34aa7a27d739-16841523606ed96b36-2"
+        "template--18969798443310__1b926abd-6698-493f-b663-34aa7a27d739-16841523606ed96b36-1"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -187,7 +174,7 @@
         "template--18969798443310__4112abb6-540a-4adc-a109-3cf055627282-16844205081934045e-2"
       ],
       "settings": {
-        "title": "In our Virtual Doula Services , you'll...",
+        "title": "In our Online Doula Sessions , you'll...",
         "heading_size": "h1",
         "image_width": "half",
         "image_ratio": "circle",
@@ -217,7 +204,7 @@
         "filter_type": "horizontal",
         "enable_sorting": false,
         "columns_mobile": "2",
-        "padding_top": 72,
+        "padding_top": 0,
         "padding_bottom": 72
       }
     },
@@ -329,48 +316,17 @@
       ],
       "settings": {
         "caption": "BIRTH DOULA SERVICES THAT GUIDE AND SUPPORT YOU THROUGH EVERY STAGE",
-        "heading": "Our Virtual Doula Services Include",
+        "heading": "What you'll get with Virtual Doula Services",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "row",
-        "color_scheme": "accent-1",
+        "color_scheme": "accent-2",
         "container_color_scheme": "background-1",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "6eacadfb-3056-4f64-866c-f059ee220e42": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--18969798443310__6eacadfb-3056-4f64-866c-f059ee220e42-168442113570dadcf2-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "What you get in",
-            "heading_size": "h1"
-          }
-        },
-        "template--18969798443310__6eacadfb-3056-4f64-866c-f059ee220e42-168442113570dadcf2-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h1>Small Business Flight School<\/h1>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18969798443310__6eacadfb-3056-4f64-866c-f059ee220e42-168442113570dadcf2-0",
-        "template--18969798443310__6eacadfb-3056-4f64-866c-f059ee220e42-168442113570dadcf2-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
       }
     },
     "2f1ea206-d579-4a4a-8c11-8917b1684f54": {
@@ -527,13 +483,13 @@
     },
     "cf8d3d74-1bd1-40fc-97bd-9bd01b58f056": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--18969798443310__cf8d3d74-1bd1-40fc-97bd-9bd01b58f056-16844205081934045e-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-one.png",
             "title": "",
-            "text": "<h2><strong>Join Small Business Flight School<\/strong><\/h2>",
+            "text": "<h2>Get Started with a Complimentary Consultation<\/h2>",
             "link_label": "",
             "link": ""
           }
@@ -541,8 +497,9 @@
         "template--18969798443310__cf8d3d74-1bd1-40fc-97bd-9bd01b58f056-16844205081934045e-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-two.png",
             "title": "",
-            "text": "<h2><strong>Create your growth plan using our proven frameworks<\/strong><\/h2>",
+            "text": "<h2>We'll Design Your Ideal Birth Experience Together<\/h2>",
             "link_label": "",
             "link": ""
           }
@@ -550,8 +507,9 @@
         "template--18969798443310__cf8d3d74-1bd1-40fc-97bd-9bd01b58f056-16844205081934045e-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-three.png",
             "title": "",
-            "text": "<h2><strong>Become a wildly successful business owner with scaling revenue<\/strong><\/h2>",
+            "text": "<h2>Begin Your Path to an Fulfilling Birth and Confident Parenthood<\/h2>",
             "link_label": "",
             "link": ""
           }
@@ -562,65 +520,24 @@
         "template--18969798443310__cf8d3d74-1bd1-40fc-97bd-9bd01b58f056-16844205081934045e-1",
         "template--18969798443310__cf8d3d74-1bd1-40fc-97bd-9bd01b58f056-16844205081934045e-2"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "title": "How it Works",
         "heading_size": "h1",
-        "image_width": "full",
+        "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "JOIN NOW",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "8a1ac7e4-7513-4226-b275-f10927169896": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "template--18969798443310__8a1ac7e4-7513-4226-b275-f10927169896-16844205081934045e-0": {
-          "type": "column",
-          "settings": {
-            "title": "Virtual Doula Services",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18969798443310__8a1ac7e4-7513-4226-b275-f10927169896-16844205081934045e-1": {
-          "type": "column",
-          "settings": {
-            "title": "In-Person Doula Services",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18969798443310__8a1ac7e4-7513-4226-b275-f10927169896-16844205081934045e-0",
-        "template--18969798443310__8a1ac7e4-7513-4226-b275-f10927169896-16844205081934045e-1"
-      ],
-      "settings": {
-        "title": "How is a Virtual Doula<strong> different <\/strong>from an In Person Doula?",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "d3a9cdcf-9cfb-4874-872f-3e905c2d0ef8": {
@@ -643,7 +560,7 @@
         "template--18969798443310__d3a9cdcf-9cfb-4874-872f-3e905c2d0ef8-168415258743e5623a-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Contact Us",
+            "button_label_1": "Contact Me",
             "button_link_1": "shopify:\/\/pages\/contact",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -684,7 +601,7 @@
         "template--18969798443310__e312c8d6-a824-48a2-92cd-4017d4178bc7-1684152313b7f2554a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our services are designed to dispel uncertainties and fears, ensuring you're well-informed and confident throughout your journey. You'll never feel alone or unprepared, knowing that expert guidance is just a click away.<\/p>",
+            "text": "<p>My services are designed to dispel uncertainties and fears, ensuring you're well-informed and confident throughout your journey. You'll never feel alone or unprepared, knowing that expert guidance is just a click away.<\/p>",
             "text_style": "body"
           }
         },
@@ -757,7 +674,7 @@
         "template--18969798443310__cc2133c7-e4c3-42e1-a5b9-dad5ff5ff5c7-1684152697ec1097cf-1"
       ],
       "settings": {
-        "title": "With our Virtual Doula Services you'll,",
+        "title": "With Virtual Doula Services you'll,",
         "heading_size": "h1",
         "image_width": "half",
         "image_ratio": "circle",
@@ -801,76 +718,105 @@
         "include_margins": true
       }
     },
-    "ac9ed268-46fa-4648-9aae-b020369437aa": {
+    "65b167ca-467e-4938-82c9-74c2ef3a9e0d": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
-        "template--18969798443310__ac9ed268-46fa-4648-9aae-b020369437aa-1684422064b0c7078e-0": {
+        "db56ab51-ec14-4b60-843f-a1f4e1a31500": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Does Flight School work for any industry?",
+            "heading": "What is a virtual doula?",
             "icon": "check_mark",
-            "row_content": "<p>Yes! Flight School will work for any industry, and our weekly Q&A calls ensure you get the help you need to apply the frameworks to your specific business and industry.<\/p>",
+            "row_content": "<p>A virtual doula offers emotional, educational, and practical support to families before, during, and after childbirth, similar to an in-person doula. The difference is that all support is provided remotely, using technology like video calls, phone calls, texts, and emails.<\/p>",
             "page": ""
           }
         },
-        "template--18969798443310__ac9ed268-46fa-4648-9aae-b020369437aa-1684422064b0c7078e-1": {
+        "4db075c8-f6b0-4b25-a7b8-301aa1d350ed": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How much does it cost?",
+            "heading": "How much do virtual doula services cost",
             "icon": "check_mark",
-            "row_content": "<p>Small Business Flight School is a one-time purchase of $2,495. Keep access as long as you maintain a yearly subscription to Business Made Simple ($275\/year).<\/p>",
+            "row_content": "<p>Virtual doula services with Cliffrose Doula Care cost $2,500. We also offer 1-hour virtual consultations at a price of $125.<\/p>",
             "page": ""
           }
         },
-        "template--18969798443310__ac9ed268-46fa-4648-9aae-b020369437aa-1684422064b0c7078e-2": {
+        "template--18969798443310__65b167ca-467e-4938-82c9-74c2ef3a9e0d-16852082084b5f0b8f-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Six months is too slow for me. Can I go through at a different pace?",
+            "heading": "How can a virtual doula support me during labor?",
             "icon": "check_mark",
-            "row_content": "<p>While we recommend a six-month pace, you can choose a different pace inside the platform. We’ll send you email reminders based on the timeframe you choose.<\/p>",
+            "row_content": "<p>A virtual doula can provide real-time support during labor by offering comfort measures, suggesting labor positions, providing emotional support, guiding breathing exercises, and assisting with decision-making. They can also advocate for you by helping you communicate effectively with your medical team.<\/p>",
             "page": ""
           }
         },
-        "template--18969798443310__ac9ed268-46fa-4648-9aae-b020369437aa-1684422064b0c7078e-3": {
+        "template--18969798443310__65b167ca-467e-4938-82c9-74c2ef3a9e0d-16852082084b5f0b8f-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "I’m already a Business Made Simple member. What’s the cost for me?",
+            "heading": "Are virtual doula services as effective as in-person support?",
             "icon": "check_mark",
-            "row_content": "<p>If you’re a current Business Made Simple member, we’ll deduct $275 from your Flight School purchase.<\/p><p>Note: A current Business Made Simple subscription is required to maintain access to Flight School. You will still be charged $275 for your upcoming Business Made Simple renewal.<\/p>",
+            "row_content": "<p>While a virtual doula can't provide physical support like massage or hands-on help with labor positions, they can still offer effective emotional and informational support. Many families have found virtual doula services to be a valuable resource, especially during times when in-person support may not be possible or preferred.<\/p>",
             "page": ""
           }
         },
-        "726fd9a7-fff0-4abe-bc14-0662347f772d": {
+        "template--18969798443310__65b167ca-467e-4938-82c9-74c2ef3a9e0d-16852082084b5f0b8f-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Will I lose access to the Flight School content after 6 months?",
+            "heading": "How will we communicate during labor?",
             "icon": "check_mark",
-            "row_content": "<p>No! Once you enroll in Flight School, you will have access to the Flight School video content and the exclusive community permanently, as long as you maintain your $275\/year Business Made Simple subscription.<\/p>",
+            "row_content": "<p>The exact method of communication will depend on what you're comfortable with and the technology you have available. It could involve video calls, phone calls, or text messaging. Before labor, you and your doula will discuss and agree on the best method of communication.<\/p>",
             "page": ""
           }
         },
-        "dc1491bc-157a-4525-8566-95e4ef3fa9b7": {
+        "template--18969798443310__65b167ca-467e-4938-82c9-74c2ef3a9e0d-16852082084b5f0b8f-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How will I interact with others in the Flight School community?",
+            "heading": "How does a virtual prenatal or postpartum visit work?",
             "icon": "check_mark",
-            "row_content": "<p>Enrolling in Flight School gives you exclusive lifetime* access to a VIP community. Post questions and comment on others’ posts to get real-time support from other business owners committed to growing their businesses. The VIP Flight School community is designed to support you as you build your Flight Plan and grow your small business.<\/p><p><em>*As long as you maintain a yearly Business Made Simple subscription at $275\/year<\/em><\/p>",
+            "row_content": "<p>During a virtual prenatal or postpartum visit, your doula might provide education, help create a birth plan, offer resources, discuss your feelings and experiences, or provide breastfeeding support. These sessions typically happen via video call, but could also be done over the phone.<\/p>",
+            "page": ""
+          }
+        },
+        "59e96abe-7579-4dfc-8200-22e2fc5f7b38": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What technology do I need for virtual doula services?",
+            "icon": "check_mark",
+            "row_content": "<p>You'll need a reliable internet connection, a device like a smartphone, tablet, or computer, and access to a platform for video calls, such as Zoom, Skype, or FaceTime.<\/p>",
+            "page": ""
+          }
+        },
+        "44971717-acb5-41b7-aaad-3b7dc0114835": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can a virtual doula replace my healthcare provider?",
+            "icon": "check_mark",
+            "row_content": "<p>No, a virtual doula does not replace a healthcare provider. Doulas, whether virtual or in-person, do not provide medical care. They are there to complement the care provided by your healthcare team, offering emotional, informational, and practical support.<\/p>",
+            "page": ""
+          }
+        },
+        "eeec2c80-ab29-4945-9808-20b5c51589ee": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What if I have an emergency during labor?",
+            "icon": "check_mark",
+            "row_content": "<p>In case of an emergency, you should always follow the advice of your healthcare provider. While a doula can offer support and help you understand what's happening, they can't provide medical care or make decisions on your behalf.<\/p>",
             "page": ""
           }
         }
       },
       "block_order": [
-        "template--18969798443310__ac9ed268-46fa-4648-9aae-b020369437aa-1684422064b0c7078e-0",
-        "template--18969798443310__ac9ed268-46fa-4648-9aae-b020369437aa-1684422064b0c7078e-1",
-        "template--18969798443310__ac9ed268-46fa-4648-9aae-b020369437aa-1684422064b0c7078e-2",
-        "template--18969798443310__ac9ed268-46fa-4648-9aae-b020369437aa-1684422064b0c7078e-3",
-        "726fd9a7-fff0-4abe-bc14-0662347f772d",
-        "dc1491bc-157a-4525-8566-95e4ef3fa9b7"
+        "db56ab51-ec14-4b60-843f-a1f4e1a31500",
+        "4db075c8-f6b0-4b25-a7b8-301aa1d350ed",
+        "template--18969798443310__65b167ca-467e-4938-82c9-74c2ef3a9e0d-16852082084b5f0b8f-0",
+        "template--18969798443310__65b167ca-467e-4938-82c9-74c2ef3a9e0d-16852082084b5f0b8f-1",
+        "template--18969798443310__65b167ca-467e-4938-82c9-74c2ef3a9e0d-16852082084b5f0b8f-2",
+        "template--18969798443310__65b167ca-467e-4938-82c9-74c2ef3a9e0d-16852082084b5f0b8f-3",
+        "59e96abe-7579-4dfc-8200-22e2fc5f7b38",
+        "44971717-acb5-41b7-aaad-3b7dc0114835",
+        "eeec2c80-ab29-4945-9808-20b5c51589ee"
       ],
       "settings": {
         "caption": "",
-        "heading": "FAQs",
+        "heading": "FAQs about Virtual Doula Services",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "section",
@@ -892,18 +838,16 @@
     "4112abb6-540a-4adc-a109-3cf055627282",
     "product-grid",
     "e266894d-19b2-4458-8637-366880deb96f",
-    "6eacadfb-3056-4f64-866c-f059ee220e42",
     "2f1ea206-d579-4a4a-8c11-8917b1684f54",
     "3d57bb50-158b-4ab6-b232-2a79dfe7cbba",
     "7da98ea2-f3bb-48ca-b55f-c47cd7ef4fa4",
     "e08c1c10-fdbf-4c11-a888-bac40bed689f",
     "cf8d3d74-1bd1-40fc-97bd-9bd01b58f056",
-    "8a1ac7e4-7513-4226-b275-f10927169896",
     "d3a9cdcf-9cfb-4874-872f-3e905c2d0ef8",
     "e312c8d6-a824-48a2-92cd-4017d4178bc7",
     "cc2133c7-e4c3-42e1-a5b9-dad5ff5ff5c7",
     "a4f57708-a8e8-4a4a-9fa9-a357d8ebe6f6",
     "1684160738a02e5867",
-    "ac9ed268-46fa-4648-9aae-b020369437aa"
+    "65b167ca-467e-4938-82c9-74c2ef3a9e0d"
   ]
 }
