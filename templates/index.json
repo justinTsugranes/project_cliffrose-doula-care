@@ -13,14 +13,14 @@
         "07dd7590-ee35-49ea-bd9c-a52a162137e4": {
           "type": "text",
           "settings": {
-            "text": "Giving birth is an unforgettable experience. Compassionate and holistic approach centers what you want: Safety, Comfort, Positivity and Empowerment!",
+            "text": "Pregnancy is an incredible journey. My compassionate and holistic approach is centered around what <strong>you<\/strong> want: Safety, Comfort, Positivity and Empowerment!",
             "text_style": "subtitle"
           }
         },
         "fc31c9fe-7fd3-4f3b-a73c-e884f3e0dcb1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Contact Me",
+            "button_label_1": "Take The First Step",
             "button_link_1": "shopify:\/\/pages\/contact",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -60,7 +60,7 @@
         "template--18729374646574__956a2330-3be4-424d-b38d-8c7a05dac815-16841837842663fa02-0": {
           "type": "heading",
           "settings": {
-            "heading": "Pregnancy is an incredible journey",
+            "heading": "Childbirth is an unforgettable experience.",
             "heading_size": "h1"
           }
         },
