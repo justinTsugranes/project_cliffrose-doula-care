@@ -273,7 +273,7 @@
         "template--18729374646574__67d25079-454a-42a5-8f56-8267d6c949f3-1682333027c4f732ce-2"
       ],
       "settings": {
-        "title": "Explore Our Services",
+        "title": "Explore My Services",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 3,
@@ -291,21 +291,21 @@
         "template--18729374646574__c88152b4-8d61-42e6-a58c-873053f902f5-168415258743e5623a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Embrace this incredible journey with us",
+            "heading": "Embrace this incredible journey",
             "heading_size": "h1"
           }
         },
         "template--18729374646574__c88152b4-8d61-42e6-a58c-873053f902f5-168415258743e5623a-1": {
           "type": "text",
           "settings": {
-            "text": "Reach out today and let us tailor our support to ensure that you have an empowering and positive birth experience.",
+            "text": "Reach out today to ensure that you have an empowering and positive birth experience.",
             "text_style": "body"
           }
         },
         "template--18729374646574__c88152b4-8d61-42e6-a58c-873053f902f5-168415258743e5623a-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Contact Us",
+            "button_label_1": "Contact Me",
             "button_link_1": "shopify:\/\/pages\/contact",
             "button_style_secondary_1": false,
             "button_label_2": "",
