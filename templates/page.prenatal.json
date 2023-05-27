@@ -100,6 +100,7 @@
         },
         "template--18810846511406__3a5af9d3-6251-42ff-b0b7-d9c0dba4745c-16818981958dea8d62-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -197,6 +198,188 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "551d42b1-acec-4368-bd35-9954560f1277": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--18810846511406__551d42b1-acec-4368-bd35-9954560f1277-1685202660f16a6c03-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Create a Birth Plan",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "eda4f70a-2b69-479c-ac79-ade937ef7251": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Pregnancy Meal-Planning",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--18810846511406__551d42b1-acec-4368-bd35-9954560f1277-1685202660f16a6c03-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Labor Prep & Childbirth Education Classes",
+            "icon": "check_mark",
+            "row_content": "<p>Comprehensive education on the process of labor and birth, pain management options, possible interventions, etc.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18810846511406__551d42b1-acec-4368-bd35-9954560f1277-1685202660f16a6c03-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Infant CPR training",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--18810846511406__551d42b1-acec-4368-bd35-9954560f1277-1685202660f16a6c03-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Baby Proofing",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "5b92c23c-b484-4e63-8448-20f818b782ad": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Customized Resources and Referrals",
+            "icon": "check_mark",
+            "row_content": "<p>Personalized resources and referrals, including coordinating with other professionals such as personal trainers, nutritionists, lactation consultants, or postpartum therapists as needed.<\/p>",
+            "page": ""
+          }
+        },
+        "b045aa4f-0fb4-4510-adab-85376cf78515": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Relaxation and Stress Management Techniques",
+            "icon": "check_mark",
+            "row_content": "<p>Teach the expectant mother various techniques such as guided meditation, deep breathing exercises, and yoga positions that can help manage stress during pregnancy.<\/p>",
+            "page": ""
+          }
+        },
+        "fb5a5d17-cad9-4e78-a9e7-47c429ccec76": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Exercise Guidance",
+            "icon": "check_mark",
+            "row_content": "<p>Provide advice or collaborate with a fitness professional to devise a safe and effective exercise plan suitable for pregnancy.<\/p>",
+            "page": ""
+          }
+        },
+        "40fcd8f1-09b7-4c2a-bc9b-600b4f5d1dc3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Breastfeeding Preparation",
+            "icon": "check_mark",
+            "row_content": "<p>Educate about breastfeeding techniques, benefits, potential challenges, and resources for additional support if needed.<\/p>",
+            "page": ""
+          }
+        },
+        "920b41d3-d47a-4848-beff-35c0681f5450": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Postpartum Planning",
+            "icon": "check_mark",
+            "row_content": "<p>Help clients prepare for the postpartum period, including discussions about mental health, recovery, and adjusting to new family dynamics.<\/p>",
+            "page": ""
+          }
+        },
+        "2dd86ca3-60d8-451d-aa39-bb916571317c": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Sibling Preparation",
+            "icon": "check_mark",
+            "row_content": "<p>If there are older siblings, provide resources or guidance on how to prepare them for the arrival of a new baby.<\/p>",
+            "page": ""
+          }
+        },
+        "11b3f430-2bca-45d7-bde5-5acd6fe9735b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Hospital Tour Assistance",
+            "icon": "check_mark",
+            "row_content": "<p>Help the client prepare for a hospital tour, providing a list of questions to ask, and what to look out for.<\/p>",
+            "page": ""
+          }
+        },
+        "f5a2e4f3-ffed-4b4c-8514-56b7336062aa": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Prenatal Bonding Techniques",
+            "icon": "check_mark",
+            "row_content": "<p>Educate about various techniques that can help parents bond with their unborn baby, like talking, singing, or reading to the bump, or understanding baby's movements.<\/p>",
+            "page": ""
+          }
+        },
+        "03b006f9-aa28-4282-a548-04e106f84dea": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Pelvic Floor Health",
+            "icon": "check_mark",
+            "row_content": "<p>Information and exercises to strengthen the pelvic floor before and after birth.<\/p>",
+            "page": ""
+          }
+        },
+        "7a6127f8-4529-49a2-8908-7c369a3e98e1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Labor Rehearsal",
+            "icon": "check_mark",
+            "row_content": "<p>A practice run of labor, including positions, comfort measures, and breathing techniques.<\/p>",
+            "page": ""
+          }
+        },
+        "b4128f12-6689-4af5-9b0d-8bc1227f0963": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "Concierge-Level Service",
+            "icon": "check_mark",
+            "row_content": "<p>Coordination of appointments, nursery setup, assistance in interviewing and hiring additional help like nannies or lactation consultants, etc.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18810846511406__551d42b1-acec-4368-bd35-9954560f1277-1685202660f16a6c03-0",
+        "eda4f70a-2b69-479c-ac79-ade937ef7251",
+        "template--18810846511406__551d42b1-acec-4368-bd35-9954560f1277-1685202660f16a6c03-1",
+        "template--18810846511406__551d42b1-acec-4368-bd35-9954560f1277-1685202660f16a6c03-2",
+        "template--18810846511406__551d42b1-acec-4368-bd35-9954560f1277-1685202660f16a6c03-3",
+        "5b92c23c-b484-4e63-8448-20f818b782ad",
+        "b045aa4f-0fb4-4510-adab-85376cf78515",
+        "fb5a5d17-cad9-4e78-a9e7-47c429ccec76",
+        "40fcd8f1-09b7-4c2a-bc9b-600b4f5d1dc3",
+        "920b41d3-d47a-4848-beff-35c0681f5450",
+        "2dd86ca3-60d8-451d-aa39-bb916571317c",
+        "11b3f430-2bca-45d7-bde5-5acd6fe9735b",
+        "f5a2e4f3-ffed-4b4c-8514-56b7336062aa",
+        "03b006f9-aa28-4282-a548-04e106f84dea",
+        "7a6127f8-4529-49a2-8908-7c369a3e98e1",
+        "b4128f12-6689-4af5-9b0d-8bc1227f0963"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "During your prenatal visits, you will receive:",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "accent-2",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -205,6 +388,7 @@
     "0924b7c9-964a-4a5a-91a0-50f584ec996b",
     "3a5af9d3-6251-42ff-b0b7-d9c0dba4745c",
     "56777cb6-4ef0-4ef3-ac8e-b086478c002e",
-    "654c9ba4-e0e8-4c2b-bc96-25f147c11eca"
+    "654c9ba4-e0e8-4c2b-bc96-25f147c11eca",
+    "551d42b1-acec-4368-bd35-9954560f1277"
   ]
 }
