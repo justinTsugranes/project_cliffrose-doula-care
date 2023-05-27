@@ -396,7 +396,6 @@
     },
     "2eafda6c-236e-4ba7-bd3c-8f536acdac8f": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--18771324829998__2eafda6c-236e-4ba7-bd3c-8f536acdac8f-16842414368d32b4cb-0": {
           "type": "heading",
@@ -427,7 +426,6 @@
     },
     "100a1749-c95f-487d-b1b6-0b6a3bd56237": {
       "type": "featured-blog",
-      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -441,55 +439,6 @@
         "show_view_all": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "8ef8dba0-8ae0-415f-8a7e-84a3697a6571": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Speak With A Doula",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-1": {
-          "type": "text",
-          "settings": {
-            "text": "We believe strongly that everyone deserves a doula. <strong>No one will be turned away for lack of resources. <\/strong>Reach out and we can discuss how we can best support you best.",
-            "text_style": "body"
-          }
-        },
-        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "CONTACT US",
-            "button_link_1": "shopify:\/\/pages\/contact",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-0",
-        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-1",
-        "template--18729374253358__8ef8dba0-8ae0-415f-8a7e-84a3697a6571-1681573451f0a6c354-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.46.09_PM.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-right",
-        "show_text_box": true,
-        "desktop_content_alignment": "right",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     }
   },
@@ -509,7 +458,6 @@
     "68cc8aa0-4f8e-4611-9747-518553520868",
     "cb947bb7-afb7-4c6b-8e6a-fd4a4c1692d3",
     "2eafda6c-236e-4ba7-bd3c-8f536acdac8f",
-    "100a1749-c95f-487d-b1b6-0b6a3bd56237",
-    "8ef8dba0-8ae0-415f-8a7e-84a3697a6571"
+    "100a1749-c95f-487d-b1b6-0b6a3bd56237"
   ]
 }
