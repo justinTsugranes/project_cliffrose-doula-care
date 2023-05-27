@@ -13,7 +13,7 @@
         "template--18810846511406__ba3e7a25-353b-4e65-9fb2-c87d2557b96b-16818980976fb5b99b-1": {
           "type": "text",
           "settings": {
-            "text": "The first forty days",
+            "text": "The first forty days & onward",
             "text_style": "body"
           }
         }
@@ -81,47 +81,153 @@
         "padding_bottom": 36
       }
     },
-    "3a5af9d3-6251-42ff-b0b7-d9c0dba4745c": {
-      "type": "image-with-text",
-      "disabled": true,
+    "1dce49f3-967f-4439-af64-9af7d78cc841": {
+      "type": "collapsible-content",
       "blocks": {
-        "template--18810846511406__3a5af9d3-6251-42ff-b0b7-d9c0dba4745c-16818981958dea8d62-0": {
-          "type": "heading",
+        "template--18810912407854__1dce49f3-967f-4439-af64-9af7d78cc841-1685202660f16a6c03-0": {
+          "type": "collapsible_row",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "In-Home Visits",
+            "icon": "check_mark",
+            "row_content": "<ul><li>Within the first two weeks postpartum, your doula will schedule visits to your home, providing emotional support, practical assistance, and answering any questions you may have about the birth experience or newborn care.<\/li><\/ul>",
+            "page": ""
           }
         },
-        "template--18810846511406__3a5af9d3-6251-42ff-b0b7-d9c0dba4745c-16818981958dea8d62-1": {
-          "type": "text",
+        "template--18810912407854__1dce49f3-967f-4439-af64-9af7d78cc841-1685202660f16a6c03-1": {
+          "type": "collapsible_row",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
+            "heading": "Emotional Support",
+            "icon": "check_mark",
+            "row_content": "<p>Your doula is here to listen and provide a safe space for you to share your feelings, emotions, and thoughts about adjusting to life with a new baby. We've been right where you're sitting and <em>hear you<\/em> on the good, the bad, and the tough stuff. <\/p>",
+            "page": ""
           }
         },
-        "template--18810846511406__3a5af9d3-6251-42ff-b0b7-d9c0dba4745c-16818981958dea8d62-2": {
-          "type": "button",
+        "template--18810912407854__1dce49f3-967f-4439-af64-9af7d78cc841-1685202660f16a6c03-2": {
+          "type": "collapsible_row",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "heading": "Resources and Tips on Infant Feeding",
+            "icon": "check_mark",
+            "row_content": "<p>Your doula will provide valuable tips on managing milk supply and infant feeding, including breastfeeding, bottle-feeding and using supplementary systems, to help you navigate this important aspect of newborn care.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18810912407854__1dce49f3-967f-4439-af64-9af7d78cc841-1685202660f16a6c03-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Meal Planning & Grocery Lists",
+            "icon": "check_mark",
+            "row_content": "<p>Your doula will help you plan meals and provide a grocery list to make your life a little easier during the postpartum period. We can also arrange contact-free drop-off of needed items, organize a meal train, or designate assistance from your community of friends and family.<\/p>",
+            "page": ""
+          }
+        },
+        "6b65d12c-60e2-46d7-8d60-17c14daab5a8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Ongoing Postpartum Care",
+            "icon": "check_mark",
+            "row_content": "<p>Your doula understands that postpartum care extends beyond the initial weeks with a newborn. We are committed to providing ongoing support to new parents, those with toddlers, or multiple children through simple acts of caring for the parent, while you care for your family.<\/p>",
+            "page": ""
+          }
+        },
+        "b15f1937-6c64-4a33-84d4-2fcc4ef13ff2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Sleep Support",
+            "icon": "check_mark",
+            "row_content": "<p>Educate about newborn sleep patterns and safe sleep practices, provide guidance on techniques to soothe a fussy baby, and offer suggestions for parents to maximize their own rest.<\/p>",
+            "page": ""
+          }
+        },
+        "8d34a05b-0035-4d56-bbea-afaa83ea39f1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Newborn Care Education",
+            "icon": "check_mark",
+            "row_content": "<p>Teach or review basic newborn care skills such as bathing, diapering, swaddling, understanding baby's cues, and so on.<\/p>",
+            "page": ""
+          }
+        },
+        "173465b1-36a5-47ef-a4a2-6cebc85a8117": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Breastfeeding & Bottle Feeding Support",
+            "icon": "check_mark",
+            "row_content": "<p>Assist with any breastfeeding or bottle feeding issues that arise, and provide referrals to lactation consultants if needed.<\/p>",
+            "page": ""
+          }
+        },
+        "da5508d3-bd9f-492b-adb1-0af468b7a730": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Physical Recovery Support",
+            "icon": "check_mark",
+            "row_content": "<p>Provide information and support for the physical recovery process after birth, such as care for perineal areas, recognizing signs of infection, and understanding what's normal during postpartum healing.<\/p>",
+            "page": ""
+          }
+        },
+        "1172211d-f5b3-48e7-b779-8b3e3e2f129c": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Postpartum Exercise Guidance",
+            "icon": "check_mark",
+            "row_content": "<p>Once approved by a healthcare provider, provide advice or resources on safe postpartum exercises to strengthen the body and boost mood.<\/p>",
+            "page": ""
+          }
+        },
+        "cdca576d-3009-4d66-8a9e-18a7a9e80359": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Mental Health Check-Ins",
+            "icon": "check_mark",
+            "row_content": "<p>Regularly check in on the mother's mental health, provide resources and referrals if signs of postpartum depression or anxiety are evident.<\/p>",
+            "page": ""
+          }
+        },
+        "cc1a382e-b3c7-418e-a25a-5390c107e6b9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Baby Equipment Advice",
+            "icon": "check_mark",
+            "row_content": "<p>Provide advice on the usage of baby equipment such as carriers, strollers, or breast pumps.<\/p>",
+            "page": ""
+          }
+        },
+        "27e23b8d-08fa-45f5-9cf1-9152d129eec7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Parenting Resources",
+            "icon": "check_mark",
+            "row_content": "<p>Provide resources and tips on general parenting topics as needed, such as infant development or child safety.<\/p>",
+            "page": ""
           }
         }
       },
       "block_order": [
-        "template--18810846511406__3a5af9d3-6251-42ff-b0b7-d9c0dba4745c-16818981958dea8d62-0",
-        "template--18810846511406__3a5af9d3-6251-42ff-b0b7-d9c0dba4745c-16818981958dea8d62-1",
-        "template--18810846511406__3a5af9d3-6251-42ff-b0b7-d9c0dba4745c-16818981958dea8d62-2"
+        "template--18810912407854__1dce49f3-967f-4439-af64-9af7d78cc841-1685202660f16a6c03-0",
+        "template--18810912407854__1dce49f3-967f-4439-af64-9af7d78cc841-1685202660f16a6c03-1",
+        "template--18810912407854__1dce49f3-967f-4439-af64-9af7d78cc841-1685202660f16a6c03-2",
+        "template--18810912407854__1dce49f3-967f-4439-af64-9af7d78cc841-1685202660f16a6c03-3",
+        "6b65d12c-60e2-46d7-8d60-17c14daab5a8",
+        "b15f1937-6c64-4a33-84d4-2fcc4ef13ff2",
+        "8d34a05b-0035-4d56-bbea-afaa83ea39f1",
+        "173465b1-36a5-47ef-a4a2-6cebc85a8117",
+        "da5508d3-bd9f-492b-adb1-0af468b7a730",
+        "1172211d-f5b3-48e7-b779-8b3e3e2f129c",
+        "cdca576d-3009-4d66-8a9e-18a7a9e80359",
+        "cc1a382e-b3c7-418e-a25a-5390c107e6b9",
+        "27e23b8d-08fa-45f5-9cf1-9152d129eec7"
       ],
       "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "accent-2",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -131,6 +237,6 @@
     "ba3e7a25-353b-4e65-9fb2-c87d2557b96b",
     "main",
     "0924b7c9-964a-4a5a-91a0-50f584ec996b",
-    "3a5af9d3-6251-42ff-b0b7-d9c0dba4745c"
+    "1dce49f3-967f-4439-af64-9af7d78cc841"
   ]
 }
