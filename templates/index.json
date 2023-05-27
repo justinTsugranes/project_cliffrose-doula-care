@@ -36,8 +36,8 @@
       ],
       "custom_css": [
         "h2,p {color: #333333;}",
-        "a {background: #2D6650; color: #fafafa;}",
-        "a:hover {color: #fafafa;}",
+        "a {background: #2d6650; color: #FBFDFC;}",
+        "a:hover {color: #FBFDFC;}",
         "@media screen and (min-width: 749px) {.banner__content > div {border-radius: 16px; backdrop-filter: blur(3px); -webkit-backdrop-filter: blur(3px); }}"
       ],
       "settings": {
