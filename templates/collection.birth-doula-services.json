@@ -156,23 +156,14 @@
         "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Before your estimated due date, we’ll get you ready and feeling great!<\/h2><p>During these visits, we'll...<\/p><ul><li>Build our connection<\/li><li>Discuss your birth preferences<\/li><li>Create a <strong>Birth Plan<\/strong><\/li><li>Practice relaxation techniques in our <strong>Labor Prep<\/strong> class<\/li><li>Talk about comfort measures, labor positions and self-advocacy<\/li><li>Go through <strong>Infant CPR<\/strong> training<\/li><li>Provide tips on laboring at home<\/li><li>Talk about ways to <strong>Baby Proof<\/strong> your home<\/li><li>Discuss Customized Resources and Referrals<\/li><\/ul><p>These visits are designed to help you get ready for your baby, address any questions or concerns you may have, and ensure you feel prepared and confident for your upcoming birth experience.<\/p><p>Wondering what we'll cover? <a href=\"\/pages\/prenatal-care\" title=\"Prenatal Care\"><strong>Visit our Prenatal Care Page to learn more<\/strong><\/a><\/p>",
+            "text": "<h2>Before your estimated due date, we’ll get you ready and feeling great!<\/h2><p><span style=\"text-decoration:underline\">During these visits, we'll:<\/span><\/p><ul><li>Build our connection<\/li><li>Discuss your birth preferences<\/li><li>Create a <strong>Birth Plan<\/strong><\/li><li>Practice relaxation techniques in our <strong>Labor Prep<\/strong> class<\/li><li>Talk about comfort measures, labor positions and self-advocacy<\/li><li>Go through <strong>Infant CPR<\/strong> training<\/li><li>Provide tips on laboring at home<\/li><li>Talk about ways to <strong>Baby Proof<\/strong> your home<\/li><li>Discuss Customized Resources and Referrals<\/li><\/ul><p>These visits are designed to help you get ready for your baby, address any questions or concerns you may have, and ensure you feel prepared and confident for your upcoming birth experience.<\/p><p>Wondering what we'll cover? <a href=\"\/pages\/prenatal-care\" title=\"Prenatal Care\"><strong>Visit My Prenatal Care Page to learn more<\/strong><\/a><\/p>",
             "text_style": "body"
-          }
-        },
-        "da8070e9-43ee-4c6d-a9e9-d3871ad6a149": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Contact Me",
-            "button_link": "shopify:\/\/pages\/contact"
           }
         }
       },
       "block_order": [
         "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-0",
-        "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-1",
-        "da8070e9-43ee-4c6d-a9e9-d3871ad6a149"
+        "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_12.47.01_PM.jpg",
@@ -202,7 +193,7 @@
         "c562822e-adcf-4ebd-9861-5bd2f974a7fb": {
           "type": "text",
           "settings": {
-            "text": "<p>We are here for you 24\/7 with on-call availability starting at 38 weeks gestation and continuing through the last weeks of pregnancy, birth, and postpartum period.<\/p><p>You can count on us to be there whenever you need us, whether it's answering questions, providing guidance, or offering support day or night.<\/p><p>You can have peace of mind knowing that we are just a call or message away, ready to provide answers or just a listening ear.<\/p><p>After contacting your doula at onset of labor, we will be constantly available via phone or video call, and text before they meet you at home or at your preferred delivery location through the duration of labor.<\/p><p><a href=\"\/pages\/contact\" title=\"Contact\"><strong>Contact Us &gt;<\/strong><\/a><\/p>",
+            "text": "<p>I am here for you 24\/7 with on-call availability starting at 38 weeks gestation and continuing through the last weeks of pregnancy, birth, and postpartum period.<\/p><p>You can count on me to be there whenever you need, whether it's answering questions, providing guidance, or offering support day or night.<\/p><p>You can have peace of mind knowing that I am just a call or message away, ready to provide answers or just a listening ear.<\/p><p>After contacting me at onset of labor, I will be constantly available via phone or video call, and text before they meet you at home or at your preferred delivery location through the duration of labor.<\/p><p><a href=\"\/pages\/contact\" title=\"Contact\"><strong>Contact Me &gt;<\/strong><\/a><\/p>",
             "text_style": "body"
           }
         }
@@ -239,7 +230,7 @@
         "template--18729374253358__fc418fa7-c9e2-4739-ba49-c6d6c8146c15-1681573430b2e45cde-1": {
           "type": "text",
           "settings": {
-            "text": "<p>I will be by your side throughout your labor, providing continuous support, encouragement, and comfort, regardless of your chosen birth location (home, birthing center, or hospital).<\/p><p>Some of the services you will receive include:<\/p><ul><li>Rebozo Massage<\/li><li>Birthing Ball & Peanut Ball<\/li><li>Breathing Techniques<\/li><li>Counter Pressure & Physical Support<\/li><li>Hydrotherapy Assistance<\/li><li>Acupressure or Light Touch Massage<\/li><li>Visualization & Mindfulness Techniques<\/li><li>Birth Room Ambiance & Aromatherapy<\/li><li>Immediate Postpartum Support<\/li><li>Complimentary Birth Photography and Video<\/li><\/ul><p>With comprehensive support through labor, you can feel secure, like I have your back! And your front too :)<\/p><p><a href=\"\/pages\/labor-support\" title=\"Labor Support\"><strong>Visit our Labor Support page to Learn More<\/strong><\/a><\/p>",
+            "text": "<p>I will be by your side throughout your labor, providing continuous support, encouragement, and comfort, regardless of your chosen birth location (home, birthing center, or hospital).<\/p><p><span style=\"text-decoration:underline\">Some of the services you will receive include:<\/span><\/p><ul><li>Rebozo Massage<\/li><li>Birthing Ball & Peanut Ball<\/li><li>Breathing Techniques<\/li><li>Counter Pressure & Physical Support<\/li><li>Hydrotherapy Assistance<\/li><li>Acupressure or Light Touch Massage<\/li><li>Visualization & Mindfulness Techniques<\/li><li>Birth Room Ambiance & Aromatherapy<\/li><li>Immediate Postpartum Support<\/li><li>Complimentary Birth Photography and Video<\/li><\/ul><p>With comprehensive support through labor, you can feel secure, like I have your back! And your front too :)<\/p><p><a href=\"\/pages\/labor-support\" title=\"Labor Support\"><strong>Visit my Labor Support page to Learn More<\/strong><\/a><\/p>",
             "text_style": "body"
           }
         }
@@ -276,7 +267,7 @@
         "template--18729374253358__89b62bcb-54fc-4333-a0d8-84ddeda87828-1681573430b2e45cde-1": {
           "type": "text",
           "settings": {
-            "text": "<p>My postpartum doula services extend beyond the birth, providing essential support during the early weeks of parenthood.<\/p><p>You will receive:<\/p><ul><li>In-Home Visits<\/li><li>Emotional Support<\/li><li>Resources and Tips on Infant Feeding<\/li><li>Meal Planning and Grocery Lists<\/li><li>Ongoing Postpartum Care<\/li><\/ul><p>Postpartum visits are designed to meet you where you're at, from the comfort of your home to help navigate the early weeks of parenthood knowing that <strong>YOU ARE MADE FOR THIS<\/strong>!<\/p><p><a href=\"\/pages\/postpartum-support\" title=\"Postpartum Support\"><strong>Visit our Postpartum Support page to Learn More &gt;<\/strong><\/a><\/p>",
+            "text": "<p>My postpartum doula services extend beyond the birth, providing essential support during the early weeks of parenthood.<\/p><p><span style=\"text-decoration:underline\">You will receive:<\/span><\/p><ul><li>In-Home Visits<\/li><li>Emotional Support<\/li><li>Resources and Tips on Infant Feeding<\/li><li>Meal Planning and Grocery Lists<\/li><li>Ongoing Postpartum Care<\/li><\/ul><p>Postpartum visits are designed to meet you where you're at, from the comfort of your home to help navigate the early weeks of parenthood knowing that <strong>YOU ARE MADE FOR THIS<\/strong>!<\/p><p><a href=\"\/pages\/postpartum-support\" title=\"Postpartum Support\"><strong>Visit my Postpartum Support page to Learn More &gt;<\/strong><\/a><\/p>",
             "text_style": "body"
           }
         }
