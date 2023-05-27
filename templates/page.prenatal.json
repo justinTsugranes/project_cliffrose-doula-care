@@ -83,6 +83,7 @@
     },
     "3a5af9d3-6251-42ff-b0b7-d9c0dba4745c": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18810846511406__3a5af9d3-6251-42ff-b0b7-d9c0dba4745c-16818981958dea8d62-0": {
           "type": "heading",
@@ -128,6 +129,7 @@
     },
     "56777cb6-4ef0-4ef3-ac8e-b086478c002e": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18810846511406__56777cb6-4ef0-4ef3-ac8e-b086478c002e-168520044849f62fe5-0": {
           "type": "heading",
