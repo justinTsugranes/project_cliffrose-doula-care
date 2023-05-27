@@ -35,8 +35,8 @@
         "fc31c9fe-7fd3-4f3b-a73c-e884f3e0dcb1"
       ],
       "custom_css": [
-        "h2,p {color: #1c1c1c;}",
-        "a {background: #aa5740; color: #ffffff;}",
+        "h2,p {color: #333333;}",
+        "a {background: #005792; color: #fafafa;}",
         "a:hover {color: #ffffff;}",
         "@media screen and (min-width: 749px) {.banner__content > div {border-radius: 16px; backdrop-filter: blur(3px); -webkit-backdrop-filter: blur(3px); }}"
       ],
