@@ -125,6 +125,51 @@
         "padding_bottom": 36
       }
     },
+    "56777cb6-4ef0-4ef3-ac8e-b086478c002e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18810846511406__56777cb6-4ef0-4ef3-ac8e-b086478c002e-168520044849f62fe5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Prenatal Doula Support",
+            "heading_size": "h1"
+          }
+        },
+        "template--18810846511406__56777cb6-4ef0-4ef3-ac8e-b086478c002e-168520044849f62fe5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Before your estimated due date, we’ll have some visits together to get you ready and feeling good!<\/h2><p>During these visits, we'll...<\/p><ul><li>Build our connection<\/li><li>Discuss your birth preferences<\/li><li>Create a Birth Plan<\/li><li>Practice relaxation techniques in our Labor Prep class<\/li><li>Talk about comfort measures, labor positions and self-advocacy<\/li><li>Provide tips on laboring at home<\/li><\/ul><p>These visits are designed to help you get ready for your baby, address any questions or concerns you may have, and ensure you feel prepared and confident for your upcoming birth experience.<\/p><p><strong>Wondering what we'll cover? Check out our <\/strong><a href=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSficKDbiR9TcYFqryZo72Y3v77RRLmb757Ym0XNtpt63Q-P2g\/viewform?usp=sf_link\" title=\"birth planning checklist\"><strong>Planning Checklist <\/strong><\/a><strong>filled with topics we can explore together.<\/strong><\/p><p><a href=\"https:\/\/cliffrose-doula.myshopify.com\/pages\/contact\" title=\"Contact\"><strong>Contact Us &gt;<\/strong><\/a><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18810846511406__56777cb6-4ef0-4ef3-ac8e-b086478c002e-168520044849f62fe5-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18810846511406__56777cb6-4ef0-4ef3-ac8e-b086478c002e-168520044849f62fe5-0",
+        "template--18810846511406__56777cb6-4ef0-4ef3-ac8e-b086478c002e-168520044849f62fe5-1",
+        "template--18810846511406__56777cb6-4ef0-4ef3-ac8e-b086478c002e-168520044849f62fe5-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "654c9ba4-e0e8-4c2b-bc96-25f147c11eca": {
       "type": "featured-collection",
       "disabled": true,
@@ -159,6 +204,7 @@
     "main",
     "0924b7c9-964a-4a5a-91a0-50f584ec996b",
     "3a5af9d3-6251-42ff-b0b7-d9c0dba4745c",
+    "56777cb6-4ef0-4ef3-ac8e-b086478c002e",
     "654c9ba4-e0e8-4c2b-bc96-25f147c11eca"
   ]
 }
