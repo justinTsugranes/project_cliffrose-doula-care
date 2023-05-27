@@ -156,12 +156,13 @@
         "template--18729374253358__e8f888b7-2ae1-4533-85a6-58cd7107120d-1681573430b2e45cde-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Before your estimated due date, we’ll get you ready and feeling great!<\/h2><p>During these visits, we'll...<\/p><ul><li>Build our connection<\/li><li>Discuss your birth preferences<\/li><li>Create a <strong>Birth Plan<\/strong><\/li><li>Practice relaxation techniques in our <strong>Labor Prep<\/strong> class<\/li><li>Talk about comfort measures, labor positions and self-advocacy<\/li><li>Go through <strong>Infant CPR<\/strong> training<\/li><li>Provide tips on laboring at home<\/li><li>Talk about ways to <strong>Baby Proof<\/strong> your home<\/li><li>Discuss Customized Resources and Referrals<\/li><\/ul><p>These visits are designed to help you get ready for your baby, address any questions or concerns you may have, and ensure you feel prepared and confident for your upcoming birth experience.<\/p><p>Wondering what we'll cover? <a href=\"\/pages\/prenatal-care\" title=\"Prenatal Care\"><strong>Visit our Prenatal Care Page to learn more<\/strong><\/a><\/p><p><a href=\"\/pages\/contact\" title=\"Contact\"><strong>Contact Me &gt;<\/strong><\/a><\/p>",
+            "text": "<h2>Before your estimated due date, we’ll get you ready and feeling great!<\/h2><p>During these visits, we'll...<\/p><ul><li>Build our connection<\/li><li>Discuss your birth preferences<\/li><li>Create a <strong>Birth Plan<\/strong><\/li><li>Practice relaxation techniques in our <strong>Labor Prep<\/strong> class<\/li><li>Talk about comfort measures, labor positions and self-advocacy<\/li><li>Go through <strong>Infant CPR<\/strong> training<\/li><li>Provide tips on laboring at home<\/li><li>Talk about ways to <strong>Baby Proof<\/strong> your home<\/li><li>Discuss Customized Resources and Referrals<\/li><\/ul><p>These visits are designed to help you get ready for your baby, address any questions or concerns you may have, and ensure you feel prepared and confident for your upcoming birth experience.<\/p><p>Wondering what we'll cover? <a href=\"\/pages\/prenatal-care\" title=\"Prenatal Care\"><strong>Visit our Prenatal Care Page to learn more<\/strong><\/a><\/p>",
             "text_style": "body"
           }
         },
         "da8070e9-43ee-4c6d-a9e9-d3871ad6a149": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Contact Me",
             "button_link": "shopify:\/\/pages\/contact"
@@ -201,7 +202,7 @@
         "template--18729374253358__fc418fa7-c9e2-4739-ba49-c6d6c8146c15-1681573430b2e45cde-1": {
           "type": "text",
           "settings": {
-            "text": "<p>I will be by your side throughout your labor, providing continuous support, encouragement, and comfort, regardless of your chosen birth location (home, birthing center, or hospital).<\/p><p>Some of the services you will receive include:<\/p><ul><li>Rebozo Massage<\/li><li>Birthing Ball & Peanut Ball<\/li><li>Breathing Techniques<\/li><li>Counter Pressure & Physical Support<\/li><li>Hydrotherapy Assistance<\/li><li>Acupressure or Light Touch Massage<\/li><li>Position Suggestions<\/li><li>Visualization & Mindfulness Techniques<\/li><li>Birth Room Ambiance & Aromatherapy<\/li><li>Immediate Postpartum Support<\/li><li>Complimentary Birth Photography and Video<\/li><\/ul><p><strong>Visit our Labor Support page to learn more<\/strong><\/p><p>With comprehensive support through labor, you can feel secure, like I have your back! And your front too :)<\/p><p><a href=\"\/pages\/contact\" title=\"Contact\"><strong>Contact Us &gt;<\/strong><\/a><\/p>",
+            "text": "<p>I will be by your side throughout your labor, providing continuous support, encouragement, and comfort, regardless of your chosen birth location (home, birthing center, or hospital).<\/p><p>Some of the services you will receive include:<\/p><ul><li>Rebozo Massage<\/li><li>Birthing Ball & Peanut Ball<\/li><li>Breathing Techniques<\/li><li>Counter Pressure & Physical Support<\/li><li>Hydrotherapy Assistance<\/li><li>Acupressure or Light Touch Massage<\/li><li>Position Suggestions<\/li><li>Visualization & Mindfulness Techniques<\/li><li>Birth Room Ambiance & Aromatherapy<\/li><li>Immediate Postpartum Support<\/li><li>Complimentary Birth Photography and Video<\/li><\/ul><p>With comprehensive support through labor, you can feel secure, like I have your back! And your front too :)<\/p><p><a href=\"\/pages\/labor-support\" title=\"Labor Support\"><strong>Visit our Labor Support page to Learn More<\/strong><\/a><\/p>",
             "text_style": "body"
           }
         }
