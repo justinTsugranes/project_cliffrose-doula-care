@@ -240,15 +240,6 @@
             "row_content": "<p>Personalized resources and referrals, including coordinating with other professionals such as personal trainers, nutritionists, lactation consultants, or postpartum therapists as needed.<\/p>",
             "page": ""
           }
-        },
-        "f1d029ff-85db-44d2-a50b-3d74248ae92d": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -257,8 +248,7 @@
         "5d5ba868-c008-45ac-a7e3-8d129aff5797",
         "template--18729374646574__d463519f-a7db-4bf2-a6d8-58a3f69c2f83-1684152529d9a7cdb6-1",
         "template--18729374646574__d463519f-a7db-4bf2-a6d8-58a3f69c2f83-1684152529d9a7cdb6-2",
-        "c0ee8a89-5d6f-4452-8d97-3040c463eb2b",
-        "f1d029ff-85db-44d2-a50b-3d74248ae92d"
+        "c0ee8a89-5d6f-4452-8d97-3040c463eb2b"
       ],
       "settings": {
         "caption": "Birth Doula Services that guide and support you through every stage",
