@@ -77,8 +77,8 @@
         "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 72,
+        "padding_bottom": 76
       }
     },
     "3a5af9d3-6251-42ff-b0b7-d9c0dba4745c": {
@@ -124,7 +124,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 72
       }
     },
     "551d42b1-acec-4368-bd35-9954560f1277": {
@@ -336,6 +336,16 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "30819d45-72fa-4eda-8d08-51bfc2570adc": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Start Your Journey Today",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 76,
+        "padding_bottom": 72
+      }
     }
   },
   "order": [
@@ -344,6 +354,7 @@
     "0924b7c9-964a-4a5a-91a0-50f584ec996b",
     "3a5af9d3-6251-42ff-b0b7-d9c0dba4745c",
     "551d42b1-acec-4368-bd35-9954560f1277",
-    "654c9ba4-e0e8-4c2b-bc96-25f147c11eca"
+    "654c9ba4-e0e8-4c2b-bc96-25f147c11eca",
+    "30819d45-72fa-4eda-8d08-51bfc2570adc"
   ]
 }
