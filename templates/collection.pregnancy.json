@@ -13,7 +13,6 @@
         },
         "template--18729374253358__ce85c669-276b-4afa-a0c1-6237ec717630-1683538762e9228075-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "Create Description Meta field",
             "text_style": "body"
@@ -21,7 +20,6 @@
         },
         "template--18729374253358__ce85c669-276b-4afa-a0c1-6237ec717630-1683538762e9228075-2": {
           "type": "buttons",
-          "disabled": true,
           "settings": {
             "button_label_1": "Dynamic Button",
             "button_link_1": "",
