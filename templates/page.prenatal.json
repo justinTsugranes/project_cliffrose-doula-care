@@ -346,6 +346,97 @@
         "padding_top": 76,
         "padding_bottom": 72
       }
+    },
+    "ca7b0887-ca0d-4768-a835-07a6aa3a9e62": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--18810846511406__ca7b0887-ca0d-4768-a835-07a6aa3a9e62-1685272011d65cc0a7-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is a prenatal birth doula?",
+            "icon": "check_mark",
+            "row_content": "<p>A prenatal birth doula is a professional who provides emotional, physical, and educational support to expectant mothers during pregnancy. They can help with birth planning, provide information on pregnancy and childbirth, and offer emotional support and comfort techniques.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18810846511406__ca7b0887-ca0d-4768-a835-07a6aa3a9e62-1685272011d65cc0a7-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can a prenatal birth doula support me during pregnancy?",
+            "icon": "check_mark",
+            "row_content": "<p>A prenatal birth doula can support you in various ways, including assisting with birth planning, providing information about pregnancy and childbirth, teaching comfort techniques for pregnancy and labor, and offering emotional support. They can also connect you with resources for additional services you may need, such as breastfeeding support or postpartum care.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18810846511406__ca7b0887-ca0d-4768-a835-07a6aa3a9e62-1685272011d65cc0a7-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can a prenatal birth doula replace my healthcare provider?",
+            "icon": "check_mark",
+            "row_content": "<p>No, a prenatal birth doula does not replace a healthcare provider. Doulas do not provide medical care. They are there to complement the care you receive from your healthcare provider, offering emotional, educational, and physical support.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18810846511406__ca7b0887-ca0d-4768-a835-07a6aa3a9e62-1685272011d65cc0a7-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What if I have a high-risk pregnancy? Can a prenatal birth doula still assist me?",
+            "icon": "check_mark",
+            "row_content": "<p>Yes, a prenatal birth doula can still support you if you have a high-risk pregnancy. They can provide emotional support, help you understand your options, and assist in advocating for your needs. However, they will not replace the medical care and monitoring that's necessary in a high-risk pregnancy.<\/p>",
+            "page": ""
+          }
+        },
+        "5edc4971-7935-46f6-af14-d18df3df6355": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How often will I meet with my prenatal birth doula?",
+            "icon": "check_mark",
+            "row_content": "<p>The frequency of meetings can depend on your needs and the service package you choose. Some expectant mothers meet with their doulas several times during pregnancy, while others may meet more frequently as their due date approaches.<\/p>",
+            "page": ""
+          }
+        },
+        "dbb1e3e6-0272-44bf-9fd1-c9732d483aee": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do I need a prenatal birth doula if I'm planning a hospital birth with an obstetrician?",
+            "icon": "check_mark",
+            "row_content": "<p>Many women find having a prenatal birth doula beneficial regardless of their birth setting or who their primary care provider is. Doulas can provide consistent support throughout pregnancy and childbirth and can complement the care you receive from your medical team.<\/p>",
+            "page": ""
+          }
+        },
+        "4785b94b-72b5-4fc6-ad66-aad9172c2b0a": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I choose the right prenatal birth doula for me?",
+            "icon": "check_mark",
+            "row_content": "<p>Choosing the right doula is a personal decision. It can help to meet with a few different doulas to see who you feel most comfortable with. Consider their experience, training, philosophy about birth, and whether they make you feel supported and heard.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18810846511406__ca7b0887-ca0d-4768-a835-07a6aa3a9e62-1685272011d65cc0a7-0",
+        "template--18810846511406__ca7b0887-ca0d-4768-a835-07a6aa3a9e62-1685272011d65cc0a7-1",
+        "template--18810846511406__ca7b0887-ca0d-4768-a835-07a6aa3a9e62-1685272011d65cc0a7-2",
+        "template--18810846511406__ca7b0887-ca0d-4768-a835-07a6aa3a9e62-1685272011d65cc0a7-3",
+        "5edc4971-7935-46f6-af14-d18df3df6355",
+        "dbb1e3e6-0272-44bf-9fd1-c9732d483aee",
+        "4785b94b-72b5-4fc6-ad66-aad9172c2b0a"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Prenatal Care FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "accent-1",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -355,6 +446,7 @@
     "3a5af9d3-6251-42ff-b0b7-d9c0dba4745c",
     "551d42b1-acec-4368-bd35-9954560f1277",
     "654c9ba4-e0e8-4c2b-bc96-25f147c11eca",
-    "30819d45-72fa-4eda-8d08-51bfc2570adc"
+    "30819d45-72fa-4eda-8d08-51bfc2570adc",
+    "ca7b0887-ca0d-4768-a835-07a6aa3a9e62"
   ]
 }
