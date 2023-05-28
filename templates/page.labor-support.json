@@ -300,6 +300,68 @@
         "padding_top": 72,
         "padding_bottom": 72
       }
+    },
+    "bb74d6f7-8191-4b84-800e-a06e35735114": {
+      "type": "collapsible-content",
+      "disabled": true,
+      "blocks": {
+        "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-0",
+        "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-1",
+        "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-2",
+        "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQ",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "accent-1",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -308,6 +370,7 @@
     "0924b7c9-964a-4a5a-91a0-50f584ec996b",
     "fa959fb8-fc0a-4e69-bed6-96f71eaafef1",
     "90d09396-722b-45e0-b074-57f606675e2a",
-    "cb795fa7-6df6-4839-8d12-3f4c530c3b9a"
+    "cb795fa7-6df6-4839-8d12-3f4c530c3b9a",
+    "bb74d6f7-8191-4b84-800e-a06e35735114"
   ]
 }
