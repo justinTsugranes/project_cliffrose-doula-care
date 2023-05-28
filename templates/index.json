@@ -237,7 +237,7 @@
           "settings": {
             "heading": "Customized Resources and Referrals",
             "icon": "check_mark",
-            "row_content": "<p>Personalized resources and referrals, including coordinating with other professionals such as personal trainers, nutritionists, lactation consultants, or postpartum therapists as needed.<\/p>",
+            "row_content": "<p>Personalized resources and referrals, including coordinating with other professionals such as:<\/p><ul><li>personal trainers<\/li><li>nutritionists<\/li><li>outside lactation consultants<\/li><li>postpartum therapists, as needed<\/li><\/ul>",
             "page": ""
           }
         }
