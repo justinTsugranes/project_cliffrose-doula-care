@@ -303,41 +303,67 @@
     },
     "bb74d6f7-8191-4b84-800e-a06e35735114": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
         "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What is a labor support birth doula?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>A labor support birth doula is a trained professional who provides continuous emotional, physical, and informational support to a mother before, during, and just after childbirth.<\/p>",
             "page": ""
           }
         },
         "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What kind of support does a labor support birth doula provide during childbirth?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>During childbirth, a doula provides emotional support, comfort measures, and information about birth progress and medical procedures. They may help with breathing techniques, massage, positioning for comfort and labor progress, and more. They can also facilitate communication between the birthing person and their healthcare providers.<\/p>",
             "page": ""
           }
         },
         "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Can a labor support birth doula make decisions for me during labor and birth?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>No, a doula's role is to support your decisions during labor and birth. They can provide information to help you make informed decisions, but they do not make decisions for you or speak on your behalf.<\/p>",
             "page": ""
           }
         },
         "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Will a labor support birth doula replace my partner during labor and birth?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>No, a doula complements the support from your partner, providing professional knowledge and experience with childbirth. They can also support your partner by offering them breaks and demonstrating ways to assist you during labor.<\/p>",
+            "page": ""
+          }
+        },
+        "dbf270d9-94dc-49b6-b03f-4cc7031f5ee8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How does a labor support birth doula work with my healthcare provider?",
+            "icon": "check_mark",
+            "row_content": "<p>A labor support birth doula works as part of your birth team, complementing the medical care provided by your healthcare provider. They can help facilitate communication between you and your healthcare provider and ensure that you have the information you need to make informed decisions.<\/p>",
+            "page": ""
+          }
+        },
+        "fa6de135-bd62-40a3-aba7-448da0746fd2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can a labor support birth doula assist me if I choose to have an epidural or a planned cesarean birth?",
+            "icon": "check_mark",
+            "row_content": "<p>Yes, a doula can provide support regardless of your birth plan. Their goal is to help you have a positive and empowering birth experience, whatever that may look like for you.<\/p>",
+            "page": ""
+          }
+        },
+        "ea0ddbe7-e964-4ce4-bcd8-e39d6827fc4f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What kind of training does a labor support birth doula have?",
+            "icon": "check_mark",
+            "row_content": "<p>Most labor support birth doulas have completed training programs accredited by professional organizations such as DONA International or CAPPA. They learn about the physical and emotional process of labor and birth, comfort techniques, the role of a doula, and more. Some doulas may also have additional training or certifications.<\/p>",
             "page": ""
           }
         }
@@ -346,14 +372,17 @@
         "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-0",
         "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-1",
         "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-2",
-        "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-3"
+        "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-3",
+        "dbf270d9-94dc-49b6-b03f-4cc7031f5ee8",
+        "fa6de135-bd62-40a3-aba7-448da0746fd2",
+        "ea0ddbe7-e964-4ce4-bcd8-e39d6827fc4f"
       ],
       "settings": {
         "caption": "",
-        "heading": "FAQ",
+        "heading": "Labor Support FAQs",
         "heading_size": "h1",
         "heading_alignment": "center",
-        "layout": "row",
+        "layout": "section",
         "color_scheme": "accent-1",
         "container_color_scheme": "background-1",
         "open_first_collapsible_row": false,
