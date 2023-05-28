@@ -166,6 +166,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "1793219247286972479": {
+        "type": "shopify:\/\/apps\/searchpie-seo-booster-speed\/blocks\/sb-snippets\/29f6c508-9bb9-4e93-9f98-b637b62f3552",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
