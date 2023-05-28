@@ -46,6 +46,7 @@
     },
     "0924b7c9-964a-4a5a-91a0-50f584ec996b": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18810846511406__0924b7c9-964a-4a5a-91a0-50f584ec996b-16818981958dea8d62-0": {
           "type": "heading",
@@ -73,8 +74,46 @@
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "content_layout": "overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "fa959fb8-fc0a-4e69-bed6-96f71eaafef1": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1aff1ca5-8cc4-464a-9c9f-2aaa39e16868": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "e7645fb7-3c20-489b-b6da-9d30bb24fdab": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Whether you choose to give birth at home, at a birthing center, or a hospital, I will be by your side throughout labor to provide encouragement, comfort, and information when questions arise.<\/p><p>Beginning at 37 weeks, I will be available 24\/7 on call. After contacting me at onset of labor, I will be constantly available via phone, video call, and text to provide support as you labor at home or with you at your preferred delivery location through the duration of labor. You can call me for any question, no matter how big or small, anything you need your doula for.<\/p><p>I will remain with you in the immediate hours after your baby is born to assist in skin-to-skin bonding and feeding your baby. I will also arrange to visit with you once you are settled at home, to discuss your experience, give support at home, and see how life is with your new bundle.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "1aff1ca5-8cc4-464a-9c9f-2aaa39e16868",
+        "e7645fb7-3c20-489b-b6da-9d30bb24fdab"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155363_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -251,12 +290,24 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "cb795fa7-6df6-4839-8d12-3f4c530c3b9a": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Start Your Journey Today",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
     }
   },
   "order": [
     "ba3e7a25-353b-4e65-9fb2-c87d2557b96b",
     "main",
     "0924b7c9-964a-4a5a-91a0-50f584ec996b",
-    "90d09396-722b-45e0-b074-57f606675e2a"
+    "fa959fb8-fc0a-4e69-bed6-96f71eaafef1",
+    "90d09396-722b-45e0-b074-57f606675e2a",
+    "cb795fa7-6df6-4839-8d12-3f4c530c3b9a"
   ]
 }
