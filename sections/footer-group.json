@@ -66,13 +66,21 @@
             "heading": "<strong>Birth Doula Services<\/strong>",
             "subtext": "<h2>I work with clients in the Columbia, SC Metropolitan Area.<\/h2><p>Live somewhere else? I also offer <a href=\"\/products\/hourly-virtual-consultations\" title=\"Virtual Doula Consultations\">virtual support<\/a> for birthing people everywhere.<\/p>"
           }
+        },
+        "7484bad0-7b36-4c0a-8166-85ad5f73ce5a": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "subtext": "<p>As an Amazon Associate, I earn from qualifying purchases. When you click on links to various merchants on this channel and make a purchase, this can result in this channel earning a commission.<\/p>"
+          }
         }
       },
       "block_order": [
         "2efa2e29-e726-44dd-bcdb-7e00ceb9731b",
         "23242699-7e61-40bd-a5d8-149325b2c5c2",
         "37e3237f-771f-4d17-a72e-2ebb19dba2d0",
-        "08e0dfd3-7667-45d1-a0c7-b352228adfbb"
+        "08e0dfd3-7667-45d1-a0c7-b352228adfbb",
+        "7484bad0-7b36-4c0a-8166-85ad5f73ce5a"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -88,10 +96,20 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "da8db498-fe35-4229-82d4-c1401f5827f3": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<p>As an Amazon Associate, I earn from qualifying purchases. When you click on links to various merchants on this website and make a purchase, this can result in this website earning a commission.<\/p>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
     "cdf1b523-d4f6-4647-bd27-f91403a7c207",
-    "footer"
+    "footer",
+    "da8db498-fe35-4229-82d4-c1401f5827f3"
   ]
 }
