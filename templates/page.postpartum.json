@@ -44,8 +44,52 @@
         "padding_bottom": 28
       }
     },
+    "f9ba1805-cb4a-4b37-9f82-ea8ae337c5ea": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--18810912407854__f9ba1805-cb4a-4b37-9f82-ea8ae337c5ea-16852731625d665cd1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--18810912407854__f9ba1805-cb4a-4b37-9f82-ea8ae337c5ea-16852731625d665cd1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--18810912407854__f9ba1805-cb4a-4b37-9f82-ea8ae337c5ea-16852731625d665cd1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18810912407854__f9ba1805-cb4a-4b37-9f82-ea8ae337c5ea-16852731625d665cd1-0",
+        "template--18810912407854__f9ba1805-cb4a-4b37-9f82-ea8ae337c5ea-16852731625d665cd1-1",
+        "template--18810912407854__f9ba1805-cb4a-4b37-9f82-ea8ae337c5ea-16852731625d665cd1-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "0924b7c9-964a-4a5a-91a0-50f584ec996b": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18810846511406__0924b7c9-964a-4a5a-91a0-50f584ec996b-16818981958dea8d62-0": {
           "type": "heading",
@@ -68,13 +112,51 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
-        "height": "adapt",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "content_layout": "overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e536251c-6043-4da5-8627-cd916050649b": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "b3d9eec0-236b-41b2-b92d-99673865a9e5": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "7c5b2661-ec8f-4a52-af1e-4be98c916dae": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Visits are arranged to meet you where you’re at and from the comfort of your home. I want to hear about how you’re adjusting to life with a baby, even if it’s tough stuff: your feelings, emotions and thoughts-good or bad. I will answer any questions you may have, visit with you, and provide resources and tips on infant feeding. I will also help you plan meals and give you a grocery list to make life a little easier. If possible, we can arrange contact-free drop off of what you need—support through community, a meal train, or good friends and family is vital in building your village.<\/p><p>I aim to provide support past the initial weeks with a newborn. Postpartum care is widely underrated and can be so helpful to new parents, those with toddlers or multiple children through simple acts of caring for the parent, while you care for your family.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "b3d9eec0-236b-41b2-b92d-99673865a9e5",
+        "7c5b2661-ec8f-4a52-af1e-4be98c916dae"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -231,12 +313,117 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1b381382-9197-4f79-adbb-83f66d7c5b45": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "bc593a47-3905-44c5-a6aa-9238b9deeebc": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--18810912407854__bc593a47-3905-44c5-a6aa-9238b9deeebc-1685272011d65cc0a7-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is a postpartum doula?",
+            "icon": "check_mark",
+            "row_content": "<p>A postpartum doula is a trained professional who provides support to families after the birth of a baby. This support can be emotional, informational, and physical and is intended to help families transition smoothly into life with a newborn.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18810912407854__bc593a47-3905-44c5-a6aa-9238b9deeebc-1685272011d65cc0a7-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What kind of support does a postpartum doula provide?",
+            "icon": "check_mark",
+            "row_content": "<p>A postpartum doula may provide a range of services, including emotional support, infant feeding assistance, baby care guidance, and help with newborn tasks like bathing, diapering, and soothing. They may also assist with light housekeeping, meal preparation, sibling care, and provide resources and referrals as needed.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18810912407854__bc593a47-3905-44c5-a6aa-9238b9deeebc-1685272011d65cc0a7-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How soon after birth does a postpartum doula begin services, and how long do they last?",
+            "icon": "check_mark",
+            "row_content": "<p>A postpartum doula can begin services shortly after birth, often within the first few days after you come home. The duration of services can vary widely depending on a family's needs and preferences, from a few days to several months.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18810912407854__bc593a47-3905-44c5-a6aa-9238b9deeebc-1685272011d65cc0a7-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can a postpartum doula provide overnight care?",
+            "icon": "check_mark",
+            "row_content": "<p>Some postpartum doulas do offer overnight care. They can help with nighttime feedings and soothing, allowing parents to get more sleep.<\/p>",
+            "page": ""
+          }
+        },
+        "4ac1c1a0-63e0-41c7-a90e-1e7d333d1119": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can a postpartum doula support me if I'm adopting or using a surrogate?",
+            "icon": "check_mark",
+            "row_content": "<p>Absolutely, a postpartum doula can provide valuable support to families who are adopting or using a surrogate. They can offer assistance with newborn care, bonding, feeding, and more.<\/p>",
+            "page": ""
+          }
+        },
+        "9992f6ae-2358-4a1e-813f-27031b26e135": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the benefits of hiring a postpartum doula?",
+            "icon": "check_mark",
+            "row_content": "<p>Hiring a postpartum doula can provide many benefits. They can help new parents gain confidence in their parenting skills, provide emotional support, help with recovery from birth, and reduce the risk of postpartum mood disorders. They can also ease the transition into life with a new baby, helping families to enjoy this special time.<\/p>",
+            "page": ""
+          }
+        },
+        "219fe3b7-a25d-4468-985d-204df5f95b99": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I choose the right postpartum doula for me?",
+            "icon": "check_mark",
+            "row_content": "<p>Choosing the right postpartum doula is a personal decision. It can help to interview a few different doulas to see who you feel most comfortable with. Consider their experience, training, philosophy about postpartum care, and whether they make you feel supported and heard.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18810912407854__bc593a47-3905-44c5-a6aa-9238b9deeebc-1685272011d65cc0a7-0",
+        "template--18810912407854__bc593a47-3905-44c5-a6aa-9238b9deeebc-1685272011d65cc0a7-1",
+        "template--18810912407854__bc593a47-3905-44c5-a6aa-9238b9deeebc-1685272011d65cc0a7-2",
+        "template--18810912407854__bc593a47-3905-44c5-a6aa-9238b9deeebc-1685272011d65cc0a7-3",
+        "4ac1c1a0-63e0-41c7-a90e-1e7d333d1119",
+        "9992f6ae-2358-4a1e-813f-27031b26e135",
+        "219fe3b7-a25d-4468-985d-204df5f95b99"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Postpartum Doula Care FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "color_scheme": "accent-1",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "ba3e7a25-353b-4e65-9fb2-c87d2557b96b",
     "main",
+    "f9ba1805-cb4a-4b37-9f82-ea8ae337c5ea",
     "0924b7c9-964a-4a5a-91a0-50f584ec996b",
-    "1dce49f3-967f-4439-af64-9af7d78cc841"
+    "e536251c-6043-4da5-8627-cd916050649b",
+    "1dce49f3-967f-4439-af64-9af7d78cc841",
+    "1b381382-9197-4f79-adbb-83f66d7c5b45",
+    "bc593a47-3905-44c5-a6aa-9238b9deeebc"
   ]
 }
