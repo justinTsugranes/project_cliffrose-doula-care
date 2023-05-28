@@ -428,7 +428,7 @@
         "heading": "Prenatal Care FAQs",
         "heading_size": "h1",
         "heading_alignment": "center",
-        "layout": "row",
+        "layout": "section",
         "color_scheme": "accent-1",
         "container_color_scheme": "background-1",
         "open_first_collapsible_row": false,
