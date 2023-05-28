@@ -304,21 +304,12 @@
     "bb74d6f7-8191-4b84-800e-a06e35735114": {
       "type": "collapsible-content",
       "blocks": {
-        "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "What is a labor support birth doula?",
-            "icon": "check_mark",
-            "row_content": "<p>A labor support birth doula is a trained professional who provides continuous emotional, physical, and informational support to a mother before, during, and just after childbirth.<\/p>",
-            "page": ""
-          }
-        },
         "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "What kind of support does a labor support birth doula provide during childbirth?",
+            "heading": "What kind of labor support does a birth doula provide during childbirth?",
             "icon": "check_mark",
-            "row_content": "<p>During childbirth, a doula provides emotional support, comfort measures, and information about birth progress and medical procedures. They may help with breathing techniques, massage, positioning for comfort and labor progress, and more. They can also facilitate communication between the birthing person and their healthcare providers.<\/p>",
+            "row_content": "<p>During childbirth, a doula provides emotional support, comfort measures, and information about your birth progress and medical procedures. Your doula suggests breathing techniques, provides massage, acupressure and positioning during each phase of labor. They can also facilitate communication between the birthing person and their healthcare providers, but will never speak for you.<\/p>",
             "page": ""
           }
         },
@@ -369,7 +360,6 @@
         }
       },
       "block_order": [
-        "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-0",
         "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-1",
         "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-2",
         "template--18810902053166__bb74d6f7-8191-4b84-800e-a06e35735114-1685272011d65cc0a7-3",
