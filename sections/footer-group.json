@@ -99,6 +99,7 @@
     },
     "da8db498-fe35-4229-82d4-c1401f5827f3": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<p>As an Amazon Associate, I earn from qualifying purchases. When you click on links to various merchants on this website and make a purchase, this can result in this website earning a commission.<\/p>",
         "color_scheme": "background-1",
