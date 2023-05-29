@@ -487,7 +487,7 @@
         "template--18969798443310__cf8d3d74-1bd1-40fc-97bd-9bd01b58f056-16844205081934045e-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-one.png",
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
             "title": "",
             "text": "<h2>Get Started with a Complimentary Consultation<\/h2>",
             "link_label": "",
@@ -497,7 +497,7 @@
         "template--18969798443310__cf8d3d74-1bd1-40fc-97bd-9bd01b58f056-16844205081934045e-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-two.png",
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
             "title": "",
             "text": "<h2>We'll Design Your Ideal Birth Experience Together<\/h2>",
             "link_label": "",
@@ -507,7 +507,7 @@
         "template--18969798443310__cf8d3d74-1bd1-40fc-97bd-9bd01b58f056-16844205081934045e-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-three.png",
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
             "title": "",
             "text": "<h2>Begin Your Path to an Fulfilling Birth and Confident Parenthood<\/h2>",
             "link_label": "",
