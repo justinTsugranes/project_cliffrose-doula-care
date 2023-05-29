@@ -298,52 +298,6 @@
         "padding_bottom": 0
       }
     },
-    "719f2f06-e7b2-4ece-bec6-4ef65948b072": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18771681968430__719f2f06-e7b2-4ece-bec6-4ef65948b072-1684152313b7f2554a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Comprehensive Consultations for Holistic Care",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771681968430__719f2f06-e7b2-4ece-bec6-4ef65948b072-1684152313b7f2554a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Some of the topics our clients typically inquire about include:<\/h2><ul><li><strong>Comfort Measures:<\/strong> Explore environmental influences, relaxation techniques, and affirmations for a serene birthing experience.<\/li><li><strong>Birth Ball Use:<\/strong> Master the use of a birth ball for optimal comfort and labor progression.<\/li><li><strong>Labor Positions:<\/strong> Uncover effective labor positions for a smoother childbirth.<\/li><li><strong>Laboring at Home:<\/strong> Learn the ropes of managing labor in your cozy space.<\/li><li><strong>Advocacy & Understanding Hospital Policies: <\/strong>Empower yourself with the knowledge to advocate for your needs and understand hospital policies.<\/li><li><strong>Immediate Newborn Care: <\/strong>Grasp the essentials of newborn care in the early days and weeks.<\/li><li><strong>Specialized Support: <\/strong>Get guidance and support for unique situations like Miscarriage, Bereavement, Adoption, and Surrogacy.<\/li><\/ul>",
-            "text_style": "body"
-          }
-        },
-        "template--18771681968430__719f2f06-e7b2-4ece-bec6-4ef65948b072-1684152313b7f2554a-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18771681968430__719f2f06-e7b2-4ece-bec6-4ef65948b072-1684152313b7f2554a-0",
-        "template--18771681968430__719f2f06-e7b2-4ece-bec6-4ef65948b072-1684152313b7f2554a-1",
-        "template--18771681968430__719f2f06-e7b2-4ece-bec6-4ef65948b072-1684152313b7f2554a-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.49.56_PM.jpg",
-        "height": "medium",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "accent-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
     "74c1b25d-f975-4bf3-9dbb-8fe00689d06f": {
       "type": "collapsible-content",
       "blocks": {
@@ -435,10 +389,58 @@
         "padding_bottom": 72
       }
     },
+    "5e914806-9527-46d9-98e4-87627280eeb6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18771681968430__5e914806-9527-46d9-98e4-87627280eeb6-168537672377eeee40-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Navigate your path to parenthood with confidence",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771681968430__5e914806-9527-46d9-98e4-87627280eeb6-168537672377eeee40-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Experience the reassurance, empowerment, and personalized guidance of virtual doula consultations, knowing you have our unwavering support.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771681968430__5e914806-9527-46d9-98e4-87627280eeb6-168537672377eeee40-0",
+        "template--18771681968430__5e914806-9527-46d9-98e4-87627280eeb6-168537672377eeee40-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 72,
+        "padding_bottom": 52
+      }
+    },
+    "1685360116c953b93f": {
+      "type": "apps",
+      "disabled": true,
+      "blocks": {
+        "71b82d0e-30af-4fd1-abc3-d0b7240dc375": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "71b82d0e-30af-4fd1-abc3-d0b7240dc375"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "bf3a2aa5-eec6-408d-9a79-fae847bcba19": {
       "type": "contact-form",
       "settings": {
-        "heading": "Have any questions? Contact Us",
+        "heading": "Have any questions? Contact Me",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "padding_top": 72,
@@ -451,34 +453,80 @@
         "template--18771681968430__bef0f8b6-db78-4987-84a9-f5e0a95582aa-16853604720bc8ca1a-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What is a virtual doula consultation?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>A virtual doula consultation is a scheduled meeting with your doula conducted over a video call. These meetings allow you to discuss any aspect of your pregnancy, labor, birth, or postpartum experiences, ask questions, and receive personalized advice and support.<\/p>",
             "page": ""
           }
         },
         "template--18771681968430__bef0f8b6-db78-4987-84a9-f5e0a95582aa-16853604720bc8ca1a-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How do virtual doula consultations work?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Virtual doula consultations take place over a video call using Zoom, Google Meet, or FaceTime. You will schedule a time that works for you we will, and then meet online to discuss your needs.<\/p>",
             "page": ""
           }
         },
         "template--18771681968430__bef0f8b6-db78-4987-84a9-f5e0a95582aa-16853604720bc8ca1a-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What can I expect during a virtual doula consultation?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>During a virtual doula consultation, you can expect to discuss your pregnancy, your hopes and concerns for birth and postpartum, and any specific needs you have. The doula will likely explain their approach and services, answer any questions you have, and discuss how they can best support you.<\/p>",
             "page": ""
           }
         },
         "template--18771681968430__bef0f8b6-db78-4987-84a9-f5e0a95582aa-16853604720bc8ca1a-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How long does a virtual doula consultation last?",
+            "icon": "check_mark",
+            "row_content": "<p>The length of our virtual doula consultations can vary, but they typically last about one hour. This gives you plenty of time to discuss your needs.<\/p>",
+            "page": ""
+          }
+        },
+        "0dd2b7eb-16b4-4b81-bf06-211d40eb7b42": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What should I ask during a virtual doula consultation?",
+            "icon": "check_mark",
+            "row_content": "<p>You might ask about the doula's experience, philosophy about birth and postpartum, what specific services they offer, how they can support you during pregnancy, birth, and postpartum, and any other questions you have about what it's like to work with them.<\/p>",
+            "page": ""
+          }
+        },
+        "79a60513-dd6b-4988-b1aa-4ec2934b4a6b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What topics can we discuss during a virtual doula consultation?",
+            "icon": "check_mark",
+            "row_content": "<p>You can discuss any topics related to your pregnancy, labor, birth, and postpartum experiences. This can range from physical comfort, emotional well-being, preparation for birth, infant feeding, newborn care, transitioning to parenthood, or any other topic that's on your mind.<\/p>",
+            "page": ""
+          }
+        },
+        "04cce17b-cf84-4715-8204-d476ade9e209": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How frequently can I schedule virtual doula consultations?",
+            "icon": "check_mark",
+            "row_content": "<p>The frequency of virtual doula consultations can be tailored to your needs. Some clients prefer to schedule regular weekly or monthly meetings, while others may schedule consultations as specific questions or needs arise.<\/p>",
+            "page": ""
+          }
+        },
+        "22cc02c0-6807-49d0-b401-2c581a4c1d59": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can my partner or other family members participate in the virtual doula consultation?",
+            "icon": "check_mark",
+            "row_content": "<p>Yes, your partner or other family members are welcome to join the virtual consultation if you wish. It's often helpful for everyone involved in the pregnancy, birth, and postpartum experience to be part of these discussions.<\/p>",
+            "page": ""
+          }
+        },
+        "838d1899-4d4d-49b4-a6a1-685b5b31b866": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "What if I have a urgent question or concern? Can I reach out to my doula between consultations?",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -489,7 +537,12 @@
         "template--18771681968430__bef0f8b6-db78-4987-84a9-f5e0a95582aa-16853604720bc8ca1a-0",
         "template--18771681968430__bef0f8b6-db78-4987-84a9-f5e0a95582aa-16853604720bc8ca1a-1",
         "template--18771681968430__bef0f8b6-db78-4987-84a9-f5e0a95582aa-16853604720bc8ca1a-2",
-        "template--18771681968430__bef0f8b6-db78-4987-84a9-f5e0a95582aa-16853604720bc8ca1a-3"
+        "template--18771681968430__bef0f8b6-db78-4987-84a9-f5e0a95582aa-16853604720bc8ca1a-3",
+        "0dd2b7eb-16b4-4b81-bf06-211d40eb7b42",
+        "79a60513-dd6b-4988-b1aa-4ec2934b4a6b",
+        "04cce17b-cf84-4715-8204-d476ade9e209",
+        "22cc02c0-6807-49d0-b401-2c581a4c1d59",
+        "838d1899-4d4d-49b4-a6a1-685b5b31b866"
       ],
       "settings": {
         "caption": "",
@@ -522,96 +575,6 @@
         "padding_top": 72,
         "padding_bottom": 72
       }
-    },
-    "5e914806-9527-46d9-98e4-87627280eeb6": {
-      "type": "rich-text",
-      "blocks": {
-        "template--18771681968430__5e914806-9527-46d9-98e4-87627280eeb6-168537672377eeee40-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771681968430__5e914806-9527-46d9-98e4-87627280eeb6-168537672377eeee40-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "template--18771681968430__5e914806-9527-46d9-98e4-87627280eeb6-168537672377eeee40-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18771681968430__5e914806-9527-46d9-98e4-87627280eeb6-168537672377eeee40-0",
-        "template--18771681968430__5e914806-9527-46d9-98e4-87627280eeb6-168537672377eeee40-1",
-        "template--18771681968430__5e914806-9527-46d9-98e4-87627280eeb6-168537672377eeee40-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "1685360116c953b93f": {
-      "type": "apps",
-      "blocks": {
-        "71b82d0e-30af-4fd1-abc3-d0b7240dc375": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "71b82d0e-30af-4fd1-abc3-d0b7240dc375"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "9530a7ce-ef00-47b4-9984-a6e4c3d53de3": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--18771681968430__9530a7ce-ef00-47b4-9984-a6e4c3d53de3-16841523606ed96b36-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Tailored to You",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771681968430__9530a7ce-ef00-47b4-9984-a6e4c3d53de3-16841523606ed96b36-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our virtual consultations are personal dialogues. We focus on you, your personal preferences, and your concerns. Our guidance is always genuine and evidence-based.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771681968430__9530a7ce-ef00-47b4-9984-a6e4c3d53de3-16841523606ed96b36-0",
-        "template--18771681968430__9530a7ce-ef00-47b4-9984-a6e4c3d53de3-16841523606ed96b36-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
     }
   },
   "order": [
@@ -621,13 +584,11 @@
     "bbaab20a-b2a6-4d62-a4bb-0de6080f2225",
     "f407fc55-88c8-4fe1-9aae-2cb51b0d9d92",
     "main",
-    "719f2f06-e7b2-4ece-bec6-4ef65948b072",
     "74c1b25d-f975-4bf3-9dbb-8fe00689d06f",
-    "bf3a2aa5-eec6-408d-9a79-fae847bcba19",
-    "bef0f8b6-db78-4987-84a9-f5e0a95582aa",
-    "related-products",
     "5e914806-9527-46d9-98e4-87627280eeb6",
     "1685360116c953b93f",
-    "9530a7ce-ef00-47b4-9984-a6e4c3d53de3"
+    "bf3a2aa5-eec6-408d-9a79-fae847bcba19",
+    "bef0f8b6-db78-4987-84a9-f5e0a95582aa",
+    "related-products"
   ]
 }
