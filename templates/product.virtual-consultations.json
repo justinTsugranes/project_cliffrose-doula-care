@@ -49,33 +49,141 @@
         "show_text_below": true
       }
     },
-    "9530a7ce-ef00-47b4-9984-a6e4c3d53de3": {
+    "8bedd775-7475-4249-9a3b-c13f200cf7ba": {
       "type": "rich-text",
       "blocks": {
-        "template--18771681968430__9530a7ce-ef00-47b4-9984-a6e4c3d53de3-16841523606ed96b36-0": {
+        "template--18771681968430__8bedd775-7475-4249-9a3b-c13f200cf7ba-168537672377eeee40-0": {
           "type": "heading",
           "settings": {
-            "heading": "Tailored to You",
+            "heading": "Navigating through pregnancy and childbirth can be overwhelming",
             "heading_size": "h1"
           }
         },
-        "template--18771681968430__9530a7ce-ef00-47b4-9984-a6e4c3d53de3-16841523606ed96b36-1": {
+        "template--18771681968430__8bedd775-7475-4249-9a3b-c13f200cf7ba-168537672377eeee40-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our virtual consultations are personal dialogues. We focus on you, your personal preferences, and your concerns. Our guidance is always genuine and evidence-based.<\/p>"
+            "text": "<p>In this digital age, you're seeking accessible, flexible support that aligns with your busy schedule and provides comfort and guidance right where you are.<\/p>"
           }
         }
       },
       "block_order": [
-        "template--18771681968430__9530a7ce-ef00-47b4-9984-a6e4c3d53de3-16841523606ed96b36-0",
-        "template--18771681968430__9530a7ce-ef00-47b4-9984-a6e4c3d53de3-16841523606ed96b36-1"
+        "template--18771681968430__8bedd775-7475-4249-9a3b-c13f200cf7ba-168537672377eeee40-0",
+        "template--18771681968430__8bedd775-7475-4249-9a3b-c13f200cf7ba-168537672377eeee40-1"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "ef0e1734-2d17-4317-98f7-855d477327b1": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "bbaab20a-b2a6-4d62-a4bb-0de6080f2225": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18771681968430__bbaab20a-b2a6-4d62-a4bb-0de6080f2225-1685376732666697d3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "I bring doula support to you",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771681968430__bbaab20a-b2a6-4d62-a4bb-0de6080f2225-1685376732666697d3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our virtual consultations are personal dialogues. I focus on you, your personal preferences, and your concerns. My guidance is always genuine and evidence-based.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771681968430__bbaab20a-b2a6-4d62-a4bb-0de6080f2225-1685376732666697d3-0",
+        "template--18771681968430__bbaab20a-b2a6-4d62-a4bb-0de6080f2225-1685376732666697d3-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/B64DBB57-06A9-4BE8-827D-EE00B57AB967_1_105_c.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "f407fc55-88c8-4fe1-9aae-2cb51b0d9d92": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18771681968430__f407fc55-88c8-4fe1-9aae-2cb51b0d9d92-16853767463694cfb4-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
+            "title": "",
+            "text": "<h2>Book a Consultation Below<\/h2>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18771681968430__f407fc55-88c8-4fe1-9aae-2cb51b0d9d92-16853767463694cfb4-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
+            "title": "",
+            "text": "<h2>Check your email for all Zoom meeting details<\/h2>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18771681968430__f407fc55-88c8-4fe1-9aae-2cb51b0d9d92-16853767463694cfb4-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
+            "title": "",
+            "text": "<h2>Feel reassured as I guide you through your pregnancy<\/h2>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18771681968430__f407fc55-88c8-4fe1-9aae-2cb51b0d9d92-16853767463694cfb4-0",
+        "template--18771681968430__f407fc55-88c8-4fe1-9aae-2cb51b0d9d92-16853767463694cfb4-1",
+        "template--18771681968430__f407fc55-88c8-4fe1-9aae-2cb51b0d9d92-16853767463694cfb4-2"
+      ],
+      "settings": {
+        "title": "How Our Virtual Doula Consultations Work",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
         "padding_bottom": 72
       }
     },
@@ -155,6 +263,7 @@
         },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
@@ -237,39 +346,65 @@
     },
     "74c1b25d-f975-4bf3-9dbb-8fe00689d06f": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
         "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Virtual Prenatal Consultations",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Personalized sessions addressing your unique needs and concerns.<\/p>",
             "page": ""
           }
         },
         "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Birth Plan Creation",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Collaborative crafting of a birth plan that aligns with your values and preferences. Focusing on self-advocacy and what matters the most to you.<\/p>",
             "page": ""
           }
         },
         "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Private Labor Prep Classes",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Comprehensive lessons preparing you for childbirth.<\/p>",
             "page": ""
           }
         },
         "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Labor Positions & Birth Ball Use",
+            "icon": "check_mark",
+            "row_content": "<p>Guidance on effective labor positions and how to utilize a birth ball for comfort and progress.<\/p>",
+            "page": ""
+          }
+        },
+        "73ec8d3a-7309-4a18-9119-171bab631434": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Lactation, Breastfeeding & Infant Feeding",
+            "icon": "check_mark",
+            "row_content": "<p>We cover lactation consultations, how to get your baby to latch properly, alternative infant feeding methods, bottle feeding, and more!<\/p>",
+            "page": ""
+          }
+        },
+        "b0b02060-28ce-41cd-a11d-0b8ba7580475": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Miscarriage & Bereavement Support, Adoption, and Surrogacy",
+            "icon": "check_mark",
+            "row_content": "<p>Specialized guidance and support for diverse reproductive experiences.<\/p>",
+            "page": ""
+          }
+        },
+        "5317cf78-6d84-40f6-9ab9-20b399d5af73": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Pregnancy Nutrition & Curing Pregnancy Symptoms",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -280,11 +415,14 @@
         "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-0",
         "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-1",
         "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-2",
-        "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-3"
+        "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-3",
+        "73ec8d3a-7309-4a18-9119-171bab631434",
+        "b0b02060-28ce-41cd-a11d-0b8ba7580475",
+        "5317cf78-6d84-40f6-9ab9-20b399d5af73"
       ],
       "settings": {
-        "caption": "",
-        "heading": "Collapsible content",
+        "caption": "Comprehensive Consultations for Holistic Care",
+        "heading": "Some of the topics our clients typically inquire about include:",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "row",
@@ -309,7 +447,6 @@
     },
     "bef0f8b6-db78-4987-84a9-f5e0a95582aa": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
         "template--18771681968430__bef0f8b6-db78-4987-84a9-f5e0a95582aa-16853604720bc8ca1a-0": {
           "type": "collapsible_row",
@@ -385,16 +522,112 @@
         "padding_top": 72,
         "padding_bottom": 72
       }
+    },
+    "5e914806-9527-46d9-98e4-87627280eeb6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18771681968430__5e914806-9527-46d9-98e4-87627280eeb6-168537672377eeee40-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771681968430__5e914806-9527-46d9-98e4-87627280eeb6-168537672377eeee40-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--18771681968430__5e914806-9527-46d9-98e4-87627280eeb6-168537672377eeee40-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18771681968430__5e914806-9527-46d9-98e4-87627280eeb6-168537672377eeee40-0",
+        "template--18771681968430__5e914806-9527-46d9-98e4-87627280eeb6-168537672377eeee40-1",
+        "template--18771681968430__5e914806-9527-46d9-98e4-87627280eeb6-168537672377eeee40-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1685360116c953b93f": {
+      "type": "apps",
+      "blocks": {
+        "71b82d0e-30af-4fd1-abc3-d0b7240dc375": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "71b82d0e-30af-4fd1-abc3-d0b7240dc375"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "9530a7ce-ef00-47b4-9984-a6e4c3d53de3": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--18771681968430__9530a7ce-ef00-47b4-9984-a6e4c3d53de3-16841523606ed96b36-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tailored to You",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771681968430__9530a7ce-ef00-47b4-9984-a6e4c3d53de3-16841523606ed96b36-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our virtual consultations are personal dialogues. We focus on you, your personal preferences, and your concerns. Our guidance is always genuine and evidence-based.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771681968430__9530a7ce-ef00-47b4-9984-a6e4c3d53de3-16841523606ed96b36-0",
+        "template--18771681968430__9530a7ce-ef00-47b4-9984-a6e4c3d53de3-16841523606ed96b36-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
     }
   },
   "order": [
     "64f75edf-857a-4fce-a893-524d3ddf1697",
-    "9530a7ce-ef00-47b4-9984-a6e4c3d53de3",
+    "8bedd775-7475-4249-9a3b-c13f200cf7ba",
+    "ef0e1734-2d17-4317-98f7-855d477327b1",
+    "bbaab20a-b2a6-4d62-a4bb-0de6080f2225",
+    "f407fc55-88c8-4fe1-9aae-2cb51b0d9d92",
     "main",
     "719f2f06-e7b2-4ece-bec6-4ef65948b072",
     "74c1b25d-f975-4bf3-9dbb-8fe00689d06f",
     "bf3a2aa5-eec6-408d-9a79-fae847bcba19",
     "bef0f8b6-db78-4987-84a9-f5e0a95582aa",
-    "related-products"
+    "related-products",
+    "5e914806-9527-46d9-98e4-87627280eeb6",
+    "1685360116c953b93f",
+    "9530a7ce-ef00-47b4-9984-a6e4c3d53de3"
   ]
 }
