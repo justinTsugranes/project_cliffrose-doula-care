@@ -186,7 +186,7 @@
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 36,
-        "padding_bottom": 12
+        "padding_bottom": 0
       }
     },
     "feceba61-04b1-49dc-943f-774304ef7ed1": {
