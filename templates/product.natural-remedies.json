@@ -52,29 +52,16 @@
           "settings": {
             "text": "<p>Are common pregnancy symptoms like morning sickness, heartburn, and fatigue casting a shadow over your pregnancy joy?<\/p><p>Join our <strong>weekly online class <\/strong>where we unveil natural remedies and share valuable tips to help you <strong>alleviate these common discomforts<\/strong>.<\/p>"
           }
-        },
-        "template--18873568035118__29bcc589-4e45-4aae-98a0-1ebfed6cc1b1-16841523606ed96b36-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "template--18873568035118__29bcc589-4e45-4aae-98a0-1ebfed6cc1b1-16841523606ed96b36-0",
-        "template--18873568035118__29bcc589-4e45-4aae-98a0-1ebfed6cc1b1-16841523606ed96b36-1",
-        "template--18873568035118__29bcc589-4e45-4aae-98a0-1ebfed6cc1b1-16841523606ed96b36-2"
+        "template--18873568035118__29bcc589-4e45-4aae-98a0-1ebfed6cc1b1-16841523606ed96b36-1"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -96,20 +83,11 @@
             "text": "<p>This class isn't just about symptom relief—it's about building your confidence and community. Learn from a certified full spectrum doula in a small, supportive group setting. Enjoy the opportunity to connect with other expectant parents, forging bonds and creating a community that enriches your pregnancy journey.<\/p>",
             "text_style": "body"
           }
-        },
-        "template--18873568035118__bc4906c0-3125-4f6b-866c-e28e5efa9642-1684152313b7f2554a-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "template--18873568035118__bc4906c0-3125-4f6b-866c-e28e5efa9642-1684152313b7f2554a-0",
-        "template--18873568035118__bc4906c0-3125-4f6b-866c-e28e5efa9642-1684152313b7f2554a-1",
-        "template--18873568035118__bc4906c0-3125-4f6b-866c-e28e5efa9642-1684152313b7f2554a-2"
+        "template--18873568035118__bc4906c0-3125-4f6b-866c-e28e5efa9642-1684152313b7f2554a-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_12.46.06_PM.jpg",
@@ -122,7 +100,7 @@
         "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 72,
         "padding_bottom": 36
       }
     },
@@ -160,7 +138,7 @@
         "1f1d1a09-9a08-40f3-a32e-8d4b6f199583": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/natural-remedies-for-common-pregnancy-symptoms?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=377e62\" style=\"min-width:320px;height:630px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->"
+            "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/natural-remedies-for-common-pregnancy-symptoms?hide_event_type_details=1&hide_gdpr_banner=1&background_color=f3eee9&text_color=333333&primary_color=2d6650\" style=\"min-width:320px;height:630px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->"
           }
         },
         "quantity_selector": {
