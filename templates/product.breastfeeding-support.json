@@ -36,6 +36,52 @@
         "show_text_below": true
       }
     },
+    "e74e1844-3e16-40dd-ac43-0e233a2303a7": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--18859690983726__e74e1844-3e16-40dd-ac43-0e233a2303a7-16854417211fd8f606-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--18859690983726__e74e1844-3e16-40dd-ac43-0e233a2303a7-16854417211fd8f606-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18859690983726__e74e1844-3e16-40dd-ac43-0e233a2303a7-16854417211fd8f606-0",
+        "template--18859690983726__e74e1844-3e16-40dd-ac43-0e233a2303a7-16854417211fd8f606-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "e9ea4f3d-72b6-4373-87de-b3fc99e5b502": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -117,18 +163,82 @@
         "mobile_thumbnails": "show",
         "hide_variants": true,
         "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 12
+        "padding_top": 72,
+        "padding_bottom": 0
       }
     },
-    "df1f36a9-3e2d-454c-913e-e97596f041f6": {
-      "type": "custom-liquid",
+    "9aba1059-978a-4ea6-b871-a279dcf5b114": {
+      "type": "image-with-text",
       "disabled": true,
+      "blocks": {
+        "template--18859690983726__9aba1059-978a-4ea6-b871-a279dcf5b114-16854417888365955e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--18859690983726__9aba1059-978a-4ea6-b871-a279dcf5b114-16854417888365955e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18859690983726__9aba1059-978a-4ea6-b871-a279dcf5b114-16854417888365955e-0",
+        "template--18859690983726__9aba1059-978a-4ea6-b871-a279dcf5b114-16854417888365955e-1"
+      ],
       "settings": {
-        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/breastfeeding-support?hide_gdpr_banner=1&primary_color=377e62\" style=\"min-width:320px;height:730px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "c6e0cf18-1e15-49ba-95d4-078146d2f2cd": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "04c6e4ab-88b0-4717-9e5f-fd8ee5e6a0cb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "53f9303d-8d24-488f-94e7-7cc00c57bbb0": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "04c6e4ab-88b0-4717-9e5f-fd8ee5e6a0cb",
+        "53f9303d-8d24-488f-94e7-7cc00c57bbb0"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "related-products": {
@@ -151,8 +261,11 @@
   },
   "order": [
     "8294d813-b228-49e7-a8df-6a350c776c15",
+    "e74e1844-3e16-40dd-ac43-0e233a2303a7",
+    "e9ea4f3d-72b6-4373-87de-b3fc99e5b502",
     "main",
-    "df1f36a9-3e2d-454c-913e-e97596f041f6",
+    "9aba1059-978a-4ea6-b871-a279dcf5b114",
+    "c6e0cf18-1e15-49ba-95d4-078146d2f2cd",
     "related-products"
   ]
 }
