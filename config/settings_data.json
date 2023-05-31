@@ -166,6 +166,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "appointment-booking-cowlendar-6d8b8f6a-9b3c-42b8-b2e6-a758c38d45bf": {
+        "type": "shopify:\/\/apps\/appointment-booking-cowlendar\/blocks\/app-embed\/6d8b8f6a-9b3c-42b8-b2e6-a758c38d45bf",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
