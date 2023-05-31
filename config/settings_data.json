@@ -106,7 +106,7 @@
     "badge_position": "bottom left",
     "badge_corner_radius": 40,
     "sale_badge_color_scheme": "accent-1",
-    "sold_out_badge_color_scheme": "inverse",
+    "sold_out_badge_color_scheme": "background-1",
     "accent_icons": "accent-1",
     "brand_headline": "Guiding you through the journey of parenthood with care and compassion",
     "brand_description": "",
