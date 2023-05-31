@@ -73,7 +73,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 72,
         "padding_bottom": 72
@@ -389,36 +389,6 @@
         "padding_bottom": 72
       }
     },
-    "5e914806-9527-46d9-98e4-87627280eeb6": {
-      "type": "rich-text",
-      "blocks": {
-        "template--18771681968430__5e914806-9527-46d9-98e4-87627280eeb6-168537672377eeee40-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Navigate your path to parenthood with confidence",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771681968430__5e914806-9527-46d9-98e4-87627280eeb6-168537672377eeee40-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Experience the reassurance, empowerment, and personalized guidance of virtual doula consultations, knowing you have our unwavering support.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771681968430__5e914806-9527-46d9-98e4-87627280eeb6-168537672377eeee40-0",
-        "template--18771681968430__5e914806-9527-46d9-98e4-87627280eeb6-168537672377eeee40-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 72,
-        "padding_bottom": 52
-      }
-    },
     "1685360116c953b93f": {
       "type": "apps",
       "disabled": true,
@@ -435,6 +405,170 @@
       ],
       "settings": {
         "include_margins": true
+      }
+    },
+    "a4b169a9-2b7a-4c8b-8e22-cfeb5e8f1c8a": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--18771681968430__a4b169a9-2b7a-4c8b-8e22-cfeb5e8f1c8a-1685521139392b4ef8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771681968430__a4b169a9-2b7a-4c8b-8e22-cfeb5e8f1c8a-1685521139392b4ef8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771681968430__a4b169a9-2b7a-4c8b-8e22-cfeb5e8f1c8a-1685521139392b4ef8-0",
+        "template--18771681968430__a4b169a9-2b7a-4c8b-8e22-cfeb5e8f1c8a-1685521139392b4ef8-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 36
+      }
+    },
+    "d922f11b-6d29-4dd4-81e7-7ee7c547c70a": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--18771681968430__d922f11b-6d29-4dd4-81e7-7ee7c547c70a-1685524501408f2437-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18771681968430__d922f11b-6d29-4dd4-81e7-7ee7c547c70a-1685524501408f2437-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18771681968430__d922f11b-6d29-4dd4-81e7-7ee7c547c70a-1685524501408f2437-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18771681968430__d922f11b-6d29-4dd4-81e7-7ee7c547c70a-1685524501408f2437-0",
+        "template--18771681968430__d922f11b-6d29-4dd4-81e7-7ee7c547c70a-1685524501408f2437-1",
+        "template--18771681968430__d922f11b-6d29-4dd4-81e7-7ee7c547c70a-1685524501408f2437-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "60dc60aa-bada-4782-ad84-0c179b759014": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--18771681968430__60dc60aa-bada-4782-ad84-0c179b759014-1685521139392b4ef8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771681968430__60dc60aa-bada-4782-ad84-0c179b759014-1685521139392b4ef8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771681968430__60dc60aa-bada-4782-ad84-0c179b759014-1685521139392b4ef8-0",
+        "template--18771681968430__60dc60aa-bada-4782-ad84-0c179b759014-1685521139392b4ef8-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "a9a5fe12-93e0-4154-b3cd-c9f8a7eee77a": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18771681968430__a9a5fe12-93e0-4154-b3cd-c9f8a7eee77a-1685522048daacf0bd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Navigate your path to parenthood with confidence",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771681968430__a9a5fe12-93e0-4154-b3cd-c9f8a7eee77a-1685522048daacf0bd-1": {
+          "type": "text",
+          "settings": {
+            "text": "Experience the reassurance, empowerment, and personalized guidance of virtual doula consultations, knowing you have my unwavering support.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771681968430__a9a5fe12-93e0-4154-b3cd-c9f8a7eee77a-1685522048daacf0bd-0",
+        "template--18771681968430__a9a5fe12-93e0-4154-b3cd-c9f8a7eee77a-1685522048daacf0bd-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.49.36_PM_7ff628bc-77fc-4e18-9552-13975a82d274.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "bf3a2aa5-eec6-408d-9a79-fae847bcba19": {
@@ -585,8 +719,11 @@
     "f407fc55-88c8-4fe1-9aae-2cb51b0d9d92",
     "main",
     "74c1b25d-f975-4bf3-9dbb-8fe00689d06f",
-    "5e914806-9527-46d9-98e4-87627280eeb6",
     "1685360116c953b93f",
+    "a4b169a9-2b7a-4c8b-8e22-cfeb5e8f1c8a",
+    "d922f11b-6d29-4dd4-81e7-7ee7c547c70a",
+    "60dc60aa-bada-4782-ad84-0c179b759014",
+    "a9a5fe12-93e0-4154-b3cd-c9f8a7eee77a",
     "bf3a2aa5-eec6-408d-9a79-fae847bcba19",
     "bef0f8b6-db78-4987-84a9-f5e0a95582aa",
     "related-products"
