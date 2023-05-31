@@ -189,6 +189,68 @@
         "padding_bottom": 36
       }
     },
+    "0eaa5c35-5058-4902-a272-8f7965770a19": {
+      "type": "collapsible-content",
+      "disabled": true,
+      "blocks": {
+        "template--18771324829998__0eaa5c35-5058-4902-a272-8f7965770a19-16855200706ed368cb-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--18771324829998__0eaa5c35-5058-4902-a272-8f7965770a19-16855200706ed368cb-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--18771324829998__0eaa5c35-5058-4902-a272-8f7965770a19-16855200706ed368cb-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--18771324829998__0eaa5c35-5058-4902-a272-8f7965770a19-16855200706ed368cb-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18771324829998__0eaa5c35-5058-4902-a272-8f7965770a19-16855200706ed368cb-0",
+        "template--18771324829998__0eaa5c35-5058-4902-a272-8f7965770a19-16855200706ed368cb-1",
+        "template--18771324829998__0eaa5c35-5058-4902-a272-8f7965770a19-16855200706ed368cb-2",
+        "template--18771324829998__0eaa5c35-5058-4902-a272-8f7965770a19-16855200706ed368cb-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "accent-2",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
     "e8f888b7-2ae1-4533-85a6-58cd7107120d": {
       "type": "image-with-text",
       "blocks": {
@@ -357,14 +419,26 @@
         "template--18771324829998__1c375b87-c49b-46bd-b539-2b4affe38706-1684269270ab069f33-1": {
           "type": "text",
           "settings": {
-            "text": "Step into a supportive space tailored to your unique journey towards parenthood.",
+            "text": "Step into a supportive space and join the many mothers who have had powerful, unique and positive birth experiences with Cliffrose Doula Care.",
             "text_style": "body"
+          }
+        },
+        "ab7c8c32-b280-4d2e-88cf-fa06633c7968": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Take The First Step",
+            "button_link_1": "shopify:\/\/pages\/contact",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
         "template--18771324829998__1c375b87-c49b-46bd-b539-2b4affe38706-1684269270ab069f33-0",
-        "template--18771324829998__1c375b87-c49b-46bd-b539-2b4affe38706-1684269270ab069f33-1"
+        "template--18771324829998__1c375b87-c49b-46bd-b539-2b4affe38706-1684269270ab069f33-1",
+        "ab7c8c32-b280-4d2e-88cf-fa06633c7968"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pregnant-woman-s-belly-closeup-hands-hugging-bell-2022-10-11-19-51-50-utc.jpg",
@@ -380,32 +454,31 @@
         "show_text_below": true
       }
     },
-    "68cc8aa0-4f8e-4611-9747-518553520868": {
+    "b57f63b2-24b2-4c89-b5be-e15020159b52": {
       "type": "image-with-text",
       "blocks": {
-        "template--18771324829998__68cc8aa0-4f8e-4611-9747-518553520868-168424161179ec5028-0": {
+        "template--18771324829998__b57f63b2-24b2-4c89-b5be-e15020159b52-1685521139392b4ef8-0": {
           "type": "heading",
           "settings": {
-            "heading": "Start your journey",
+            "heading": "Image with text",
             "heading_size": "h1"
           }
         },
-        "template--18771324829998__68cc8aa0-4f8e-4611-9747-518553520868-168424161179ec5028-1": {
+        "template--18771324829998__b57f63b2-24b2-4c89-b5be-e15020159b52-1685521139392b4ef8-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Join the many mothers who have had powerful, unique and positive birth experiences with Cliffrose Doula Care.<\/p><p><strong>Contact Me Below!<\/strong><\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
-        "template--18771324829998__68cc8aa0-4f8e-4611-9747-518553520868-168424161179ec5028-0",
-        "template--18771324829998__68cc8aa0-4f8e-4611-9747-518553520868-168424161179ec5028-1"
+        "template--18771324829998__b57f63b2-24b2-4c89-b5be-e15020159b52-1685521139392b4ef8-0",
+        "template--18771324829998__b57f63b2-24b2-4c89-b5be-e15020159b52-1685521139392b4ef8-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pregnant_woman_having_virtual_meeting_with_doula_6965e0f7-6a7a-42e5-a331-81e71a25f5aa.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
+        "height": "adapt",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -414,7 +487,80 @@
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 72,
-        "padding_bottom": 76
+        "padding_bottom": 36
+      }
+    },
+    "fb5c689b-86f1-4c6c-800e-1c7ceec74395": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--18771324829998__fb5c689b-86f1-4c6c-800e-1c7ceec74395-1685521139392b4ef8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771324829998__fb5c689b-86f1-4c6c-800e-1c7ceec74395-1685521139392b4ef8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771324829998__fb5c689b-86f1-4c6c-800e-1c7ceec74395-1685521139392b4ef8-0",
+        "template--18771324829998__fb5c689b-86f1-4c6c-800e-1c7ceec74395-1685521139392b4ef8-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "8ce1e951-8a8a-4e55-8818-21e2d6ea361b": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--18771324829998__8ce1e951-8a8a-4e55-8818-21e2d6ea361b-1685522048daacf0bd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771324829998__8ce1e951-8a8a-4e55-8818-21e2d6ea361b-1685522048daacf0bd-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771324829998__8ce1e951-8a8a-4e55-8818-21e2d6ea361b-1685522048daacf0bd-0",
+        "template--18771324829998__8ce1e951-8a8a-4e55-8818-21e2d6ea361b-1685522048daacf0bd-1"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "cb947bb7-afb7-4c6b-8e6a-fd4a4c1692d3": {
@@ -423,12 +569,13 @@
         "heading": "Get in Touch Today",
         "heading_size": "h1",
         "color_scheme": "background-1",
-        "padding_top": 36,
+        "padding_top": 72,
         "padding_bottom": 72
       }
     },
     "534b3e83-def7-48f5-a6d3-340cac7f4f5d": {
       "type": "collapsible-content",
+      "disabled": true,
       "blocks": {
         "template--18771324829998__534b3e83-def7-48f5-a6d3-340cac7f4f5d-16855200706ed368cb-0": {
           "type": "collapsible_row",
@@ -497,13 +644,16 @@
     "0e9c5b2e-7cf0-4433-a8a0-c1f6b18f08e7",
     "215d27d8-c007-43b0-a20f-4fd2b04be4e9",
     "product-grid",
+    "0eaa5c35-5058-4902-a272-8f7965770a19",
     "e8f888b7-2ae1-4533-85a6-58cd7107120d",
     "ad683c48-0eae-4c7f-abbf-11b5d391cd01",
     "fc418fa7-c9e2-4739-ba49-c6d6c8146c15",
     "89b62bcb-54fc-4333-a0d8-84ddeda87828",
     "4f1389ef-c3f2-4de3-9a5e-5dc3bee31e75",
     "1c375b87-c49b-46bd-b539-2b4affe38706",
-    "68cc8aa0-4f8e-4611-9747-518553520868",
+    "b57f63b2-24b2-4c89-b5be-e15020159b52",
+    "fb5c689b-86f1-4c6c-800e-1c7ceec74395",
+    "8ce1e951-8a8a-4e55-8818-21e2d6ea361b",
     "cb947bb7-afb7-4c6b-8e6a-fd4a4c1692d3",
     "534b3e83-def7-48f5-a6d3-340cac7f4f5d"
   ]
