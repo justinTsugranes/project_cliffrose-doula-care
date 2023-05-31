@@ -191,12 +191,11 @@
     },
     "0eaa5c35-5058-4902-a272-8f7965770a19": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
         "template--18771324829998__0eaa5c35-5058-4902-a272-8f7965770a19-16855200706ed368cb-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Prenatal Support",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -205,7 +204,7 @@
         "template--18771324829998__0eaa5c35-5058-4902-a272-8f7965770a19-16855200706ed368cb-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "24\/7 On-Call Doula Support",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -214,7 +213,7 @@
         "template--18771324829998__0eaa5c35-5058-4902-a272-8f7965770a19-16855200706ed368cb-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Birth Doula Support",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -223,7 +222,7 @@
         "template--18771324829998__0eaa5c35-5058-4902-a272-8f7965770a19-16855200706ed368cb-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Postpartum Support",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -238,7 +237,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Collapsible content",
+        "heading": "All of my birth service packages include:",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "row",
@@ -284,7 +283,7 @@
         "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 72,
         "padding_bottom": 72
       }
     },
@@ -441,7 +440,7 @@
         "ab7c8c32-b280-4d2e-88cf-fa06633c7968"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pregnant-woman-s-belly-closeup-hands-hugging-bell-2022-10-11-19-51-50-utc.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_12.46.43_PM.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -460,14 +459,14 @@
         "template--18771324829998__b57f63b2-24b2-4c89-b5be-e15020159b52-1685521139392b4ef8-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Don't enter parenthood unprepared",
             "heading_size": "h1"
           }
         },
         "template--18771324829998__b57f63b2-24b2-4c89-b5be-e15020159b52-1685521139392b4ef8-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>My birth services are designed to help you avoid feelings of being overwhelmed or unsupported.<\/p>",
             "text_style": "body"
           }
         }
@@ -477,6 +476,7 @@
         "template--18771324829998__b57f63b2-24b2-4c89-b5be-e15020159b52-1685521139392b4ef8-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-pixabay-269141.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -490,21 +490,76 @@
         "padding_bottom": 36
       }
     },
+    "e1d2a377-4903-4d5d-9f76-93ed54b1b0d9": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18771324829998__e1d2a377-4903-4d5d-9f76-93ed54b1b0d9-1685524501408f2437-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
+            "title": "Be empowered to experience childbirth on your terms",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18771324829998__e1d2a377-4903-4d5d-9f76-93ed54b1b0d9-1685524501408f2437-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
+            "title": "Have personalized, professional support to help you navigate this beautiful journey",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18771324829998__e1d2a377-4903-4d5d-9f76-93ed54b1b0d9-1685524501408f2437-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
+            "title": "Welcome your baby into the world with confidence",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18771324829998__e1d2a377-4903-4d5d-9f76-93ed54b1b0d9-1685524501408f2437-0",
+        "template--18771324829998__e1d2a377-4903-4d5d-9f76-93ed54b1b0d9-1685524501408f2437-1",
+        "template--18771324829998__e1d2a377-4903-4d5d-9f76-93ed54b1b0d9-1685524501408f2437-2"
+      ],
+      "settings": {
+        "title": " With Full-Spectrum Birth Doula Services, You'll...",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "fb5c689b-86f1-4c6c-800e-1c7ceec74395": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18771324829998__fb5c689b-86f1-4c6c-800e-1c7ceec74395-1685521139392b4ef8-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "In Harmony With Your Values",
             "heading_size": "h1"
           }
         },
         "template--18771324829998__fb5c689b-86f1-4c6c-800e-1c7ceec74395-1685521139392b4ef8-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>With me by your side, you’ll have peace of mind, confident in your ability to navigate childbirth and the initial stages of parenthood in harmony with your values.<\/p>",
             "text_style": "body"
           }
         }
@@ -514,7 +569,8 @@
         "template--18771324829998__fb5c689b-86f1-4c6c-800e-1c7ceec74395-1685521139392b4ef8-1"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155539.jpg",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
@@ -529,7 +585,6 @@
     },
     "8ce1e951-8a8a-4e55-8818-21e2d6ea361b": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--18771324829998__8ce1e951-8a8a-4e55-8818-21e2d6ea361b-1685522048daacf0bd-0": {
           "type": "heading",
@@ -551,6 +606,7 @@
         "template--18771324829998__8ce1e951-8a8a-4e55-8818-21e2d6ea361b-1685522048daacf0bd-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/mother_breastfeeding_baby_outside.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -566,7 +622,7 @@
     "cb947bb7-afb7-4c6b-8e6a-fd4a4c1692d3": {
       "type": "contact-form",
       "settings": {
-        "heading": "Get in Touch Today",
+        "heading": "Start Your Journey Today",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "padding_top": 72,
@@ -575,7 +631,6 @@
     },
     "534b3e83-def7-48f5-a6d3-340cac7f4f5d": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
         "template--18771324829998__534b3e83-def7-48f5-a6d3-340cac7f4f5d-16855200706ed368cb-0": {
           "type": "collapsible_row",
@@ -652,6 +707,7 @@
     "4f1389ef-c3f2-4de3-9a5e-5dc3bee31e75",
     "1c375b87-c49b-46bd-b539-2b4affe38706",
     "b57f63b2-24b2-4c89-b5be-e15020159b52",
+    "e1d2a377-4903-4d5d-9f76-93ed54b1b0d9",
     "fb5c689b-86f1-4c6c-800e-1c7ceec74395",
     "8ce1e951-8a8a-4e55-8818-21e2d6ea361b",
     "cb947bb7-afb7-4c6b-8e6a-fd4a4c1692d3",
