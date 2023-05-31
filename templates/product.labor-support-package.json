@@ -367,7 +367,7 @@
         "template--18944954335534__ab1892e2-73bd-4ed9-977f-12384085803e-168415258743e5623a-1": {
           "type": "text",
           "settings": {
-            "text": "Start your journey towards an empowering and joyful childbirth experience. Reach out to mw today, and let's create a birth plan that aligns with your unique desires and needs.",
+            "text": "Reach out to me today and let's create a birth plan that aligns with your unique desires and needs.",
             "text_style": "body"
           }
         },
@@ -435,7 +435,7 @@
         "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 72,
         "padding_bottom": 36
       }
     },
