@@ -438,6 +438,79 @@
         "padding_bottom": 36
       }
     },
+    "fc3a44a2-f2de-4b1e-853a-4c6088a953b5": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "template--18859690983726__fc3a44a2-f2de-4b1e-853a-4c6088a953b5-16855430834f6ccc74-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--18859690983726__fc3a44a2-f2de-4b1e-853a-4c6088a953b5-16855430834f6ccc74-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--18859690983726__fc3a44a2-f2de-4b1e-853a-4c6088a953b5-16855430834f6ccc74-2": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--18859690983726__fc3a44a2-f2de-4b1e-853a-4c6088a953b5-16855430834f6ccc74-3": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--18859690983726__fc3a44a2-f2de-4b1e-853a-4c6088a953b5-16855430834f6ccc74-4": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "template--18859690983726__fc3a44a2-f2de-4b1e-853a-4c6088a953b5-16855430834f6ccc74-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--18859690983726__fc3a44a2-f2de-4b1e-853a-4c6088a953b5-16855430834f6ccc74-6": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--18859690983726__fc3a44a2-f2de-4b1e-853a-4c6088a953b5-16855430834f6ccc74-0",
+        "template--18859690983726__fc3a44a2-f2de-4b1e-853a-4c6088a953b5-16855430834f6ccc74-1",
+        "template--18859690983726__fc3a44a2-f2de-4b1e-853a-4c6088a953b5-16855430834f6ccc74-2",
+        "template--18859690983726__fc3a44a2-f2de-4b1e-853a-4c6088a953b5-16855430834f6ccc74-3",
+        "template--18859690983726__fc3a44a2-f2de-4b1e-853a-4c6088a953b5-16855430834f6ccc74-4",
+        "template--18859690983726__fc3a44a2-f2de-4b1e-853a-4c6088a953b5-16855430834f6ccc74-5",
+        "template--18859690983726__fc3a44a2-f2de-4b1e-853a-4c6088a953b5-16855430834f6ccc74-6"
+      ],
+      "settings": {
+        "product": "breastfeeding-support",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "9989a774-06e6-4e3d-b48b-c8807ccc578e": {
       "type": "collapsible-content",
       "blocks": {
@@ -569,6 +642,7 @@
     "9aba1059-978a-4ea6-b871-a279dcf5b114",
     "c6e0cf18-1e15-49ba-95d4-078146d2f2cd",
     "58f88a2d-af4e-4d5f-aebe-fa71b96104e3",
+    "fc3a44a2-f2de-4b1e-853a-4c6088a953b5",
     "9989a774-06e6-4e3d-b48b-c8807ccc578e",
     "ae98b59a-24d0-4442-bbf3-ed553ad7796c",
     "related-products"
