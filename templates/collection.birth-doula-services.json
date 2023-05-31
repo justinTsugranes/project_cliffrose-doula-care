@@ -589,14 +589,14 @@
         "template--18771324829998__8ce1e951-8a8a-4e55-8818-21e2d6ea361b-1685522048daacf0bd-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Enjoy Your Pregnancy With Confidence And Joy",
             "heading_size": "h1"
           }
         },
         "template--18771324829998__8ce1e951-8a8a-4e55-8818-21e2d6ea361b-1685522048daacf0bd-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "You'll transition from feeling overwhelmed by the uncertainties of parenthood to feeling secure, proud and connected with your baby. <strong>Contact Me Below<\/strong>",
             "text_style": "body"
           }
         }
@@ -631,6 +631,7 @@
     },
     "534b3e83-def7-48f5-a6d3-340cac7f4f5d": {
       "type": "collapsible-content",
+      "disabled": true,
       "blocks": {
         "template--18771324829998__534b3e83-def7-48f5-a6d3-340cac7f4f5d-16855200706ed368cb-0": {
           "type": "collapsible_row",
