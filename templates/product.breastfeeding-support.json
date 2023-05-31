@@ -16,11 +16,24 @@
             "text": "Led by a certified full spectrum doula, this small group class will help ease those sore moments, enable you to connect more closely with your newborn, and product more nourishing milk for your baby. <strong>Book a class below!<\/strong>",
             "text_style": "body"
           }
+        },
+        "442f706b-53f5-4572-811f-ed6af5d80119": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Book Now",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0",
-        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1"
+        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1",
+        "442f706b-53f5-4572-811f-ed6af5d80119"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/mother_breastfeeding_baby_outside.jpg",
