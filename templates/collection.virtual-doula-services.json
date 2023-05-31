@@ -613,7 +613,8 @@
         "template--18969798443310__e312c8d6-a824-48a2-92cd-4017d4178bc7-1684152313b7f2554a-2"
       ],
       "settings": {
-        "height": "small",
+        "image": "shopify:\/\/shop_images\/brittany.nance.jpg",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
