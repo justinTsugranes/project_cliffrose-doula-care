@@ -69,8 +69,9 @@
         },
         "template--18771324829998__174ab2c5-0fa3-4f0b-8957-e5df30bdc3bd-16842414368d32b4cb-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p>I provide a comforting presence, continuous emotional support, and evidence-based knowledge to help you make informed decisions about your care<\/p>"
+            "text": ""
           }
         }
       },
@@ -83,8 +84,8 @@
         "content_alignment": "center",
         "color_scheme": "background-2",
         "full_width": true,
-        "padding_top": 52,
-        "padding_bottom": 52
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "3ff01464-530b-48b0-b596-e06b2a135b92": {
@@ -108,7 +109,7 @@
         "template--18771324829998__3ff01464-530b-48b0-b596-e06b2a135b92-1685521139392b4ef8-1": {
           "type": "text",
           "settings": {
-            "text": "<h2><span style=\"text-decoration:underline\">Trainings, Mentorships + Certifications<\/span><\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul>",
+            "text": "<p>I provide a comforting presence, continuous emotional support, and evidence-based knowledge to help you make informed decisions about your care<\/p><h2><span style=\"text-decoration:underline\">Trainings, Mentorships + Certifications<\/span><\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul>",
             "text_style": "body"
           }
         }
@@ -167,7 +168,7 @@
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 72,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -186,7 +187,7 @@
         "enable_sorting": false,
         "columns_mobile": "2",
         "padding_top": 0,
-        "padding_bottom": 36
+        "padding_bottom": 72
       }
     },
     "0eaa5c35-5058-4902-a272-8f7965770a19": {
@@ -236,7 +237,7 @@
         "template--18771324829998__0eaa5c35-5058-4902-a272-8f7965770a19-16855200706ed368cb-3"
       ],
       "settings": {
-        "caption": "",
+        "caption": "BIRTH DOULA SERVICES THAT GUIDE AND SUPPORT YOU THROUGH EVERY STAGE",
         "heading": "All of my birth service packages include:",
         "heading_size": "h1",
         "heading_alignment": "center",
