@@ -143,7 +143,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -249,7 +249,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -282,8 +282,8 @@
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "bfc3eeb8-c20b-4b46-ab60-404d9d1664b3": {
@@ -299,7 +299,7 @@
         "template--18771424510254__bfc3eeb8-c20b-4b46-ab60-404d9d1664b3-1684273062a4d498d5-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our goal is not only to support you during labor and delivery but also to empower you with knowledge and resources. Our blog contains valuable information, tips, and insights to help you prepare for your unique birth journey.<\/p>"
+            "text": "<p>My goal is not only to support you during labor and delivery but also to empower you with knowledge and resources. My blog contains valuable information, tips, and insights to help you prepare for your unique birth journey.<\/p>"
           }
         },
         "template--18771424510254__bfc3eeb8-c20b-4b46-ab60-404d9d1664b3-1684273062a4d498d5-2": {
@@ -323,10 +323,10 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "8d26d51f-55d9-419f-8503-f24d906408b4": {
@@ -343,7 +343,7 @@
         "show_author": false,
         "show_view_all": true,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 72
       }
     }
   },
