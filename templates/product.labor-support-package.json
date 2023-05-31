@@ -390,7 +390,7 @@
         "template--18944954335534__ab1892e2-73bd-4ed9-977f-12384085803e-168415258743e5623a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mother_breastfeeding_baby_outside.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_12.46.43_PM.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -537,14 +537,14 @@
         "template--18944954335534__8dbbc055-d416-475e-8018-1226ab6140db-1685522048daacf0bd-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Enjoy Your Pregnancy With Confidence And Joy",
             "heading_size": "h1"
           }
         },
         "template--18944954335534__8dbbc055-d416-475e-8018-1226ab6140db-1685522048daacf0bd-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "You'll transition from feeling overwhelmed by the uncertainties of parenthood to feeling secure, proud and connected with your baby. <strong>Contact Me Below.<\/strong>",
             "text_style": "body"
           }
         }
@@ -554,6 +554,7 @@
         "template--18944954335534__8dbbc055-d416-475e-8018-1226ab6140db-1685522048daacf0bd-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/mother_breastfeeding_baby_outside.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
