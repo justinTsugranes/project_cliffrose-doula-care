@@ -192,7 +192,7 @@
       ],
       "settings": {
         "caption": "BIRTH DOULA SERVICES THAT GUIDE AND SUPPORT YOU THROUGH EVERY STAGE",
-        "heading": "The Pure Labor Support Package Includes:",
+        "heading": "My Pure Labor Support Package Includes:",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "row",
@@ -426,6 +426,7 @@
         "template--18944954335534__770d3bfc-660d-4072-8b4e-182735bbc82e-1684152313b7f2554a-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-pixabay-269141.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -518,6 +519,7 @@
         "963550e6-19f3-46ba-9579-64a052c4f9e6"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/doula-assisting-pregnant-woman-on-yoga-mat.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
