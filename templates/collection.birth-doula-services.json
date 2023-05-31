@@ -90,22 +90,31 @@
     "3ff01464-530b-48b0-b596-e06b2a135b92": {
       "type": "image-with-text",
       "blocks": {
+        "b1fc1c50-a2b6-4e6f-8f67-7429c5d7e6fe": {
+          "type": "caption",
+          "settings": {
+            "caption": "Certified Doula, Founder Cliffrose Doula Care",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
         "template--18771324829998__3ff01464-530b-48b0-b596-e06b2a135b92-1685521139392b4ef8-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Hi, I'm Brittany",
             "heading_size": "h1"
           }
         },
         "template--18771324829998__3ff01464-530b-48b0-b596-e06b2a135b92-1685521139392b4ef8-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<h2><span style=\"text-decoration:underline\">Trainings, Mentorships + Certifications<\/span><\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
+        "b1fc1c50-a2b6-4e6f-8f67-7429c5d7e6fe",
         "template--18771324829998__3ff01464-530b-48b0-b596-e06b2a135b92-1685521139392b4ef8-0",
         "template--18771324829998__3ff01464-530b-48b0-b596-e06b2a135b92-1685521139392b4ef8-1"
       ],
