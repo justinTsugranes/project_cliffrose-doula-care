@@ -111,6 +111,9 @@
       "block_order": [
         "a3ac118c-4a52-4bf9-a6ab-1609b7a05729"
       ],
+      "custom_css": [
+        "div {margin-bottom: 36px;}"
+      ],
       "settings": {
         "include_margins": true
       }
