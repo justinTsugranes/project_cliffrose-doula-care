@@ -71,6 +71,75 @@
         "show_text_below": true
       }
     },
+    "0acb8abe-1e65-4938-aeaf-28117c9fc2d5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Meet Your Doula",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "9106bc4f-f557-48f1-906b-16e18a1b0f83": {
+      "type": "image-with-text",
+      "blocks": {
+        "88a9c708-3204-45f1-824f-0d903701dea4": {
+          "type": "caption",
+          "settings": {
+            "caption": "Certified Doula, Founder Cliffrose Doula Care",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "282bbc67-bb2f-4dd8-909f-a73b2f856b08": {
+          "type": "heading",
+          "settings": {
+            "heading": "Brittany Nance",
+            "heading_size": "h1"
+          }
+        },
+        "dceda8a8-0705-497e-9708-1d6fd9ad0114": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><span style=\"text-decoration:underline\">Trainings, Mentorships + Certifications<\/span><\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "88a9c708-3204-45f1-824f-0d903701dea4",
+        "282bbc67-bb2f-4dd8-909f-a73b2f856b08",
+        "dceda8a8-0705-497e-9708-1d6fd9ad0114"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/B64DBB57-06A9-4BE8-827D-EE00B57AB967_1_105_c.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "9ee6804f-807b-4f60-86ee-ed2ca7cddbd3": {
       "type": "multicolumn",
       "blocks": {
@@ -247,75 +316,6 @@
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "color_scheme": "accent-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "0acb8abe-1e65-4938-aeaf-28117c9fc2d5": {
-      "type": "rich-text",
-      "blocks": {
-        "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Meet Your Doula",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-0"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "9106bc4f-f557-48f1-906b-16e18a1b0f83": {
-      "type": "image-with-text",
-      "blocks": {
-        "282bbc67-bb2f-4dd8-909f-a73b2f856b08": {
-          "type": "heading",
-          "settings": {
-            "heading": "Brittany Nance",
-            "heading_size": "h1"
-          }
-        },
-        "88a9c708-3204-45f1-824f-0d903701dea4": {
-          "type": "caption",
-          "settings": {
-            "caption": "Certified Doula, Founder Cliffrose Doula Care",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "dceda8a8-0705-497e-9708-1d6fd9ad0114": {
-          "type": "text",
-          "settings": {
-            "text": "<h2><span style=\"text-decoration:underline\">Trainings, Mentorships + Certifications<\/span><\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "282bbc67-bb2f-4dd8-909f-a73b2f856b08",
-        "88a9c708-3204-45f1-824f-0d903701dea4",
-        "dceda8a8-0705-497e-9708-1d6fd9ad0114"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/B64DBB57-06A9-4BE8-827D-EE00B57AB967_1_105_c.jpg",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -509,13 +509,13 @@
     "main",
     "70a65ce0-2bec-4095-8a3d-340fdcdac889",
     "98da3c2e-7933-465b-be9a-ed5cdc89ae17",
+    "0acb8abe-1e65-4938-aeaf-28117c9fc2d5",
+    "9106bc4f-f557-48f1-906b-16e18a1b0f83",
     "9ee6804f-807b-4f60-86ee-ed2ca7cddbd3",
     "8b308be6-f788-4d44-92ec-e136adcfc53c",
     "6ddadc23-415d-40e0-9d75-46f266ddffdd",
     "56eb3eb1-f6e9-487e-bddf-a78534b71bf1",
     "8a66e9f1-fb99-4b67-bcf9-8123b2ec9078",
-    "0acb8abe-1e65-4938-aeaf-28117c9fc2d5",
-    "9106bc4f-f557-48f1-906b-16e18a1b0f83",
     "dea5420b-ab9a-43f9-9649-e42139d3023f",
     "697779fe-f55c-483b-abef-894af59b96ca",
     "ce9eb544-f948-4664-ba01-6e24ea289f79",
