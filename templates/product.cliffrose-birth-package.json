@@ -309,7 +309,7 @@
           "settings": {
             "heading": "Overnight doula care, providing 8 hours of support tailored to your needs",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Experience peace of mind knowing that our dedicated doula will be with you throughout the night, providing comprehensive support after your baby's birth. Our services include:<\/p><ul><li><strong>Overnight Support:<\/strong> Your doula will be by your side all night, providing compassionate care and assistance as you navigate the postpartum period.<\/li><li><strong>Skin-to-Skin Bonding:<\/strong> Your doula will help facilitate skin-to-skin contact between you and your baby, promoting bonding and establishing breastfeeding, if desired.<\/li><li><strong>Feeding Support:<\/strong> Your doula will offer guidance and assistance with breastfeeding or bottle-feeding, ensuring that you and your baby are comfortable and well-supported.<\/li><\/ul><p>With our overnight doula care, you can rest assured knowing that you have a knowledgeable and caring professional by your side throughout the night, providing nurturing support for you and your newborn.<\/p><p><a href=\"https:\/\/cliffrose-doula.myshopify.com\/pages\/contact\" title=\"Contact\"><strong>Contact Us &gt;<\/strong><\/a><\/p>",
             "page": ""
           }
         },
@@ -741,120 +741,6 @@
         "padding_bottom": 72
       }
     },
-    "04c19bbc-f531-4662-806b-fd33b8941ae1": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18771812843822__04c19bbc-f531-4662-806b-fd33b8941ae1-168164668958c25d7c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Labor Support",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771812843822__04c19bbc-f531-4662-806b-fd33b8941ae1-168164668958c25d7c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Your experienced doula will be by your side throughout your labor, providing continuous support, encouragement, and comfort, regardless of your chosen birth location (home, birthing center, or hospital). Our services include:<\/p><ul><li><strong>Rebozo Massage: <\/strong>Utilizing the traditional Mexican technique of using a shawl-like cloth, your doula will provide gentle and soothing movements to help ease tension and promote relaxation during labor.<\/li><li><strong>Birthing Ball:<\/strong> Your doula will assist you in using a birthing ball, a large inflatable ball, as a tool for comfort, support, and optimal positioning during labor.<\/li><li><strong>Breathing Techniques:<\/strong> Your doula will guide you through various breathing techniques to help you stay relaxed, focused, and manage pain during labor.<\/li><li><strong>Complimentary Birth Photography and Video:<\/strong> As a special gift to you, your doula will capture precious moments of your labor and birth through photography and video, which will be provided to you on a flash drive to treasure for a lifetime.<\/li><li><strong>Birth Room Ambiance:<\/strong> Your doula will create a calming and soothing environment in your birth room with a Himalayan salt lamp, essential oil diffuser, blood orange mist, and arnica massage oil to promote relaxation and comfort during labor.<\/li><\/ul><p>With our comprehensive support through labor, you can feel confident and empowered during this transformative experience.<\/p><p><a href=\"\/pages\/contact\" title=\"Contact\"><strong>Contact Us &gt;<\/strong><\/a><\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771812843822__04c19bbc-f531-4662-806b-fd33b8941ae1-168164668958c25d7c-0",
-        "template--18771812843822__04c19bbc-f531-4662-806b-fd33b8941ae1-168164668958c25d7c-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155363_1.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "e478ea4e-5b04-4094-a631-f0d7fc60d06e": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18771812843822__e478ea4e-5b04-4094-a631-f0d7fc60d06e-1681899460dd00dcec-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "1 Overnight Doula",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771812843822__e478ea4e-5b04-4094-a631-f0d7fc60d06e-1681899460dd00dcec-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Experience peace of mind knowing that our dedicated doula will be with you throughout the night, providing comprehensive support after your baby's birth. Our services include:<\/p><ul><li><strong>Overnight Support:<\/strong> Your doula will be by your side all night, providing compassionate care and assistance as you navigate the postpartum period.<\/li><li><strong>Skin-to-Skin Bonding:<\/strong> Your doula will help facilitate skin-to-skin contact between you and your baby, promoting bonding and establishing breastfeeding, if desired.<\/li><li><strong>Feeding Support:<\/strong> Your doula will offer guidance and assistance with breastfeeding or bottle-feeding, ensuring that you and your baby are comfortable and well-supported.<\/li><\/ul><p>With our overnight doula care, you can rest assured knowing that you have a knowledgeable and caring professional by your side throughout the night, providing nurturing support for you and your newborn.<\/p><p><a href=\"\/pages\/contact\" title=\"Contact\"><strong>Contact Us &gt;<\/strong><\/a><\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771812843822__e478ea4e-5b04-4094-a631-f0d7fc60d06e-1681899460dd00dcec-0",
-        "template--18771812843822__e478ea4e-5b04-4094-a631-f0d7fc60d06e-1681899460dd00dcec-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.21.12_PM.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "913e3a22-81da-4c48-960d-2acb1527f4d3": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "3 Postpartum Visits",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our postpartum doula services extend beyond the birth, providing essential support during the early weeks of parenthood. We offer:<\/p><ul><li><strong>In-Home Visits:<\/strong> Within the first two weeks postpartum, your doula will schedule visits to your home, providing emotional support, practical assistance, and answering any questions you may have about the birth experience or newborn care.<\/li><li><strong>Emotional Support:<\/strong> Your doula is here to listen and provide a safe space for you to share your feelings, emotions, and thoughts about adjusting to life with a new baby, whether it's the good, the bad, or the tough stuff.<\/li><li><strong>Resources and Tips on Infant Feeding:<\/strong> Your doula will provide valuable resources and tips on infant feeding, including breastfeeding, bottle-feeding, and introducing solids, to help you navigate this important aspect of newborn care.<\/li><li><strong>Meal Planning and Grocery Lists:<\/strong> Your doula will help you plan meals and provide a grocery list to make your life a little easier during the postpartum period. We can also arrange contact-free drop-off of needed items through community support, a meal train, or assistance from friends and family.<\/li><li><strong>Ongoing Postpartum Care:<\/strong> Your doula understands that postpartum care extends beyond the initial weeks with a newborn. We are committed to providing ongoing support to new parents, those with toddlers, or multiple children through simple acts of caring for the parent, while you care for your family.<\/li><\/ul><p>Your postpartum visits are designed to meet you where you're at, from the comfort of your home, and provide comprehensive support to help you navigate the early weeks of parenthood with confidence and ease.<\/p><p><a href=\"\/pages\/contact\" title=\"Contact\"><strong>Contact Us &gt;<\/strong><\/a><\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-0",
-        "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "a6433e83-bc13-4dad-800c-5bc979886739": {
       "type": "image-banner",
       "disabled": true,
@@ -1099,9 +985,6 @@
     "9a2a8c5f-cf86-452d-b1f5-7fe33733b8b8",
     "1224b268-ce1b-49fe-b043-e82e526bea7d",
     "related-products",
-    "04c19bbc-f531-4662-806b-fd33b8941ae1",
-    "e478ea4e-5b04-4094-a631-f0d7fc60d06e",
-    "913e3a22-81da-4c48-960d-2acb1527f4d3",
     "a6433e83-bc13-4dad-800c-5bc979886739",
     "f1783c93-76a9-4687-a040-ac57b3f5fa02",
     "17671f09-fd83-4ccb-9413-89dfa1fd768c",
