@@ -229,7 +229,7 @@
         "template--18764259295534__8a66e9f1-fb99-4b67-bcf9-8123b2ec9078-1681637899fcc77dd4-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We believe that deep change starts with shaping the smallest patterns of our daily lives and that what we value most we should embody. These principles are the roots we’ve grow from: where our values emerge and we can constantly revisit to stay aligned with justice and a bright future…<\/p><ul><li><strong>Education<\/strong>: evidence-based, sharing knowledge, alternatives<\/li><li><strong>Equality + Access for all:<\/strong> elevating above systematic oppression, marginalized communities, BIPOC, LGBTQIA2+, Disability Justice, Reproductive Justice<\/li><li><strong>Transparency + Authenticity<\/strong>: building trust takes time<\/li><li><strong>Autonomy<\/strong>: people know themselves best, honoring choices<\/li><li><strong>Wellness<\/strong>: mind, body + spirit on a full spectrum of needs<\/li><\/ul>",
+            "text": "<p>I believe that deep change starts with shaping the smallest patterns of our daily lives and that what we value most we should embody. These principles are the roots I grow from: where my values emerge and I can constantly revisit to stay aligned with justice and a bright future…<\/p><ul><li><strong>Education<\/strong>: evidence-based, sharing knowledge, alternatives<\/li><li><strong>Equality + Access for all:<\/strong> elevating above systematic oppression, marginalized communities, BIPOC, LGBTQIA2+, Disability Justice, Reproductive Justice<\/li><li><strong>Transparency + Authenticity<\/strong>: building trust takes time<\/li><li><strong>Autonomy<\/strong>: people know themselves best, honoring choices<\/li><li><strong>Wellness<\/strong>: mind, body + spirit on a full spectrum of needs<\/li><\/ul>",
             "text_style": "body"
           }
         }
@@ -246,7 +246,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -259,7 +259,7 @@
         "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-0": {
           "type": "heading",
           "settings": {
-            "heading": "Our Birth Team",
+            "heading": "Meet Your Doula",
             "heading_size": "h1"
           }
         }
