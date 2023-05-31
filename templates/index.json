@@ -184,46 +184,6 @@
         "padding_bottom": 72
       }
     },
-    "67d25079-454a-42a5-8f56-8267d6c949f3": {
-      "type": "collection-list",
-      "blocks": {
-        "template--18729374646574__67d25079-454a-42a5-8f56-8267d6c949f3-1682333027c4f732ce-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "birth-doula-services"
-          }
-        },
-        "7e6f36d9-3cc4-4e5c-8e3c-2b39ce76ee47": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "virtual-doula-services"
-          }
-        },
-        "template--18729374646574__67d25079-454a-42a5-8f56-8267d6c949f3-1682333027c4f732ce-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "online-classes"
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374646574__67d25079-454a-42a5-8f56-8267d6c949f3-1682333027c4f732ce-0",
-        "7e6f36d9-3cc4-4e5c-8e3c-2b39ce76ee47",
-        "template--18729374646574__67d25079-454a-42a5-8f56-8267d6c949f3-1682333027c4f732ce-2"
-      ],
-      "settings": {
-        "title": "Explore My Services",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "background-1",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 72
-      }
-    },
     "d463519f-a7db-4bf2-a6d8-58a3f69c2f83": {
       "type": "collapsible-content",
       "blocks": {
@@ -303,6 +263,46 @@
         "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "67d25079-454a-42a5-8f56-8267d6c949f3": {
+      "type": "collection-list",
+      "blocks": {
+        "template--18729374646574__67d25079-454a-42a5-8f56-8267d6c949f3-1682333027c4f732ce-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "birth-doula-services"
+          }
+        },
+        "7e6f36d9-3cc4-4e5c-8e3c-2b39ce76ee47": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "virtual-doula-services"
+          }
+        },
+        "template--18729374646574__67d25079-454a-42a5-8f56-8267d6c949f3-1682333027c4f732ce-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "online-classes"
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374646574__67d25079-454a-42a5-8f56-8267d6c949f3-1682333027c4f732ce-0",
+        "7e6f36d9-3cc4-4e5c-8e3c-2b39ce76ee47",
+        "template--18729374646574__67d25079-454a-42a5-8f56-8267d6c949f3-1682333027c4f732ce-2"
+      ],
+      "settings": {
+        "title": "Explore My Services",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "c88152b4-8d61-42e6-a58c-873053f902f5": {
@@ -661,8 +661,8 @@
     "956a2330-3be4-424d-b38d-8c7a05dac815",
     "e857e320-8ef3-493c-896f-03751741fe32",
     "feae2534-69ab-460b-8878-f8c6ae5bfd65",
-    "67d25079-454a-42a5-8f56-8267d6c949f3",
     "d463519f-a7db-4bf2-a6d8-58a3f69c2f83",
+    "67d25079-454a-42a5-8f56-8267d6c949f3",
     "c88152b4-8d61-42e6-a58c-873053f902f5",
     "99a14fe1-3628-4679-b469-b459bf2a56c8",
     "a69c2719-da9d-4848-8676-daed64bb232c",
