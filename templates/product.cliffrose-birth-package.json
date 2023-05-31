@@ -264,7 +264,7 @@
           "settings": {
             "heading": "Three 3-hour prenatal visits to craft your unique birth plan and practice relaxation techniques",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<h2>Before your estimated due date, we’ll get you ready and feeling great about your pregnancy and upcoming birth!<\/h2><p><span style=\"text-decoration:underline\">During these visits, we'll:<\/span><\/p><ul><li>Build our connection<\/li><li>Discuss your birth preferences<\/li><li>Create a <strong>Birth Plan<\/strong><\/li><li>Practice relaxation techniques in our <strong>Labor Prep<\/strong> class<\/li><li>Talk about comfort measures, labor positions and self-advocacy<\/li><li>Go through <strong>Infant CPR<\/strong> training<\/li><li>Provide tips on laboring at home<\/li><li>Talk about ways to <strong>Baby Proof<\/strong> your home<\/li><li>Discuss Customized Resources and Referrals<\/li><li>and more!<\/li><\/ul><p>These visits are designed to help you get ready for your baby, address any questions or concerns you may have, and ensure you feel prepared and confident for your upcoming birth experience.<\/p><p>Want to know everything that we'll cover? <a href=\"https:\/\/cliffrosedoula.com\/pages\/prenatal-care\" title=\"Prenatal Care\"><strong>Visit My Prenatal Care Page to learn more<\/strong><\/a><\/p>",
             "page": ""
           }
         },
@@ -273,7 +273,7 @@
           "settings": {
             "heading": "24\/7 on-call support, available from 38 weeks gestation onwards",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>As your doula, I am here for you 24\/7 with on-call availability starting at 38 weeks gestation and continuing through the last weeks of pregnancy, birth, and postpartum period.<\/p><p>You can count on me to be there whenever you need, whether it's answering questions, providing guidance, or offering support day or night.<\/p><p>You can have peace of mind knowing that I am just a call or message away, ready to provide answers or just a listening ear.<\/p><p>After contacting me at onset of labor, I will be constantly available via phone or video call, and text before they meet you at home or at your preferred delivery location through the duration of labor.<\/p><p><a href=\"https:\/\/cliffrosedoula.com\/pages\/contact\" title=\"Contact\"><strong>Contact Me &gt;<\/strong><\/a><\/p>",
             "page": ""
           }
         },
@@ -291,7 +291,7 @@
           "settings": {
             "heading": "Continuous labor support, utilizing methods such as rebozo, birth ball, and breathing technique",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>I will be by your side throughout your labor, providing continuous support, encouragement, and comfort, regardless of your chosen birth location (home, birthing center, or hospital).<\/p><p><span style=\"text-decoration:underline\">Some of the services you will receive include:<\/span><\/p><ul><li>Light Labor Meals<\/li><li>Rebozo Massage<\/li><li>Birthing Ball & Peanut Ball<\/li><li>Breathing Techniques<\/li><li>Counter Pressure & Physical Support<\/li><li>Hydrotherapy Assistance<\/li><li>Acupressure or Light Touch Massage<\/li><li>Visualization & Mindfulness Techniques<\/li><li>Birth Room Ambiance & Aromatherapy<\/li><li>Immediate Postpartum Support<\/li><li>Complimentary Birth Photography and Video<\/li><li>and more!<\/li><\/ul><p>With comprehensive support through labor, you can feel secure, like I have your back! And your front too :)<\/p><p><a href=\"https:\/\/cliffrosedoula.com\/pages\/labor-support\" title=\"Labor Support\"><strong>Visit my Labor Support page to Learn More<\/strong><\/a><\/p>",
             "page": ""
           }
         },
@@ -318,7 +318,7 @@
           "settings": {
             "heading": "Three 3-hour postpartum visits, offering emotional support and practical assistance",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>I will be by your side throughout your labor, providing continuous support, encouragement, and comfort, regardless of your chosen birth location (home, birthing center, or hospital).<\/p><p><span style=\"text-decoration:underline\">Some of the services you will receive include:<\/span><\/p><ul><li>Light Labor Meals<\/li><li>Rebozo Massage<\/li><li>Birthing Ball & Peanut Ball<\/li><li>Breathing Techniques<\/li><li>Counter Pressure & Physical Support<\/li><li>Hydrotherapy Assistance<\/li><li>Acupressure or Light Touch Massage<\/li><li>Visualization & Mindfulness Techniques<\/li><li>Birth Room Ambiance & Aromatherapy<\/li><li>Immediate Postpartum Support<\/li><li>Complimentary Birth Photography and Video<\/li><li>and more!<\/li><\/ul><p>With comprehensive support through labor, you can feel secure, like I have your back! And your front too :)<\/p><p><a href=\"https:\/\/cliffrosedoula.com\/pages\/labor-support\" title=\"Labor Support\"><strong>Visit my Labor Support page to Learn More<\/strong><\/a><\/p>",
             "page": ""
           }
         },
@@ -701,13 +701,43 @@
             "row_content": "",
             "page": ""
           }
+        },
+        "8da3b25f-7037-4d76-a61a-da15d64d625c": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "6acf24bd-ac0a-4654-a646-c3557cb479ad": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "f620f44a-0d4c-4aa3-b0ae-f88631b49f35": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "template--18771812843822__1224b268-ce1b-49fe-b043-e82e526bea7d-16855200706ed368cb-0",
         "template--18771812843822__1224b268-ce1b-49fe-b043-e82e526bea7d-16855200706ed368cb-1",
         "template--18771812843822__1224b268-ce1b-49fe-b043-e82e526bea7d-16855200706ed368cb-2",
-        "template--18771812843822__1224b268-ce1b-49fe-b043-e82e526bea7d-16855200706ed368cb-3"
+        "template--18771812843822__1224b268-ce1b-49fe-b043-e82e526bea7d-16855200706ed368cb-3",
+        "8da3b25f-7037-4d76-a61a-da15d64d625c",
+        "6acf24bd-ac0a-4654-a646-c3557cb479ad",
+        "f620f44a-0d4c-4aa3-b0ae-f88631b49f35"
       ],
       "settings": {
         "caption": "",
