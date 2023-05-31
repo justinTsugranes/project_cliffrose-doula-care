@@ -137,6 +137,7 @@
         },
         "1f1d1a09-9a08-40f3-a32e-8d4b6f199583": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/natural-remedies-for-common-pregnancy-symptoms?hide_event_type_details=1&hide_gdpr_banner=1&background_color=f3eee9&text_color=333333&primary_color=2d6650\" style=\"min-width:320px;height:630px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->"
           }
@@ -149,7 +150,6 @@
         },
         "buy_buttons": {
           "type": "buy_buttons",
-          "disabled": true,
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
@@ -157,7 +157,6 @@
         },
         "share": {
           "type": "share",
-          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
