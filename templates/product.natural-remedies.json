@@ -16,11 +16,23 @@
             "text": "Led by a certified full spectrum doula, this intimate group class will give you the holistic tools and knowledge to confidently navigate your pregnancy woes. <strong>Book a class below!<\/strong>",
             "text_style": "body"
           }
+        },
+        "197141f4-8f28-485f-8df4-e0a2220a0f2f": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "{{ product.metafields.cloudinary.primaryimage_v1.value }}",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0",
-        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1"
+        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1",
+        "197141f4-8f28-485f-8df4-e0a2220a0f2f"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_1.02.24_PM.jpg",
