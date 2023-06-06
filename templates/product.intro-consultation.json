@@ -169,16 +169,6 @@
         "padding_bottom": 12
       }
     },
-    "df1f36a9-3e2d-454c-913e-e97596f041f6": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/intro-birth-consultation?hide_gdpr_banner=1&primary_color=377e62\" style=\"min-width:320px;height:730px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "ea73d1b1-f1b2-483a-a4cb-98db231b56bc": {
       "type": "rich-text",
       "blocks": {
@@ -211,7 +201,6 @@
     },
     "related-products": {
       "type": "related-products",
-      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
@@ -248,7 +237,6 @@
   "order": [
     "8294d813-b228-49e7-a8df-6a350c776c15",
     "main",
-    "df1f36a9-3e2d-454c-913e-e97596f041f6",
     "ea73d1b1-f1b2-483a-a4cb-98db231b56bc",
     "related-products",
     "16820347272dd97f3b"
