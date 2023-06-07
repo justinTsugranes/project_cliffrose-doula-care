@@ -436,7 +436,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 72,
-        "padding_bottom": 36
+        "padding_bottom": 72
       }
     },
     "fc150aa8-dc12-47d4-913c-f23958bcba29": {
@@ -528,7 +528,7 @@
         "color_scheme": "accent-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 72,
         "padding_bottom": 72
       }
     },
