@@ -62,18 +62,8 @@
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "50d95444-3901-4b90-98bf-efd9e23913cf": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<iframe src=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSff8waPslD75n8uCRhoNMtqtIVXXmUetWUGIYSSuE18qm-_4w\/viewform?embedded=true\" width=\"640\" height=\"5192\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…<\/iframe>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "4fbe1cb3-4721-4591-9125-2c91bf5e5e9a": {
@@ -115,8 +105,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     }
   },
@@ -124,7 +114,6 @@
     "main",
     "7a565b05-e7ad-438d-a821-c61f073d5cdc",
     "379a9adc-5795-4994-90d5-474d9764e2fb",
-    "50d95444-3901-4b90-98bf-efd9e23913cf",
     "4fbe1cb3-4721-4591-9125-2c91bf5e5e9a"
   ]
 }
