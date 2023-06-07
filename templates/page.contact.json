@@ -50,8 +50,8 @@
         "heading": "",
         "heading_size": "h1",
         "color_scheme": "background-1",
-        "padding_top": 84,
-        "padding_bottom": 84
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "0697c246-857a-4287-8ee5-404642272b63": {
@@ -82,7 +82,7 @@
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 72,
         "padding_bottom": 0
       }
     },
