@@ -640,7 +640,7 @@
         "template--18771812843822__4da02d2a-d3de-4769-aced-d219cf71ada6-1685522048daacf0bd-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/womanbreastfeedingherbabywithhelpfrombreastfeedingsupportgroup.webp",
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.46.09_PM.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -665,6 +665,7 @@
     },
     "1224b268-ce1b-49fe-b043-e82e526bea7d": {
       "type": "collapsible-content",
+      "disabled": true,
       "blocks": {
         "template--18771812843822__1224b268-ce1b-49fe-b043-e82e526bea7d-16855200706ed368cb-0": {
           "type": "collapsible_row",
