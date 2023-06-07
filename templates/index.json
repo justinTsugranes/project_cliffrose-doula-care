@@ -56,7 +56,6 @@
     },
     "2be4c74c-f2d9-439e-8b40-978108cc95bb": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "template--18729374646574__2be4c74c-f2d9-439e-8b40-978108cc95bb-1685557372cd527c6c-0": {
           "type": "slide",
@@ -198,7 +197,6 @@
     },
     "5ad6239a-ff43-4e1b-9b23-97cc7aebda51": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--18729374646574__5ad6239a-ff43-4e1b-9b23-97cc7aebda51-16855573750219237f-0": {
           "type": "heading",
@@ -278,7 +276,6 @@
     },
     "39be1b49-299b-4138-a975-ddbb3ed8c41a": {
       "type": "video",
-      "disabled": true,
       "settings": {
         "heading": "Video",
         "heading_size": "h1",
@@ -293,7 +290,6 @@
     },
     "feae2534-69ab-460b-8878-f8c6ae5bfd65": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--18729374646574__feae2534-69ab-460b-8878-f8c6ae5bfd65-1684232851e9a59cf6-0": {
           "type": "column",
@@ -632,7 +628,6 @@
     },
     "75922bb9-fc7b-466b-8100-cd953eb0e6da": {
       "type": "judgeme_carousel_section",
-      "disabled": true,
       "settings": {
         "maxwidth": 1080
       }
@@ -730,7 +725,6 @@
     },
     "168418153551c040e4": {
       "type": "apps",
-      "disabled": true,
       "blocks": {
         "6fe96a0f-7081-497b-8716-b6e3a4ac8b4a": {
           "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
@@ -748,7 +742,6 @@
     },
     "0ab83aff-b08b-4aa4-b95e-796a03d36d65": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "template--18729374646574__0ab83aff-b08b-4aa4-b95e-796a03d36d65-168556019333c708b7-0": {
           "type": "featured_collection",
@@ -789,7 +782,6 @@
     },
     "9493d506-298c-468a-8578-ed5d3a7ca7ca": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "template--18729374646574__9493d506-298c-468a-8578-ed5d3a7ca7ca-168555939866ef0411-0": {
           "type": "image",
@@ -829,7 +821,6 @@
     },
     "7a24b1a7-179a-42cd-a3fd-77b158a05681": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "1f15fac2-82e3-48bc-9edd-142ba4011960": {
           "type": "image",
@@ -869,7 +860,6 @@
     },
     "f08f764a-3d97-422e-a1c1-3d42fc56acee": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "c0ba2353-d15a-40ea-ad61-62c3b7975e72": {
           "type": "image",
@@ -909,7 +899,6 @@
     },
     "d0eaa3f1-256b-4922-8cdf-64b5b67df578": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--18729374646574__d0eaa3f1-256b-4922-8cdf-64b5b67df578-168555738104b00f44-0": {
           "type": "column",
