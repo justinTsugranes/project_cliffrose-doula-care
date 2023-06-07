@@ -112,7 +112,7 @@
         "template--18771812843822__042acb86-0c49-49de-8f60-96d3b7762e9e-1684152313b7f2554a-1": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "<p>I provide a comforting presence, continuous emotional support, and evidence-based knowledge to help you make informed decisions about your care<\/p><h2><span style=\"text-decoration:underline\">Trainings, Mentorships + Certifications<\/span><\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul>",
             "text_style": "body"
           }
         }
@@ -363,8 +363,8 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "0f55ffa0-e50a-4acf-ad18-997356e50af7": {
@@ -759,7 +759,7 @@
       "type": "related-products",
       "settings": {
         "heading": "You may also like",
-        "heading_size": "h0",
+        "heading_size": "h2",
         "products_to_show": 4,
         "columns_desktop": 4,
         "color_scheme": "background-1",
