@@ -48,7 +48,7 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
-        "products_per_page": 24,
+        "products_per_page": 12,
         "columns_desktop": 2,
         "image_ratio": "square",
         "show_secondary_image": true,
@@ -59,8 +59,8 @@
         "filter_type": "horizontal",
         "enable_sorting": false,
         "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "9af1e4a8-d3df-4791-abee-28b88459a860": {
@@ -93,7 +93,6 @@
         "template--19135030133038__dc19041b-fa15-429d-85ce-06676fc8ad54-1684152313b7f2554a-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-05-14_at_5.29.02_AM.jpg",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -103,8 +102,8 @@
         "color_scheme": "accent-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "d3f20572-187d-44d9-b861-54c080ca9bef": {
@@ -145,7 +144,6 @@
         "f4a5a337-b947-4f2b-ac23-76d3f07f7c7d"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_8.53.18_PM.jpg",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -155,8 +153,8 @@
         "color_scheme": "accent-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "71c355c2-8bfb-4941-88e9-0d2a9fe3ccbc": {
@@ -259,8 +257,8 @@
         "image_zoom": "lightbox",
         "hide_variants": false,
         "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "f6bcb2ec-76a1-45f2-bd97-5016c9c6351d": {
@@ -363,8 +361,8 @@
         "image_zoom": "lightbox",
         "hide_variants": false,
         "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "168427073029ee237b": {
@@ -407,7 +405,7 @@
         "template--19135030133038__540cc506-b240-40ec-a134-95dee0aa88c4-1684269270ab069f33-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-05-08_at_5.53.32_AM.jpg",
+        "image": "shopify:\/\/shop_images\/beautiful-pregnant-woman-practicing-yoga-by-the-ocean.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -418,6 +416,16 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "0da9c3a0-8916-49e7-a2cd-f218678307fd": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Have Any Questions? Contact Me",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     }
   },
@@ -432,6 +440,7 @@
     "71c355c2-8bfb-4941-88e9-0d2a9fe3ccbc",
     "f6bcb2ec-76a1-45f2-bd97-5016c9c6351d",
     "168427073029ee237b",
-    "540cc506-b240-40ec-a134-95dee0aa88c4"
+    "540cc506-b240-40ec-a134-95dee0aa88c4",
+    "0da9c3a0-8916-49e7-a2cd-f218678307fd"
   ]
 }
