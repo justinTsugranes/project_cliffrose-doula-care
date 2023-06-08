@@ -51,6 +51,7 @@
     },
     "e74e1844-3e16-40dd-ac43-0e233a2303a7": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18859690983726__e74e1844-3e16-40dd-ac43-0e233a2303a7-16854417211fd8f606-0": {
           "type": "heading",
@@ -81,6 +82,7 @@
     },
     "612bb86e-2750-49fa-ba6e-272b44f1b3b7": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18859690983726__612bb86e-2750-49fa-ba6e-272b44f1b3b7-1685539660918604e9-0": {
           "type": "heading",
@@ -125,6 +127,7 @@
     },
     "e9ea4f3d-72b6-4373-87de-b3fc99e5b502": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -241,6 +244,7 @@
     },
     "f0411cc1-1602-43c6-bf7e-3b11c33cfc37": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18859690983726__f0411cc1-1602-43c6-bf7e-3b11c33cfc37-168553955580a9e02f-0": {
           "type": "heading",
@@ -271,6 +275,7 @@
     },
     "c782957e-a8b9-4fb2-8e08-098e5dac8bdc": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--18859690983726__c782957e-a8b9-4fb2-8e08-098e5dac8bdc-1685539410b89049c6-0": {
           "type": "column",
@@ -324,6 +329,7 @@
     },
     "9aba1059-978a-4ea6-b871-a279dcf5b114": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18859690983726__9aba1059-978a-4ea6-b871-a279dcf5b114-16854417888365955e-0": {
           "type": "heading",
@@ -360,6 +366,7 @@
     },
     "c6e0cf18-1e15-49ba-95d4-078146d2f2cd": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "04c6e4ab-88b0-4717-9e5f-fd8ee5e6a0cb": {
           "type": "heading",
@@ -396,6 +403,7 @@
     },
     "58f88a2d-af4e-4d5f-aebe-fa71b96104e3": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18859690983726__58f88a2d-af4e-4d5f-aebe-fa71b96104e3-1685539660918604e9-0": {
           "type": "heading",
