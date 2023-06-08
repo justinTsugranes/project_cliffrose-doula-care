@@ -48,6 +48,106 @@
         "show_text_below": true
       }
     },
+    "3e397002-78de-4d48-9415-8ac56ac8e07d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18956233965870__3e397002-78de-4d48-9415-8ac56ac8e07d-1686256716baa8819f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--18956233965870__3e397002-78de-4d48-9415-8ac56ac8e07d-1686256716baa8819f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--18956233965870__3e397002-78de-4d48-9415-8ac56ac8e07d-1686256716baa8819f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18956233965870__3e397002-78de-4d48-9415-8ac56ac8e07d-1686256716baa8819f-0",
+        "template--18956233965870__3e397002-78de-4d48-9415-8ac56ac8e07d-1686256716baa8819f-1",
+        "template--18956233965870__3e397002-78de-4d48-9415-8ac56ac8e07d-1686256716baa8819f-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "2a711bd9-8d3b-4e6d-8e25-a748a3e824f3": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18956233965870__2a711bd9-8d3b-4e6d-8e25-a748a3e824f3-1686256738bc1a9b01-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--18956233965870__2a711bd9-8d3b-4e6d-8e25-a748a3e824f3-1686256738bc1a9b01-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18956233965870__2a711bd9-8d3b-4e6d-8e25-a748a3e824f3-1686256738bc1a9b01-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18956233965870__2a711bd9-8d3b-4e6d-8e25-a748a3e824f3-1686256738bc1a9b01-0",
+        "template--18956233965870__2a711bd9-8d3b-4e6d-8e25-a748a3e824f3-1686256738bc1a9b01-1",
+        "template--18956233965870__2a711bd9-8d3b-4e6d-8e25-a748a3e824f3-1686256738bc1a9b01-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "db1ee288-87b4-477e-94ab-3671f383fade": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-product",
       "disabled": true,
@@ -135,54 +235,8 @@
         "padding_bottom": 12
       }
     },
-    "0f55ffa0-e50a-4acf-ad18-997356e50af7": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Virtual Birth Doula Service<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>My Virtual Doula Service includes the following services:<\/h2><ul><li>2 Virtual Prenatals -  3 hours each including labor prep class<\/li><li>Labor Support - Breathing Techniques, Affirmations, Advocacy, Q&A<\/li><li>2 Virtual Postpartums - 3 hours each<\/li><li>24\/7 On Call Support beginning at 38 weeks<\/li><\/ul><p><strong>Total Package Price: $1,000.00<\/strong><\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Contact Us",
-            "button_link": "shopify:\/\/pages\/contact-a-doula"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-0",
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-1",
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/birth_doula.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
     "9af1f611-0527-4889-a369-c814737b03b9": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
         "template--18956233965870__9af1f611-0527-4889-a369-c814737b03b9-16855200706ed368cb-0": {
           "type": "collapsible_row",
@@ -238,6 +292,51 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "0f55ffa0-e50a-4acf-ad18-997356e50af7": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Virtual Birth Doula Service<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>My Virtual Doula Service includes the following services:<\/h2><ul><li>2 Virtual Prenatals -  3 hours each including labor prep class<\/li><li>Labor Support - Breathing Techniques, Affirmations, Advocacy, Q&A<\/li><li>2 Virtual Postpartums - 3 hours each<\/li><li>24\/7 On Call Support beginning at 38 weeks<\/li><\/ul><p><strong>Total Package Price: $1,000.00<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact Us",
+            "button_link": "shopify:\/\/pages\/contact-a-doula"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-0",
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-1",
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/birth_doula.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 72,
         "padding_bottom": 72
       }
@@ -402,7 +501,6 @@
     },
     "16f0071a-b42c-4dfc-aedc-c96f3b7a00c4": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
         "template--18956233965870__16f0071a-b42c-4dfc-aedc-c96f3b7a00c4-16855200706ed368cb-0": {
           "type": "collapsible_row",
@@ -464,6 +562,7 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
@@ -482,9 +581,12 @@
   },
   "order": [
     "8294d813-b228-49e7-a8df-6a350c776c15",
+    "3e397002-78de-4d48-9415-8ac56ac8e07d",
+    "2a711bd9-8d3b-4e6d-8e25-a748a3e824f3",
+    "db1ee288-87b4-477e-94ab-3671f383fade",
     "main",
-    "0f55ffa0-e50a-4acf-ad18-997356e50af7",
     "9af1f611-0527-4889-a369-c814737b03b9",
+    "0f55ffa0-e50a-4acf-ad18-997356e50af7",
     "5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678",
     "c133156c-ab40-47c2-847b-4a56b50bf17a",
     "04c19bbc-f531-4662-806b-fd33b8941ae1",
