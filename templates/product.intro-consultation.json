@@ -38,6 +38,7 @@
     },
     "ca3ba0d8-e931-4b59-8177-706108ca3d83": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18772762755374__ca3ba0d8-e931-4b59-8177-706108ca3d83-1686218670411b7f24-0": {
           "type": "heading",
@@ -68,6 +69,7 @@
     },
     "8a935559-75ad-44f9-865d-1756fbbeb37f": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18772762755374__8a935559-75ad-44f9-865d-1756fbbeb37f-1686218681d5e3b493-0": {
           "type": "heading",
@@ -239,6 +241,7 @@
         },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
