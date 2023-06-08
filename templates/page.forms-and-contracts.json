@@ -1,13 +1,5 @@
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
-    },
     "7a565b05-e7ad-438d-a821-c61f073d5cdc": {
       "type": "image-banner",
       "blocks": {
@@ -44,6 +36,14 @@
         "show_text_below": true
       }
     },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
     "379a9adc-5795-4994-90d5-474d9764e2fb": {
       "type": "rich-text",
       "blocks": {
@@ -66,54 +66,21 @@
         "padding_bottom": 72
       }
     },
-    "4fbe1cb3-4721-4591-9125-2c91bf5e5e9a": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--18836504150318__4fbe1cb3-4721-4591-9125-2c91bf5e5e9a-1683538608eda74432-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Couldn't find what you're looking for?",
-            "heading_size": "h1"
-          }
-        },
-        "template--18836504150318__4fbe1cb3-4721-4591-9125-2c91bf5e5e9a-1683538608eda74432-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>If there is something that you require that is not  located on this page, don't hesitate to reach out to us so we can get you the necessary resources.<\/p>"
-          }
-        },
-        "template--18836504150318__4fbe1cb3-4721-4591-9125-2c91bf5e5e9a-1683538608eda74432-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18836504150318__4fbe1cb3-4721-4591-9125-2c91bf5e5e9a-1683538608eda74432-0",
-        "template--18836504150318__4fbe1cb3-4721-4591-9125-2c91bf5e5e9a-1683538608eda74432-1",
-        "template--18836504150318__4fbe1cb3-4721-4591-9125-2c91bf5e5e9a-1683538608eda74432-2"
-      ],
+    "c2e4d24c-7f4d-4249-aa9c-6c3e7092ee35": {
+      "type": "contact-form",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "heading": "Couldn't find what you're looking for?",
+        "heading_size": "h1",
         "color_scheme": "background-1",
-        "full_width": true,
         "padding_top": 72,
         "padding_bottom": 72
       }
     }
   },
   "order": [
-    "main",
     "7a565b05-e7ad-438d-a821-c61f073d5cdc",
+    "main",
     "379a9adc-5795-4994-90d5-474d9764e2fb",
-    "4fbe1cb3-4721-4591-9125-2c91bf5e5e9a"
+    "c2e4d24c-7f4d-4249-aa9c-6c3e7092ee35"
   ]
 }
