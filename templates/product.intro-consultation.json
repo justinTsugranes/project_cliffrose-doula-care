@@ -16,23 +16,11 @@
             "text": "Want to speak with a doula? Not sure if you would like to have a doula by your side? <strong>Book an available time below. <\/strong>Fill out the brief form so that we can best use our time together. Zoom meeting instructions will be e-mailed to the email that you provide.",
             "text_style": "body"
           }
-        },
-        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0",
-        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1",
-        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-2"
+        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-18_at_5.25.31_PM.jpg",
@@ -46,6 +34,133 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "ca3ba0d8-e931-4b59-8177-706108ca3d83": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18772762755374__ca3ba0d8-e931-4b59-8177-706108ca3d83-1686218670411b7f24-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--18772762755374__ca3ba0d8-e931-4b59-8177-706108ca3d83-1686218670411b7f24-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18772762755374__ca3ba0d8-e931-4b59-8177-706108ca3d83-1686218670411b7f24-0",
+        "template--18772762755374__ca3ba0d8-e931-4b59-8177-706108ca3d83-1686218670411b7f24-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "8a935559-75ad-44f9-865d-1756fbbeb37f": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18772762755374__8a935559-75ad-44f9-865d-1756fbbeb37f-1686218681d5e3b493-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--18772762755374__8a935559-75ad-44f9-865d-1756fbbeb37f-1686218681d5e3b493-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18772762755374__8a935559-75ad-44f9-865d-1756fbbeb37f-1686218681d5e3b493-0",
+        "template--18772762755374__8a935559-75ad-44f9-865d-1756fbbeb37f-1686218681d5e3b493-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "c3ff4aa3-8e75-462a-a78c-ede19b1b4f4b": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--18772762755374__c3ff4aa3-8e75-462a-a78c-ede19b1b4f4b-1686218691ad62c030-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--18772762755374__c3ff4aa3-8e75-462a-a78c-ede19b1b4f4b-1686218691ad62c030-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--18772762755374__c3ff4aa3-8e75-462a-a78c-ede19b1b4f4b-1686218691ad62c030-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--18772762755374__c3ff4aa3-8e75-462a-a78c-ede19b1b4f4b-1686218691ad62c030-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18772762755374__c3ff4aa3-8e75-462a-a78c-ede19b1b4f4b-1686218691ad62c030-0",
+        "template--18772762755374__c3ff4aa3-8e75-462a-a78c-ede19b1b4f4b-1686218691ad62c030-1",
+        "template--18772762755374__c3ff4aa3-8e75-462a-a78c-ede19b1b4f4b-1686218691ad62c030-2",
+        "template--18772762755374__c3ff4aa3-8e75-462a-a78c-ede19b1b4f4b-1686218691ad62c030-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "main": {
@@ -199,6 +314,16 @@
         "padding_bottom": 52
       }
     },
+    "a87114aa-926e-412d-83bb-be8ed0760a45": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -215,30 +340,16 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "16820347272dd97f3b": {
-      "type": "apps",
-      "blocks": {
-        "5aa14d96-763d-4712-ade8-d1ac9cdb016f": {
-          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
-          "settings": {
-            "formId": "into-consultation"
-          }
-        }
-      },
-      "block_order": [
-        "5aa14d96-763d-4712-ade8-d1ac9cdb016f"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
     "8294d813-b228-49e7-a8df-6a350c776c15",
+    "ca3ba0d8-e931-4b59-8177-706108ca3d83",
+    "8a935559-75ad-44f9-865d-1756fbbeb37f",
+    "c3ff4aa3-8e75-462a-a78c-ede19b1b4f4b",
     "main",
     "ea73d1b1-f1b2-483a-a4cb-98db231b56bc",
-    "related-products",
-    "16820347272dd97f3b"
+    "a87114aa-926e-412d-83bb-be8ed0760a45",
+    "related-products"
   ]
 }
