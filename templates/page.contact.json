@@ -54,48 +54,6 @@
         "padding_bottom": 72
       }
     },
-    "0697c246-857a-4287-8ee5-404642272b63": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--18729374974254__0697c246-857a-4287-8ee5-404642272b63-1682271945abc619a1-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "If you'd like to schedule an appointment to <a href=\"\/products\/virtual-consultations\" title=\"Virtual Consultations\">meet online<\/a> or join one of our <a href=\"\/collections\/online-classes\" title=\"Online Classes\">weekly online classes<\/a>, please select an available time block below.",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374974254__0697c246-857a-4287-8ee5-404642272b63-1682271945abc619a1-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374974254__0697c246-857a-4287-8ee5-404642272b63-1682271945abc619a1-0",
-        "template--18729374974254__0697c246-857a-4287-8ee5-404642272b63-1682271945abc619a1-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 72,
-        "padding_bottom": 0
-      }
-    },
-    "1738b23c-def2-40f8-b022-7cc2c96e9607": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula?hide_landing_page_details=1&hide_gdpr_banner=1&primary_color=377e62\" style=\"min-width:320px;height:650px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->",
-        "color_scheme": "background-1",
-        "padding_top": 0,
-        "padding_bottom": 52
-      }
-    },
     "168217033597f1811f": {
       "type": "apps",
       "blocks": {
@@ -123,8 +81,6 @@
     "da2575d0-e30d-4061-8810-87c82cbeedb4",
     "main",
     "form",
-    "0697c246-857a-4287-8ee5-404642272b63",
-    "1738b23c-def2-40f8-b022-7cc2c96e9607",
     "168217033597f1811f"
   ]
 }
