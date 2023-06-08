@@ -108,36 +108,27 @@
         "template--18772762755374__c3ff4aa3-8e75-462a-a78c-ede19b1b4f4b-1686218691ad62c030-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Birth plan development",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Your doula can help you develop a personalized birth plan that aligns with your preferences and values, providing valuable insights and recommendations based on her expertise.<\/p>",
             "page": ""
           }
         },
         "template--18772762755374__c3ff4aa3-8e75-462a-a78c-ede19b1b4f4b-1686218691ad62c030-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Comfort measures during pregnancy",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Your doula can provide information and guidance on various comfort measures during pregnancy, including birth ball techniques, relaxation techniques, movement, and sleeping methods, to help you cope with the physical and emotional aspects of pregnancy.<\/p>",
             "page": ""
           }
         },
         "template--18772762755374__c3ff4aa3-8e75-462a-a78c-ede19b1b4f4b-1686218691ad62c030-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Birth options and interventions",
             "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "template--18772762755374__c3ff4aa3-8e75-462a-a78c-ede19b1b4f4b-1686218691ad62c030-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Your doula can provide information on different birth options and interventions that may arise during childbirth, including risks, benefits, and alternatives, to help you make informed decisions.<\/p>",
             "page": ""
           }
         }
@@ -145,8 +136,7 @@
       "block_order": [
         "template--18772762755374__c3ff4aa3-8e75-462a-a78c-ede19b1b4f4b-1686218691ad62c030-0",
         "template--18772762755374__c3ff4aa3-8e75-462a-a78c-ede19b1b4f4b-1686218691ad62c030-1",
-        "template--18772762755374__c3ff4aa3-8e75-462a-a78c-ede19b1b4f4b-1686218691ad62c030-2",
-        "template--18772762755374__c3ff4aa3-8e75-462a-a78c-ede19b1b4f4b-1686218691ad62c030-3"
+        "template--18772762755374__c3ff4aa3-8e75-462a-a78c-ede19b1b4f4b-1686218691ad62c030-2"
       ],
       "settings": {
         "caption": "",
@@ -284,36 +274,6 @@
         "padding_bottom": 0
       }
     },
-    "ea73d1b1-f1b2-483a-a4cb-98db231b56bc": {
-      "type": "rich-text",
-      "blocks": {
-        "template--18772762755374__ea73d1b1-f1b2-483a-a4cb-98db231b56bc-16818539103b098f2f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "What We Can Cover",
-            "heading_size": "h1"
-          }
-        },
-        "template--18772762755374__ea73d1b1-f1b2-483a-a4cb-98db231b56bc-16818539103b098f2f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h2><strong>Your birth preferences<\/strong><\/h2><p>Your doula will listen attentively to your birth preferences and provide guidance and support in understanding your options, including topics such as natural birth, medicated birth, cesarean birth, and more.<\/p><p><\/p><h2><strong>Birth plan development<\/strong><\/h2><p>Your doula can help you develop a personalized birth plan that aligns with your preferences and values, providing valuable insights and recommendations based on her expertise.<\/p><p><\/p><h2><strong>Comfort measures during labor<\/strong><\/h2><p>Your doula can provide information and guidance on various comfort measures during labor, including breathing techniques, relaxation techniques, movement, and positioning, to help you cope with the physical and emotional aspects of labor.<\/p><p><\/p><h2><strong>Postpartum planning<\/strong><\/h2><p>Your doula can discuss postpartum planning, including topics such as breastfeeding, newborn care, emotional well-being, and self-care, to ensure you are prepared for the postpartum period.<\/p><p><\/p><h2><strong>Emotional support<\/strong><\/h2><p>Your doula recognizes the emotional aspects of pregnancy, childbirth, and postpartum, and can provide compassionate support and guidance in navigating any fears, anxieties, or concerns you may have.<\/p><p><\/p><h2><strong>Birth options and interventions<\/strong><\/h2><p>Your doula can provide information on different birth options and interventions that may arise during childbirth, including risks, benefits, and alternatives, to help you make informed decisions.<\/p><p><\/p><h2><strong>Reproductive justice<\/strong><\/h2><p>As an advocate for reproductive justice, doulas may discuss topics related to social justice, equity, and inclusivity in childbirth, and how it impacts your birthing experience.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--18772762755374__ea73d1b1-f1b2-483a-a4cb-98db231b56bc-16818539103b098f2f-0",
-        "template--18772762755374__ea73d1b1-f1b2-483a-a4cb-98db231b56bc-16818539103b098f2f-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-2",
-        "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "a87114aa-926e-412d-83bb-be8ed0760a45": {
       "type": "contact-form",
       "settings": {
@@ -348,7 +308,6 @@
     "8a935559-75ad-44f9-865d-1756fbbeb37f",
     "c3ff4aa3-8e75-462a-a78c-ede19b1b4f4b",
     "main",
-    "ea73d1b1-f1b2-483a-a4cb-98db231b56bc",
     "a87114aa-926e-412d-83bb-be8ed0760a45",
     "related-products"
   ]
