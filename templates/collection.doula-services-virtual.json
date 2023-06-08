@@ -584,6 +584,7 @@
     },
     "a41c5775-d223-450d-9354-bb9746a8945b": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "4478d327-ddb7-4670-a6e0-6e87b51e6296": {
           "type": "heading",
@@ -621,6 +622,7 @@
     },
     "37e291ff-3edb-4dde-81d7-0ac8e2dc8c8a": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "69745004-2973-47d7-b340-7c830c9dff91": {
           "type": "heading",
