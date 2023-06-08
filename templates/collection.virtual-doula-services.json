@@ -178,60 +178,6 @@
         "padding_bottom": 72
       }
     },
-    "4112abb6-540a-4adc-a109-3cf055627282": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "template--18969798443310__4112abb6-540a-4adc-a109-3cf055627282-16844205081934045e-0": {
-          "type": "column",
-          "settings": {
-            "title": "Install a proven plan to double your revenue",
-            "text": "<p>Get access to the exclusive video series where Donald Miller teaches you how to implement a plan to double your revenue in just 6 months.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18969798443310__4112abb6-540a-4adc-a109-3cf055627282-16844205081934045e-1": {
-          "type": "column",
-          "settings": {
-            "title": "Start seeing results right away",
-            "text": "<p>Each lesson in the Flight School program is designed to increase your revenue upon implementation, and after you finish, you’ll have a comprehensive growth plan, saving you and your team hours every week.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18969798443310__4112abb6-540a-4adc-a109-3cf055627282-16844205081934045e-2": {
-          "type": "column",
-          "settings": {
-            "title": "Learn from a community of growth-minded business owners",
-            "text": "<p>Through the exclusive Flight School community, you’ll join a group of peers you can connect with, learn from, and partner with to share best practices.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18969798443310__4112abb6-540a-4adc-a109-3cf055627282-16844205081934045e-0",
-        "template--18969798443310__4112abb6-540a-4adc-a109-3cf055627282-16844205081934045e-1",
-        "template--18969798443310__4112abb6-540a-4adc-a109-3cf055627282-16844205081934045e-2"
-      ],
-      "settings": {
-        "title": "In our Online Doula Sessions , you'll...",
-        "heading_size": "h1",
-        "image_width": "half",
-        "image_ratio": "circle",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -248,6 +194,24 @@
         "columns_mobile": "2",
         "padding_top": 72,
         "padding_bottom": 72
+      }
+    },
+    "1684160738a02e5867": {
+      "type": "apps",
+      "disabled": true,
+      "blocks": {
+        "af7a0d47-c900-4482-87f7-2d22a622af81": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "af7a0d47-c900-4482-87f7-2d22a622af81"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "e266894d-19b2-4458-8637-366880deb96f": {
@@ -371,172 +335,6 @@
         "padding_bottom": 72
       }
     },
-    "1684160738a02e5867": {
-      "type": "apps",
-      "disabled": true,
-      "blocks": {
-        "af7a0d47-c900-4482-87f7-2d22a622af81": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "af7a0d47-c900-4482-87f7-2d22a622af81"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "2f1ea206-d579-4a4a-8c11-8917b1684f54": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18969798443310__2f1ea206-d579-4a4a-8c11-8917b1684f54-168442105717c0bd2c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>A 6-Month Video Training Series to Completely Overhaul Your Business<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "template--18969798443310__2f1ea206-d579-4a4a-8c11-8917b1684f54-168442105717c0bd2c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>You’ll get 22 videos averaging 15-25 minutes length dripped out to you over the course of 6 months. The video training includes deep dive learning and actionable steps on filling out your business growth plan (your “Flight Plan”). You’ll finish the program with total clarity about where you business is going and how you’re going to get there.<\/p><p><a href=\"https:\/\/app.businessmadesimple.com\/flight-school\/sign-up\/\" target=\"_blank\"><strong>Join Now<\/strong><\/a><\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18969798443310__2f1ea206-d579-4a4a-8c11-8917b1684f54-168442105717c0bd2c-0",
-        "template--18969798443310__2f1ea206-d579-4a4a-8c11-8917b1684f54-168442105717c0bd2c-1"
-      ],
-      "settings": {
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
-    "3d57bb50-158b-4ab6-b232-2a79dfe7cbba": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "2e58ca9c-053c-4b20-aa96-f75c8af6a397": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Weekly Q&A Calls with Business Made Simple Experts<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "61623e6b-fe69-45d8-b70b-17a36505f194": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Have you been a part of masterminds where you felt like nobody was dealing with similar issues or knew how to help you? That’s why we have a weekly Q&A with business coaches and fellow like-minded entrepreneurs. Every week, you’ll have the opportunity to ask questions and get advice from mentors and experts who know the tangible challenges small business owners from many different industries are facing – and they know how to help.<\/p><p><a href=\"https:\/\/app.businessmadesimple.com\/flight-school\/sign-up\/\" target=\"_blank\"><strong>Join Now<\/strong><\/a><\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "2e58ca9c-053c-4b20-aa96-f75c8af6a397",
-        "61623e6b-fe69-45d8-b70b-17a36505f194"
-      ],
-      "settings": {
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
-    "7da98ea2-f3bb-48ca-b55f-c47cd7ef4fa4": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1e369047-4790-44d2-8e2c-9c7ed3247a3a": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Access to the Members-Only Flight School Community<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "98b89c34-d5d9-4258-93cd-b6124b063090": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Are you eager to connect with other business owners in a similar industry and business phase? With the members-only Flight School Community, you’ll get 24\/7 access to our private forum where you can connect with other business owners you can relate to and get questions answered by your peers and certified Business Coaches.<\/p><p><a href=\"https:\/\/app.businessmadesimple.com\/flight-school\/sign-up\/\" target=\"_blank\"><strong>Join Now<\/strong><\/a><\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "1e369047-4790-44d2-8e2c-9c7ed3247a3a",
-        "98b89c34-d5d9-4258-93cd-b6124b063090"
-      ],
-      "settings": {
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
-    "e08c1c10-fdbf-4c11-a888-bac40bed689f": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "99032731-0127-480f-972d-c7bbe64d2ccd": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Quarterly Q&A Calls with Donald Miller<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "f05ec544-0d4c-4355-b45e-8ceffbe140a4": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Do you want regular accountability long after you finish our 6-month program? As a Flight School member, you’ll get insider access (for life) to Donald Miller each quarter as he coaches the Flight School community on improving and implementing your Flight Plan. That means that every quarter (even after you finish Flight School), you’ll have accountability and reminders to ensure you stay on track so you can experience growth for years to come.<\/p><p><a href=\"https:\/\/app.businessmadesimple.com\/flight-school\/sign-up\/\" target=\"_blank\"><strong>Join Now<\/strong><\/a><\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "99032731-0127-480f-972d-c7bbe64d2ccd",
-        "f05ec544-0d4c-4355-b45e-8ceffbe140a4"
-      ],
-      "settings": {
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
     "cf8d3d74-1bd1-40fc-97bd-9bd01b58f056": {
       "type": "multicolumn",
       "blocks": {
@@ -598,6 +396,7 @@
     },
     "d3a9cdcf-9cfb-4874-872f-3e905c2d0ef8": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--18969798443310__d3a9cdcf-9cfb-4874-872f-3e905c2d0ef8-168415258743e5623a-0": {
           "type": "heading",
@@ -783,48 +582,86 @@
         "padding_bottom": 72
       }
     },
-    "2fa6b785-2d63-49ed-80a4-6142f55b8eb1": {
-      "type": "image-banner",
+    "a41c5775-d223-450d-9354-bb9746a8945b": {
+      "type": "image-with-text",
+      "disabled": true,
       "blocks": {
-        "template--18969798443310__2fa6b785-2d63-49ed-80a4-6142f55b8eb1-1685522048daacf0bd-0": {
+        "4478d327-ddb7-4670-a6e0-6e87b51e6296": {
           "type": "heading",
           "settings": {
-            "heading": "Enjoy Your Pregnancy With Confidence And Joy",
+            "heading": "Your Doula Is Here",
             "heading_size": "h1"
           }
         },
-        "template--18969798443310__2fa6b785-2d63-49ed-80a4-6142f55b8eb1-1685522048daacf0bd-1": {
+        "c6f20a17-fe03-4dc9-b65a-c1957cc78499": {
           "type": "text",
           "settings": {
-            "text": "You'll transition from feeling overwhelmed by the uncertainties of parenthood to feeling secure, proud and connected with your baby. <strong>Contact Me Below<\/strong>",
+            "text": "<p>My services are designed to dispel uncertainties and fears, ensuring you're well-informed and confident on your parenting path. You'll never feel alone or unprepared, knowing that expert guidance is just a click away.<\/p>",
             "text_style": "body"
           }
         }
       },
       "block_order": [
-        "template--18969798443310__2fa6b785-2d63-49ed-80a4-6142f55b8eb1-1685522048daacf0bd-0",
-        "template--18969798443310__2fa6b785-2d63-49ed-80a4-6142f55b8eb1-1685522048daacf0bd-1"
+        "4478d327-ddb7-4670-a6e0-6e87b51e6296",
+        "c6f20a17-fe03-4dc9-b65a-c1957cc78499"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-21_at_9.31.47_PM_527a0969-10f6-4d21-a0d6-a14fa914cf67.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
+        "image": "shopify:\/\/shop_images\/brittany.nance.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-2",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
-    "a4f57708-a8e8-4a4a-9fa9-a357d8ebe6f6": {
-      "type": "contact-form",
+    "37e291ff-3edb-4dde-81d7-0ac8e2dc8c8a": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "69745004-2973-47d7-b340-7c830c9dff91": {
+          "type": "heading",
+          "settings": {
+            "heading": "Transitional CTAs: You're not ready to buy? That's OK.  Here are some resources to help you on your journey.",
+            "heading_size": "h1"
+          }
+        },
+        "120d2429-3321-4b80-a273-3270f81c58fa": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Download the Free Guide<\/li><li>Register for the Webinar<\/li><li>Learn More<\/li><\/ul>",
+            "text_style": "body"
+          }
+        },
+        "ff74c428-2e47-4045-92c2-918d34c02b6d": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "69745004-2973-47d7-b340-7c830c9dff91",
+        "120d2429-3321-4b80-a273-3270f81c58fa",
+        "ff74c428-2e47-4045-92c2-918d34c02b6d"
+      ],
       "settings": {
-        "heading": "Start Your Journey Today",
-        "heading_size": "h1",
-        "color_scheme": "background-1",
+        "image": "shopify:\/\/shop_images\/brittany.nance.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 72,
         "padding_bottom": 72
       }
@@ -939,6 +776,52 @@
         "padding_top": 72,
         "padding_bottom": 72
       }
+    },
+    "2fa6b785-2d63-49ed-80a4-6142f55b8eb1": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18969798443310__2fa6b785-2d63-49ed-80a4-6142f55b8eb1-1685522048daacf0bd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Enjoy Your Pregnancy With Confidence And Joy",
+            "heading_size": "h1"
+          }
+        },
+        "template--18969798443310__2fa6b785-2d63-49ed-80a4-6142f55b8eb1-1685522048daacf0bd-1": {
+          "type": "text",
+          "settings": {
+            "text": "You'll transition from feeling overwhelmed by the uncertainties of parenthood to feeling secure, proud and connected with your baby. <strong>Contact Me Below<\/strong>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18969798443310__2fa6b785-2d63-49ed-80a4-6142f55b8eb1-1685522048daacf0bd-0",
+        "template--18969798443310__2fa6b785-2d63-49ed-80a4-6142f55b8eb1-1685522048daacf0bd-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-21_at_9.31.47_PM_527a0969-10f6-4d21-a0d6-a14fa914cf67.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "a4f57708-a8e8-4a4a-9fa9-a357d8ebe6f6": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Start Your Journey Today",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
     }
   },
   "order": [
@@ -948,21 +831,18 @@
     "5dcc2e09-d394-45b1-8a67-91f5ca75a88b",
     "7349c304-73b2-4802-81a7-6ddc5c70d938",
     "1b926abd-6698-493f-b663-34aa7a27d739",
-    "4112abb6-540a-4adc-a109-3cf055627282",
     "product-grid",
-    "e266894d-19b2-4458-8637-366880deb96f",
     "1684160738a02e5867",
-    "2f1ea206-d579-4a4a-8c11-8917b1684f54",
-    "3d57bb50-158b-4ab6-b232-2a79dfe7cbba",
-    "7da98ea2-f3bb-48ca-b55f-c47cd7ef4fa4",
-    "e08c1c10-fdbf-4c11-a888-bac40bed689f",
+    "e266894d-19b2-4458-8637-366880deb96f",
     "cf8d3d74-1bd1-40fc-97bd-9bd01b58f056",
     "d3a9cdcf-9cfb-4874-872f-3e905c2d0ef8",
     "e312c8d6-a824-48a2-92cd-4017d4178bc7",
     "cc2133c7-e4c3-42e1-a5b9-dad5ff5ff5c7",
     "57b83be9-ce08-4c10-9892-9b47ef3d5436",
+    "a41c5775-d223-450d-9354-bb9746a8945b",
+    "37e291ff-3edb-4dde-81d7-0ac8e2dc8c8a",
+    "65b167ca-467e-4938-82c9-74c2ef3a9e0d",
     "2fa6b785-2d63-49ed-80a4-6142f55b8eb1",
-    "a4f57708-a8e8-4a4a-9fa9-a357d8ebe6f6",
-    "65b167ca-467e-4938-82c9-74c2ef3a9e0d"
+    "a4f57708-a8e8-4a4a-9fa9-a357d8ebe6f6"
   ]
 }
