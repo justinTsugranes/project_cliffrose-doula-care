@@ -409,7 +409,6 @@
     },
     "a4b169a9-2b7a-4c8b-8e22-cfeb5e8f1c8a": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18771681968430__a4b169a9-2b7a-4c8b-8e22-cfeb5e8f1c8a-1685521139392b4ef8-0": {
           "type": "heading",
@@ -446,7 +445,6 @@
     },
     "d922f11b-6d29-4dd4-81e7-7ee7c547c70a": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--18771681968430__d922f11b-6d29-4dd4-81e7-7ee7c547c70a-1685524501408f2437-0": {
           "type": "column",
@@ -500,7 +498,6 @@
     },
     "60dc60aa-bada-4782-ad84-0c179b759014": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18771681968430__60dc60aa-bada-4782-ad84-0c179b759014-1685521139392b4ef8-0": {
           "type": "heading",
@@ -569,16 +566,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "bf3a2aa5-eec6-408d-9a79-fae847bcba19": {
-      "type": "contact-form",
-      "settings": {
-        "heading": "Have any questions? Contact Me",
-        "heading_size": "h1",
-        "color_scheme": "background-1",
-        "padding_top": 72,
-        "padding_bottom": 72
       }
     },
     "bef0f8b6-db78-4987-84a9-f5e0a95582aa": {
@@ -693,6 +680,16 @@
         "padding_bottom": 72
       }
     },
+    "bf3a2aa5-eec6-408d-9a79-fae847bcba19": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Have any questions? Contact Me",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -724,8 +721,8 @@
     "d922f11b-6d29-4dd4-81e7-7ee7c547c70a",
     "60dc60aa-bada-4782-ad84-0c179b759014",
     "a9a5fe12-93e0-4154-b3cd-c9f8a7eee77a",
-    "bf3a2aa5-eec6-408d-9a79-fae847bcba19",
     "bef0f8b6-db78-4987-84a9-f5e0a95582aa",
+    "bf3a2aa5-eec6-408d-9a79-fae847bcba19",
     "related-products"
   ]
 }
