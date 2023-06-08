@@ -87,6 +87,21 @@
         "padding_bottom": 72
       }
     },
+    "5dcc2e09-d394-45b1-8a67-91f5ca75a88b": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "7349c304-73b2-4802-81a7-6ddc5c70d938": {
       "type": "image-with-text",
       "blocks": {
@@ -356,6 +371,24 @@
         "padding_bottom": 72
       }
     },
+    "1684160738a02e5867": {
+      "type": "apps",
+      "disabled": true,
+      "blocks": {
+        "af7a0d47-c900-4482-87f7-2d22a622af81": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "af7a0d47-c900-4482-87f7-2d22a622af81"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "2f1ea206-d579-4a4a-8c11-8917b1684f54": {
       "type": "image-with-text",
       "disabled": true,
@@ -532,7 +565,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
             "title": "",
-            "text": "<h2>Begin Your Path to an Fulfilling Birth and Confident Parenthood<\/h2>",
+            "text": "<h2>Begin Your Path to a Fulfilling Birth and Confident Parenthood<\/h2>",
             "link_label": "",
             "link": ""
           }
@@ -561,24 +594,6 @@
         "swipe_on_mobile": false,
         "padding_top": 72,
         "padding_bottom": 72
-      }
-    },
-    "1684160738a02e5867": {
-      "type": "apps",
-      "disabled": true,
-      "blocks": {
-        "af7a0d47-c900-4482-87f7-2d22a622af81": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "af7a0d47-c900-4482-87f7-2d22a622af81"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "d3a9cdcf-9cfb-4874-872f-3e905c2d0ef8": {
@@ -930,17 +945,18 @@
     "banner",
     "c09d92e5-2a87-408a-8087-801589bc779e",
     "d4e4e041-296d-497d-a983-b24f7c9bf25d",
+    "5dcc2e09-d394-45b1-8a67-91f5ca75a88b",
     "7349c304-73b2-4802-81a7-6ddc5c70d938",
     "1b926abd-6698-493f-b663-34aa7a27d739",
     "4112abb6-540a-4adc-a109-3cf055627282",
     "product-grid",
     "e266894d-19b2-4458-8637-366880deb96f",
+    "1684160738a02e5867",
     "2f1ea206-d579-4a4a-8c11-8917b1684f54",
     "3d57bb50-158b-4ab6-b232-2a79dfe7cbba",
     "7da98ea2-f3bb-48ca-b55f-c47cd7ef4fa4",
     "e08c1c10-fdbf-4c11-a888-bac40bed689f",
     "cf8d3d74-1bd1-40fc-97bd-9bd01b58f056",
-    "1684160738a02e5867",
     "d3a9cdcf-9cfb-4874-872f-3e905c2d0ef8",
     "e312c8d6-a824-48a2-92cd-4017d4178bc7",
     "cc2133c7-e4c3-42e1-a5b9-dad5ff5ff5c7",
