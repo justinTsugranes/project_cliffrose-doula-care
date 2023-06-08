@@ -58,7 +58,7 @@
         "template--18836504150318__379a9adc-5795-4994-90d5-474d9764e2fb-16821135714c01c41b-1"
       ],
       "settings": {
-        "desktop_content_position": "left",
+        "desktop_content_position": "center",
         "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
@@ -69,7 +69,7 @@
     "c2e4d24c-7f4d-4249-aa9c-6c3e7092ee35": {
       "type": "contact-form",
       "settings": {
-        "heading": "Can't find what you're looking for? Contact me",
+        "heading": "Have any questions? Contact me",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "padding_top": 72,
