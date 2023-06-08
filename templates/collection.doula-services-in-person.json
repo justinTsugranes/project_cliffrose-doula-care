@@ -590,7 +590,6 @@
     },
     "f7b4515d-0877-4d52-a264-f3f8a6e90183": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18771324829998__f7b4515d-0877-4d52-a264-f3f8a6e90183-1686218681d5e3b493-0": {
           "type": "heading",
@@ -625,8 +624,8 @@
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -635,7 +634,6 @@
     },
     "534b3e83-def7-48f5-a6d3-340cac7f4f5d": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
         "template--18771324829998__534b3e83-def7-48f5-a6d3-340cac7f4f5d-16855200706ed368cb-0": {
           "type": "collapsible_row",
