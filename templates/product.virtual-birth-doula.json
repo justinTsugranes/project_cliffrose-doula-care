@@ -50,6 +50,7 @@
     },
     "3e397002-78de-4d48-9415-8ac56ac8e07d": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18956233965870__3e397002-78de-4d48-9415-8ac56ac8e07d-1686256716baa8819f-0": {
           "type": "heading",
@@ -92,6 +93,7 @@
     },
     "2a711bd9-8d3b-4e6d-8e25-a748a3e824f3": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18956233965870__2a711bd9-8d3b-4e6d-8e25-a748a3e824f3-1686256738bc1a9b01-0": {
           "type": "heading",
@@ -136,6 +138,7 @@
     },
     "db1ee288-87b4-477e-94ab-3671f383fade": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "Video",
         "heading_size": "h1",
@@ -148,95 +151,9 @@
         "padding_bottom": 36
       }
     },
-    "main": {
-      "type": "main-product",
-      "disabled": true,
-      "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "disabled": true,
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": false
-          }
-        },
-        "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8": {
-          "type": "text",
-          "settings": {
-            "text": "Text block",
-            "text_style": "body"
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "vendor",
-        "title",
-        "price",
-        "variant_picker",
-        "quantity_selector",
-        "buy_buttons",
-        "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8",
-        "description",
-        "share"
-      ],
-      "settings": {
-        "enable_sticky_info": false,
-        "media_size": "small",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "gallery_layout": "stacked",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "mobile_thumbnails": "hide",
-        "hide_variants": true,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 12
-      }
-    },
     "9af1f611-0527-4889-a369-c814737b03b9": {
       "type": "collapsible-content",
+      "disabled": true,
       "blocks": {
         "template--18956233965870__9af1f611-0527-4889-a369-c814737b03b9-16855200706ed368cb-0": {
           "type": "collapsible_row",
@@ -339,6 +256,93 @@
         "mobile_content_alignment": "left",
         "padding_top": 72,
         "padding_bottom": 72
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "disabled": true,
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8": {
+          "type": "text",
+          "settings": {
+            "text": "Text block",
+            "text_style": "body"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8",
+        "description",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "stacked",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
       }
     },
     "5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678": {
@@ -501,6 +505,7 @@
     },
     "16f0071a-b42c-4dfc-aedc-c96f3b7a00c4": {
       "type": "collapsible-content",
+      "disabled": true,
       "blocks": {
         "template--18956233965870__16f0071a-b42c-4dfc-aedc-c96f3b7a00c4-16855200706ed368cb-0": {
           "type": "collapsible_row",
@@ -584,9 +589,9 @@
     "3e397002-78de-4d48-9415-8ac56ac8e07d",
     "2a711bd9-8d3b-4e6d-8e25-a748a3e824f3",
     "db1ee288-87b4-477e-94ab-3671f383fade",
-    "main",
     "9af1f611-0527-4889-a369-c814737b03b9",
     "0f55ffa0-e50a-4acf-ad18-997356e50af7",
+    "main",
     "5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678",
     "c133156c-ab40-47c2-847b-4a56b50bf17a",
     "04c19bbc-f531-4662-806b-fd33b8941ae1",
