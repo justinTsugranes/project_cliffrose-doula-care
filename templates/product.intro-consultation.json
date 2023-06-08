@@ -150,7 +150,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Collapsible content",
+        "heading": "What We'll Cover",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "row",
@@ -280,8 +280,8 @@
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 12
+        "padding_top": 72,
+        "padding_bottom": 0
       }
     },
     "ea73d1b1-f1b2-483a-a4cb-98db231b56bc": {
