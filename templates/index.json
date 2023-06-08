@@ -293,7 +293,6 @@
     },
     "feae2534-69ab-460b-8878-f8c6ae5bfd65": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--18729374646574__feae2534-69ab-460b-8878-f8c6ae5bfd65-1684232851e9a59cf6-0": {
           "type": "column",
@@ -317,6 +316,7 @@
         },
         "template--18729374646574__feae2534-69ab-460b-8878-f8c6ae5bfd65-1684232851e9a59cf6-2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
             "title": "",
@@ -337,9 +337,9 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "full",
+        "image_width": "half",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
@@ -905,60 +905,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "d0eaa3f1-256b-4922-8cdf-64b5b67df578": {
-      "type": "multicolumn",
-      "disabled": true,
-      "blocks": {
-        "template--18729374646574__d0eaa3f1-256b-4922-8cdf-64b5b67df578-168555738104b00f44-0": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18729374646574__d0eaa3f1-256b-4922-8cdf-64b5b67df578-168555738104b00f44-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18729374646574__d0eaa3f1-256b-4922-8cdf-64b5b67df578-168555738104b00f44-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374646574__d0eaa3f1-256b-4922-8cdf-64b5b67df578-168555738104b00f44-0",
-        "template--18729374646574__d0eaa3f1-256b-4922-8cdf-64b5b67df578-168555738104b00f44-1",
-        "template--18729374646574__d0eaa3f1-256b-4922-8cdf-64b5b67df578-168555738104b00f44-2"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -982,7 +928,6 @@
     "0ab83aff-b08b-4aa4-b95e-796a03d36d65",
     "9493d506-298c-468a-8578-ed5d3a7ca7ca",
     "7a24b1a7-179a-42cd-a3fd-77b158a05681",
-    "f08f764a-3d97-422e-a1c1-3d42fc56acee",
-    "d0eaa3f1-256b-4922-8cdf-64b5b67df578"
+    "f08f764a-3d97-422e-a1c1-3d42fc56acee"
   ]
 }
