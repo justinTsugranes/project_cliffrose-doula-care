@@ -150,13 +150,6 @@
         "include_margins": true
       }
     },
-    "feceba61-04b1-49dc-943f-774304ef7ed1": {
-      "type": "judgeme_carousel_section",
-      "disabled": true,
-      "settings": {
-        "maxwidth": 1080
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -243,7 +236,6 @@
     },
     "f8277bfe-43b9-464d-8c98-f4a8ac5dd9c3": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--18873568035118__f8277bfe-43b9-464d-8c98-f4a8ac5dd9c3-168553955580a9e02f-0": {
           "type": "heading",
@@ -331,7 +323,6 @@
     },
     "6e5dd3e0-2032-40ef-89c4-95ba3db2490a": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18873568035118__6e5dd3e0-2032-40ef-89c4-95ba3db2490a-1685539660918604e9-0": {
           "type": "heading",
@@ -368,7 +359,6 @@
     },
     "a944eef8-22a9-4c0c-ac84-bd4a988df0f8": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18873568035118__a944eef8-22a9-4c0c-ac84-bd4a988df0f8-1685539660918604e9-0": {
           "type": "heading",
@@ -405,7 +395,6 @@
     },
     "5e0ab3e9-e092-48d0-b1d4-7ffc5dd6ee70": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18873568035118__5e0ab3e9-e092-48d0-b1d4-7ffc5dd6ee70-1685539660918604e9-0": {
           "type": "heading",
@@ -442,7 +431,6 @@
     },
     "0860b06e-83db-4e08-ad97-4fe844c198ef": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--18873568035118__0860b06e-83db-4e08-ad97-4fe844c198ef-1685539410b89049c6-0": {
           "type": "column",
@@ -695,7 +683,6 @@
     "45651938-d78a-4468-8455-2456d5f88fcd",
     "bc4906c0-3125-4f6b-866c-e28e5efa9642",
     "16855431995f221ddb",
-    "feceba61-04b1-49dc-943f-774304ef7ed1",
     "main",
     "f8277bfe-43b9-464d-8c98-f4a8ac5dd9c3",
     "ddecdc2d-a2f0-4b09-b266-10686ddb9ce8",
