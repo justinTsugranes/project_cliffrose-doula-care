@@ -444,7 +444,7 @@
         "7e6f36d9-3cc4-4e5c-8e3c-2b39ce76ee47": {
           "type": "featured_collection",
           "settings": {
-            "collection": "virtual-doula-services"
+            "collection": "virtual-birth-doula-services"
           }
         },
         "template--18729374646574__67d25079-454a-42a5-8f56-8267d6c949f3-1682333027c4f732ce-2": {
@@ -764,7 +764,7 @@
         "template--18729374646574__0ab83aff-b08b-4aa4-b95e-796a03d36d65-168556019333c708b7-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "virtual-doula-services"
+            "collection": "virtual-birth-doula-services"
           }
         }
       },
