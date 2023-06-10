@@ -50,7 +50,6 @@
     },
     "3e397002-78de-4d48-9415-8ac56ac8e07d": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--18956233965870__3e397002-78de-4d48-9415-8ac56ac8e07d-1686256716baa8819f-0": {
           "type": "heading",
@@ -93,7 +92,6 @@
     },
     "2a711bd9-8d3b-4e6d-8e25-a748a3e824f3": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18956233965870__2a711bd9-8d3b-4e6d-8e25-a748a3e824f3-1686256738bc1a9b01-0": {
           "type": "heading",
@@ -153,7 +151,6 @@
     },
     "9af1f611-0527-4889-a369-c814737b03b9": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
         "template--18956233965870__9af1f611-0527-4889-a369-c814737b03b9-16855200706ed368cb-0": {
           "type": "collapsible_row",
@@ -233,7 +230,7 @@
         "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2": {
           "type": "button",
           "settings": {
-            "button_label": "Contact Us",
+            "button_label": "Contact Me For Availability",
             "button_link": "shopify:\/\/pages\/contact-a-doula"
           }
         }
