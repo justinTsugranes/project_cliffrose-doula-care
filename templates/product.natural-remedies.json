@@ -74,8 +74,8 @@
         },
         "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-2": {
           "type": "column",
-          "disabled": true,
           "settings": {
+            "image": "shopify:\/\/shop_images\/logo_aqua.png",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -96,7 +96,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
