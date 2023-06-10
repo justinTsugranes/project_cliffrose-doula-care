@@ -526,14 +526,17 @@
         "template--18771812843822__53e03c4a-f302-4fa0-9ab7-2ef6834434c4-1685524501408f2437-1",
         "template--18771812843822__53e03c4a-f302-4fa0-9ab7-2ef6834434c4-1685524501408f2437-2"
       ],
+      "custom_css": [
+        "div {box-shadow: none;}"
+      ],
       "settings": {
         "title": "With The Cliffrose Birth Package, You'll...",
         "heading_size": "h1",
-        "image_width": "half",
+        "image_width": "third",
         "image_ratio": "circle",
         "columns_desktop": 3,
         "column_alignment": "center",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
