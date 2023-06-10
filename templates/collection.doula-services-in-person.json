@@ -799,14 +799,14 @@
         "template--19478573515054__b49103eb-2af2-4feb-b01a-f6b57ac229e6-1686401361be1f933c-0": {
           "type": "heading",
           "settings": {
-            "heading": "Transitional CTAs: You're not ready to buy? That's OK.  Here are some resources to help you on your journey.",
+            "heading": "Here are some resources to help you on your journey.",
             "heading_size": "h1"
           }
         },
         "template--19478573515054__b49103eb-2af2-4feb-b01a-f6b57ac229e6-1686401361be1f933c-1": {
           "type": "text",
           "settings": {
-            "text": "Download the Free GuideRegister for the WebinarLearn More",
+            "text": "Download the Free Guide Register for the Webinar Learn More",
             "text_style": "body"
           }
         },
