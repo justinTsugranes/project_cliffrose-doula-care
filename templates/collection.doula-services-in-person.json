@@ -504,6 +504,9 @@
         "template--18771324829998__e1d2a377-4903-4d5d-9f76-93ed54b1b0d9-1685524501408f2437-1",
         "template--18771324829998__e1d2a377-4903-4d5d-9f76-93ed54b1b0d9-1685524501408f2437-2"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "title": "With Full-Spectrum Birth Doula Services, You'll...",
         "heading_size": "h1",
@@ -633,9 +636,54 @@
         "padding_bottom": 36
       }
     },
+    "8ce1e951-8a8a-4e55-8818-21e2d6ea361b": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18771324829998__8ce1e951-8a8a-4e55-8818-21e2d6ea361b-1685522048daacf0bd-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Enjoy Your Pregnancy With Confidence And Joy",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771324829998__8ce1e951-8a8a-4e55-8818-21e2d6ea361b-1685522048daacf0bd-1": {
+          "type": "text",
+          "settings": {
+            "text": "You'll transition from feeling overwhelmed by the uncertainties of parenthood to feeling secure, proud and connected with your baby. <strong>Contact Me Below<\/strong>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771324829998__8ce1e951-8a8a-4e55-8818-21e2d6ea361b-1685522048daacf0bd-0",
+        "template--18771324829998__8ce1e951-8a8a-4e55-8818-21e2d6ea361b-1685522048daacf0bd-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/beautiful-pregnant-woman-practicing-yoga-by-the-ocean.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "cb947bb7-afb7-4c6b-8e6a-fd4a4c1692d3": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Start Your Journey Today",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
     "534b3e83-def7-48f5-a6d3-340cac7f4f5d": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
         "template--18771324829998__534b3e83-def7-48f5-a6d3-340cac7f4f5d-16855200706ed368cb-0": {
           "type": "collapsible_row",
@@ -694,93 +742,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "8ce1e951-8a8a-4e55-8818-21e2d6ea361b": {
-      "type": "image-banner",
-      "blocks": {
-        "template--18771324829998__8ce1e951-8a8a-4e55-8818-21e2d6ea361b-1685522048daacf0bd-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Enjoy Your Pregnancy With Confidence And Joy",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771324829998__8ce1e951-8a8a-4e55-8818-21e2d6ea361b-1685522048daacf0bd-1": {
-          "type": "text",
-          "settings": {
-            "text": "You'll transition from feeling overwhelmed by the uncertainties of parenthood to feeling secure, proud and connected with your baby. <strong>Contact Me Below<\/strong>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771324829998__8ce1e951-8a8a-4e55-8818-21e2d6ea361b-1685522048daacf0bd-0",
-        "template--18771324829998__8ce1e951-8a8a-4e55-8818-21e2d6ea361b-1685522048daacf0bd-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/beautiful-pregnant-woman-practicing-yoga-by-the-ocean.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "cb947bb7-afb7-4c6b-8e6a-fd4a4c1692d3": {
-      "type": "contact-form",
-      "settings": {
-        "heading": "Start Your Journey Today",
-        "heading_size": "h1",
-        "color_scheme": "background-1",
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
-    "d243728c-af03-44c6-8203-45580b31f057": {
-      "type": "collection-list",
-      "disabled": true,
-      "blocks": {
-        "template--18771324829998__d243728c-af03-44c6-8203-45580b31f057-1686220030ca16ffe6-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "template--18771324829998__d243728c-af03-44c6-8203-45580b31f057-1686220030ca16ffe6-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "template--18771324829998__d243728c-af03-44c6-8203-45580b31f057-1686220030ca16ffe6-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18771324829998__d243728c-af03-44c6-8203-45580b31f057-1686220030ca16ffe6-0",
-        "template--18771324829998__d243728c-af03-44c6-8203-45580b31f057-1686220030ca16ffe6-1",
-        "template--18771324829998__d243728c-af03-44c6-8203-45580b31f057-1686220030ca16ffe6-2"
-      ],
-      "settings": {
-        "title": "You may also like...",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "background-1",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
     }
   },
   "order": [
@@ -802,9 +763,8 @@
     "f8fcb5a9-b010-426d-a4fd-794fde93f19a",
     "fb5c689b-86f1-4c6c-800e-1c7ceec74395",
     "f7b4515d-0877-4d52-a264-f3f8a6e90183",
-    "534b3e83-def7-48f5-a6d3-340cac7f4f5d",
     "8ce1e951-8a8a-4e55-8818-21e2d6ea361b",
     "cb947bb7-afb7-4c6b-8e6a-fd4a4c1692d3",
-    "d243728c-af03-44c6-8203-45580b31f057"
+    "534b3e83-def7-48f5-a6d3-340cac7f4f5d"
   ]
 }
