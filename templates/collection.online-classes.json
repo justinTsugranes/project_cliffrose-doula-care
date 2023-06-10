@@ -205,144 +205,6 @@
         "padding_bottom": 72
       }
     },
-    "afa533a9-383b-4c1a-9f98-83d4727c828e": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--19135030133038__afa533a9-383b-4c1a-9f98-83d4727c828e-168639277077fa0cc6-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--19135030133038__afa533a9-383b-4c1a-9f98-83d4727c828e-168639277077fa0cc6-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--19135030133038__afa533a9-383b-4c1a-9f98-83d4727c828e-168639277077fa0cc6-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--19135030133038__afa533a9-383b-4c1a-9f98-83d4727c828e-168639277077fa0cc6-0",
-        "template--19135030133038__afa533a9-383b-4c1a-9f98-83d4727c828e-168639277077fa0cc6-1",
-        "template--19135030133038__afa533a9-383b-4c1a-9f98-83d4727c828e-168639277077fa0cc6-2"
-      ],
-      "custom_css": [
-        "div {box-shadow: none;}"
-      ],
-      "settings": {
-        "title": "How it works...",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "circle",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
-    "dc19041b-fa15-429d-85ce-06676fc8ad54": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--19135030133038__dc19041b-fa15-429d-85ce-06676fc8ad54-1684152313b7f2554a-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Unveil the Mysteries of Parenthood",
-            "heading_size": "h1"
-          }
-        },
-        "template--19135030133038__dc19041b-fa15-429d-85ce-06676fc8ad54-1684152313b7f2554a-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We cover a wide spectrum of topics, from natural remedies for pregnancy discomforts, childbirth techniques, breastfeeding tips, to strategies for a seamless postpartum transition. Our classes are designed to provide you with knowledge, confidence, and personalized care.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--19135030133038__dc19041b-fa15-429d-85ce-06676fc8ad54-1684152313b7f2554a-0",
-        "template--19135030133038__dc19041b-fa15-429d-85ce-06676fc8ad54-1684152313b7f2554a-1"
-      ],
-      "settings": {
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
-    "9af1e4a8-d3df-4791-abee-28b88459a860": {
-      "type": "judgeme_carousel_section",
-      "disabled": true,
-      "settings": {
-        "maxwidth": 1080
-      }
-    },
-    "f822a603-92e6-495a-8ff0-b6e6a54dadd8": {
-      "type": "image-with-text",
-      "blocks": {
-        "08d83878-b703-4674-ab97-61fc057dc63a": {
-          "type": "heading",
-          "settings": {
-            "heading": "Convenient and Affordable Learning",
-            "heading_size": "h1"
-          }
-        },
-        "f4a5a337-b947-4f2b-ac23-76d3f07f7c7d": {
-          "type": "text",
-          "settings": {
-            "text": "<p>All our classes are<strong> live<\/strong>, interactive, and hosted via Zoom, enabling you to learn from the comfort of your own space.<\/p><p>Each class is an unforgettable <strong>hour-long<\/strong> and priced at <strong>$35<\/strong>.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "08d83878-b703-4674-ab97-61fc057dc63a",
-        "f4a5a337-b947-4f2b-ac23-76d3f07f7c7d"
-      ],
-      "settings": {
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
     "71c355c2-8bfb-4941-88e9-0d2a9fe3ccbc": {
       "type": "featured-product",
       "blocks": {
@@ -551,6 +413,101 @@
         "padding_bottom": 72
       }
     },
+    "afa533a9-383b-4c1a-9f98-83d4727c828e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19135030133038__afa533a9-383b-4c1a-9f98-83d4727c828e-168639277077fa0cc6-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19135030133038__afa533a9-383b-4c1a-9f98-83d4727c828e-168639277077fa0cc6-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19135030133038__afa533a9-383b-4c1a-9f98-83d4727c828e-168639277077fa0cc6-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19135030133038__afa533a9-383b-4c1a-9f98-83d4727c828e-168639277077fa0cc6-0",
+        "template--19135030133038__afa533a9-383b-4c1a-9f98-83d4727c828e-168639277077fa0cc6-1",
+        "template--19135030133038__afa533a9-383b-4c1a-9f98-83d4727c828e-168639277077fa0cc6-2"
+      ],
+      "custom_css": [
+        "div {box-shadow: none;}"
+      ],
+      "settings": {
+        "title": "How it works...",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "dc19041b-fa15-429d-85ce-06676fc8ad54": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19135030133038__dc19041b-fa15-429d-85ce-06676fc8ad54-1684152313b7f2554a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unveil the Mysteries of Parenthood",
+            "heading_size": "h1"
+          }
+        },
+        "template--19135030133038__dc19041b-fa15-429d-85ce-06676fc8ad54-1684152313b7f2554a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We cover a wide spectrum of topics, from natural remedies for pregnancy discomforts, childbirth techniques, breastfeeding tips, to strategies for a seamless postpartum transition. Our classes are designed to provide you with knowledge, confidence, and personalized care.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--19135030133038__dc19041b-fa15-429d-85ce-06676fc8ad54-1684152313b7f2554a-0",
+        "template--19135030133038__dc19041b-fa15-429d-85ce-06676fc8ad54-1684152313b7f2554a-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
     "168427073029ee237b": {
       "type": "apps",
       "disabled": true,
@@ -567,6 +524,42 @@
       ],
       "settings": {
         "include_margins": true
+      }
+    },
+    "f822a603-92e6-495a-8ff0-b6e6a54dadd8": {
+      "type": "image-with-text",
+      "blocks": {
+        "08d83878-b703-4674-ab97-61fc057dc63a": {
+          "type": "heading",
+          "settings": {
+            "heading": "Convenient and Affordable Learning",
+            "heading_size": "h1"
+          }
+        },
+        "f4a5a337-b947-4f2b-ac23-76d3f07f7c7d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All our classes are<strong> live<\/strong>, interactive, and hosted via Zoom, enabling you to learn from the comfort of your own space.<\/p><p>Each class is an unforgettable <strong>hour-long<\/strong> and priced at <strong>$35<\/strong>.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "08d83878-b703-4674-ab97-61fc057dc63a",
+        "f4a5a337-b947-4f2b-ac23-76d3f07f7c7d"
+      ],
+      "settings": {
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "540cc506-b240-40ec-a134-95dee0aa88c4": {
@@ -672,8 +665,8 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     }
   },
@@ -685,13 +678,12 @@
     "974a8f47-0fd4-4ec9-8359-1b8fcf270f4a",
     "eb2805c7-a70f-4aec-a646-177125e9592d",
     "product-grid",
-    "afa533a9-383b-4c1a-9f98-83d4727c828e",
-    "dc19041b-fa15-429d-85ce-06676fc8ad54",
-    "9af1e4a8-d3df-4791-abee-28b88459a860",
-    "f822a603-92e6-495a-8ff0-b6e6a54dadd8",
     "71c355c2-8bfb-4941-88e9-0d2a9fe3ccbc",
     "f6bcb2ec-76a1-45f2-bd97-5016c9c6351d",
+    "afa533a9-383b-4c1a-9f98-83d4727c828e",
+    "dc19041b-fa15-429d-85ce-06676fc8ad54",
     "168427073029ee237b",
+    "f822a603-92e6-495a-8ff0-b6e6a54dadd8",
     "540cc506-b240-40ec-a134-95dee0aa88c4",
     "0da9c3a0-8916-49e7-a2cd-f218678307fd",
     "3bb0586f-2a2e-46f3-8490-ab4ba09daa94"
