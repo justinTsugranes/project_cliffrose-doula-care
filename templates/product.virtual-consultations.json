@@ -296,6 +296,18 @@
           "settings": {
           }
         },
+        "63df13a4-be0c-47dc-9048-9cd0b550427e": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "heart",
+            "heading_1": "Heading",
+            "icon_2": "return",
+            "heading_2": "Heading",
+            "icon_3": "truck",
+            "heading_3": "Heading"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -320,13 +332,6 @@
           "settings": {
             "text": "Consultations are 1-Hour Long and held on Zoom. Book a time below and then check your e-mail for a welcome letter from us as well as the Zoom meeting information.",
             "text_style": "body"
-          }
-        },
-        "cbd1e508-0a6e-4627-bb7b-455495e5482e": {
-          "type": "popup",
-          "settings": {
-            "text": "Pop-up link text",
-            "page": "labor-support"
           }
         },
         "description": {
@@ -373,11 +378,11 @@
       "block_order": [
         "vendor",
         "title",
+        "63df13a4-be0c-47dc-9048-9cd0b550427e",
         "price",
         "2db0546d-06a2-46aa-8ad4-0aa880468908",
         "96375314-e4f3-4b8a-8350-1e018541d59c",
         "691b2185-ccd5-4565-bb1e-228aca928c1d",
-        "cbd1e508-0a6e-4627-bb7b-455495e5482e",
         "description",
         "variant_picker",
         "quantity_selector",
