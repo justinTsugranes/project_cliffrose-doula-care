@@ -65,10 +65,18 @@
             "heading": "Meet Your Doula",
             "heading_size": "h1"
           }
+        },
+        "7a53d9d7-865c-4294-864a-cc9ed9416777": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Our team consists of highly experienced and compassionate birth professionals who are committed to your well-being. With diverse qualifications such as certified doulas, childbirth educators, lactation consultants, and more, we bring a wealth of expertise to support you on your journey.<\/p>"
+          }
         }
       },
       "block_order": [
-        "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-0"
+        "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-0",
+        "7a53d9d7-865c-4294-864a-cc9ed9416777"
       ],
       "settings": {
         "desktop_content_position": "center",
