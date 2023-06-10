@@ -13,14 +13,14 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1": {
           "type": "text",
           "settings": {
-            "text": "Have the birth experience you've always dreamed of while we guide you every step of the way. Enjoy three prenatal visits, labor support, overnight doula care, three postpartum visits, meals, 24\/7 on-call support, virtual consultations, free access to online classes.",
+            "text": "Experience the Birth You've Dreamed of with Unmatched Personalized Care. Enjoy three comprehensive prenatal visits, continuous labor support, overnight doula care, three postpartum visits, labor & postpartum meals, 24\/7 on-call support, virtual consultations, free access to online classes and peace of mind knowing that you have the best doula care available.",
             "text_style": "body"
           }
         },
-        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-2": {
+        "e10be80c-904b-4fdc-96a1-adf9d08f7bfa": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Contact Me",
+            "button_label_1": "Contact Me For Availability",
             "button_link_1": "shopify:\/\/pages\/contact-a-doula",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -32,7 +32,7 @@
       "block_order": [
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0",
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1",
-        "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-2"
+        "e10be80c-904b-4fdc-96a1-adf9d08f7bfa"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.48.46_PM.jpg",
@@ -113,14 +113,14 @@
         "template--18771812843822__19f61c61-1bc6-4d50-abc7-ab9059b11f92-16841523606ed96b36-0": {
           "type": "heading",
           "settings": {
-            "heading": "The birthing journey can feel overwhelming, filled with questions and unknowns",
+            "heading": "The journey to parenthood is transformative",
             "heading_size": "h1"
           }
         },
         "template--18771812843822__19f61c61-1bc6-4d50-abc7-ab9059b11f92-16841523606ed96b36-1": {
           "type": "text",
           "settings": {
-            "text": "<p>You value comprehensive support, detailed preparation, and superior care during your transformative journey towards parenthood. But how will you manage labor? Who will support you when you bring your baby home? How can you maintain your wellbeing during this monumental transition?<\/p>"
+            "text": "<p>You value exceptional support, detailed preparation, and superior care for your birth experience. How will you navigate labor? Who will provide guidance during the postpartum period? How can you ensure your well-being throughout this monumental transition?<\/p>"
           }
         },
         "template--18771812843822__19f61c61-1bc6-4d50-abc7-ab9059b11f92-16841523606ed96b36-2": {
@@ -171,7 +171,7 @@
         "template--18771812843822__042acb86-0c49-49de-8f60-96d3b7762e9e-1684152313b7f2554a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>I provide a comforting presence, continuous emotional support, and evidence-based knowledge to help you make informed decisions about your care<\/p><h2><span style=\"text-decoration:underline\">Trainings, Mentorships + Certifications<\/span><\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul>",
+            "text": "<p> I offer a comforting presence, unwavering emotional support, and evidence-based knowledge to help you make informed decisions about your care.<\/p><h2><span style=\"text-decoration:underline\">Trainings, Mentorships + Certifications<\/span><\/h2><ul><li>BADT Full Spectrum Doula Certification (2021)<\/li><li>BADT Full Spectrum Doula Training (2020)<\/li><li>Lactation Management for Doulas (2019)<\/li><li>Gentle Mothering Volunteer Doula (2018-2019)<\/li><li>DONA Birth Doula Training (2017)<\/li><\/ul>",
             "text_style": "body"
           }
         }
@@ -226,7 +226,7 @@
         "9fce59f4-37ee-42cc-8c35-965887b97945": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "24\/7 on-call support, available from 38 weeks gestation onwards",
+            "heading": "24\/7 on-call support starting at 38 weeks gestation",
             "icon": "check_mark",
             "row_content": "<p>As your doula, I am here for you 24\/7 with on-call availability starting at 38 weeks gestation and continuing through the last weeks of pregnancy, birth, and postpartum period.<\/p><p>You can count on me to be there whenever you need, whether it's answering questions, providing guidance, or offering support day or night.<\/p><p>You can have peace of mind knowing that I am just a call or message away, ready to provide answers or just a listening ear.<\/p><p>After contacting me at onset of labor, I will be constantly available via phone or video call, and text before they meet you at home or at your preferred delivery location through the duration of labor.<\/p><p><a href=\"https:\/\/cliffrosedoula.com\/pages\/contact\" title=\"Contact\"><strong>Contact Me &gt;<\/strong><\/a><\/p>",
             "page": ""
@@ -235,7 +235,7 @@
         "ed4b453a-cbd0-40e2-b8ba-1ec21672a820": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Virtual consultations, connecting you with expert advice via Zoom and SMS",
+            "heading": "Virtual consultations via Zoom and SMS, connecting you with expert advice",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -244,7 +244,7 @@
         "template--18771812843822__97e30142-9b0a-4f77-bbbb-b5fec17119b2-1684152529d9a7cdb6-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Continuous labor support, utilizing methods such as rebozo, birth ball, and breathing techniques",
+            "heading": "Continuous labor support, utilizing methods like rebozo, birth ball, and breathing techniques",
             "icon": "check_mark",
             "row_content": "<p>I will be by your side throughout your labor, providing continuous support, encouragement, and comfort, regardless of your chosen birth location (home, birthing center, or hospital).<\/p><p><span style=\"text-decoration:underline\">Some of the services you will receive include:<\/span><\/p><ul><li>Light Labor Meals<\/li><li>Rebozo Massage<\/li><li>Birthing Ball & Peanut Ball<\/li><li>Breathing Techniques<\/li><li>Counter Pressure & Physical Support<\/li><li>Hydrotherapy Assistance<\/li><li>Acupressure or Light Touch Massage<\/li><li>Visualization & Mindfulness Techniques<\/li><li>Birth Room Ambiance & Aromatherapy<\/li><li>Immediate Postpartum Support<\/li><li>Complimentary Birth Photography and Video<\/li><li>and more!<\/li><\/ul><p>With comprehensive support through labor, you can feel secure, like I have your back! And your front too :)<\/p><p><a href=\"https:\/\/cliffrosedoula.com\/pages\/labor-support\" title=\"Labor Support\"><strong>Visit my Labor Support page to Learn More<\/strong><\/a><\/p>",
             "page": ""
@@ -253,7 +253,7 @@
         "template--18771812843822__97e30142-9b0a-4f77-bbbb-b5fec17119b2-1684152529d9a7cdb6-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Light meals to keep you nourished and energized",
+            "heading": "Nutritious light meals to keep you nourished and energized during labor",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -262,7 +262,7 @@
         "d1b8b435-ca43-4980-bc3d-77746d8ee980": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Overnight doula care, providing 8 hours of support tailored to your needs",
+            "heading": "Overnight doula care, providing 8 hours of tailored support",
             "icon": "check_mark",
             "row_content": "<p>Experience peace of mind knowing that our dedicated doula will be with you throughout the night, providing comprehensive support after your baby's birth. Our services include:<\/p><ul><li><strong>Overnight Support:<\/strong> Your doula will be by your side all night, providing compassionate care and assistance as you navigate the postpartum period.<\/li><li><strong>Skin-to-Skin Bonding:<\/strong> Your doula will help facilitate skin-to-skin contact between you and your baby, promoting bonding and establishing breastfeeding, if desired.<\/li><li><strong>Feeding Support:<\/strong> Your doula will offer guidance and assistance with breastfeeding or bottle-feeding, ensuring that you and your baby are comfortable and well-supported.<\/li><\/ul><p>With our overnight doula care, you can rest assured knowing that you have a knowledgeable and caring professional by your side throughout the night, providing nurturing support for you and your newborn.<\/p><p><a href=\"https:\/\/cliffrose-doula.myshopify.com\/pages\/contact\" title=\"Contact\"><strong>Contact Us &gt;<\/strong><\/a><\/p>",
             "page": ""
@@ -271,7 +271,7 @@
         "60b0b936-7bc4-4788-a93d-f366cc8ed2d1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Three 3-hour postpartum visits, offering emotional support and practical assistance",
+            "heading": "Three 3-hour postpartum visits for emotional support and practical assistance",
             "icon": "check_mark",
             "row_content": "<p>I will be by your side throughout your labor, providing continuous support, encouragement, and comfort, regardless of your chosen birth location (home, birthing center, or hospital).<\/p><p><span style=\"text-decoration:underline\">Some of the services you will receive include:<\/span><\/p><ul><li>Light Labor Meals<\/li><li>Rebozo Massage<\/li><li>Birthing Ball & Peanut Ball<\/li><li>Breathing Techniques<\/li><li>Counter Pressure & Physical Support<\/li><li>Hydrotherapy Assistance<\/li><li>Acupressure or Light Touch Massage<\/li><li>Visualization & Mindfulness Techniques<\/li><li>Birth Room Ambiance & Aromatherapy<\/li><li>Immediate Postpartum Support<\/li><li>Complimentary Birth Photography and Video<\/li><li>and more!<\/li><\/ul><p>With comprehensive support through labor, you can feel secure, like I have your back! And your front too :)<\/p><p><a href=\"https:\/\/cliffrosedoula.com\/pages\/labor-support\" title=\"Labor Support\"><strong>Visit my Labor Support page to Learn More<\/strong><\/a><\/p>",
             "page": ""
@@ -280,7 +280,7 @@
         "61d650bf-a33f-46f8-9d29-3b8817cbb45e": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Healing Postpartum Meals",
+            "heading": "Healing postpartum meals to aid in your recovery",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -289,7 +289,7 @@
         "template--18771812843822__97e30142-9b0a-4f77-bbbb-b5fec17119b2-1684152529d9a7cdb6-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Free access to all online classes, ensuring you're well-prepared and informed",
+            "heading": "Free, unlimited access to all online classes for comprehensive preparation",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
