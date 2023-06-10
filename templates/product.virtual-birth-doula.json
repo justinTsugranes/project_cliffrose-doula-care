@@ -593,6 +593,7 @@
         "template--18956233965870__5fb7406e-d951-4a4c-aafa-f31878d4ad85-16863929191985fc59-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.49.46_PM.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -629,6 +630,7 @@
         "a5d83aa1-0969-4e2a-a9f9-1a0199d264c9"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.44.58_PM.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -665,6 +667,7 @@
         "template--18956233965870__90424e38-f724-4d87-8896-0f46138faf40-1686392740ae4afc36-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/pregnant_woman_having_virtual_meeting_with_doula.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
