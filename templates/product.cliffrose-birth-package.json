@@ -665,7 +665,6 @@
     },
     "1224b268-ce1b-49fe-b043-e82e526bea7d": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
         "template--18771812843822__1224b268-ce1b-49fe-b043-e82e526bea7d-16855200706ed368cb-0": {
           "type": "collapsible_row",
