@@ -130,7 +130,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 72,
@@ -150,110 +150,6 @@
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 72
-      }
-    },
-    "main": {
-      "type": "main-product",
-      "disabled": true,
-      "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "1048be3e-2a8c-47cb-b51f-5e352ee3b7f3": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
-        "e29f0e4e-7e0d-4e47-b2f6-7af2df96370a": {
-          "type": "popup",
-          "disabled": true,
-          "settings": {
-            "text": "Contact Us For Scheduling",
-            "page": "contact-a-doula"
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "disabled": true,
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "disabled": true,
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": false
-          }
-        },
-        "share": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Share"
-          }
-        },
-        "0ec33f44-16ca-4885-af18-c60d163f25dd": {
-          "type": "text",
-          "settings": {
-            "text": "<a href=\"\/products\/intro-birth-consultation\" title=\"Intro Birth Consultation\"><strong>Book a free consultation<\/strong><\/a>",
-            "text_style": "subtitle"
-          }
-        }
-      },
-      "block_order": [
-        "vendor",
-        "title",
-        "1048be3e-2a8c-47cb-b51f-5e352ee3b7f3",
-        "price",
-        "description",
-        "e29f0e4e-7e0d-4e47-b2f6-7af2df96370a",
-        "variant_picker",
-        "quantity_selector",
-        "buy_buttons",
-        "share",
-        "0ec33f44-16ca-4885-af18-c60d163f25dd"
-      ],
-      "settings": {
-        "enable_sticky_info": false,
-        "media_size": "small",
-        "constrain_to_viewport": false,
-        "media_fit": "cover",
-        "gallery_layout": "stacked",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "mobile_thumbnails": "hide",
-        "hide_variants": true,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 12
       }
     },
     "97e30142-9b0a-4f77-bbbb-b5fec17119b2": {
@@ -363,6 +259,110 @@
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "disabled": true,
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "1048be3e-2a8c-47cb-b51f-5e352ee3b7f3": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "e29f0e4e-7e0d-4e47-b2f6-7af2df96370a": {
+          "type": "popup",
+          "disabled": true,
+          "settings": {
+            "text": "Contact Us For Scheduling",
+            "page": "contact-a-doula"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "0ec33f44-16ca-4885-af18-c60d163f25dd": {
+          "type": "text",
+          "settings": {
+            "text": "<a href=\"\/products\/intro-birth-consultation\" title=\"Intro Birth Consultation\"><strong>Book a free consultation<\/strong><\/a>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "1048be3e-2a8c-47cb-b51f-5e352ee3b7f3",
+        "price",
+        "description",
+        "e29f0e4e-7e0d-4e47-b2f6-7af2df96370a",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "share",
+        "0ec33f44-16ca-4885-af18-c60d163f25dd"
+      ],
+      "settings": {
+        "enable_sticky_info": false,
+        "media_size": "small",
+        "constrain_to_viewport": false,
+        "media_fit": "cover",
+        "gallery_layout": "stacked",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
         "padding_top": 72,
         "padding_bottom": 72
       }
@@ -567,13 +567,13 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pexels-pixabay-269141.jpg",
-        "height": "adapt",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 72,
@@ -604,7 +604,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-21_at_9.31.47_PM_527a0969-10f6-4d21-a0d6-a14fa914cf67.jpg",
-        "height": "adapt",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
@@ -757,6 +757,7 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
@@ -1003,8 +1004,8 @@
     "19f61c61-1bc6-4d50-abc7-ab9059b11f92",
     "042acb86-0c49-49de-8f60-96d3b7762e9e",
     "3fe4b53e-4af3-45b0-ab43-21b471e1e439",
-    "main",
     "97e30142-9b0a-4f77-bbbb-b5fec17119b2",
+    "main",
     "0f55ffa0-e50a-4acf-ad18-997356e50af7",
     "16831916672172c682",
     "795d4e9c-d684-4709-91c7-a370d2a144a3",
