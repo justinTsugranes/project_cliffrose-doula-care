@@ -277,7 +277,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
-            "title": "To join the class, simply sign up below",
+            "title": "To join the class, select an available time on the calendar below",
             "text": "",
             "link_label": "",
             "link": ""
@@ -287,8 +287,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Enter your details in the form",
+            "text": "<p>You will receive an email with all Zoom details.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -297,8 +297,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Learn how to alleviate those awful pregnancy symptoms",
+            "text": "",
             "link_label": "",
             "link": ""
           }
