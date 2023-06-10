@@ -347,7 +347,7 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 72,
         "padding_bottom": 72
       }
     },
