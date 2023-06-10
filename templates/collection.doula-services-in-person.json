@@ -63,7 +63,8 @@
         "template--19478573515054__680cb492-e97e-4fd5-a2b8-2fa3221fb0cb-168640061018c7c4e1-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
@@ -72,7 +73,8 @@
         "template--19478573515054__680cb492-e97e-4fd5-a2b8-2fa3221fb0cb-168640061018c7c4e1-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
+            "image": "shopify:\/\/shop_images\/birthing_advocacy_doula_training.png",
+            "title": "",
             "text": "",
             "link_label": "",
             "link": ""
@@ -80,6 +82,7 @@
         },
         "template--19478573515054__680cb492-e97e-4fd5-a2b8-2fa3221fb0cb-168640061018c7c4e1-2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Column",
             "text": "",
@@ -100,8 +103,8 @@
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "circle",
-        "columns_desktop": 3,
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
@@ -109,8 +112,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "174ab2c5-0fa3-4f0b-8957-e5df30bdc3bd": {
