@@ -187,21 +187,6 @@
         "padding_bottom": 72
       }
     },
-    "198428c5-154e-4db7-abb6-db4f4883ce77": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "a24919a9-374a-4376-87f8-017e551acc00": {
       "type": "collapsible-content",
       "blocks": {
@@ -263,134 +248,17 @@
         "padding_bottom": 72
       }
     },
-    "main": {
-      "type": "main-product",
+    "198428c5-154e-4db7-abb6-db4f4883ce77": {
+      "type": "video",
       "disabled": true,
-      "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "price": {
-          "type": "price",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "disabled": true,
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": false
-          }
-        },
-        "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8": {
-          "type": "text",
-          "settings": {
-            "text": "Text block",
-            "text_style": "body"
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "vendor",
-        "title",
-        "price",
-        "variant_picker",
-        "quantity_selector",
-        "buy_buttons",
-        "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8",
-        "description",
-        "share"
-      ],
       "settings": {
-        "enable_sticky_info": true,
-        "media_size": "large",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "gallery_layout": "stacked",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "mobile_thumbnails": "hide",
-        "hide_variants": true,
+        "heading": "",
+        "heading_size": "h1",
         "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 12
-      }
-    },
-    "0f55ffa0-e50a-4acf-ad18-997356e50af7": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>The Pure Labor Support Package<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>My birth doula service is designed to offer you comprehensive care and guidance during this transformative experience so that you are prepared for your upcoming birth and parenthood.<\/p><h2>My Pure Labor Support Package includes the following services:<\/h2><ul><li>Prenatal Visit -  1 visit for 4 hours<\/li><li>Labor Support - Rebozo, Birth Ball, Breathing Techniques, Acupressure, Birthroom Ambiance, Labor Meal<\/li><li>Postpartum Visit - 1 visit for 4 hours<\/li><li>24\/7 On Call Support beginning at 38 weeks<\/li><\/ul><p><strong>Total Package Price: $1,500.00<\/strong><\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Contact Me For Availability",
-            "button_link": "shopify:\/\/pages\/contact-a-doula"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-0",
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-1",
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/pregnant_woman_holding_her_hands_in_the_shape_of_a_heart_around_her_pregnant_stomach.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
         "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 72,
         "padding_bottom": 72
       }
@@ -635,40 +503,136 @@
         "padding_bottom": 72
       }
     },
-    "2f57e2f7-23fe-40f4-b61a-8378e6ddecb0": {
+    "0f55ffa0-e50a-4acf-ad18-997356e50af7": {
       "type": "image-with-text",
       "blocks": {
-        "template--18944954335534__2f57e2f7-23fe-40f4-b61a-8378e6ddecb0-16864011570fb92d87-0": {
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "<strong>The Pure Labor Support Package<\/strong>",
             "heading_size": "h1"
           }
         },
-        "template--18944954335534__2f57e2f7-23fe-40f4-b61a-8378e6ddecb0-16864011570fb92d87-1": {
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>My birth doula service is designed to offer you comprehensive care and guidance during this transformative experience so that you are prepared for your upcoming birth and parenthood.<\/p><h2>My Pure Labor Support Package includes the following services:<\/h2><ul><li>Prenatal Visit -  1 visit for 4 hours<\/li><li>Labor Support - Rebozo, Birth Ball, Breathing Techniques, Acupressure, Birthroom Ambiance, Labor Meal<\/li><li>Postpartum Visit - 1 visit for 4 hours<\/li><li>24\/7 On Call Support beginning at 38 weeks<\/li><\/ul><p><strong>Total Package Price: $1,500.00<\/strong><\/p>",
             "text_style": "body"
+          }
+        },
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact Me For Availability",
+            "button_link": "shopify:\/\/pages\/contact-a-doula"
           }
         }
       },
       "block_order": [
-        "template--18944954335534__2f57e2f7-23fe-40f4-b61a-8378e6ddecb0-16864011570fb92d87-0",
-        "template--18944954335534__2f57e2f7-23fe-40f4-b61a-8378e6ddecb0-16864011570fb92d87-1"
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-0",
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-1",
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/pregnant_woman_holding_her_hands_in_the_shape_of_a_heart_around_her_pregnant_stomach.jpg",
         "height": "medium",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
+        "desktop_image_width": "small",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "overlap",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "disabled": true,
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8": {
+          "type": "text",
+          "settings": {
+            "text": "Text block",
+            "text_style": "body"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8",
+        "description",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "stacked",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 12
       }
     },
     "8dbbc055-d416-475e-8018-1226ab6140db": {
@@ -694,7 +658,7 @@
         "template--18944954335534__8dbbc055-d416-475e-8018-1226ab6140db-1685522048daacf0bd-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/woman_breastfeeding_baby_with_help_from_breastfeeding_support_group_main.webp",
+        "image": "shopify:\/\/shop_images\/pregnant_woman_holding_her_hands_in_the_shape_of_a_heart_around_her_pregnant_stomach.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -755,13 +719,43 @@
             "row_content": "",
             "page": ""
           }
+        },
+        "41ea4dc1-1a15-478b-82f3-93d9ebe503d1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "2c7201dc-5b5e-4ef6-ad0e-c010d6741dec": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "1bcbbcd2-c044-4131-ae62-07fedb3ab799": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "template--18944954335534__31bb5317-df81-4368-ac8b-1760145f3e37-16855200706ed368cb-0",
         "template--18944954335534__31bb5317-df81-4368-ac8b-1760145f3e37-16855200706ed368cb-1",
         "template--18944954335534__31bb5317-df81-4368-ac8b-1760145f3e37-16855200706ed368cb-2",
-        "template--18944954335534__31bb5317-df81-4368-ac8b-1760145f3e37-16855200706ed368cb-3"
+        "template--18944954335534__31bb5317-df81-4368-ac8b-1760145f3e37-16855200706ed368cb-3",
+        "41ea4dc1-1a15-478b-82f3-93d9ebe503d1",
+        "2c7201dc-5b5e-4ef6-ad0e-c010d6741dec",
+        "1bcbbcd2-c044-4131-ae62-07fedb3ab799"
       ],
       "settings": {
         "caption": "",
@@ -802,16 +796,15 @@
     "84059b52-495a-4b35-970a-e4bcfb3ec895",
     "c388b35e-3663-4b0d-bef1-542fa38c3eb4",
     "3b55a366-9d80-48d8-b979-2408e99c4e36",
-    "198428c5-154e-4db7-abb6-db4f4883ce77",
     "a24919a9-374a-4376-87f8-017e551acc00",
-    "main",
-    "0f55ffa0-e50a-4acf-ad18-997356e50af7",
+    "198428c5-154e-4db7-abb6-db4f4883ce77",
     "5b8254e9-4fc2-4c54-86a7-92e705e17c79",
     "ab1892e2-73bd-4ed9-977f-12384085803e",
     "fc150aa8-dc12-47d4-913c-f23958bcba29",
     "770d3bfc-660d-4072-8b4e-182735bbc82e",
     "be6e8eb1-7b20-40ab-8891-db816be489ae",
-    "2f57e2f7-23fe-40f4-b61a-8378e6ddecb0",
+    "0f55ffa0-e50a-4acf-ad18-997356e50af7",
+    "main",
     "8dbbc055-d416-475e-8018-1226ab6140db",
     "8598a9c8-5583-4b5f-9452-547a7df178c5",
     "31bb5317-df81-4368-ac8b-1760145f3e37",
