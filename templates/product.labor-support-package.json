@@ -420,8 +420,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
-            "title": "Reach out to schedule an initial consultation",
-            "text": "",
+            "title": "Contact me to schedule a consultation",
+            "text": "<p>We'll discuss your desires, preferences, and unique needs.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -430,8 +430,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
-            "title": "We'll discuss your desires, preferences, and unique needs",
-            "text": "",
+            "title": "Get personalized support",
+            "text": "<p>Together, we'll create a personalized birth plan tailored to you. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -440,8 +440,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
-            "title": "We'll create a personalized birth plan for you",
-            "text": "",
+            "title": "Enjoy your pregnancy and childbirth",
+            "text": "<p>Embrace the support and guidance you need for an empowering and joyful childbirth experience.<\/p>",
             "link_label": "",
             "link": ""
           }
