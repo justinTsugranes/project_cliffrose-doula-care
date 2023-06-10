@@ -74,7 +74,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-2",
         "full_width": true,
         "padding_top": 72,
         "padding_bottom": 72
@@ -125,7 +125,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 72,
@@ -150,6 +150,126 @@
         "include_margins": true
       }
     },
+    "0394940e-4262-455f-a51c-f012e7889324": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--18873568035118__0394940e-4262-455f-a51c-f012e7889324-16863938980c5881d4-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--18873568035118__0394940e-4262-455f-a51c-f012e7889324-16863938980c5881d4-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--18873568035118__0394940e-4262-455f-a51c-f012e7889324-16863938980c5881d4-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--18873568035118__0394940e-4262-455f-a51c-f012e7889324-16863938980c5881d4-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18873568035118__0394940e-4262-455f-a51c-f012e7889324-16863938980c5881d4-0",
+        "template--18873568035118__0394940e-4262-455f-a51c-f012e7889324-16863938980c5881d4-1",
+        "template--18873568035118__0394940e-4262-455f-a51c-f012e7889324-16863938980c5881d4-2",
+        "template--18873568035118__0394940e-4262-455f-a51c-f012e7889324-16863938980c5881d4-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "accent-2",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "0860b06e-83db-4e08-ad97-4fe844c198ef": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18873568035118__0860b06e-83db-4e08-ad97-4fe844c198ef-1685539410b89049c6-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18873568035118__0860b06e-83db-4e08-ad97-4fe844c198ef-1685539410b89049c6-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18873568035118__0860b06e-83db-4e08-ad97-4fe844c198ef-1685539410b89049c6-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18873568035118__0860b06e-83db-4e08-ad97-4fe844c198ef-1685539410b89049c6-0",
+        "template--18873568035118__0860b06e-83db-4e08-ad97-4fe844c198ef-1685539410b89049c6-1",
+        "template--18873568035118__0860b06e-83db-4e08-ad97-4fe844c198ef-1685539410b89049c6-2"
+      ],
+      "custom_css": [
+        "div {box-shadow: none;}"
+      ],
+      "settings": {
+        "title": "How To Get Started",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -170,10 +290,16 @@
           "settings": {
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
+        "f9667c85-22bd-4c31-b2d5-5cd42c9d01c9": {
+          "type": "icon-with-text",
           "settings": {
-            "picker_type": "button"
+            "layout": "horizontal",
+            "icon_1": "price_tag",
+            "heading_1": "Free",
+            "icon_2": "stopwatch",
+            "heading_2": "1-Hour",
+            "icon_3": "chat_bubble",
+            "heading_3": "Zoom"
           }
         },
         "description": {
@@ -185,6 +311,13 @@
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https:\/\/calendly.com\/cliffrosedoula\/natural-remedies-for-common-pregnancy-symptoms?hide_event_type_details=1&hide_gdpr_banner=1&background_color=F9F7F4&text_color=333333&primary_color=2d6650\" style=\"min-width:320px;height:630px;\"><\/div>\n<script type=\"text\/javascript\" src=\"https:\/\/assets.calendly.com\/assets\/external\/widget.js\" async><\/script>\n<!-- Calendly inline widget end -->"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "picker_type": "button"
           }
         },
         "quantity_selector": {
@@ -203,6 +336,7 @@
         },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
@@ -212,9 +346,10 @@
         "vendor",
         "title",
         "price",
-        "variant_picker",
+        "f9667c85-22bd-4c31-b2d5-5cd42c9d01c9",
         "description",
         "1f1d1a09-9a08-40f3-a32e-8d4b6f199583",
+        "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "share"
@@ -267,7 +402,6 @@
     },
     "ddecdc2d-a2f0-4b09-b266-10686ddb9ce8": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--18873568035118__ddecdc2d-a2f0-4b09-b266-10686ddb9ce8-16842726209c8f5aaa-0": {
           "type": "column",
@@ -305,14 +439,17 @@
         "template--18873568035118__ddecdc2d-a2f0-4b09-b266-10686ddb9ce8-16842726209c8f5aaa-1",
         "template--18873568035118__ddecdc2d-a2f0-4b09-b266-10686ddb9ce8-16842726209c8f5aaa-2"
       ],
+      "custom_css": [
+        "div {box-shadow: none;}"
+      ],
       "settings": {
         "title": "After This Class You'll...",
         "heading_size": "h1",
-        "image_width": "half",
-        "image_ratio": "adapt",
+        "image_width": "third",
+        "image_ratio": "circle",
         "columns_desktop": 3,
         "column_alignment": "center",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
@@ -324,7 +461,6 @@
     },
     "6e5dd3e0-2032-40ef-89c4-95ba3db2490a": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18873568035118__6e5dd3e0-2032-40ef-89c4-95ba3db2490a-1685539660918604e9-0": {
           "type": "heading",
@@ -346,12 +482,12 @@
         "template--18873568035118__6e5dd3e0-2032-40ef-89c4-95ba3db2490a-1685539660918604e9-1"
       ],
       "settings": {
-        "height": "adapt",
+        "height": "medium",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
@@ -361,7 +497,6 @@
     },
     "a944eef8-22a9-4c0c-ac84-bd4a988df0f8": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18873568035118__a944eef8-22a9-4c0c-ac84-bd4a988df0f8-1685539660918604e9-0": {
           "type": "heading",
@@ -383,12 +518,12 @@
         "template--18873568035118__a944eef8-22a9-4c0c-ac84-bd4a988df0f8-1685539660918604e9-1"
       ],
       "settings": {
-        "height": "adapt",
+        "height": "medium",
         "desktop_image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
@@ -398,7 +533,6 @@
     },
     "5e0ab3e9-e092-48d0-b1d4-7ffc5dd6ee70": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18873568035118__5e0ab3e9-e092-48d0-b1d4-7ffc5dd6ee70-1685539660918604e9-0": {
           "type": "heading",
@@ -420,12 +554,12 @@
         "template--18873568035118__5e0ab3e9-e092-48d0-b1d4-7ffc5dd6ee70-1685539660918604e9-1"
       ],
       "settings": {
-        "height": "adapt",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
@@ -433,133 +567,60 @@
         "padding_bottom": 72
       }
     },
-    "0860b06e-83db-4e08-ad97-4fe844c198ef": {
-      "type": "multicolumn",
-      "disabled": true,
+    "c586814c-5ee7-45ca-a02d-31711d8f8475": {
+      "type": "image-banner",
       "blocks": {
-        "template--18873568035118__0860b06e-83db-4e08-ad97-4fe844c198ef-1685539410b89049c6-0": {
-          "type": "column",
+        "template--18873568035118__c586814c-5ee7-45ca-a02d-31711d8f8475-1686392740ae4afc36-0": {
+          "type": "heading",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18873568035118__0860b06e-83db-4e08-ad97-4fe844c198ef-1685539410b89049c6-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18873568035118__0860b06e-83db-4e08-ad97-4fe844c198ef-1685539410b89049c6-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18873568035118__0860b06e-83db-4e08-ad97-4fe844c198ef-1685539410b89049c6-0",
-        "template--18873568035118__0860b06e-83db-4e08-ad97-4fe844c198ef-1685539410b89049c6-1",
-        "template--18873568035118__0860b06e-83db-4e08-ad97-4fe844c198ef-1685539410b89049c6-2"
-      ],
-      "settings": {
-        "title": "How To Get Started",
-        "heading_size": "h1",
-        "image_width": "half",
-        "image_ratio": "circle",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
-    "b9c8a7d2-26ed-4d54-bc64-171092ee7acc": {
-      "type": "featured-product",
-      "disabled": true,
-      "blocks": {
-        "template--18873568035118__b9c8a7d2-26ed-4d54-bc64-171092ee7acc-16855430834f6ccc74-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "template--18873568035118__b9c8a7d2-26ed-4d54-bc64-171092ee7acc-16855430834f6ccc74-1": {
-          "type": "title",
-          "settings": {
+            "heading": "Image banner",
             "heading_size": "h1"
           }
         },
-        "template--18873568035118__b9c8a7d2-26ed-4d54-bc64-171092ee7acc-16855430834f6ccc74-2": {
-          "type": "price",
+        "template--18873568035118__c586814c-5ee7-45ca-a02d-31711d8f8475-1686392740ae4afc36-1": {
+          "type": "text",
           "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
-        "template--18873568035118__b9c8a7d2-26ed-4d54-bc64-171092ee7acc-16855430834f6ccc74-3": {
-          "type": "variant_picker",
-          "disabled": true,
+        "template--18873568035118__c586814c-5ee7-45ca-a02d-31711d8f8475-1686392740ae4afc36-2": {
+          "type": "buttons",
           "settings": {
-            "picker_type": "button"
-          }
-        },
-        "template--18873568035118__b9c8a7d2-26ed-4d54-bc64-171092ee7acc-16855430834f6ccc74-4": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "template--18873568035118__b9c8a7d2-26ed-4d54-bc64-171092ee7acc-16855430834f6ccc74-5": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false
-          }
-        },
-        "template--18873568035118__b9c8a7d2-26ed-4d54-bc64-171092ee7acc-16855430834f6ccc74-6": {
-          "type": "share",
-          "disabled": true,
-          "settings": {
-            "share_label": "Share"
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "template--18873568035118__b9c8a7d2-26ed-4d54-bc64-171092ee7acc-16855430834f6ccc74-0",
-        "template--18873568035118__b9c8a7d2-26ed-4d54-bc64-171092ee7acc-16855430834f6ccc74-1",
-        "template--18873568035118__b9c8a7d2-26ed-4d54-bc64-171092ee7acc-16855430834f6ccc74-2",
-        "template--18873568035118__b9c8a7d2-26ed-4d54-bc64-171092ee7acc-16855430834f6ccc74-3",
-        "template--18873568035118__b9c8a7d2-26ed-4d54-bc64-171092ee7acc-16855430834f6ccc74-4",
-        "template--18873568035118__b9c8a7d2-26ed-4d54-bc64-171092ee7acc-16855430834f6ccc74-5",
-        "template--18873568035118__b9c8a7d2-26ed-4d54-bc64-171092ee7acc-16855430834f6ccc74-6"
+        "template--18873568035118__c586814c-5ee7-45ca-a02d-31711d8f8475-1686392740ae4afc36-0",
+        "template--18873568035118__c586814c-5ee7-45ca-a02d-31711d8f8475-1686392740ae4afc36-1",
+        "template--18873568035118__c586814c-5ee7-45ca-a02d-31711d8f8475-1686392740ae4afc36-2"
       ],
       "settings": {
-        "product": "natural-remedies",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "6721c297-a92a-4a25-b927-f287b3d97dbc": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "<strong>Have any questions? Contact Me<\/strong>",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "padding_top": 72,
         "padding_bottom": 72
       }
     },
@@ -654,18 +715,9 @@
         "padding_bottom": 72
       }
     },
-    "6721c297-a92a-4a25-b927-f287b3d97dbc": {
-      "type": "contact-form",
-      "settings": {
-        "heading": "<strong>Have any questions? Contact Me<\/strong>",
-        "heading_size": "h1",
-        "color_scheme": "background-1",
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
@@ -688,16 +740,17 @@
     "45651938-d78a-4468-8455-2456d5f88fcd",
     "bc4906c0-3125-4f6b-866c-e28e5efa9642",
     "16855431995f221ddb",
+    "0394940e-4262-455f-a51c-f012e7889324",
+    "0860b06e-83db-4e08-ad97-4fe844c198ef",
     "main",
     "f8277bfe-43b9-464d-8c98-f4a8ac5dd9c3",
     "ddecdc2d-a2f0-4b09-b266-10686ddb9ce8",
     "6e5dd3e0-2032-40ef-89c4-95ba3db2490a",
     "a944eef8-22a9-4c0c-ac84-bd4a988df0f8",
     "5e0ab3e9-e092-48d0-b1d4-7ffc5dd6ee70",
-    "0860b06e-83db-4e08-ad97-4fe844c198ef",
-    "b9c8a7d2-26ed-4d54-bc64-171092ee7acc",
-    "1e25e36f-11c0-45c7-8913-ca12e73de1fc",
+    "c586814c-5ee7-45ca-a02d-31711d8f8475",
     "6721c297-a92a-4a25-b927-f287b3d97dbc",
+    "1e25e36f-11c0-45c7-8913-ca12e73de1fc",
     "related-products"
   ]
 }
