@@ -115,7 +115,7 @@
         "template--18729374646574__e857e320-8ef3-493c-896f-03751741fe32-16841937828ac68367-1": {
           "type": "text",
           "settings": {
-            "text": "<p>As your dedicated doula, I am with you for the entire transformation: from the anticipation of pregnancy to the joy of having your newborn in your arms.<\/p><p>I am an experienced navigator in the landscape of pregnancy, childbirth, and postpartum care and align my care with your lifestyle and values every step of the way.<\/p><p>Think of me as your guide and steadfast support through every step of the way. <strong>You are not alone!<\/strong><\/p>",
+            "text": "<p>As your dedicated doula, I'll be there for your entire transformation, from the anticipation of pregnancy to the joy of holding your newborn in your arms. With my experience in pregnancy, childbirth, and postpartum care, I'll navigate this journey alongside you, aligning my care with your lifestyle and values. Together, we'll navigate the path, and you'll never be alone.<\/p>",
             "text_style": "body"
           }
         }
@@ -142,16 +142,6 @@
     "feae2534-69ab-460b-8878-f8c6ae5bfd65": {
       "type": "multicolumn",
       "blocks": {
-        "template--18729374646574__feae2534-69ab-460b-8878-f8c6ae5bfd65-1684232851e9a59cf6-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "template--18729374646574__feae2534-69ab-460b-8878-f8c6ae5bfd65-1684232851e9a59cf6-1": {
           "type": "column",
           "settings": {
@@ -162,11 +152,20 @@
             "link": ""
           }
         },
-        "template--18729374646574__feae2534-69ab-460b-8878-f8c6ae5bfd65-1684232851e9a59cf6-2": {
+        "template--18729374646574__feae2534-69ab-460b-8878-f8c6ae5bfd65-1684232851e9a59cf6-0": {
           "type": "column",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18729374646574__feae2534-69ab-460b-8878-f8c6ae5bfd65-1684232851e9a59cf6-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_aqua.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -175,8 +174,8 @@
         }
       },
       "block_order": [
-        "template--18729374646574__feae2534-69ab-460b-8878-f8c6ae5bfd65-1684232851e9a59cf6-0",
         "template--18729374646574__feae2534-69ab-460b-8878-f8c6ae5bfd65-1684232851e9a59cf6-1",
+        "template--18729374646574__feae2534-69ab-460b-8878-f8c6ae5bfd65-1684232851e9a59cf6-0",
         "template--18729374646574__feae2534-69ab-460b-8878-f8c6ae5bfd65-1684232851e9a59cf6-2"
       ],
       "custom_css": [
@@ -185,9 +184,9 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "half",
+        "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
