@@ -36,7 +36,7 @@
         "template--18771681968430__64f75edf-857a-4fce-a893-524d3ddf1697-168415258743e5623a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot2023-06-06at6.22.51AM.jpg",
+        "image": "shopify:\/\/shop_images\/pregnant_woman_having_virtual_meeting_with_doula.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -166,7 +166,7 @@
         "template--18771681968430__bbaab20a-b2a6-4d62-a4bb-0de6080f2225-1685376732666697d3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Our virtual consultations are personal dialogues. I focus on you, your personal preferences, and your concerns. My guidance is always genuine and evidence-based.<\/p>",
+            "text": "<p>My virtual consultations offer a unique opportunity to connect with an experienced doula who understands your concerns and can provide genuine support and evidence-based guidance throughout your pregnancy journey.<\/p>",
             "text_style": "body"
           }
         }
@@ -489,8 +489,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Convenient",
+            "text": "<p>Enjoy flexible scheduling and access to expert support from the comfort of your home.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -499,8 +499,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Personalized Care",
+            "text": "<p>Receive tailored guidance that aligns with your unique preferences and concerns.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -509,8 +509,17 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Expert Knowledge",
+            "text": "<p>Gain evidence-based information and resources to empower you during your pregnancy journey.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "48f097a9-d827-42a3-9864-07f25fc5a2c0": {
+          "type": "column",
+          "settings": {
+            "title": "Confidentiality",
+            "text": "<p>Feel at ease discussing intimate topics in a private virtual setting.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -519,7 +528,8 @@
       "block_order": [
         "template--18771681968430__d922f11b-6d29-4dd4-81e7-7ee7c547c70a-1685524501408f2437-0",
         "template--18771681968430__d922f11b-6d29-4dd4-81e7-7ee7c547c70a-1685524501408f2437-1",
-        "template--18771681968430__d922f11b-6d29-4dd4-81e7-7ee7c547c70a-1685524501408f2437-2"
+        "template--18771681968430__d922f11b-6d29-4dd4-81e7-7ee7c547c70a-1685524501408f2437-2",
+        "48f097a9-d827-42a3-9864-07f25fc5a2c0"
       ],
       "custom_css": [
         "div {box-shadow: none;}"
@@ -554,7 +564,7 @@
         "template--18771681968430__a4b169a9-2b7a-4c8b-8e22-cfeb5e8f1c8a-1685521139392b4ef8-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Access the guidance and support you deserve through virtual doula consultations.<\/p>",
+            "text": "<p>Access the professional guidance and compassionate support of a virtual doula to ensure a positive and empowered experience.<\/p>",
             "text_style": "body"
           }
         }
@@ -564,6 +574,7 @@
         "template--18771681968430__a4b169a9-2b7a-4c8b-8e22-cfeb5e8f1c8a-1685521139392b4ef8-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.49.46_PM.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -590,7 +601,7 @@
         "template--18771681968430__60dc60aa-bada-4782-ad84-0c179b759014-1685521139392b4ef8-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Gain the reassurance, empowerment, and personalized guidance you need to navigate this special time.<\/p>",
+            "text": "<p>Embrace the reassurance, empowerment, and personalized guidance that come with having a knowledgeable and caring virtual doula by your side.<\/p>",
             "text_style": "body"
           }
         }
@@ -600,6 +611,7 @@
         "template--18771681968430__60dc60aa-bada-4782-ad84-0c179b759014-1685521139392b4ef8-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/pregnant_woman_on_phone_call_with_virtual_doula.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -626,7 +638,7 @@
         "template--18771681968430__a9a5fe12-93e0-4154-b3cd-c9f8a7eee77a-1685522048daacf0bd-1": {
           "type": "text",
           "settings": {
-            "text": "Experience the reassurance, empowerment, and personalized guidance of virtual doula consultations, knowing you have my unwavering support.",
+            "text": "Navigate the uncertainties and challenges of pregnancy with confidence, knowing you have unwavering support from your virtual doula.",
             "text_style": "body"
           }
         }
@@ -636,7 +648,7 @@
         "template--18771681968430__a9a5fe12-93e0-4154-b3cd-c9f8a7eee77a-1685522048daacf0bd-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.49.36_PM_7ff628bc-77fc-4e18-9552-13975a82d274.jpg",
+        "image": "shopify:\/\/shop_images\/Screenshot2023-06-06at6.22.51AM.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
