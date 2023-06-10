@@ -527,7 +527,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
-            "title": "Be empowered to experience childbirth on your terms",
+            "title": "Feel empowered to make informed decisions and advocate for your birth preferences.",
             "text": "",
             "link_label": "",
             "link": ""
@@ -537,7 +537,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
-            "title": "Receive personalized professional support to navigate this beautiful journey",
+            "title": "Receive personalized support that honors your unique journey.",
             "text": "",
             "link_label": "",
             "link": ""
@@ -547,7 +547,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
-            "title": "Welcome your baby into the world with confidence.",
+            "title": "Welcome your baby into the world with confidence and joy.",
             "text": "",
             "link_label": "",
             "link": ""
@@ -585,14 +585,14 @@
         "template--18944954335534__770d3bfc-660d-4072-8b4e-182735bbc82e-1684152313b7f2554a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Embrace Preparation and Support",
+            "heading": "Don't Navigate Birth Alone",
             "heading_size": "h1"
           }
         },
         "template--18944954335534__770d3bfc-660d-4072-8b4e-182735bbc82e-1684152313b7f2554a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Don't enter parenthood unprepared. My birth services are designed to help you avoid feelings of being overwhelmed or unsupported.<\/p>",
+            "text": "<p>Parenthood is a significant transition, and having the right support is crucial. My Pure Labor Support Package ensures you never feel isolated, overwhelmed, or unsupported during this transformative time.<\/p>",
             "text_style": "body"
           }
         }
@@ -622,7 +622,7 @@
         "50848db7-3a69-4c52-8aed-1624b378afed": {
           "type": "heading",
           "settings": {
-            "heading": "In Harmony With Your Values",
+            "heading": "Nurture Your Birth Experience in Alignment with Your Values",
             "heading_size": "h1"
           }
         },
