@@ -411,8 +411,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Contact me to schedule an initial consultation",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -421,8 +421,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "We will discuss your needs, preferences, and any questions you may have",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -431,8 +431,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Once we've determined that the virtual doula package is right for you, we'll schedule your prenatal sessions and outline our communication plan",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -469,22 +469,22 @@
         "template--18956233965870__ed5982f5-75f9-4eea-8604-0611ad42699f-1686392740ae4afc36-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Embrace the support you deserve from the comfort of your home or office",
             "heading_size": "h1"
           }
         },
         "template--18956233965870__ed5982f5-75f9-4eea-8604-0611ad42699f-1686392740ae4afc36-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Start your journey towards an empowered and positive birth experience today",
             "text_style": "body"
           }
         },
         "template--18956233965870__ed5982f5-75f9-4eea-8604-0611ad42699f-1686392740ae4afc36-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "Contact Me Now!",
+            "button_link_1": "shopify:\/\/pages\/contact-a-doula",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
