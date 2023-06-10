@@ -322,6 +322,60 @@
         "padding_bottom": 72
       }
     },
+    "0f55ffa0-e50a-4acf-ad18-997356e50af7": {
+      "type": "image-with-text",
+      "blocks": {
+        "2b6164f0-a8e0-44a2-929a-529c9b564e9c": {
+          "type": "caption",
+          "settings": {
+            "caption": "cliffrose doula care",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>The Cliffrose Birth Package<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>My birth doula service is designed to offer you comprehensive care and guidance during this transformative experience, and I am committed to helping you prepare for your upcoming birth and parenthood.<\/p><h2>You will receive the following services:<\/h2><ul><li><strong>Prenatal Visits<\/strong> -  3 visits for 3 hours each<\/li><li><strong>Labor Support <\/strong>- rebozo, birth ball, breathing techniques, acupressure, birth room ambiance, TENS<\/li><li><strong>Overnight Doula<\/strong> - 8 hours of support in anyway you need<\/li><li><strong>Postpartum Visits<\/strong> - 3 visits for 3 hours each<\/li><li><strong>Meals<\/strong> - light labor meals, healing postpartum meals, freezer stockpile<\/li><li><strong>24\/7 On Call Support<\/strong> - beginning at 38 weeks<\/li><li><strong>Virtual Consultations<\/strong> - via Zoom and SMS<\/li><li><strong>Online Classes<\/strong> - free, unlimited access to all <a href=\"\/collections\/online-classes\" title=\"Online Classes\">online classes<\/a><\/li><\/ul><p><strong>Total Service Price: $5,000.00<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact Me For Availability",
+            "button_link": "shopify:\/\/pages\/contact-a-doula"
+          }
+        }
+      },
+      "block_order": [
+        "2b6164f0-a8e0-44a2-929a-529c9b564e9c",
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-0",
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-1",
+        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.46.09_PM.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
     "main": {
       "type": "main-product",
       "disabled": true,
@@ -481,60 +535,6 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
-    "0f55ffa0-e50a-4acf-ad18-997356e50af7": {
-      "type": "image-with-text",
-      "blocks": {
-        "2b6164f0-a8e0-44a2-929a-529c9b564e9c": {
-          "type": "caption",
-          "settings": {
-            "caption": "cliffrose doula care",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>The Cliffrose Birth Package<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>My birth doula service is designed to offer you comprehensive care and guidance during this transformative experience, and I am committed to helping you prepare for your upcoming birth and parenthood.<\/p><h2>You will receive the following services:<\/h2><ul><li><strong>Prenatal Visits<\/strong> -  3 visits for 3 hours each<\/li><li><strong>Labor Support <\/strong>- rebozo, birth ball, breathing techniques, acupressure, birth room ambiance, TENS<\/li><li><strong>Overnight Doula<\/strong> - 8 hours of support in anyway you need<\/li><li><strong>Postpartum Visits<\/strong> - 3 visits for 3 hours each<\/li><li><strong>Meals<\/strong> - light labor meals, healing postpartum meals, freezer stockpile<\/li><li><strong>24\/7 On Call Support<\/strong> - beginning at 38 weeks<\/li><li><strong>Virtual Consultations<\/strong> - via Zoom and SMS<\/li><li><strong>Online Classes<\/strong> - free, unlimited access to all <a href=\"\/collections\/online-classes\" title=\"Online Classes\">online classes<\/a><\/li><\/ul><p><strong>Total Service Price: $5,000.00<\/strong><\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Contact Me For Availability",
-            "button_link": "shopify:\/\/pages\/contact-a-doula"
-          }
-        }
-      },
-      "block_order": [
-        "2b6164f0-a8e0-44a2-929a-529c9b564e9c",
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-0",
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-1",
-        "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.46.09_PM.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 72,
         "padding_bottom": 72
       }
@@ -1144,9 +1144,9 @@
     "042acb86-0c49-49de-8f60-96d3b7762e9e",
     "3fe4b53e-4af3-45b0-ab43-21b471e1e439",
     "97e30142-9b0a-4f77-bbbb-b5fec17119b2",
+    "0f55ffa0-e50a-4acf-ad18-997356e50af7",
     "main",
     "d36bd1dd-b0ab-4a82-bac5-63288a9123b8",
-    "0f55ffa0-e50a-4acf-ad18-997356e50af7",
     "795d4e9c-d684-4709-91c7-a370d2a144a3",
     "53e03c4a-f302-4fa0-9ab7-2ef6834434c4",
     "9df65e6d-9e48-43c0-87f4-b97fa37bdc3f",
