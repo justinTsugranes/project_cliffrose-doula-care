@@ -13,7 +13,7 @@
         "template--18771681968430__64f75edf-857a-4fce-a893-524d3ddf1697-168415258743e5623a-1": {
           "type": "text",
           "settings": {
-            "text": "Meet your experienced doula from the comfort of your home. Get answers to your questions about pregnancy, childbirth, and postpartum. <strong>Schedule a 1-hour video consultation below!<\/strong>",
+            "text": "Meet your experienced doula from the comfort of your home. Get answers to your questions about pregnancy, childbirth, and postpartum.<strong> Schedule a 1-hour video consultation below!<\/strong>",
             "text_style": "body"
           }
         },
@@ -190,6 +190,24 @@
         "padding_bottom": 72
       }
     },
+    "1685360116c953b93f": {
+      "type": "apps",
+      "disabled": true,
+      "blocks": {
+        "71b82d0e-30af-4fd1-abc3-d0b7240dc375": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "71b82d0e-30af-4fd1-abc3-d0b7240dc375"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "74c1b25d-f975-4bf3-9dbb-8fe00689d06f": {
       "type": "collapsible-content",
       "blocks": {
@@ -288,8 +306,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
-            "title": "",
-            "text": "<h3>Book a Consultation Below<\/h3>",
+            "title": "Book a Consultation Below",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -298,8 +316,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
-            "title": "",
-            "text": "<h3>Check your email for all Zoom meeting details<\/h3>",
+            "title": "Check your email for all Zoom meeting details",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -308,8 +326,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
-            "title": "",
-            "text": "<h3>Feel reassured as I guide you through your pregnancy<\/h3>",
+            "title": "Feel reassured as I guide you through your pregnancy journey, providing answers to your questions and expert advice.",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -460,7 +478,7 @@
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
-        "padding_top": 72,
+        "padding_top": 36,
         "padding_bottom": 0
       }
     },
@@ -529,14 +547,14 @@
         "template--18771681968430__a4b169a9-2b7a-4c8b-8e22-cfeb5e8f1c8a-1685521139392b4ef8-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Don't navigate pregnancy alone",
             "heading_size": "h1"
           }
         },
         "template--18771681968430__a4b169a9-2b7a-4c8b-8e22-cfeb5e8f1c8a-1685521139392b4ef8-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Access the guidance and support you deserve through virtual doula consultations.<\/p>",
             "text_style": "body"
           }
         }
@@ -546,7 +564,7 @@
         "template--18771681968430__a4b169a9-2b7a-4c8b-8e22-cfeb5e8f1c8a-1685521139392b4ef8-1"
       ],
       "settings": {
-        "height": "adapt",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
@@ -559,38 +577,20 @@
         "padding_bottom": 36
       }
     },
-    "1685360116c953b93f": {
-      "type": "apps",
-      "disabled": true,
-      "blocks": {
-        "71b82d0e-30af-4fd1-abc3-d0b7240dc375": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "71b82d0e-30af-4fd1-abc3-d0b7240dc375"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "60dc60aa-bada-4782-ad84-0c179b759014": {
       "type": "image-with-text",
       "blocks": {
         "template--18771681968430__60dc60aa-bada-4782-ad84-0c179b759014-1685521139392b4ef8-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Experience a transformative pregnancy journey with virtual doula consultations",
             "heading_size": "h1"
           }
         },
         "template--18771681968430__60dc60aa-bada-4782-ad84-0c179b759014-1685521139392b4ef8-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Gain the reassurance, empowerment, and personalized guidance you need to navigate this special time.<\/p>",
             "text_style": "body"
           }
         }
@@ -600,45 +600,9 @@
         "template--18771681968430__60dc60aa-bada-4782-ad84-0c179b759014-1685521139392b4ef8-1"
       ],
       "settings": {
-        "height": "adapt",
+        "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
-    "8c85b575-2143-429e-857d-e497a259414f": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18771681968430__8c85b575-2143-429e-857d-e497a259414f-16864011570fb92d87-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771681968430__8c85b575-2143-429e-857d-e497a259414f-16864011570fb92d87-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771681968430__8c85b575-2143-429e-857d-e497a259414f-16864011570fb92d87-0",
-        "template--18771681968430__8c85b575-2143-429e-857d-e497a259414f-16864011570fb92d87-1"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
@@ -832,14 +796,13 @@
     "8bedd775-7475-4249-9a3b-c13f200cf7ba",
     "ef0e1734-2d17-4317-98f7-855d477327b1",
     "bbaab20a-b2a6-4d62-a4bb-0de6080f2225",
+    "1685360116c953b93f",
     "74c1b25d-f975-4bf3-9dbb-8fe00689d06f",
     "f407fc55-88c8-4fe1-9aae-2cb51b0d9d92",
     "main",
     "d922f11b-6d29-4dd4-81e7-7ee7c547c70a",
     "a4b169a9-2b7a-4c8b-8e22-cfeb5e8f1c8a",
-    "1685360116c953b93f",
     "60dc60aa-bada-4782-ad84-0c179b759014",
-    "8c85b575-2143-429e-857d-e497a259414f",
     "a9a5fe12-93e0-4154-b3cd-c9f8a7eee77a",
     "bf3a2aa5-eec6-408d-9a79-fae847bcba19",
     "bef0f8b6-db78-4987-84a9-f5e0a95582aa",
