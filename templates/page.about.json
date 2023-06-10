@@ -322,41 +322,28 @@
         "padding_bottom": 72
       }
     },
-    "ce9eb544-f948-4664-ba01-6e24ea289f79": {
-      "type": "collection-list",
-      "blocks": {
-        "template--18764259295534__ce9eb544-f948-4664-ba01-6e24ea289f79-168353817449fe1160-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "birth-doula-services"
-          }
-        },
-        "template--18764259295534__ce9eb544-f948-4664-ba01-6e24ea289f79-168353817449fe1160-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "virtual-birth-doula-services"
-          }
-        },
-        "template--18764259295534__ce9eb544-f948-4664-ba01-6e24ea289f79-168353817449fe1160-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "online-classes"
-          }
-        }
-      },
-      "block_order": [
-        "template--18764259295534__ce9eb544-f948-4664-ba01-6e24ea289f79-168353817449fe1160-0",
-        "template--18764259295534__ce9eb544-f948-4664-ba01-6e24ea289f79-168353817449fe1160-1",
-        "template--18764259295534__ce9eb544-f948-4664-ba01-6e24ea289f79-168353817449fe1160-2"
-      ],
+    "27ecfaae-5b56-44e9-bcb1-adc298264d9b": {
+      "type": "featured-collection",
       "settings": {
         "title": "My Services",
         "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "birth-doula-services",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
         "color_scheme": "background-1",
-        "show_view_all": false,
-        "columns_mobile": "1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 72,
         "padding_bottom": 72
@@ -422,7 +409,7 @@
     "6ddadc23-415d-40e0-9d75-46f266ddffdd",
     "56eb3eb1-f6e9-487e-bddf-a78534b71bf1",
     "8a66e9f1-fb99-4b67-bcf9-8123b2ec9078",
-    "ce9eb544-f948-4664-ba01-6e24ea289f79",
+    "27ecfaae-5b56-44e9-bcb1-adc298264d9b",
     "4f85eeae-85d9-4cca-bdf5-6f0685338f88"
   ]
 }
