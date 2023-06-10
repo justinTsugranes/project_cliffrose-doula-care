@@ -81,52 +81,9 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 52,
-        "padding_bottom": 52
-      }
-    },
-    "5ad6239a-ff43-4e1b-9b23-97cc7aebda51": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "template--18729374646574__5ad6239a-ff43-4e1b-9b23-97cc7aebda51-16855573750219237f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "template--18729374646574__5ad6239a-ff43-4e1b-9b23-97cc7aebda51-16855573750219237f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "template--18729374646574__5ad6239a-ff43-4e1b-9b23-97cc7aebda51-16855573750219237f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374646574__5ad6239a-ff43-4e1b-9b23-97cc7aebda51-16855573750219237f-0",
-        "template--18729374646574__5ad6239a-ff43-4e1b-9b23-97cc7aebda51-16855573750219237f-1",
-        "template--18729374646574__5ad6239a-ff43-4e1b-9b23-97cc7aebda51-16855573750219237f-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
         "padding_bottom": 52
       }
     },
@@ -175,7 +132,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 72,
@@ -238,26 +195,8 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 72,
+        "padding_top": 36,
         "padding_bottom": 72
-      }
-    },
-    "168418153551c040e4": {
-      "type": "apps",
-      "disabled": true,
-      "blocks": {
-        "6fe96a0f-7081-497b-8716-b6e3a4ac8b4a": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "6fe96a0f-7081-497b-8716-b6e3a4ac8b4a"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "d463519f-a7db-4bf2-a6d8-58a3f69c2f83": {
@@ -341,6 +280,62 @@
         "padding_bottom": 36
       }
     },
+    "85574a4d-054f-4090-abcd-e537f6acf495": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18729374646574__85574a4d-054f-4090-abcd-e537f6acf495-168641346192bafea4-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18729374646574__85574a4d-054f-4090-abcd-e537f6acf495-168641346192bafea4-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18729374646574__85574a4d-054f-4090-abcd-e537f6acf495-168641346192bafea4-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374646574__85574a4d-054f-4090-abcd-e537f6acf495-168641346192bafea4-0",
+        "template--18729374646574__85574a4d-054f-4090-abcd-e537f6acf495-168641346192bafea4-1",
+        "template--18729374646574__85574a4d-054f-4090-abcd-e537f6acf495-168641346192bafea4-2"
+      ],
+      "custom_css": [
+        "div {box-shadow: none;}"
+      ],
+      "settings": {
+        "title": "How to get started...",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
     "67d25079-454a-42a5-8f56-8267d6c949f3": {
       "type": "collection-list",
       "blocks": {
@@ -352,6 +347,7 @@
         },
         "7e6f36d9-3cc4-4e5c-8e3c-2b39ce76ee47": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "virtual-birth-doula-services"
           }
@@ -369,10 +365,10 @@
         "template--18729374646574__67d25079-454a-42a5-8f56-8267d6c949f3-1682333027c4f732ce-2"
       ],
       "settings": {
-        "title": "Explore My Services",
+        "title": "My Services",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "color_scheme": "background-1",
         "show_view_all": false,
         "columns_mobile": "1",
@@ -429,6 +425,62 @@
         "show_text_below": true
       }
     },
+    "9b9e1f3d-36ff-448a-92f2-dbd46ff6c19c": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18729374646574__9b9e1f3d-36ff-448a-92f2-dbd46ff6c19c-168641346192bafea4-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18729374646574__9b9e1f3d-36ff-448a-92f2-dbd46ff6c19c-168641346192bafea4-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18729374646574__9b9e1f3d-36ff-448a-92f2-dbd46ff6c19c-168641346192bafea4-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374646574__9b9e1f3d-36ff-448a-92f2-dbd46ff6c19c-168641346192bafea4-0",
+        "template--18729374646574__9b9e1f3d-36ff-448a-92f2-dbd46ff6c19c-168641346192bafea4-1",
+        "template--18729374646574__9b9e1f3d-36ff-448a-92f2-dbd46ff6c19c-168641346192bafea4-2"
+      ],
+      "custom_css": [
+        "div {box-shadow: none;}"
+      ],
+      "settings": {
+        "title": "People who birth with a doula experience:",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
     "99a14fe1-3628-4679-b469-b459bf2a56c8": {
       "type": "image-with-text",
       "blocks": {
@@ -459,7 +511,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 72,
@@ -496,7 +548,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "accent-2",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 72,
@@ -537,12 +589,6 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
-      }
-    },
-    "75922bb9-fc7b-466b-8100-cd953eb0e6da": {
-      "type": "judgeme_carousel_section",
-      "settings": {
-        "maxwidth": 1080
       }
     },
     "dff5bde8-d1c7-4868-8919-86ff8521952f": {
@@ -640,18 +686,17 @@
   "order": [
     "image_banner",
     "956a2330-3be4-424d-b38d-8c7a05dac815",
-    "5ad6239a-ff43-4e1b-9b23-97cc7aebda51",
     "39be1b49-299b-4138-a975-ddbb3ed8c41a",
     "e857e320-8ef3-493c-896f-03751741fe32",
     "feae2534-69ab-460b-8878-f8c6ae5bfd65",
-    "168418153551c040e4",
     "d463519f-a7db-4bf2-a6d8-58a3f69c2f83",
+    "85574a4d-054f-4090-abcd-e537f6acf495",
     "67d25079-454a-42a5-8f56-8267d6c949f3",
     "c88152b4-8d61-42e6-a58c-873053f902f5",
+    "9b9e1f3d-36ff-448a-92f2-dbd46ff6c19c",
     "99a14fe1-3628-4679-b469-b459bf2a56c8",
     "a69c2719-da9d-4848-8676-daed64bb232c",
     "a8c8e11e-75c8-4087-aae2-e1aacee25d4b",
-    "75922bb9-fc7b-466b-8100-cd953eb0e6da",
     "dff5bde8-d1c7-4868-8919-86ff8521952f",
     "8ab67ccb-2415-451b-8f95-5e7a83214c18"
   ]
