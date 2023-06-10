@@ -67,7 +67,7 @@
         "template--18729374646574__956a2330-3be4-424d-b38d-8c7a05dac815-16841837842663fa02-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>It can also be filled with uncertainty, stress and fear of the unknown.<\/h2><p>You may feel overwhelmed by the changes, decisions and responsibilities that come with this new stage in life.<\/p>"
+            "text": "<h2>It can also be filled with uncertainty, stress and fear of the unknown.<\/h2><p>Feelings of being overwhelmed and the weight of responsibility can overshadow this transformative stage of life.<\/p>"
           }
         }
       },
@@ -266,8 +266,8 @@
         "c0ee8a89-5d6f-4452-8d97-3040c463eb2b"
       ],
       "settings": {
-        "caption": "Birth Doula Services that guide and support you through every stage",
-        "heading": "I provide education and resources during pregnancy, continuous support throughout labor, and postpartum assistance to help you transition smoothly into parenthood.",
+        "caption": "Personalized Birth Doula Services that guide and support you through every stage",
+        "heading": "I provide education, resources, and unwavering support throughout your pregnancy, labor, and postpartum period.",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "row",
@@ -286,8 +286,9 @@
         "template--18729374646574__85574a4d-054f-4090-abcd-e537f6acf495-168641346192bafea4-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
+            "title": "Schedule an initial consultation",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -295,8 +296,9 @@
         "template--18729374646574__85574a4d-054f-4090-abcd-e537f6acf495-168641346192bafea4-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
+            "title": "Experience comprehensive prenatal care tailored to your needs",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -304,8 +306,9 @@
         "template--18729374646574__85574a4d-054f-4090-abcd-e537f6acf495-168641346192bafea4-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
+            "title": "Enjoy the peace of mind with 24\/7 on-call support",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -322,8 +325,8 @@
       "settings": {
         "title": "How to get started...",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
+        "image_width": "third",
+        "image_ratio": "circle",
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
