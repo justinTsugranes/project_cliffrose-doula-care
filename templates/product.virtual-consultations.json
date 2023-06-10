@@ -49,6 +49,65 @@
         "show_text_below": true
       }
     },
+    "c1cb6abe-0c20-4f2c-b502-0f828bcf9b7d": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18771681968430__c1cb6abe-0c20-4f2c-b502-0f828bcf9b7d-168640061018c7c4e1-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18771681968430__c1cb6abe-0c20-4f2c-b502-0f828bcf9b7d-168640061018c7c4e1-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/birthing_advocacy_doula_training.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18771681968430__c1cb6abe-0c20-4f2c-b502-0f828bcf9b7d-168640061018c7c4e1-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18771681968430__c1cb6abe-0c20-4f2c-b502-0f828bcf9b7d-168640061018c7c4e1-0",
+        "template--18771681968430__c1cb6abe-0c20-4f2c-b502-0f828bcf9b7d-168640061018c7c4e1-1",
+        "template--18771681968430__c1cb6abe-0c20-4f2c-b502-0f828bcf9b7d-168640061018c7c4e1-2"
+      ],
+      "custom_css": [
+        "div {box-shadow: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
     "8bedd775-7475-4249-9a3b-c13f200cf7ba": {
       "type": "rich-text",
       "blocks": {
@@ -554,6 +613,42 @@
         "padding_bottom": 72
       }
     },
+    "8c85b575-2143-429e-857d-e497a259414f": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18771681968430__8c85b575-2143-429e-857d-e497a259414f-16864011570fb92d87-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--18771681968430__8c85b575-2143-429e-857d-e497a259414f-16864011570fb92d87-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18771681968430__8c85b575-2143-429e-857d-e497a259414f-16864011570fb92d87-0",
+        "template--18771681968430__8c85b575-2143-429e-857d-e497a259414f-16864011570fb92d87-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
     "a9a5fe12-93e0-4154-b3cd-c9f8a7eee77a": {
       "type": "image-banner",
       "blocks": {
@@ -733,6 +828,7 @@
   },
   "order": [
     "64f75edf-857a-4fce-a893-524d3ddf1697",
+    "c1cb6abe-0c20-4f2c-b502-0f828bcf9b7d",
     "8bedd775-7475-4249-9a3b-c13f200cf7ba",
     "ef0e1734-2d17-4317-98f7-855d477327b1",
     "bbaab20a-b2a6-4d62-a4bb-0de6080f2225",
@@ -743,6 +839,7 @@
     "a4b169a9-2b7a-4c8b-8e22-cfeb5e8f1c8a",
     "1685360116c953b93f",
     "60dc60aa-bada-4782-ad84-0c179b759014",
+    "8c85b575-2143-429e-857d-e497a259414f",
     "a9a5fe12-93e0-4154-b3cd-c9f8a7eee77a",
     "bf3a2aa5-eec6-408d-9a79-fae847bcba19",
     "bef0f8b6-db78-4987-84a9-f5e0a95582aa",
