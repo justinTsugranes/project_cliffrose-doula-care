@@ -131,6 +131,97 @@
         "padding_bottom": 72
       }
     },
+    "74c1b25d-f975-4bf3-9dbb-8fe00689d06f": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Virtual Prenatal Consultations",
+            "icon": "check_mark",
+            "row_content": "<p>Personalized sessions addressing your unique needs and concerns.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Birth Plan Creation",
+            "icon": "check_mark",
+            "row_content": "<p>Collaborative crafting of a birth plan that aligns with your values and preferences. Focusing on self-advocacy and what matters the most to you.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Private Labor Prep Classes",
+            "icon": "check_mark",
+            "row_content": "<p>Comprehensive lessons preparing you for childbirth.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Labor Positions & Birth Ball Use",
+            "icon": "check_mark",
+            "row_content": "<p>Guidance on effective labor positions and how to utilize a birth ball for comfort and progress.<\/p>",
+            "page": ""
+          }
+        },
+        "73ec8d3a-7309-4a18-9119-171bab631434": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Lactation, Breastfeeding & Infant Feeding",
+            "icon": "check_mark",
+            "row_content": "<p>We cover lactation consultations, how to get your baby to latch properly, alternative infant feeding methods, bottle feeding, and more!<\/p>",
+            "page": ""
+          }
+        },
+        "b0b02060-28ce-41cd-a11d-0b8ba7580475": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Miscarriage & Bereavement Support, Adoption, and Surrogacy",
+            "icon": "check_mark",
+            "row_content": "<p>Specialized guidance and support for diverse reproductive experiences.<\/p>",
+            "page": ""
+          }
+        },
+        "5317cf78-6d84-40f6-9ab9-20b399d5af73": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Pregnancy Nutrition & Curing Pregnancy Symptoms",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-0",
+        "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-1",
+        "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-2",
+        "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-3",
+        "73ec8d3a-7309-4a18-9119-171bab631434",
+        "b0b02060-28ce-41cd-a11d-0b8ba7580475",
+        "5317cf78-6d84-40f6-9ab9-20b399d5af73"
+      ],
+      "settings": {
+        "caption": "Comprehensive Consultations for Holistic Care",
+        "heading": "Some of the topics our clients typically inquire about include:",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "accent-2",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 76,
+        "padding_bottom": 72
+      }
+    },
     "f407fc55-88c8-4fe1-9aae-2cb51b0d9d92": {
       "type": "multicolumn",
       "blocks": {
@@ -270,6 +361,13 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "cbd1e508-0a6e-4627-bb7b-455495e5482e": {
+          "type": "popup",
+          "settings": {
+            "text": "Pop-up link text",
+            "page": "labor-support"
+          }
         }
       },
       "block_order": [
@@ -284,7 +382,8 @@
         "quantity_selector",
         "buy_buttons",
         "b3a091aa-b910-483e-911e-b882b8251cc4",
-        "share"
+        "share",
+        "cbd1e508-0a6e-4627-bb7b-455495e5482e"
       ],
       "settings": {
         "enable_sticky_info": false,
@@ -299,115 +398,6 @@
         "enable_video_looping": false,
         "padding_top": 72,
         "padding_bottom": 0
-      }
-    },
-    "74c1b25d-f975-4bf3-9dbb-8fe00689d06f": {
-      "type": "collapsible-content",
-      "blocks": {
-        "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-0": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Virtual Prenatal Consultations",
-            "icon": "check_mark",
-            "row_content": "<p>Personalized sessions addressing your unique needs and concerns.<\/p>",
-            "page": ""
-          }
-        },
-        "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Birth Plan Creation",
-            "icon": "check_mark",
-            "row_content": "<p>Collaborative crafting of a birth plan that aligns with your values and preferences. Focusing on self-advocacy and what matters the most to you.<\/p>",
-            "page": ""
-          }
-        },
-        "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Private Labor Prep Classes",
-            "icon": "check_mark",
-            "row_content": "<p>Comprehensive lessons preparing you for childbirth.<\/p>",
-            "page": ""
-          }
-        },
-        "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Labor Positions & Birth Ball Use",
-            "icon": "check_mark",
-            "row_content": "<p>Guidance on effective labor positions and how to utilize a birth ball for comfort and progress.<\/p>",
-            "page": ""
-          }
-        },
-        "73ec8d3a-7309-4a18-9119-171bab631434": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Lactation, Breastfeeding & Infant Feeding",
-            "icon": "check_mark",
-            "row_content": "<p>We cover lactation consultations, how to get your baby to latch properly, alternative infant feeding methods, bottle feeding, and more!<\/p>",
-            "page": ""
-          }
-        },
-        "b0b02060-28ce-41cd-a11d-0b8ba7580475": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Miscarriage & Bereavement Support, Adoption, and Surrogacy",
-            "icon": "check_mark",
-            "row_content": "<p>Specialized guidance and support for diverse reproductive experiences.<\/p>",
-            "page": ""
-          }
-        },
-        "5317cf78-6d84-40f6-9ab9-20b399d5af73": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Pregnancy Nutrition & Curing Pregnancy Symptoms",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-0",
-        "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-1",
-        "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-2",
-        "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-3",
-        "73ec8d3a-7309-4a18-9119-171bab631434",
-        "b0b02060-28ce-41cd-a11d-0b8ba7580475",
-        "5317cf78-6d84-40f6-9ab9-20b399d5af73"
-      ],
-      "settings": {
-        "caption": "Comprehensive Consultations for Holistic Care",
-        "heading": "Some of the topics our clients typically inquire about include:",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "row",
-        "color_scheme": "accent-2",
-        "container_color_scheme": "background-1",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 76,
-        "padding_bottom": 72
-      }
-    },
-    "1685360116c953b93f": {
-      "type": "apps",
-      "disabled": true,
-      "blocks": {
-        "71b82d0e-30af-4fd1-abc3-d0b7240dc375": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "71b82d0e-30af-4fd1-abc3-d0b7240dc375"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "d922f11b-6d29-4dd4-81e7-7ee7c547c70a": {
@@ -453,7 +443,7 @@
         "div {box-shadow: none;}"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "With virtual doula consultations, you'll",
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "circle",
@@ -465,7 +455,7 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 72,
+        "padding_top": 0,
         "padding_bottom": 72
       }
     },
@@ -503,6 +493,24 @@
         "mobile_content_alignment": "left",
         "padding_top": 72,
         "padding_bottom": 36
+      }
+    },
+    "1685360116c953b93f": {
+      "type": "apps",
+      "disabled": true,
+      "blocks": {
+        "71b82d0e-30af-4fd1-abc3-d0b7240dc375": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "71b82d0e-30af-4fd1-abc3-d0b7240dc375"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "60dc60aa-bada-4782-ad84-0c179b759014": {
@@ -723,12 +731,12 @@
     "8bedd775-7475-4249-9a3b-c13f200cf7ba",
     "ef0e1734-2d17-4317-98f7-855d477327b1",
     "bbaab20a-b2a6-4d62-a4bb-0de6080f2225",
+    "74c1b25d-f975-4bf3-9dbb-8fe00689d06f",
     "f407fc55-88c8-4fe1-9aae-2cb51b0d9d92",
     "main",
-    "74c1b25d-f975-4bf3-9dbb-8fe00689d06f",
-    "1685360116c953b93f",
     "d922f11b-6d29-4dd4-81e7-7ee7c547c70a",
     "a4b169a9-2b7a-4c8b-8e22-cfeb5e8f1c8a",
+    "1685360116c953b93f",
     "60dc60aa-bada-4782-ad84-0c179b759014",
     "a9a5fe12-93e0-4154-b3cd-c9f8a7eee77a",
     "bf3a2aa5-eec6-408d-9a79-fae847bcba19",
