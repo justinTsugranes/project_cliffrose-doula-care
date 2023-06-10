@@ -322,6 +322,13 @@
             "text_style": "body"
           }
         },
+        "cbd1e508-0a6e-4627-bb7b-455495e5482e": {
+          "type": "popup",
+          "settings": {
+            "text": "Pop-up link text",
+            "page": "labor-support"
+          }
+        },
         "description": {
           "type": "description",
           "disabled": true,
@@ -361,13 +368,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "cbd1e508-0a6e-4627-bb7b-455495e5482e": {
-          "type": "popup",
-          "settings": {
-            "text": "Pop-up link text",
-            "page": "labor-support"
-          }
         }
       },
       "block_order": [
@@ -377,13 +377,13 @@
         "2db0546d-06a2-46aa-8ad4-0aa880468908",
         "96375314-e4f3-4b8a-8350-1e018541d59c",
         "691b2185-ccd5-4565-bb1e-228aca928c1d",
+        "cbd1e508-0a6e-4627-bb7b-455495e5482e",
         "description",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "b3a091aa-b910-483e-911e-b882b8251cc4",
-        "share",
-        "cbd1e508-0a6e-4627-bb7b-455495e5482e"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": false,
