@@ -49,80 +49,20 @@
         "show_text_below": true
       }
     },
-    "cb239e80-50fa-47db-864b-f4b2ab4d171f": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/birthing_advocacy_doula_training.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/logo_aqua.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-0",
-        "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-1",
-        "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-2"
-      ],
-      "custom_css": [
-        "div {box-shadow: none;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
     "29bcc589-4e45-4aae-98a0-1ebfed6cc1b1": {
       "type": "rich-text",
       "blocks": {
         "template--18873568035118__29bcc589-4e45-4aae-98a0-1ebfed6cc1b1-16841523606ed96b36-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "<strong>Talk about your brand<\/strong>",
+            "heading": "Are you tired of feeling overwhelmed by morning sickness, heartburn, and fatigue during your pregnancy?",
             "heading_size": "h1"
           }
         },
         "template--18873568035118__29bcc589-4e45-4aae-98a0-1ebfed6cc1b1-16841523606ed96b36-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Are common pregnancy symptoms like morning sickness, heartburn, and fatigue casting a shadow over your pregnancy joy?<\/p><p>Join our <strong>weekly online class <\/strong>where we unveil natural remedies and share valuable tips to help you <strong>alleviate these common discomforts<\/strong>.<\/p>"
+            "text": "<p>Join my <strong>weekly online class <\/strong>where we unveil natural remedies and share valuable tips to help you <strong>alleviate these common discomforts<\/strong>.<\/p>"
           }
         }
       },
@@ -133,7 +73,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 72,
         "padding_bottom": 72
@@ -167,7 +107,7 @@
         "template--18873568035118__bc4906c0-3125-4f6b-866c-e28e5efa9642-1684152313b7f2554a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>This class isn't just about symptom relief—it's about building your confidence and community. Learn from a certified full spectrum doula in a small, supportive group setting. Enjoy the opportunity to connect with other expectant parents, forging bonds and creating a community that enriches your pregnancy journey.<\/p>",
+            "text": "<p>This class isn't just about symptom relief—it's about building your confidence and community. Learn from a certified full spectrum doula in a small, supportive group setting. Enjoy the opportunity to connect with other expectant parents, forging bonds and creating a community that enriches your pregnancy.<\/p>",
             "text_style": "body"
           }
         }
@@ -187,6 +127,65 @@
         "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "cb239e80-50fa-47db-864b-f4b2ab4d171f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/birthing_advocacy_doula_training.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_aqua.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-0",
+        "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-1",
+        "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-2"
+      ],
+      "custom_css": [
+        "div {box-shadow: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 72,
         "padding_bottom": 72
       }
@@ -215,7 +214,7 @@
         "template--18873568035118__0394940e-4262-455f-a51c-f012e7889324-16863938980c5881d4-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Relieve morning sickness",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -224,7 +223,7 @@
         "template--18873568035118__0394940e-4262-455f-a51c-f012e7889324-16863938980c5881d4-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Boost your energy levels",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -233,7 +232,7 @@
         "template--18873568035118__0394940e-4262-455f-a51c-f012e7889324-16863938980c5881d4-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Combat heartburn",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -241,6 +240,7 @@
         },
         "template--18873568035118__0394940e-4262-455f-a51c-f012e7889324-16863938980c5881d4-3": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Collapsible row",
             "icon": "check_mark",
@@ -257,7 +257,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Collapsible content",
+        "heading": "In this small group class, you'll explore various natural remedies for pregnancy symptoms",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "row",
@@ -277,8 +277,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "To join the class, simply sign up below",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -428,35 +428,53 @@
         "padding_bottom": 72
       }
     },
-    "f8277bfe-43b9-464d-8c98-f4a8ac5dd9c3": {
-      "type": "rich-text",
-      "disabled": true,
+    "a3cf95aa-0189-4bd2-a179-c38fb4ae201f": {
+      "type": "image-banner",
       "blocks": {
-        "template--18873568035118__f8277bfe-43b9-464d-8c98-f4a8ac5dd9c3-168553955580a9e02f-0": {
+        "template--18873568035118__a3cf95aa-0189-4bd2-a179-c38fb4ae201f-16864279505a4610ac-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Sign up today to start finding relief from your pregnancy symptoms!",
             "heading_size": "h1"
           }
         },
-        "template--18873568035118__f8277bfe-43b9-464d-8c98-f4a8ac5dd9c3-168553955580a9e02f-1": {
+        "template--18873568035118__a3cf95aa-0189-4bd2-a179-c38fb4ae201f-16864279505a4610ac-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--18873568035118__a3cf95aa-0189-4bd2-a179-c38fb4ae201f-16864279505a4610ac-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "template--18873568035118__f8277bfe-43b9-464d-8c98-f4a8ac5dd9c3-168553955580a9e02f-0",
-        "template--18873568035118__f8277bfe-43b9-464d-8c98-f4a8ac5dd9c3-168553955580a9e02f-1"
+        "template--18873568035118__a3cf95aa-0189-4bd2-a179-c38fb4ae201f-16864279505a4610ac-0",
+        "template--18873568035118__a3cf95aa-0189-4bd2-a179-c38fb4ae201f-16864279505a4610ac-1",
+        "template--18873568035118__a3cf95aa-0189-4bd2-a179-c38fb4ae201f-16864279505a4610ac-2"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-2",
-        "full_width": true,
-        "padding_top": 72,
-        "padding_bottom": 72
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "ddecdc2d-a2f0-4b09-b266-10686ddb9ce8": {
@@ -466,8 +484,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Learn effective natural remedies for morning sickness, heartburn, and fatigue",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -476,8 +494,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Gain valuable knowledge to manage your pregnancy symptoms with confidence",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -486,8 +504,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Connect with a supportive community of expectant parents",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -502,7 +520,7 @@
         "div {box-shadow: none;}"
       ],
       "settings": {
-        "title": "After This Class You'll...",
+        "title": "By attending this class, you'll...",
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "circle",
@@ -524,12 +542,13 @@
         "template--18873568035118__6e5dd3e0-2032-40ef-89c4-95ba3db2490a-1685539660918604e9-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Don't let common pregnancy symptoms hinder your joy and well-being.",
             "heading_size": "h1"
           }
         },
         "template--18873568035118__6e5dd3e0-2032-40ef-89c4-95ba3db2490a-1685539660918604e9-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_style": "body"
@@ -560,12 +579,13 @@
         "template--18873568035118__a944eef8-22a9-4c0c-ac84-bd4a988df0f8-1685539660918604e9-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Embrace a healthier, more comfortable pregnancy experience with the power of natural remedies",
             "heading_size": "h1"
           }
         },
         "template--18873568035118__a944eef8-22a9-4c0c-ac84-bd4a988df0f8-1685539660918604e9-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_style": "body"
@@ -590,76 +610,27 @@
         "padding_bottom": 72
       }
     },
-    "5e0ab3e9-e092-48d0-b1d4-7ffc5dd6ee70": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18873568035118__5e0ab3e9-e092-48d0-b1d4-7ffc5dd6ee70-1685539660918604e9-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "template--18873568035118__5e0ab3e9-e092-48d0-b1d4-7ffc5dd6ee70-1685539660918604e9-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18873568035118__5e0ab3e9-e092-48d0-b1d4-7ffc5dd6ee70-1685539660918604e9-0",
-        "template--18873568035118__5e0ab3e9-e092-48d0-b1d4-7ffc5dd6ee70-1685539660918604e9-1"
-      ],
-      "settings": {
-        "height": "medium",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
     "c586814c-5ee7-45ca-a02d-31711d8f8475": {
       "type": "image-banner",
       "blocks": {
         "template--18873568035118__c586814c-5ee7-45ca-a02d-31711d8f8475-1686392740ae4afc36-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Embrace Your Pregnancy with Ease and Confidence",
             "heading_size": "h1"
           }
         },
         "template--18873568035118__c586814c-5ee7-45ca-a02d-31711d8f8475-1686392740ae4afc36-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Sign up for the online group class today!",
             "text_style": "body"
-          }
-        },
-        "template--18873568035118__c586814c-5ee7-45ca-a02d-31711d8f8475-1686392740ae4afc36-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
         "template--18873568035118__c586814c-5ee7-45ca-a02d-31711d8f8475-1686392740ae4afc36-0",
-        "template--18873568035118__c586814c-5ee7-45ca-a02d-31711d8f8475-1686392740ae4afc36-1",
-        "template--18873568035118__c586814c-5ee7-45ca-a02d-31711d8f8475-1686392740ae4afc36-2"
+        "template--18873568035118__c586814c-5ee7-45ca-a02d-31711d8f8475-1686392740ae4afc36-1"
       ],
       "settings": {
         "image_overlay_opacity": 0,
@@ -674,10 +645,55 @@
         "show_text_below": true
       }
     },
+    "ca77d1b4-bf52-4bd5-90c2-0456895c62f3": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--18873568035118__ca77d1b4-bf52-4bd5-90c2-0456895c62f3-1686428125f27a97da-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sign up below to receive a free guide",
+            "heading_size": "h1"
+          }
+        },
+        "template--18873568035118__ca77d1b4-bf52-4bd5-90c2-0456895c62f3-1686428125f27a97da-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Top 10 Natural Remedies for Common Pregnancy Symptoms<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18873568035118__ca77d1b4-bf52-4bd5-90c2-0456895c62f3-1686428125f27a97da-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18873568035118__ca77d1b4-bf52-4bd5-90c2-0456895c62f3-1686428125f27a97da-0",
+        "template--18873568035118__ca77d1b4-bf52-4bd5-90c2-0456895c62f3-1686428125f27a97da-1",
+        "template--18873568035118__ca77d1b4-bf52-4bd5-90c2-0456895c62f3-1686428125f27a97da-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "6721c297-a92a-4a25-b927-f287b3d97dbc": {
       "type": "contact-form",
       "settings": {
-        "heading": "<strong>Have any questions? Contact Me<\/strong>",
+        "heading": "Have any questions? Contact me",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "padding_top": 72,
@@ -689,6 +705,7 @@
       "blocks": {
         "template--18873568035118__1e25e36f-11c0-45c7-8913-ca12e73de1fc-168554067390fe2cd8-0": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "What is the Natural Remedies for Common Pregnancy Symptoms class",
             "icon": "check_mark",
@@ -698,6 +715,7 @@
         },
         "template--18873568035118__1e25e36f-11c0-45c7-8913-ca12e73de1fc-168554067390fe2cd8-1": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "When is the Natural Remedies for Common Pregnancy Symptoms class held and how long does it last?",
             "icon": "check_mark",
@@ -707,6 +725,7 @@
         },
         "template--18873568035118__1e25e36f-11c0-45c7-8913-ca12e73de1fc-168554067390fe2cd8-2": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "How can I sign up for the Natural Remedies for Common Pregnancy Symptoms class and what does it cost?",
             "icon": "check_mark",
@@ -716,6 +735,7 @@
         },
         "template--18873568035118__1e25e36f-11c0-45c7-8913-ca12e73de1fc-168554067390fe2cd8-3": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "What topics are discussed in the Natural Remedies for Common Pregnancy Symptoms online class?",
             "icon": "check_mark",
@@ -723,30 +743,85 @@
             "page": ""
           }
         },
-        "a0739ba4-7450-425b-b30e-d2f6664a36e7": {
+        "6be1d141-1b23-4030-8c9e-877411d225d0": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "Is the Natural Remedies for Common Pregnancy Symptoms class suitable for all stages of pregnancy?",
+            "icon": "check_mark",
+            "row_content": "<p>Yes, our Natural Remedies for Common Pregnancy Symptoms class is suitable for individuals at all stages of pregnancy. We aim to provide practical advice and natural remedies to help alleviate common discomforts at any stage of your pregnancy journey.<\/p>",
+            "page": ""
+          }
+        },
+        "172d0ec9-ff6c-411e-9ec3-390265a99b14": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can I ask questions during the Natural Remedies for Common Pregnancy Symptoms online class?",
+            "heading": "How long does the class last?",
             "icon": "check_mark",
-            "row_content": "<p>Yes, we encourage participation and questions during the Natural Remedies for Common Pregnancy Symptoms class. Our experienced professionals are there to provide personalized advice and support tailored to your specific needs and concerns.<\/p>",
+            "row_content": "<p>The class is a one-hour session, held weekly. Each class will cover different natural remedies and techniques to help manage common pregnancy symptoms.<\/p>",
             "page": ""
           }
         },
         "f518eb46-4a98-4183-b6fa-d3e7e39bafab": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "What do I need to participate in the Natural Remedies for Common Pregnancy Symptoms online class?",
+            "heading": "What do I need to participate in the class?",
             "icon": "check_mark",
             "row_content": "<p>To join our Natural Remedies for Common Pregnancy Symptoms class, you simply need a device with an internet connection and Zoom access, such as a computer, tablet, or smartphone. After you book your spot, we will send you a link to join the class.<\/p>",
             "page": ""
           }
         },
-        "6be1d141-1b23-4030-8c9e-877411d225d0": {
+        "411b9e66-d3cf-4b54-8c6e-29f015f4e4c9": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Is the Natural Remedies for Common Pregnancy Symptoms class suitable for all stages of pregnancy?",
+            "heading": "Can I join the class if I'm in a different time zone?",
             "icon": "check_mark",
-            "row_content": "<p>Yes, our Natural Remedies for Common Pregnancy Symptoms class is suitable for individuals at all stages of pregnancy. We aim to provide practical advice and natural remedies to help alleviate common discomforts at any stage of your pregnancy journey.<\/p>",
+            "row_content": "<p>Absolutely! We offer flexible scheduling options to accommodate participants from different time zones. Please let us know your preferred time zone, and we will do our best to find a suitable class time for you.<\/p>",
+            "page": ""
+          }
+        },
+        "2bf5ebe1-984b-44ad-b945-cc674b6dfc51": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are the remedies safe for both me and my baby?",
+            "icon": "check_mark",
+            "row_content": "<p>Yes, all the remedies shared in the class are carefully selected for their safety during pregnancy. However, it's important to consult with your healthcare provider before trying any new remedies to ensure they are suitable for your individual pregnancy journey.<\/p>",
+            "page": ""
+          }
+        },
+        "9108ea1d-a8e5-4922-bd20-83e08f439db6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is this class suitable for all stages of pregnancy?",
+            "icon": "check_mark",
+            "row_content": "<p>Yes, the class is designed to be beneficial for participants at all stages of pregnancy. Whether you're in the early weeks or nearing your due date, you'll find valuable information and remedies tailored to your specific needs.<\/p>",
+            "page": ""
+          }
+        },
+        "a0739ba4-7450-425b-b30e-d2f6664a36e7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I ask questions during the class?",
+            "icon": "check_mark",
+            "row_content": "<p>Yes, we encourage participation and questions during the Natural Remedies for Common Pregnancy Symptoms class. Our experienced professionals are there to provide personalized advice and support tailored to your specific needs and concerns.<\/p>",
+            "page": ""
+          }
+        },
+        "4d751101-a0cd-4a58-9d0e-b33c52a9cf2a": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I receive personalized guidance during the class?",
+            "icon": "check_mark",
+            "row_content": "<p>Yes, our certified doula will provide personalized guidance and answer any questions you may have during the class. They will be there to support you and provide individualized recommendations based on your specific needs.<\/p>",
+            "page": ""
+          }
+        },
+        "96b3545a-e767-48aa-9086-5d0543f20fa5": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I still join if I'm experiencing severe symptoms?",
+            "icon": "check_mark",
+            "row_content": "<p>Yes, you are welcome to join the class even if you're experiencing severe symptoms. However, we recommend consulting with your healthcare provider regarding your symptoms to ensure that participating in the class is appropriate for your specific situation. Our doula will provide general guidance, but please note that the class is not a substitute for medical advice.<\/p>",
             "page": ""
           }
         }
@@ -756,9 +831,15 @@
         "template--18873568035118__1e25e36f-11c0-45c7-8913-ca12e73de1fc-168554067390fe2cd8-1",
         "template--18873568035118__1e25e36f-11c0-45c7-8913-ca12e73de1fc-168554067390fe2cd8-2",
         "template--18873568035118__1e25e36f-11c0-45c7-8913-ca12e73de1fc-168554067390fe2cd8-3",
-        "a0739ba4-7450-425b-b30e-d2f6664a36e7",
+        "6be1d141-1b23-4030-8c9e-877411d225d0",
+        "172d0ec9-ff6c-411e-9ec3-390265a99b14",
         "f518eb46-4a98-4183-b6fa-d3e7e39bafab",
-        "6be1d141-1b23-4030-8c9e-877411d225d0"
+        "411b9e66-d3cf-4b54-8c6e-29f015f4e4c9",
+        "2bf5ebe1-984b-44ad-b945-cc674b6dfc51",
+        "9108ea1d-a8e5-4922-bd20-83e08f439db6",
+        "a0739ba4-7450-425b-b30e-d2f6664a36e7",
+        "4d751101-a0cd-4a58-9d0e-b33c52a9cf2a",
+        "96b3545a-e767-48aa-9086-5d0543f20fa5"
       ],
       "settings": {
         "caption": "",
@@ -796,20 +877,20 @@
   },
   "order": [
     "8294d813-b228-49e7-a8df-6a350c776c15",
-    "cb239e80-50fa-47db-864b-f4b2ab4d171f",
     "29bcc589-4e45-4aae-98a0-1ebfed6cc1b1",
     "45651938-d78a-4468-8455-2456d5f88fcd",
     "bc4906c0-3125-4f6b-866c-e28e5efa9642",
+    "cb239e80-50fa-47db-864b-f4b2ab4d171f",
     "16855431995f221ddb",
     "0394940e-4262-455f-a51c-f012e7889324",
     "0860b06e-83db-4e08-ad97-4fe844c198ef",
     "main",
-    "f8277bfe-43b9-464d-8c98-f4a8ac5dd9c3",
+    "a3cf95aa-0189-4bd2-a179-c38fb4ae201f",
     "ddecdc2d-a2f0-4b09-b266-10686ddb9ce8",
     "6e5dd3e0-2032-40ef-89c4-95ba3db2490a",
     "a944eef8-22a9-4c0c-ac84-bd4a988df0f8",
-    "5e0ab3e9-e092-48d0-b1d4-7ffc5dd6ee70",
     "c586814c-5ee7-45ca-a02d-31711d8f8475",
+    "ca77d1b4-bf52-4bd5-90c2-0456895c62f3",
     "6721c297-a92a-4a25-b927-f287b3d97dbc",
     "1e25e36f-11c0-45c7-8913-ca12e73de1fc",
     "related-products"
