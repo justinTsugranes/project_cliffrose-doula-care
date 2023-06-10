@@ -492,14 +492,14 @@
         "template--18729374646574__99a14fe1-3628-4679-b469-b459bf2a56c8-1684152313b7f2554a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Avoid feeling isolated, overwhelmed and unsupported during this crucial time",
+            "heading": "Doulas are your village",
             "heading_size": "h1"
           }
         },
         "template--18729374646574__99a14fe1-3628-4679-b469-b459bf2a56c8-1684152313b7f2554a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Doulas are your village! Doula work is <em>care work<\/em> and I support your<strong> <\/strong>ideas and concerns, <strong>judgement-free<\/strong>.<\/p>",
+            "text": "<p>Avoid feeling isolated, overwhelmed, and unsupported during this crucial time. With doula care, you'll have a compassionate and non-judgmental support system by your side, addressing your concerns and honoring your choices.<\/p>",
             "text_style": "body"
           }
         }
@@ -529,14 +529,14 @@
         "template--18729374646574__a69c2719-da9d-4848-8676-daed64bb232c-16841937828ac68367-0": {
           "type": "heading",
           "settings": {
-            "heading": "Have a beautiful and rewarding pregnancy",
+            "heading": "Embrace Your Beautiful Journey",
             "heading_size": "h1"
           }
         },
         "template--18729374646574__a69c2719-da9d-4848-8676-daed64bb232c-16841937828ac68367-1": {
           "type": "text",
           "settings": {
-            "text": "<p>With my holistic support, you will feel confident and prepared throughout your pregnancy, during labor, and in the postpartum period.<\/p><p>You'll have a trusted guide by your side helping you navigate each new experience and challenge. <strong>I am here for you!<\/strong><\/p>",
+            "text": "<p>Experience a rewarding pregnancy with holistic support. From pregnancy to postpartum, I'll be your trusted guide, providing confidence, preparation, and the tools to navigate each new experience and challenge. Together, we'll create a positive and empowering birth story. <strong>I am here for you!<\/strong><\/p>",
             "text_style": "body"
           }
         }
@@ -599,7 +599,7 @@
     "dff5bde8-d1c7-4868-8919-86ff8521952f": {
       "type": "contact-form",
       "settings": {
-        "heading": "Start Your Journey Today",
+        "heading": "Contact Me To Start Your Journey Today",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "padding_top": 72,
