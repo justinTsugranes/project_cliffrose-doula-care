@@ -45,6 +45,148 @@
         "show_text_below": true
       }
     },
+    "fa8b3f60-016d-46fd-aaf1-e3c518b06427": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19135030133038__fa8b3f60-016d-46fd-aaf1-e3c518b06427-16863937562f41b4ce-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--19135030133038__fa8b3f60-016d-46fd-aaf1-e3c518b06427-16863937562f41b4ce-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19135030133038__fa8b3f60-016d-46fd-aaf1-e3c518b06427-16863937562f41b4ce-0",
+        "template--19135030133038__fa8b3f60-016d-46fd-aaf1-e3c518b06427-16863937562f41b4ce-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "d3f20572-187d-44d9-b861-54c080ca9bef": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "974a8f47-0fd4-4ec9-8359-1b8fcf270f4a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19135030133038__974a8f47-0fd4-4ec9-8359-1b8fcf270f4a-16863929191985fc59-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Meet Your Instructor",
+            "heading_size": "h1"
+          }
+        },
+        "template--19135030133038__974a8f47-0fd4-4ec9-8359-1b8fcf270f4a-16863929191985fc59-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--19135030133038__974a8f47-0fd4-4ec9-8359-1b8fcf270f4a-16863929191985fc59-0",
+        "template--19135030133038__974a8f47-0fd4-4ec9-8359-1b8fcf270f4a-16863929191985fc59-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "eb2805c7-a70f-4aec-a646-177125e9592d": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--19135030133038__eb2805c7-a70f-4aec-a646-177125e9592d-16863938980c5881d4-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--19135030133038__eb2805c7-a70f-4aec-a646-177125e9592d-16863938980c5881d4-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--19135030133038__eb2805c7-a70f-4aec-a646-177125e9592d-16863938980c5881d4-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--19135030133038__eb2805c7-a70f-4aec-a646-177125e9592d-16863938980c5881d4-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19135030133038__eb2805c7-a70f-4aec-a646-177125e9592d-16863938980c5881d4-0",
+        "template--19135030133038__eb2805c7-a70f-4aec-a646-177125e9592d-16863938980c5881d4-1",
+        "template--19135030133038__eb2805c7-a70f-4aec-a646-177125e9592d-16863938980c5881d4-2",
+        "template--19135030133038__eb2805c7-a70f-4aec-a646-177125e9592d-16863938980c5881d4-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "accent-2",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -63,11 +205,63 @@
         "padding_bottom": 72
       }
     },
-    "9af1e4a8-d3df-4791-abee-28b88459a860": {
-      "type": "judgeme_carousel_section",
-      "disabled": true,
+    "afa533a9-383b-4c1a-9f98-83d4727c828e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19135030133038__afa533a9-383b-4c1a-9f98-83d4727c828e-168639277077fa0cc6-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19135030133038__afa533a9-383b-4c1a-9f98-83d4727c828e-168639277077fa0cc6-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19135030133038__afa533a9-383b-4c1a-9f98-83d4727c828e-168639277077fa0cc6-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19135030133038__afa533a9-383b-4c1a-9f98-83d4727c828e-168639277077fa0cc6-0",
+        "template--19135030133038__afa533a9-383b-4c1a-9f98-83d4727c828e-168639277077fa0cc6-1",
+        "template--19135030133038__afa533a9-383b-4c1a-9f98-83d4727c828e-168639277077fa0cc6-2"
+      ],
+      "custom_css": [
+        "div {box-shadow: none;}"
+      ],
       "settings": {
-        "maxwidth": 1080
+        "title": "How it works...",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     },
     "dc19041b-fa15-429d-85ce-06676fc8ad54": {
@@ -99,26 +293,18 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 72,
         "padding_bottom": 72
       }
     },
-    "d3f20572-187d-44d9-b861-54c080ca9bef": {
-      "type": "video",
+    "9af1e4a8-d3df-4791-abee-28b88459a860": {
+      "type": "judgeme_carousel_section",
       "disabled": true,
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "maxwidth": 1080
       }
     },
     "f822a603-92e6-495a-8ff0-b6e6a54dadd8": {
@@ -150,7 +336,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "accent-2",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 72,
@@ -367,6 +553,7 @@
     },
     "168427073029ee237b": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "ff6ce616-0faa-43cb-ac85-f15d4ea50673": {
           "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
@@ -427,20 +614,86 @@
         "padding_top": 72,
         "padding_bottom": 72
       }
+    },
+    "3bb0586f-2a2e-46f3-8490-ab4ba09daa94": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--19135030133038__3bb0586f-2a2e-46f3-8490-ab4ba09daa94-16863938980c5881d4-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--19135030133038__3bb0586f-2a2e-46f3-8490-ab4ba09daa94-16863938980c5881d4-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--19135030133038__3bb0586f-2a2e-46f3-8490-ab4ba09daa94-16863938980c5881d4-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--19135030133038__3bb0586f-2a2e-46f3-8490-ab4ba09daa94-16863938980c5881d4-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19135030133038__3bb0586f-2a2e-46f3-8490-ab4ba09daa94-16863938980c5881d4-0",
+        "template--19135030133038__3bb0586f-2a2e-46f3-8490-ab4ba09daa94-16863938980c5881d4-1",
+        "template--19135030133038__3bb0586f-2a2e-46f3-8490-ab4ba09daa94-16863938980c5881d4-2",
+        "template--19135030133038__3bb0586f-2a2e-46f3-8490-ab4ba09daa94-16863938980c5881d4-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Online Classes FAQ",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "color_scheme": "accent-1",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "banner",
     "ce85c669-276b-4afa-a0c1-6237ec717630",
-    "product-grid",
-    "9af1e4a8-d3df-4791-abee-28b88459a860",
-    "dc19041b-fa15-429d-85ce-06676fc8ad54",
+    "fa8b3f60-016d-46fd-aaf1-e3c518b06427",
     "d3f20572-187d-44d9-b861-54c080ca9bef",
+    "974a8f47-0fd4-4ec9-8359-1b8fcf270f4a",
+    "eb2805c7-a70f-4aec-a646-177125e9592d",
+    "product-grid",
+    "afa533a9-383b-4c1a-9f98-83d4727c828e",
+    "dc19041b-fa15-429d-85ce-06676fc8ad54",
+    "9af1e4a8-d3df-4791-abee-28b88459a860",
     "f822a603-92e6-495a-8ff0-b6e6a54dadd8",
     "71c355c2-8bfb-4941-88e9-0d2a9fe3ccbc",
     "f6bcb2ec-76a1-45f2-bd97-5016c9c6351d",
     "168427073029ee237b",
     "540cc506-b240-40ec-a134-95dee0aa88c4",
-    "0da9c3a0-8916-49e7-a2cd-f218678307fd"
+    "0da9c3a0-8916-49e7-a2cd-f218678307fd",
+    "3bb0586f-2a2e-46f3-8490-ab4ba09daa94"
   ]
 }
