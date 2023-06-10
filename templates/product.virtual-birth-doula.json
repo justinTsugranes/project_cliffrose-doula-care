@@ -156,14 +156,14 @@
         "template--18956233965870__2a711bd9-8d3b-4e6d-8e25-a748a3e824f3-1686256738bc1a9b01-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "That's where I come in!",
             "heading_size": "h1"
           }
         },
         "template--18956233965870__2a711bd9-8d3b-4e6d-8e25-a748a3e824f3-1686256738bc1a9b01-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>As your virtual doula, I am dedicated to providing you with the same level of care and support as an in-person doula, but in a virtual setting. Through video calls, messaging, and virtual sessions, I will be there to guide you, answer your questions, and empower you throughout your journey.<\/p>",
             "text_style": "body"
           }
         },
@@ -182,6 +182,7 @@
         "template--18956233965870__2a711bd9-8d3b-4e6d-8e25-a748a3e824f3-1686256738bc1a9b01-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/B64DBB57-06A9-4BE8-827D-EE00B57AB967_1_105_c.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -216,36 +217,36 @@
         "template--18956233965870__9af1f611-0527-4889-a369-c814737b03b9-16855200706ed368cb-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Two virtual prenatal sessions",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Each session is 3 hours long and includes labor preparation classes, personalized birth planning, and guidance on relaxation techniques.<\/p>",
             "page": ""
           }
         },
         "template--18956233965870__9af1f611-0527-4889-a369-c814737b03b9-16855200706ed368cb-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Virtual Labor Support",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>I will provide you with valuable tools such as breathing techniques, affirmations, and advocacy tips to help you feel confident and supported during labor.<\/p>",
             "page": ""
           }
         },
         "template--18956233965870__9af1f611-0527-4889-a369-c814737b03b9-16855200706ed368cb-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Virtual Postpartum Sessions",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>These 3-hour sessions are focused on postpartum recovery, newborn care, breastfeeding support, and emotional well-being.<\/p>",
             "page": ""
           }
         },
         "template--18956233965870__9af1f611-0527-4889-a369-c814737b03b9-16855200706ed368cb-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "24\/7 On-Call Support",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>From 38 weeks onwards, I will be available to address your concerns and provide guidance whenever you need it.<\/p>",
             "page": ""
           }
         }
