@@ -713,36 +713,6 @@
             "page": ""
           }
         },
-        "template--18873568035118__1e25e36f-11c0-45c7-8913-ca12e73de1fc-168554067390fe2cd8-1": {
-          "type": "collapsible_row",
-          "disabled": true,
-          "settings": {
-            "heading": "When is the Natural Remedies for Common Pregnancy Symptoms class held and how long does it last?",
-            "icon": "check_mark",
-            "row_content": "<p>The Natural Remedies for Common Pregnancy Symptoms class takes place every Saturday and lasts for one hour. We utilize the Zoom platform, allowing you to participate from the comfort of your own home.<\/p>",
-            "page": ""
-          }
-        },
-        "template--18873568035118__1e25e36f-11c0-45c7-8913-ca12e73de1fc-168554067390fe2cd8-2": {
-          "type": "collapsible_row",
-          "disabled": true,
-          "settings": {
-            "heading": "How can I sign up for the Natural Remedies for Common Pregnancy Symptoms class and what does it cost?",
-            "icon": "check_mark",
-            "row_content": "<p>The Natural Remedies for Common Pregnancy Symptoms online class is priced at $35 per session. You can easily book your spot by clicking the \"Book Now\" button above and following the prompts to complete your booking.<\/p>",
-            "page": ""
-          }
-        },
-        "template--18873568035118__1e25e36f-11c0-45c7-8913-ca12e73de1fc-168554067390fe2cd8-3": {
-          "type": "collapsible_row",
-          "disabled": true,
-          "settings": {
-            "heading": "What topics are discussed in the Natural Remedies for Common Pregnancy Symptoms online class?",
-            "icon": "check_mark",
-            "row_content": "<p>Our Natural Remedies for Common Pregnancy Symptoms class covers a variety of topics, including natural methods to relieve common discomforts such as morning sickness, backache, swelling, and heartburn. We also share tips for promoting overall wellness during pregnancy and provide ample opportunities for you to ask questions.<\/p>",
-            "page": ""
-          }
-        },
         "6be1d141-1b23-4030-8c9e-877411d225d0": {
           "type": "collapsible_row",
           "disabled": true,
@@ -762,6 +732,15 @@
             "page": ""
           }
         },
+        "template--18873568035118__1e25e36f-11c0-45c7-8913-ca12e73de1fc-168554067390fe2cd8-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When is the Natural Remedies for Common Pregnancy Symptoms class held and how long does it last?",
+            "icon": "check_mark",
+            "row_content": "<p>The Natural Remedies for Common Pregnancy Symptoms class takes place every Saturday and lasts for one hour. We utilize the Zoom platform, allowing you to participate from the comfort of your own home.<\/p>",
+            "page": ""
+          }
+        },
         "f518eb46-4a98-4183-b6fa-d3e7e39bafab": {
           "type": "collapsible_row",
           "settings": {
@@ -771,12 +750,30 @@
             "page": ""
           }
         },
+        "template--18873568035118__1e25e36f-11c0-45c7-8913-ca12e73de1fc-168554067390fe2cd8-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I sign up for the Natural Remedies for Common Pregnancy Symptoms class and what does it cost?",
+            "icon": "check_mark",
+            "row_content": "<p>The Natural Remedies for Common Pregnancy Symptoms online class is priced at $35 per session. You can easily book your spot by clicking the \"Book Now\" button above and following the prompts to complete your booking.<\/p>",
+            "page": ""
+          }
+        },
         "411b9e66-d3cf-4b54-8c6e-29f015f4e4c9": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Can I join the class if I'm in a different time zone?",
             "icon": "check_mark",
             "row_content": "<p>Absolutely! We offer flexible scheduling options to accommodate participants from different time zones. Please let us know your preferred time zone, and we will do our best to find a suitable class time for you.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18873568035118__1e25e36f-11c0-45c7-8913-ca12e73de1fc-168554067390fe2cd8-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What topics are discussed in the Natural Remedies for Common Pregnancy Symptoms online class?",
+            "icon": "check_mark",
+            "row_content": "<p>Our Natural Remedies for Common Pregnancy Symptoms class covers a variety of topics, including natural methods to relieve common discomforts such as morning sickness, backache, swelling, and heartburn. We also share tips for promoting overall wellness during pregnancy and provide ample opportunities for you to ask questions.<\/p>",
             "page": ""
           }
         },
@@ -828,13 +825,13 @@
       },
       "block_order": [
         "template--18873568035118__1e25e36f-11c0-45c7-8913-ca12e73de1fc-168554067390fe2cd8-0",
-        "template--18873568035118__1e25e36f-11c0-45c7-8913-ca12e73de1fc-168554067390fe2cd8-1",
-        "template--18873568035118__1e25e36f-11c0-45c7-8913-ca12e73de1fc-168554067390fe2cd8-2",
-        "template--18873568035118__1e25e36f-11c0-45c7-8913-ca12e73de1fc-168554067390fe2cd8-3",
         "6be1d141-1b23-4030-8c9e-877411d225d0",
         "172d0ec9-ff6c-411e-9ec3-390265a99b14",
+        "template--18873568035118__1e25e36f-11c0-45c7-8913-ca12e73de1fc-168554067390fe2cd8-1",
         "f518eb46-4a98-4183-b6fa-d3e7e39bafab",
+        "template--18873568035118__1e25e36f-11c0-45c7-8913-ca12e73de1fc-168554067390fe2cd8-2",
         "411b9e66-d3cf-4b54-8c6e-29f015f4e4c9",
+        "template--18873568035118__1e25e36f-11c0-45c7-8913-ca12e73de1fc-168554067390fe2cd8-3",
         "2bf5ebe1-984b-44ad-b945-cc674b6dfc51",
         "9108ea1d-a8e5-4922-bd20-83e08f439db6",
         "a0739ba4-7450-425b-b30e-d2f6664a36e7",
