@@ -527,8 +527,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
-            "title": "",
-            "text": "<h3>Be empowered to experience childbirth on your terms. <\/h3>",
+            "title": "Be empowered to experience childbirth on your terms",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -537,8 +537,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
-            "title": "",
-            "text": "<h3>Have personalized, professional support to help you navigate this beautiful journey.<\/h3>",
+            "title": "Receive personalized professional support to navigate this beautiful journey",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -547,8 +547,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
-            "title": "",
-            "text": "<h3>Welcome your baby into the world with confidence<\/h3>",
+            "title": "Welcome your baby into the world with confidence.",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -585,14 +585,14 @@
         "template--18944954335534__770d3bfc-660d-4072-8b4e-182735bbc82e-1684152313b7f2554a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Don't enter parenthood unprepared",
+            "heading": "Embrace Preparation and Support",
             "heading_size": "h1"
           }
         },
         "template--18944954335534__770d3bfc-660d-4072-8b4e-182735bbc82e-1684152313b7f2554a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>My birth services are designed to help you avoid feelings of being overwhelmed or unsupported.<\/p>",
+            "text": "<p>Don't enter parenthood unprepared. My birth services are designed to help you avoid feelings of being overwhelmed or unsupported.<\/p>",
             "text_style": "body"
           }
         }
@@ -629,7 +629,7 @@
         "963550e6-19f3-46ba-9579-64a052c4f9e6": {
           "type": "text",
           "settings": {
-            "text": "<p>With me by your side, you’ll have peace of mind, confident in your ability to navigate childbirth and the initial stages of parenthood in harmony with your values.<\/p>",
+            "text": "<p>With me by your side, you'll have peace of mind, confident in your ability to navigate childbirth and the initial stages of parenthood in harmony with your values.<\/p>",
             "text_style": "body"
           }
         }
@@ -666,7 +666,7 @@
         "template--18944954335534__8dbbc055-d416-475e-8018-1226ab6140db-1685522048daacf0bd-1": {
           "type": "text",
           "settings": {
-            "text": "You'll transition from feeling overwhelmed by the uncertainties of parenthood to feeling secure, proud and connected with your baby. <strong>Contact Me Below.<\/strong>",
+            "text": "You'll transition from feeling overwhelmed by the uncertainties of parenthood to feeling secure, proud, and connected with your baby. <strong>Contact Me Below!<\/strong>",
             "text_style": "body"
           }
         }
@@ -705,7 +705,7 @@
         "template--18944954335534__31bb5317-df81-4368-ac8b-1760145f3e37-16855200706ed368cb-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What does the prenatal visit entail?",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -714,7 +714,7 @@
         "template--18944954335534__31bb5317-df81-4368-ac8b-1760145f3e37-16855200706ed368cb-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What techniques and tools are included in the labor support?",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -723,7 +723,7 @@
         "template--18944954335534__31bb5317-df81-4368-ac8b-1760145f3e37-16855200706ed368cb-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What can I expect during the postpartum visit?",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -732,7 +732,7 @@
         "template--18944954335534__31bb5317-df81-4368-ac8b-1760145f3e37-16855200706ed368cb-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How does the 24\/7 on-call support work?",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -741,7 +741,7 @@
         "41ea4dc1-1a15-478b-82f3-93d9ebe503d1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Is the Pure Labor Support Package suitable for all types of births?",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -750,7 +750,7 @@
         "2c7201dc-5b5e-4ef6-ad0e-c010d6741dec": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Can I customize the package based on my specific needs?",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -759,7 +759,25 @@
         "1bcbbcd2-c044-4131-ae62-07fedb3ab799": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Are payment plans available for the package?",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "e3787960-f2b1-4bb1-9e3e-aab085641042": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the best time to book the Pure Labor Support Package?",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "ab1709ed-9598-4936-8b91-16f445ba4b22": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I add additional services or consultations to the package if needed?",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -773,7 +791,9 @@
         "template--18944954335534__31bb5317-df81-4368-ac8b-1760145f3e37-16855200706ed368cb-3",
         "41ea4dc1-1a15-478b-82f3-93d9ebe503d1",
         "2c7201dc-5b5e-4ef6-ad0e-c010d6741dec",
-        "1bcbbcd2-c044-4131-ae62-07fedb3ab799"
+        "1bcbbcd2-c044-4131-ae62-07fedb3ab799",
+        "e3787960-f2b1-4bb1-9e3e-aab085641042",
+        "ab1709ed-9598-4936-8b91-16f445ba4b22"
       ],
       "settings": {
         "caption": "",
