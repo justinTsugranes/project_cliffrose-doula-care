@@ -498,6 +498,7 @@
         "template--18956233965870__ed5982f5-75f9-4eea-8604-0611ad42699f-1686392740ae4afc36-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot2023-06-06at6.22.51AM.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -517,8 +518,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Feel informed and prepared for the birth of your baby",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -527,8 +528,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Receive personalized guidance and support throughout your pregnancy",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -537,8 +538,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Have a trusted partner to address your concerns and answer your questions",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -575,14 +576,14 @@
         "template--18956233965870__5fb7406e-d951-4a4c-aafa-f31878d4ad85-16863929191985fc59-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Don't navigate this transformative journey alone",
             "heading_size": "h1"
           }
         },
         "template--18956233965870__5fb7406e-d951-4a4c-aafa-f31878d4ad85-16863929191985fc59-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>With my virtual doula services, you can avoid feeling overwhelmed and unsupported<\/p>",
             "text_style": "body"
           }
         }
@@ -611,14 +612,14 @@
         "a2dfb062-7412-4eed-b544-67878dadf1a4": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Experience an empowered birth journey, even from the comfort of your own home.",
             "heading_size": "h1"
           }
         },
         "a5d83aa1-0969-4e2a-a9f9-1a0199d264c9": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Together, we'll ensure you feel confident, informed, and supported every step of the way.<\/p>",
             "text_style": "body"
           }
         }
@@ -647,33 +648,21 @@
         "template--18956233965870__90424e38-f724-4d87-8896-0f46138faf40-1686392740ae4afc36-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Embrace the Journey to Parenthood",
             "heading_size": "h1"
           }
         },
         "template--18956233965870__90424e38-f724-4d87-8896-0f46138faf40-1686392740ae4afc36-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Start your virtual doula experience today and enjoy the transformation of pregnancy and birth with unwavering support. <strong>Contact me below!<\/strong>",
             "text_style": "body"
-          }
-        },
-        "template--18956233965870__90424e38-f724-4d87-8896-0f46138faf40-1686392740ae4afc36-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
         "template--18956233965870__90424e38-f724-4d87-8896-0f46138faf40-1686392740ae4afc36-0",
-        "template--18956233965870__90424e38-f724-4d87-8896-0f46138faf40-1686392740ae4afc36-1",
-        "template--18956233965870__90424e38-f724-4d87-8896-0f46138faf40-1686392740ae4afc36-2"
+        "template--18956233965870__90424e38-f724-4d87-8896-0f46138faf40-1686392740ae4afc36-1"
       ],
       "settings": {
         "image_overlay_opacity": 0,
@@ -704,36 +693,54 @@
         "template--18956233965870__16f0071a-b42c-4dfc-aedc-c96f3b7a00c4-16855200706ed368cb-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What technology do I need for virtual sessions?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>For virtual sessions, you will need a reliable internet connection and a device such as a computer, tablet, or smartphone with a webcam and microphone. We will use video conferencing platforms like Zoom or Skype to connect and communicate.<\/p>",
             "page": ""
           }
         },
         "template--18956233965870__16f0071a-b42c-4dfc-aedc-c96f3b7a00c4-16855200706ed368cb-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How does the communication work during labor?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>During labor, we will establish a communication plan based on your preferences. This may include regular video calls, phone calls, or messaging through a secure platform. We will stay connected to provide continuous support, guidance, and reassurance throughout your labor.<\/p>",
             "page": ""
           }
         },
         "template--18956233965870__16f0071a-b42c-4dfc-aedc-c96f3b7a00c4-16855200706ed368cb-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Can I have a virtual doula if I'm planning a hospital birth?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Absolutely! Virtual doula services are suitable for all birth settings, including hospital births. Even if I can't physically be present in the delivery room, I will provide virtual support, guidance, and advocacy to help you navigate your hospital birth experience with confidence.<\/p>",
             "page": ""
           }
         },
         "template--18956233965870__16f0071a-b42c-4dfc-aedc-c96f3b7a00c4-16855200706ed368cb-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Are virtual doula services as effective as in-person support?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Virtual doula services have been shown to be highly effective in providing support and guidance during pregnancy and birth. While in-person support offers physical presence, virtual doula services offer the advantage of flexibility, accessibility, and continuous communication. Through video calls, messaging, and virtual sessions, I will provide the same level of care, knowledge, and emotional support as an in-person doula.<\/p>",
+            "page": ""
+          }
+        },
+        "7fc5dc2f-5d43-41cd-8c18-351a22b2a903": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I add additional sessions or consultations to the virtual doula package if needed?",
+            "icon": "check_mark",
+            "row_content": "<p>Yes, additional sessions or consultations can be added to the virtual doula package based on your needs. We can discuss your specific requirements and customize the package to ensure it aligns with your preferences and provides the support you desire.<\/p>",
+            "page": ""
+          }
+        },
+        "e3e4de55-6072-4a99-a9e1-d6f341ca5570": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How far in advance should I book the virtual doula package?",
+            "icon": "check_mark",
+            "row_content": "<p>It is recommended to book the virtual doula package as early as possible to secure your spot and allow sufficient time for us to establish a relationship and plan for your birth. Booking in the earlier stages of pregnancy will ensure we have ample time for prenatal preparation and to address any questions or concerns you may have. However, I understand that circumstances may vary, so feel free to reach out to discuss availability and options even if you're closer to your due date.<\/p>",
             "page": ""
           }
         }
@@ -742,7 +749,9 @@
         "template--18956233965870__16f0071a-b42c-4dfc-aedc-c96f3b7a00c4-16855200706ed368cb-0",
         "template--18956233965870__16f0071a-b42c-4dfc-aedc-c96f3b7a00c4-16855200706ed368cb-1",
         "template--18956233965870__16f0071a-b42c-4dfc-aedc-c96f3b7a00c4-16855200706ed368cb-2",
-        "template--18956233965870__16f0071a-b42c-4dfc-aedc-c96f3b7a00c4-16855200706ed368cb-3"
+        "template--18956233965870__16f0071a-b42c-4dfc-aedc-c96f3b7a00c4-16855200706ed368cb-3",
+        "7fc5dc2f-5d43-41cd-8c18-351a22b2a903",
+        "e3e4de55-6072-4a99-a9e1-d6f341ca5570"
       ],
       "settings": {
         "caption": "",
@@ -776,158 +785,6 @@
         "padding_top": 72,
         "padding_bottom": 28
       }
-    },
-    "5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18771812843822__5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678-168164668958c25d7c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>2 Virtual Prenatal Visits<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771812843822__5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678-168164668958c25d7c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Our virtual doula service includes two prenatal consultations where we will plan and discuss important topics before your estimated due date.<\/h2><p>During these visits, we'll<\/p><ul><li>Build our connection<\/li><li>Discuss your birth preferences<\/li><li>Create a Birth Plan<\/li><li>Practice relaxation techniques in our Labor Prep class<\/li><li>Talk about comfort measures and labor positions<\/li><li>Provide tips on laboring at home<\/li><\/ul><p>This visit is designed to help you get ready for your baby, address any questions or concerns you may have, and ensure you feel prepared and confident for your upcoming birth experience.<\/p><p><strong>To see what we'll cover, check out our <\/strong><a href=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSficKDbiR9TcYFqryZo72Y3v77RRLmb757Ym0XNtpt63Q-P2g\/viewform?usp=sf_link\" title=\"birth planning checklist\"><strong>Planning Checklist<\/strong><\/a><strong>.<\/strong><\/p><p><a href=\"\/pages\/contact\" title=\"Contact\"><strong>Contact Us &gt;<\/strong><\/a><\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771812843822__5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678-168164668958c25d7c-0",
-        "template--18771812843822__5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678-168164668958c25d7c-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_8.32.20_AM.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "accent-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
-    "c133156c-ab40-47c2-847b-4a56b50bf17a": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "969a4179-d67c-476e-956c-0ee75dca4759": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>24\/7 On-Call Support<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "e8115073-cfbf-41ea-b880-f700772502dd": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We're here for you around the clock, starting at 38 weeks gestation and continuing through your entire pregnancy, birth, and postpartum period.<\/p><p>Count on us to be available whenever you need us, whether it's to answer questions, offer guidance, or provide support during labor and beyond.<\/p><p>With our on-call availability, you can rest assured knowing that we're just a phone call, video chat, or text message away, ready to offer the support you need whenever you need it most.<\/p><p>When you contact your doula at the onset of labor, we'll be there to provide support as you labor at home or at your preferred delivery location, through the duration of your labor.<\/p><p><a href=\"\/pages\/contact\" title=\"Contact\"><strong>Contact Us &gt;<\/strong><\/a><\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "969a4179-d67c-476e-956c-0ee75dca4759",
-        "e8115073-cfbf-41ea-b880-f700772502dd"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-16_at_6.52.44_AM.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "accent-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
-    "04c19bbc-f531-4662-806b-fd33b8941ae1": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18771812843822__04c19bbc-f531-4662-806b-fd33b8941ae1-168164668958c25d7c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Virtual Labor Support<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771812843822__04c19bbc-f531-4662-806b-fd33b8941ae1-168164668958c25d7c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Throughout your labor, your doula will provide continuous support and encouragement via video, chat, or messaging.<\/p><h3>Your doula will help you with:<\/h3><ul><li><strong>Birthing Ball:<\/strong> Your doula will assist you in using a birthing ball for comfort, support, and optimal positioning during labor.<\/li><li><strong>Breathing Techniques:<\/strong> Your doula will guide you through various breathing techniques to help you stay relaxed, focused, and manage pain during labor.<\/li><li><strong>Advocacy:<\/strong> Your doula is there to help you communicate with healthcare staff about your needs and preferences.<\/li><li><strong>Affirmations:<\/strong> Your doula will be guiding you through the entire journey.<\/li><\/ul><p><a href=\"\/pages\/contact\" title=\"Contact\"><strong>Contact Us &gt;<\/strong><\/a><\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771812843822__04c19bbc-f531-4662-806b-fd33b8941ae1-168164668958c25d7c-0",
-        "template--18771812843822__04c19bbc-f531-4662-806b-fd33b8941ae1-168164668958c25d7c-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155363_1.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "accent-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
-    "913e3a22-81da-4c48-960d-2acb1527f4d3": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>2 Virtual Postpartum Visits<\/strong>",
-            "heading_size": "h1"
-          }
-        },
-        "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our postpartum doula services extend beyond the birth, providing essential support during the early weeks of parenthood. We offer:<\/p><ul><li><strong>Virtual Visits:<\/strong> Within the first two weeks postpartum, your doula will schedule video calls, providing emotional support, practical assistance, and answering any questions you may have about the birth experience or newborn care.<\/li><li><strong>Emotional Support:<\/strong> Your doula is here to listen and provide a safe space for you to share your feelings, emotions, and thoughts about adjusting to life with a new baby.<\/li><li><strong>Infant Feeding:<\/strong> Your doula will provide valuable resources and tips on infant feeding, including breastfeeding, bottle-feeding, and introducing solids.<\/li><li><strong>Meal Planning:<\/strong> Your doula will help you plan meals and provide a grocery list to make your life easier during the postpartum period. We can also arrange contact-free drop-off of needed items.<\/li><li><strong>Ongoing Postpartum Care:<\/strong> We are committed to providing ongoing support to new parents, those with toddlers, or multiple children through simple acts of caring for the parent, while you care for your family.<\/li><\/ul><p>Our postpartum visits are designed to help you navigate the early weeks of parenthood with confidence and ease.<\/p><p><a href=\"\/pages\/contact\" title=\"Contact\"><strong>Contact Us &gt;<\/strong><\/a><\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-0",
-        "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "accent-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
     }
   },
   "order": [
@@ -947,10 +804,6 @@
     "90424e38-f724-4d87-8896-0f46138faf40",
     "3760f100-0c3a-4f85-8b02-791318b23def",
     "16f0071a-b42c-4dfc-aedc-c96f3b7a00c4",
-    "related-products",
-    "5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678",
-    "c133156c-ab40-47c2-847b-4a56b50bf17a",
-    "04c19bbc-f531-4662-806b-fd33b8941ae1",
-    "913e3a22-81da-4c48-960d-2acb1527f4d3"
+    "related-products"
   ]
 }
