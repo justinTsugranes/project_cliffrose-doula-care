@@ -545,7 +545,7 @@
         "template--18771812843822__795d4e9c-d684-4709-91c7-a370d2a144a3-1685522048daacf0bd-0": {
           "type": "heading",
           "settings": {
-            "heading": "Start your journey towards an empowering and joyful childbirth experience",
+            "heading": "Start Your Journey Towards an Empowering and Joyful Childbirth Experience",
             "heading_size": "h1"
           }
         },
@@ -594,7 +594,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
-            "title": "Be empowered to experience childbirth on your terms",
+            "title": "Feel empowered to experience childbirth on your terms",
             "text": "",
             "link_label": "",
             "link": ""
@@ -604,7 +604,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
-            "title": "Have personalized, professional support to help you navigate this beautiful journey",
+            "title": "Receive personalized, professional support throughout this beautiful journey",
             "text": "",
             "link_label": "",
             "link": ""
@@ -614,7 +614,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
-            "title": "Welcome your baby into the world with confidence",
+            "title": "Welcome your baby into the world with confidence and joy",
             "text": "",
             "link_label": "",
             "link": ""
@@ -772,63 +772,63 @@
         "template--18771812843822__1224b268-ce1b-49fe-b043-e82e526bea7d-16855200706ed368cb-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What does the overnight doula care entail?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Overnight doula care provides you with 8 hours of dedicated support during the night. Your doula will assist with newborn care, breastfeeding support, and provide guidance to help you get restful sleep.<\/p>",
             "page": ""
           }
         },
         "template--18771812843822__1224b268-ce1b-49fe-b043-e82e526bea7d-16855200706ed368cb-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Can I customize the birth plan to align with my preferences?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Absolutely! The birth plan will be tailored to your specific desires and preferences. We will work together to ensure it reflects your unique needs and goals for your birth experience.<\/p>",
             "page": ""
           }
         },
         "template--18771812843822__1224b268-ce1b-49fe-b043-e82e526bea7d-16855200706ed368cb-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Are payment plans available for the Cliffrose Birth Package?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Yes, payment plans are available to make the Cliffrose Birth Package more accessible. We can discuss flexible payment options during our initial consultation.<\/p>",
             "page": ""
           }
         },
         "template--18771812843822__1224b268-ce1b-49fe-b043-e82e526bea7d-16855200706ed368cb-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "When is the best time to book the package?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>It is recommended to book the Cliffrose Birth Package as early as possible to secure your spot. Many clients prefer to book in the early stages of pregnancy to ensure comprehensive support throughout their journey.<\/p>",
             "page": ""
           }
         },
         "8da3b25f-7037-4d76-a61a-da15d64d625c": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "What types of online classes are included in the package?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>The Cliffrose Birth Package includes free, unlimited access to a wide range of online classes, covering topics such as childbirth education, breastfeeding, newborn care, and more. These classes are designed to empower and educate you for a confident and informed birth experience.<\/p>",
             "page": ""
           }
         },
         "6acf24bd-ac0a-4654-a646-c3557cb479ad": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How does the virtual consultation process work?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Virtual consultations are conducted via Zoom or other convenient platforms. We will schedule a time that works for you, and during the consultation, we will discuss your needs, preferences, and any questions or concerns you may have. It's a convenient and personalized way to connect and plan for your birth.<\/p>",
             "page": ""
           }
         },
         "f620f44a-0d4c-4aa3-b0ae-f88631b49f35": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Can I add additional services or consultations to the package if needed?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Absolutely! If you have specific needs or require additional services beyond the Cliffrose Birth Package, we can discuss options to tailor the package to meet your requirements. Your satisfaction and comfort are our top priorities.<\/p>",
             "page": ""
           }
         }
