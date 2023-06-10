@@ -707,7 +707,7 @@
           "settings": {
             "heading": "What does the prenatal visit entail?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>During the prenatal visit, we will discuss your birth preferences, create a customized birth plan, and address any questions or concerns you may have. It's an opportunity for us to establish a strong foundation of support for your upcoming birth.<\/p>",
             "page": ""
           }
         },
@@ -716,7 +716,7 @@
           "settings": {
             "heading": "What techniques and tools are included in the labor support?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Our labor support includes a range of techniques and tools, such as breathing techniques, acupressure, the use of a rebozo and birth ball, creating a soothing birthroom ambiance, and providing a labor meal. These tools and techniques are designed to enhance your comfort and promote a positive birth experience.<\/p>",
             "page": ""
           }
         },
@@ -725,7 +725,7 @@
           "settings": {
             "heading": "What can I expect during the postpartum visit?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>During the postpartum visit, we will provide you with support and guidance as you navigate the initial challenges of parenthood. We'll discuss topics such as postpartum recovery, newborn care, breastfeeding support, and address any questions or concerns you may have. Our goal is to ensure a smooth transition for you and your baby.<\/p>",
             "page": ""
           }
         },
@@ -734,7 +734,7 @@
           "settings": {
             "heading": "How does the 24\/7 on-call support work?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>With our 24\/7 on-call support, you will have access to continuous assistance and guidance starting at 38 weeks of pregnancy. Whether you have questions, need support during early labor, or require assistance throughout the birthing process, I will be available to provide you with the support you need.<\/p>",
             "page": ""
           }
         },
@@ -743,7 +743,7 @@
           "settings": {
             "heading": "Is the Pure Labor Support Package suitable for all types of births?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Absolutely! Our Pure Labor Support Package is designed to support all types of births, whether you choose a natural birth, medicated birth, water birth, or have specific birth preferences. We will work together to tailor the support and techniques to align with your unique birthing experience.<\/p>",
             "page": ""
           }
         },
@@ -752,7 +752,7 @@
           "settings": {
             "heading": "Can I customize the package based on my specific needs?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Yes, we understand that every birthing journey is unique. We offer the flexibility to customize the Pure Labor Support Package to meet your specific needs and preferences. Let's discuss your requirements, and we'll create a package that suits you best.<\/p>",
             "page": ""
           }
         },
@@ -761,7 +761,7 @@
           "settings": {
             "heading": "Are payment plans available for the package?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Yes, we offer flexible payment plans to make our services more accessible. Let's discuss your preferences and budget, and we will find a payment plan that works for you.<\/p>",
             "page": ""
           }
         },
@@ -770,7 +770,7 @@
           "settings": {
             "heading": "What is the best time to book the Pure Labor Support Package?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>It is recommended to book the Pure Labor Support Package as early as possible to secure your spot on our schedule. Contact us to check availability and reserve your package at a time that aligns with your due date.<\/p>",
             "page": ""
           }
         },
@@ -779,7 +779,7 @@
           "settings": {
             "heading": "Can I add additional services or consultations to the package if needed?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Certainly! We understand that your needs may evolve throughout your pregnancy journey. If you require additional services or consultations beyond the Pure Labor Support Package, we can discuss and customize the package to accommodate your specific requirements. Let's tailor our support to meet your needs.<\/p>",
             "page": ""
           }
         }
