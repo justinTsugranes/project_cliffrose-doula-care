@@ -54,115 +54,6 @@
         "show_text_below": false
       }
     },
-    "2be4c74c-f2d9-439e-8b40-978108cc95bb": {
-      "type": "slideshow",
-      "disabled": true,
-      "blocks": {
-        "template--18729374646574__2be4c74c-f2d9-439e-8b40-978108cc95bb-1685557372cd527c6c-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_2.06.02_PM.jpg",
-            "heading": "Intro",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "top-left",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "9d367860-2731-4fbd-bf2c-0f2b2359cead": {
-          "type": "slide",
-          "settings": {
-            "heading": "Shop",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "76a7adfa-afcf-4f63-a261-1a7d40696ed3": {
-          "type": "slide",
-          "settings": {
-            "heading": "Birth Services",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "47913339-b87e-4748-8ecc-c5a6e9e05386": {
-          "type": "slide",
-          "settings": {
-            "heading": "Online Classes",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "template--18729374646574__2be4c74c-f2d9-439e-8b40-978108cc95bb-1685557372cd527c6c-1": {
-          "type": "slide",
-          "settings": {
-            "heading": "Virtual Services",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--18729374646574__2be4c74c-f2d9-439e-8b40-978108cc95bb-1685557372cd527c6c-0",
-        "9d367860-2731-4fbd-bf2c-0f2b2359cead",
-        "76a7adfa-afcf-4f63-a261-1a7d40696ed3",
-        "47913339-b87e-4748-8ecc-c5a6e9e05386",
-        "template--18729374646574__2be4c74c-f2d9-439e-8b40-978108cc95bb-1685557372cd527c6c-1"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
     "956a2330-3be4-424d-b38d-8c7a05dac815": {
       "type": "rich-text",
       "blocks": {
@@ -748,7 +639,6 @@
   },
   "order": [
     "image_banner",
-    "2be4c74c-f2d9-439e-8b40-978108cc95bb",
     "956a2330-3be4-424d-b38d-8c7a05dac815",
     "5ad6239a-ff43-4e1b-9b23-97cc7aebda51",
     "39be1b49-299b-4138-a975-ddbb3ed8c41a",
