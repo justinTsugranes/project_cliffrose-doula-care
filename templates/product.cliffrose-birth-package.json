@@ -343,7 +343,7 @@
         "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-1": {
           "type": "text",
           "settings": {
-            "text": "<p>My birth doula service is designed to offer you comprehensive care and guidance during this transformative experience, and I am committed to helping you prepare for your upcoming birth and parenthood.<\/p><h2>You will receive the following services:<\/h2><ul><li><strong>Prenatal Visits<\/strong> -  3 visits for 3 hours each<\/li><li><strong>Labor Support <\/strong>- rebozo, birth ball, breathing techniques, acupressure, birth room ambiance, TENS<\/li><li><strong>Overnight Doula<\/strong> - 8 hours of support in anyway you need<\/li><li><strong>Postpartum Visits<\/strong> - 3 visits for 3 hours each<\/li><li><strong>Meals<\/strong> - light labor meals, healing postpartum meals, freezer stockpile<\/li><li><strong>24\/7 On Call Support<\/strong> - beginning at 38 weeks<\/li><li><strong>Virtual Consultations<\/strong> - via Zoom and SMS<\/li><li><strong>Online Classes<\/strong> - free, unlimited access to all <a href=\"\/collections\/online-classes\" title=\"Online Classes\">online classes<\/a><\/li><\/ul><p><strong>Total Service Price: $5,000.00<\/strong><\/p>",
+            "text": "<p>My premium birth doula service provides unparalleled care and guidance throughout your transformative journey.<\/p><h3>You will receive the following services:<\/h3><ul><li><strong>Prenatal Visits:<\/strong> Three 3-hour visits<\/li><li><strong>Labor Support:<\/strong> Rebozo, birth ball, breathing techniques, acupressure, birthroom ambiance, TENS<\/li><li><strong>Overnight Doula: <\/strong>8 hours of personalized support<\/li><li><strong>Postpartum Visits:<\/strong> Three 3-hour visits<\/li><li><strong>Meals:<\/strong> Light labor meals, healing postpartum meals, freezer stockpile<\/li><li><strong>24\/7 On-Call Support: <\/strong>Beginning at 38 weeks<\/li><li><strong>Virtual Consultations:<\/strong> Via Zoom and SMS<\/li><li><strong>Online Classes:<\/strong> Free, unlimited access to all <a href=\"\/collections\/online-classes\" title=\"Online Classes\">online classes<\/a><\/li><\/ul><p><strong>Total Service Price: $5,000.00<\/strong><\/p>",
             "text_style": "body"
           }
         },
@@ -487,8 +487,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Reach out to me via the contact form below",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -497,8 +497,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "We'll schedule an initial consultation to discuss your needs and preferences",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -507,8 +507,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Together, we'll create a personalized plan that aligns with your unique desires and needs",
+            "text": "",
             "link_label": "",
             "link": ""
           }
