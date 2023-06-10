@@ -88,21 +88,6 @@
         "padding_bottom": 72
       }
     },
-    "0e9c5b2e-7cf0-4433-a8a0-c1f6b18f08e7": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "3ff01464-530b-48b0-b596-e06b2a135b92": {
       "type": "image-with-text",
       "blocks": {
@@ -142,10 +127,25 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 72,
+        "padding_bottom": 36
+      }
+    },
+    "0e9c5b2e-7cf0-4433-a8a0-c1f6b18f08e7": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -207,47 +207,6 @@
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
         "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
-    "215d27d8-c007-43b0-a20f-4fd2b04be4e9": {
-      "type": "rich-text",
-      "blocks": {
-        "996c256e-8bac-4a2a-b720-04e1b1e1048b": {
-          "type": "heading",
-          "settings": {
-            "heading": "My Birth Doula Packages",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "996c256e-8bac-4a2a-b720-04e1b1e1048b"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 72,
-        "padding_bottom": 36
-      }
-    },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "settings": {
-        "products_per_page": 8,
-        "columns_desktop": 2,
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": false,
-        "enable_filtering": false,
-        "filter_type": "vertical",
-        "enable_sorting": false,
-        "columns_mobile": "2",
-        "padding_top": 0,
         "padding_bottom": 72
       }
     },
@@ -396,6 +355,47 @@
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
+        "padding_bottom": 72
+      }
+    },
+    "215d27d8-c007-43b0-a20f-4fd2b04be4e9": {
+      "type": "rich-text",
+      "blocks": {
+        "996c256e-8bac-4a2a-b720-04e1b1e1048b": {
+          "type": "heading",
+          "settings": {
+            "heading": "My Birth Doula Packages",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "996c256e-8bac-4a2a-b720-04e1b1e1048b"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 72,
+        "padding_bottom": 36
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 8,
+        "columns_desktop": 2,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "enable_filtering": false,
+        "filter_type": "vertical",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 0,
         "padding_bottom": 72
       }
     },
@@ -584,7 +584,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "accent-2",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 72,
@@ -593,7 +593,6 @@
     },
     "f7b4515d-0877-4d52-a264-f3f8a6e90183": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18771324829998__f7b4515d-0877-4d52-a264-f3f8a6e90183-1686218681d5e3b493-0": {
           "type": "heading",
@@ -629,7 +628,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -748,15 +747,15 @@
     "banner",
     "b82def59-a7c6-4128-b8b9-35a9464f5b8c",
     "174ab2c5-0fa3-4f0b-8957-e5df30bdc3bd",
-    "0e9c5b2e-7cf0-4433-a8a0-c1f6b18f08e7",
     "3ff01464-530b-48b0-b596-e06b2a135b92",
+    "0e9c5b2e-7cf0-4433-a8a0-c1f6b18f08e7",
     "0eaa5c35-5058-4902-a272-8f7965770a19",
-    "215d27d8-c007-43b0-a20f-4fd2b04be4e9",
-    "product-grid",
     "e8f888b7-2ae1-4533-85a6-58cd7107120d",
     "ad683c48-0eae-4c7f-abbf-11b5d391cd01",
     "fc418fa7-c9e2-4739-ba49-c6d6c8146c15",
     "89b62bcb-54fc-4333-a0d8-84ddeda87828",
+    "215d27d8-c007-43b0-a20f-4fd2b04be4e9",
+    "product-grid",
     "16862197020922f7ff",
     "1c375b87-c49b-46bd-b539-2b4affe38706",
     "e1d2a377-4903-4d5d-9f76-93ed54b1b0d9",
