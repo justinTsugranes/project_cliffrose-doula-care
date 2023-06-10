@@ -57,6 +57,62 @@
         "show_text_below": true
       }
     },
+    "680cb492-e97e-4fd5-a2b8-2fa3221fb0cb": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19478573515054__680cb492-e97e-4fd5-a2b8-2fa3221fb0cb-168640061018c7c4e1-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478573515054__680cb492-e97e-4fd5-a2b8-2fa3221fb0cb-168640061018c7c4e1-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478573515054__680cb492-e97e-4fd5-a2b8-2fa3221fb0cb-168640061018c7c4e1-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19478573515054__680cb492-e97e-4fd5-a2b8-2fa3221fb0cb-168640061018c7c4e1-0",
+        "template--19478573515054__680cb492-e97e-4fd5-a2b8-2fa3221fb0cb-168640061018c7c4e1-1",
+        "template--19478573515054__680cb492-e97e-4fd5-a2b8-2fa3221fb0cb-168640061018c7c4e1-2"
+      ],
+      "custom_css": [
+        "div {box-shadow: none;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "174ab2c5-0fa3-4f0b-8957-e5df30bdc3bd": {
       "type": "rich-text",
       "blocks": {
@@ -358,6 +414,65 @@
         "padding_bottom": 72
       }
     },
+    "79a135e1-2a65-4a5c-b395-a387110f60cc": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19478573515054__79a135e1-2a65-4a5c-b395-a387110f60cc-168640061018c7c4e1-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478573515054__79a135e1-2a65-4a5c-b395-a387110f60cc-168640061018c7c4e1-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19478573515054__79a135e1-2a65-4a5c-b395-a387110f60cc-168640061018c7c4e1-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19478573515054__79a135e1-2a65-4a5c-b395-a387110f60cc-168640061018c7c4e1-0",
+        "template--19478573515054__79a135e1-2a65-4a5c-b395-a387110f60cc-168640061018c7c4e1-1",
+        "template--19478573515054__79a135e1-2a65-4a5c-b395-a387110f60cc-168640061018c7c4e1-2"
+      ],
+      "custom_css": [
+        "div {box-shadow: none;}"
+      ],
+      "settings": {
+        "title": "How to get started",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
     "215d27d8-c007-43b0-a20f-4fd2b04be4e9": {
       "type": "rich-text",
       "blocks": {
@@ -423,7 +538,7 @@
         "template--18771324829998__1c375b87-c49b-46bd-b539-2b4affe38706-1684269270ab069f33-0": {
           "type": "heading",
           "settings": {
-            "heading": "Support Made For You",
+            "heading": "Take The First Step",
             "heading_size": "h1"
           }
         },
@@ -437,7 +552,7 @@
         "ab7c8c32-b280-4d2e-88cf-fa06633c7968": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Take The First Step",
+            "button_label_1": "Contact Me",
             "button_link_1": "shopify:\/\/pages\/contact-a-doula",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -524,32 +639,38 @@
         "padding_bottom": 72
       }
     },
-    "f8fcb5a9-b010-426d-a4fd-794fde93f19a": {
-      "type": "rich-text",
+    "f061dd08-e97f-4491-88ec-25feb59d56b3": {
+      "type": "image-with-text",
       "blocks": {
-        "template--18771324829998__f8fcb5a9-b010-426d-a4fd-794fde93f19a-1686218670411b7f24-0": {
+        "template--19478573515054__f061dd08-e97f-4491-88ec-25feb59d56b3-16864011570fb92d87-0": {
           "type": "heading",
           "settings": {
             "heading": "Don't enter parenthood unprepared",
             "heading_size": "h1"
           }
         },
-        "template--18771324829998__f8fcb5a9-b010-426d-a4fd-794fde93f19a-1686218670411b7f24-1": {
+        "template--19478573515054__f061dd08-e97f-4491-88ec-25feb59d56b3-16864011570fb92d87-1": {
           "type": "text",
           "settings": {
-            "text": "<p>My birth services are designed to help you avoid feelings of being overwhelmed or unsupported.<\/p>"
+            "text": "<p>My birth services are designed to help you avoid feelings of being overwhelmed or unsupported.<\/p>",
+            "text_style": "body"
           }
         }
       },
       "block_order": [
-        "template--18771324829998__f8fcb5a9-b010-426d-a4fd-794fde93f19a-1686218670411b7f24-0",
-        "template--18771324829998__f8fcb5a9-b010-426d-a4fd-794fde93f19a-1686218670411b7f24-1"
+        "template--19478573515054__f061dd08-e97f-4491-88ec-25feb59d56b3-16864011570fb92d87-0",
+        "template--19478573515054__f061dd08-e97f-4491-88ec-25feb59d56b3-16864011570fb92d87-1"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 72,
         "padding_bottom": 72
       }
@@ -580,7 +701,7 @@
         "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155539.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
@@ -597,22 +718,22 @@
         "template--18771324829998__f7b4515d-0877-4d52-a264-f3f8a6e90183-1686218681d5e3b493-0": {
           "type": "heading",
           "settings": {
-            "heading": "Transitional CTAs: You're not ready to buy? That's OK.  Here are some resources to help you on your journey.",
+            "heading": "Enjoy Your Pregnancy With Confidence And Joy",
             "heading_size": "h1"
           }
         },
         "template--18771324829998__f7b4515d-0877-4d52-a264-f3f8a6e90183-1686218681d5e3b493-1": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Download the Free Guide<\/li><li>Register for the Webinar<\/li><li>Learn More<\/li><\/ul>",
+            "text": "<p>You'll transition from feeling overwhelmed by the uncertainties of parenthood to feeling secure, proud and connected with your baby. <strong>Contact Me Now.<\/strong><\/p>",
             "text_style": "body"
           }
         },
         "template--18771324829998__f7b4515d-0877-4d52-a264-f3f8a6e90183-1686218681d5e3b493-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Contact Me",
+            "button_link": "shopify:\/\/pages\/contact-a-doula"
           }
         }
       },
@@ -624,7 +745,7 @@
       "settings": {
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
@@ -637,6 +758,7 @@
     },
     "8ce1e951-8a8a-4e55-8818-21e2d6ea361b": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--18771324829998__8ce1e951-8a8a-4e55-8818-21e2d6ea361b-1685522048daacf0bd-0": {
           "type": "heading",
@@ -659,6 +781,53 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/beautiful-pregnant-woman-practicing-yoga-by-the-ocean.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "b49103eb-2af2-4feb-b01a-f6b57ac229e6": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19478573515054__b49103eb-2af2-4feb-b01a-f6b57ac229e6-1686401361be1f933c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Transitional CTAs: You're not ready to buy? That's OK.  Here are some resources to help you on your journey.",
+            "heading_size": "h1"
+          }
+        },
+        "template--19478573515054__b49103eb-2af2-4feb-b01a-f6b57ac229e6-1686401361be1f933c-1": {
+          "type": "text",
+          "settings": {
+            "text": "Download the Free GuideRegister for the WebinarLearn More",
+            "text_style": "body"
+          }
+        },
+        "template--19478573515054__b49103eb-2af2-4feb-b01a-f6b57ac229e6-1686401361be1f933c-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19478573515054__b49103eb-2af2-4feb-b01a-f6b57ac229e6-1686401361be1f933c-0",
+        "template--19478573515054__b49103eb-2af2-4feb-b01a-f6b57ac229e6-1686401361be1f933c-1",
+        "template--19478573515054__b49103eb-2af2-4feb-b01a-f6b57ac229e6-1686401361be1f933c-2"
+      ],
+      "settings": {
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -746,6 +915,7 @@
   "order": [
     "banner",
     "b82def59-a7c6-4128-b8b9-35a9464f5b8c",
+    "680cb492-e97e-4fd5-a2b8-2fa3221fb0cb",
     "174ab2c5-0fa3-4f0b-8957-e5df30bdc3bd",
     "3ff01464-530b-48b0-b596-e06b2a135b92",
     "0e9c5b2e-7cf0-4433-a8a0-c1f6b18f08e7",
@@ -754,15 +924,17 @@
     "ad683c48-0eae-4c7f-abbf-11b5d391cd01",
     "fc418fa7-c9e2-4739-ba49-c6d6c8146c15",
     "89b62bcb-54fc-4333-a0d8-84ddeda87828",
+    "79a135e1-2a65-4a5c-b395-a387110f60cc",
     "215d27d8-c007-43b0-a20f-4fd2b04be4e9",
     "product-grid",
     "16862197020922f7ff",
     "1c375b87-c49b-46bd-b539-2b4affe38706",
     "e1d2a377-4903-4d5d-9f76-93ed54b1b0d9",
-    "f8fcb5a9-b010-426d-a4fd-794fde93f19a",
+    "f061dd08-e97f-4491-88ec-25feb59d56b3",
     "fb5c689b-86f1-4c6c-800e-1c7ceec74395",
     "f7b4515d-0877-4d52-a264-f3f8a6e90183",
     "8ce1e951-8a8a-4e55-8818-21e2d6ea361b",
+    "b49103eb-2af2-4feb-b01a-f6b57ac229e6",
     "cb947bb7-afb7-4c6b-8e6a-fd4a4c1692d3",
     "534b3e83-def7-48f5-a6d3-340cac7f4f5d"
   ]
