@@ -428,7 +428,7 @@
         "template--18764259295534__46de2a30-532b-4f37-9aad-df735854e928-16865011447fe82dff-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Your safety and well-being are of paramount importance to us. We maintain the highest standards of professionalism, adhering to industry best practices and guidelines. Our team members hold relevant certifications, participate in ongoing training, and collaborate closely with healthcare providers to ensure a seamless and safe birth experience for you and your baby.<\/p>",
+            "text": "<p>Your safety and well-being are our top priorities. We maintain the highest standards of professionalism, adhering to best practices and guidelines. Our team members are certified, continuously updating their skills, and working collaboratively with healthcare providers to ensure a safe and nurturing birth environment.<\/p>",
             "text_style": "body"
           }
         }
@@ -632,7 +632,7 @@
         "template--18764259295534__4d8e9002-ccd5-4490-8656-827e7379e78b-168650088151b9bd06-1": {
           "type": "text",
           "settings": {
-            "text": "<p>When you choose [Your Company Name], you are not just accessing our services; you are joining a supportive community of expectant parents who share similar values and goals. We offer online forums, social media groups, and community events where you can connect with others, share experiences, and find encouragement throughout your journey.<\/p>"
+            "text": "<p>When you choose [Your Company Name], you become part of a vibrant and supportive community of expectant parents. Connect with others who share similar experiences, exchange stories, find encouragement, and build lasting friendships through our online forums, social media groups, and community events.<\/p>"
           }
         }
       },
@@ -662,7 +662,7 @@
         "template--18764259295534__91b43149-5a78-4647-a927-61ec0e193b76-168650088151b9bd06-1": {
           "type": "text",
           "settings": {
-            "text": "<p>To learn more about our services or schedule a consultation, please reach out to us:<\/p><ul><li>Phone: [Phone Number]<\/li><li>Email: [Email Address]<\/li><li>Follow us on [Social Media Handles]<\/li><\/ul>"
+            "text": "<p>For more information about our services or to schedule a consultation, please get in touch with us:<\/p><ul><li>Phone: [Phone Number]<\/li><li>Email: [Email Address]<\/li><li>Follow us on [Social Media Handles]<\/li><\/ul>"
           }
         }
       },
@@ -682,7 +682,7 @@
     "fd212925-4be3-46ad-b2c0-986a57e49bb1": {
       "type": "contact-form",
       "settings": {
-        "heading": "Ready to embark on your empowered birth journey? Contact us today to take the next step. We look forward to supporting you on this transformative experience.",
+        "heading": "Ready to embark on your memorable birth journey? Contact us today to take the next step. We look forward to being a trusted partner on your path to parenthood.",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "padding_top": 72,
