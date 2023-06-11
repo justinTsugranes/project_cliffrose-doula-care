@@ -663,6 +663,25 @@
         "padding_bottom": 72
       }
     },
+    "1686500474d7f6a89a": {
+      "type": "apps",
+      "blocks": {
+        "975b3a42-264c-44f0-b428-3971cd5c049a": {
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "975b3a42-264c-44f0-b428-3971cd5c049a"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "91b43149-5a78-4647-a927-61ec0e193b76": {
       "type": "rich-text",
       "blocks": {
@@ -773,6 +792,7 @@
     "76bc9d8a-e030-4197-aaf5-c4d6acd52b1c",
     "3c5d4203-43d0-4095-9a66-c09cba976561",
     "4d8e9002-ccd5-4490-8656-827e7379e78b",
+    "1686500474d7f6a89a",
     "91b43149-5a78-4647-a927-61ec0e193b76",
     "fd212925-4be3-46ad-b2c0-986a57e49bb1",
     "4f85eeae-85d9-4cca-bdf5-6f0685338f88"
