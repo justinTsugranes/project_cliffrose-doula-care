@@ -364,6 +364,43 @@
         "padding_bottom": 72
       }
     },
+    "46de2a30-532b-4f37-9aad-df735854e928": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--18764259295534__46de2a30-532b-4f37-9aad-df735854e928-16865011447fe82dff-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Commitment to Your Safety and Well-being",
+            "heading_size": "h1"
+          }
+        },
+        "template--18764259295534__46de2a30-532b-4f37-9aad-df735854e928-16865011447fe82dff-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your safety and well-being are of paramount importance to us. We maintain the highest standards of professionalism, adhering to industry best practices and guidelines. Our team members hold relevant certifications, participate in ongoing training, and collaborate closely with healthcare providers to ensure a seamless and safe birth experience for you and your baby.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18764259295534__46de2a30-532b-4f37-9aad-df735854e928-16865011447fe82dff-0",
+        "template--18764259295534__46de2a30-532b-4f37-9aad-df735854e928-16865011447fe82dff-1"
+      ],
+      "settings": {
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "cefb06ce-55c6-41cf-8d4c-a2d9f81b1c49": {
       "type": "rich-text",
       "disabled": true,
@@ -677,6 +714,7 @@
     "6ddadc23-415d-40e0-9d75-46f266ddffdd",
     "56eb3eb1-f6e9-487e-bddf-a78534b71bf1",
     "8a66e9f1-fb99-4b67-bcf9-8123b2ec9078",
+    "46de2a30-532b-4f37-9aad-df735854e928",
     "cefb06ce-55c6-41cf-8d4c-a2d9f81b1c49",
     "107e8d51-1efa-46b6-8897-fb1effe76c4a",
     "76bc9d8a-e030-4197-aaf5-c4d6acd52b1c",
