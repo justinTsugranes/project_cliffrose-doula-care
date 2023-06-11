@@ -170,11 +170,22 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "792f0282-27e6-4804-8e53-f4c95c7dfaa2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_aqua.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--18764259295534__9ee6804f-807b-4f60-86ee-ed2ca7cddbd3-1681851507607d59b9-0",
-        "template--18764259295534__9ee6804f-807b-4f60-86ee-ed2ca7cddbd3-1681851507607d59b9-1"
+        "template--18764259295534__9ee6804f-807b-4f60-86ee-ed2ca7cddbd3-1681851507607d59b9-1",
+        "792f0282-27e6-4804-8e53-f4c95c7dfaa2"
       ],
       "custom_css": [
         ".multicolumn-card {box-shadow: none;}"
@@ -184,7 +195,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
