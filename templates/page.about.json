@@ -56,21 +56,50 @@
         "show_text_below": true
       }
     },
+    "85fe1f34-22b2-4307-87ec-915e3a1491f5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18764259295534__85fe1f34-22b2-4307-87ec-915e3a1491f5-168650088151b9bd06-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--18764259295534__85fe1f34-22b2-4307-87ec-915e3a1491f5-168650088151b9bd06-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to [Your Company Name], where we are dedicated to empowering expectant parents like you to have a positive and transformative birth experience. We understand that this journey is unique to each individual, and we are here to support and guide you every step of the way.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18764259295534__85fe1f34-22b2-4307-87ec-915e3a1491f5-168650088151b9bd06-0",
+        "template--18764259295534__85fe1f34-22b2-4307-87ec-915e3a1491f5-168650088151b9bd06-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "0acb8abe-1e65-4938-aeaf-28117c9fc2d5": {
       "type": "rich-text",
       "blocks": {
         "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-0": {
           "type": "heading",
           "settings": {
-            "heading": "Meet Your Doula",
+            "heading": "Meet Your Doulas",
             "heading_size": "h1"
           }
         },
         "7a53d9d7-865c-4294-864a-cc9ed9416777": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Our team consists of highly experienced and compassionate birth professionals who are committed to your well-being. With diverse qualifications such as certified doulas, childbirth educators, lactation consultants, and more, we bring a wealth of expertise to support you on your journey.<\/p>"
+            "text": "<p>Our team of experienced and compassionate birth professionals is here to be your allies and guides. We have a diverse range of qualifications, including certified doulas, childbirth educators, lactation consultants, and more. With our combined expertise and dedication, we are committed to providing you with personalized care that honors your preferences and empowers you to make informed decisions.<\/p>"
           }
         }
       },
@@ -85,21 +114,6 @@
         "full_width": true,
         "padding_top": 72,
         "padding_bottom": 72
-      }
-    },
-    "70a65ce0-2bec-4095-8a3d-340fdcdac889": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "9106bc4f-f557-48f1-906b-16e18a1b0f83": {
@@ -216,10 +230,17 @@
             "heading": "<strong>My Professional Framework<\/strong>",
             "heading_size": "h1"
           }
+        },
+        "f1972771-8b25-497e-9615-124348991f0a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At [Your Company Name], our approach revolves around you. We believe that you are the hero of your own birth story, and our role is to provide the support, knowledge, and resources you need to make confident choices. We listen to your unique needs, preferences, and goals, and tailor our services accordingly. Your empowerment and well-being are at the heart of everything we do.<\/p>"
+          }
         }
       },
       "block_order": [
-        "9bd28068-c279-422c-88ae-ef68f29a092e"
+        "9bd28068-c279-422c-88ae-ef68f29a092e",
+        "f1972771-8b25-497e-9615-124348991f0a"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -341,58 +362,35 @@
         "padding_bottom": 72
       }
     },
-    "0712dfb7-1039-4c9b-81f4-2c357858f1bb": {
-      "type": "multicolumn",
+    "cefb06ce-55c6-41cf-8d4c-a2d9f81b1c49": {
+      "type": "rich-text",
       "disabled": true,
       "blocks": {
-        "template--18764259295534__0712dfb7-1039-4c9b-81f4-2c357858f1bb-16864409293c4599a8-0": {
-          "type": "column",
+        "template--18764259295534__cefb06ce-55c6-41cf-8d4c-a2d9f81b1c49-168650088151b9bd06-0": {
+          "type": "heading",
           "settings": {
-            "title": "Personalized Care",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "heading": "Inspiring Stories",
+            "heading_size": "h1"
           }
         },
-        "template--18764259295534__0712dfb7-1039-4c9b-81f4-2c357858f1bb-16864409293c4599a8-1": {
-          "type": "column",
+        "template--18764259295534__cefb06ce-55c6-41cf-8d4c-a2d9f81b1c49-168650088151b9bd06-1": {
+          "type": "text",
           "settings": {
-            "title": "Evidence-Based Practices",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18764259295534__0712dfb7-1039-4c9b-81f4-2c357858f1bb-16864409293c4599a8-2": {
-          "type": "column",
-          "settings": {
-            "title": "Empowered Decision-Making",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Every birth journey is filled with unique challenges and triumphs. We have had the privilege of supporting numerous expectant parents who have achieved their desired birth experiences with our guidance. Their stories serve as a testament to the power of informed decision-making, personalized support, and the unwavering belief in their ability to navigate their journey.<\/p>"
           }
         }
       },
       "block_order": [
-        "template--18764259295534__0712dfb7-1039-4c9b-81f4-2c357858f1bb-16864409293c4599a8-0",
-        "template--18764259295534__0712dfb7-1039-4c9b-81f4-2c357858f1bb-16864409293c4599a8-1",
-        "template--18764259295534__0712dfb7-1039-4c9b-81f4-2c357858f1bb-16864409293c4599a8-2"
+        "template--18764259295534__cefb06ce-55c6-41cf-8d4c-a2d9f81b1c49-168650088151b9bd06-0",
+        "template--18764259295534__cefb06ce-55c6-41cf-8d4c-a2d9f81b1c49-168650088151b9bd06-1"
       ],
       "settings": {
-        "title": "My Approach",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "107e8d51-1efa-46b6-8897-fb1effe76c4a": {
@@ -449,6 +447,37 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "76bc9d8a-e030-4197-aaf5-c4d6acd52b1c": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--18764259295534__76bc9d8a-e030-4197-aaf5-c4d6acd52b1c-168650088151b9bd06-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Empowering Education",
+            "heading_size": "h1"
+          }
+        },
+        "template--18764259295534__76bc9d8a-e030-4197-aaf5-c4d6acd52b1c-168650088151b9bd06-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We believe that education is key to making informed choices during your birth journey. That's why we provide evidence-based information, practical tools, and resources to help you understand the options available and make decisions that align with your values. Through our classes, workshops, and educational materials, we empower you to be an active participant in your care.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18764259295534__76bc9d8a-e030-4197-aaf5-c4d6acd52b1c-168650088151b9bd06-0",
+        "template--18764259295534__76bc9d8a-e030-4197-aaf5-c4d6acd52b1c-168650088151b9bd06-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "3c5d4203-43d0-4095-9a66-c09cba976561": {
       "type": "multirow",
       "disabled": true,
@@ -501,6 +530,60 @@
         "section_color_scheme": "background-1",
         "row_color_scheme": "background-1",
         "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0712dfb7-1039-4c9b-81f4-2c357858f1bb": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "template--18764259295534__0712dfb7-1039-4c9b-81f4-2c357858f1bb-16864409293c4599a8-0": {
+          "type": "column",
+          "settings": {
+            "title": "Personalized Care",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18764259295534__0712dfb7-1039-4c9b-81f4-2c357858f1bb-16864409293c4599a8-1": {
+          "type": "column",
+          "settings": {
+            "title": "Evidence-Based Practices",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18764259295534__0712dfb7-1039-4c9b-81f4-2c357858f1bb-16864409293c4599a8-2": {
+          "type": "column",
+          "settings": {
+            "title": "Empowered Decision-Making",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18764259295534__0712dfb7-1039-4c9b-81f4-2c357858f1bb-16864409293c4599a8-0",
+        "template--18764259295534__0712dfb7-1039-4c9b-81f4-2c357858f1bb-16864409293c4599a8-1",
+        "template--18764259295534__0712dfb7-1039-4c9b-81f4-2c357858f1bb-16864409293c4599a8-2"
+      ],
+      "settings": {
+        "title": "My Approach",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -584,17 +667,19 @@
   "order": [
     "main",
     "98da3c2e-7933-465b-be9a-ed5cdc89ae17",
+    "85fe1f34-22b2-4307-87ec-915e3a1491f5",
     "0acb8abe-1e65-4938-aeaf-28117c9fc2d5",
-    "70a65ce0-2bec-4095-8a3d-340fdcdac889",
     "9106bc4f-f557-48f1-906b-16e18a1b0f83",
     "9ee6804f-807b-4f60-86ee-ed2ca7cddbd3",
     "8b308be6-f788-4d44-92ec-e136adcfc53c",
     "6ddadc23-415d-40e0-9d75-46f266ddffdd",
     "56eb3eb1-f6e9-487e-bddf-a78534b71bf1",
     "8a66e9f1-fb99-4b67-bcf9-8123b2ec9078",
-    "0712dfb7-1039-4c9b-81f4-2c357858f1bb",
+    "cefb06ce-55c6-41cf-8d4c-a2d9f81b1c49",
     "107e8d51-1efa-46b6-8897-fb1effe76c4a",
+    "76bc9d8a-e030-4197-aaf5-c4d6acd52b1c",
     "3c5d4203-43d0-4095-9a66-c09cba976561",
+    "0712dfb7-1039-4c9b-81f4-2c357858f1bb",
     "5a6a944a-4a5e-4f5f-8057-16bfb42e7540",
     "fd212925-4be3-46ad-b2c0-986a57e49bb1",
     "4f85eeae-85d9-4cca-bdf5-6f0685338f88"
