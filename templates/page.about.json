@@ -58,9 +58,11 @@
     },
     "85fe1f34-22b2-4307-87ec-915e3a1491f5": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18764259295534__85fe1f34-22b2-4307-87ec-915e3a1491f5-168650088151b9bd06-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Talk about your brand",
             "heading_size": "h1"
@@ -69,7 +71,7 @@
         "template--18764259295534__85fe1f34-22b2-4307-87ec-915e3a1491f5-168650088151b9bd06-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Welcome to [Your Company Name], where we are dedicated to providing exceptional support and guidance to expectant parents like you. Our mission is to ensure you have a positive and transformative birth experience that aligns with your unique needs and preferences.<\/p>"
+            "text": "<p>Welcome to [Your Company Name], where we are dedicated to providing exceptional support and guidance to expectant parents like you. Our mission is to ensure you have a positive and transformative birth experience that aligns with your unique needs, preferences, and values.<\/p>"
           }
         }
       },
@@ -88,6 +90,7 @@
     },
     "bc997104-591c-44a8-a031-9a700413cad8": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -304,6 +307,7 @@
     },
     "0712dfb7-1039-4c9b-81f4-2c357858f1bb": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--18764259295534__0712dfb7-1039-4c9b-81f4-2c357858f1bb-16864409293c4599a8-0": {
           "type": "column",
@@ -431,6 +435,7 @@
     },
     "46de2a30-532b-4f37-9aad-df735854e928": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18764259295534__46de2a30-532b-4f37-9aad-df735854e928-16865011447fe82dff-0": {
           "type": "heading",
@@ -467,6 +472,7 @@
     },
     "cefb06ce-55c6-41cf-8d4c-a2d9f81b1c49": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18764259295534__cefb06ce-55c6-41cf-8d4c-a2d9f81b1c49-168650088151b9bd06-0": {
           "type": "heading",
@@ -497,6 +503,7 @@
     },
     "107e8d51-1efa-46b6-8897-fb1effe76c4a": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--18764259295534__107e8d51-1efa-46b6-8897-fb1effe76c4a-1686440994281d2a71-0": {
           "type": "slide",
@@ -550,11 +557,12 @@
     },
     "76bc9d8a-e030-4197-aaf5-c4d6acd52b1c": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18764259295534__76bc9d8a-e030-4197-aaf5-c4d6acd52b1c-168650088151b9bd06-0": {
           "type": "heading",
           "settings": {
-            "heading": "Empowering Education",
+            "heading": "Holistic Education",
             "heading_size": "h1"
           }
         },
@@ -580,6 +588,7 @@
     },
     "3c5d4203-43d0-4095-9a66-c09cba976561": {
       "type": "multirow",
+      "disabled": true,
       "blocks": {
         "template--18764259295534__3c5d4203-43d0-4095-9a66-c09cba976561-168644104802fd4de0-0": {
           "type": "row",
@@ -605,7 +614,17 @@
           "type": "row",
           "settings": {
             "caption": "Caption",
-            "heading": "Online Resources",
+            "heading": "Birth Preparation Guides",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "4826a427-1e16-46c2-879a-ff8dab214b41": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Postpartum Wellness Tips",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": ""
@@ -615,7 +634,8 @@
       "block_order": [
         "template--18764259295534__3c5d4203-43d0-4095-9a66-c09cba976561-168644104802fd4de0-0",
         "template--18764259295534__3c5d4203-43d0-4095-9a66-c09cba976561-168644104802fd4de0-1",
-        "template--18764259295534__3c5d4203-43d0-4095-9a66-c09cba976561-168644104802fd4de0-2"
+        "template--18764259295534__3c5d4203-43d0-4095-9a66-c09cba976561-168644104802fd4de0-2",
+        "4826a427-1e16-46c2-879a-ff8dab214b41"
       ],
       "settings": {
         "image_height": "medium",
@@ -635,6 +655,7 @@
     },
     "4d8e9002-ccd5-4490-8656-827e7379e78b": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18764259295534__4d8e9002-ccd5-4490-8656-827e7379e78b-168650088151b9bd06-0": {
           "type": "heading",
@@ -665,6 +686,7 @@
     },
     "1686500474d7f6a89a": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "975b3a42-264c-44f0-b428-3971cd5c049a": {
           "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
@@ -684,6 +706,7 @@
     },
     "91b43149-5a78-4647-a927-61ec0e193b76": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18764259295534__91b43149-5a78-4647-a927-61ec0e193b76-168650088151b9bd06-0": {
           "type": "heading",
@@ -715,61 +738,11 @@
     "fd212925-4be3-46ad-b2c0-986a57e49bb1": {
       "type": "contact-form",
       "settings": {
-        "heading": "Ready to embark on your memorable birth journey? Contact us today to take the next step. We look forward to being a trusted partner on your path to parenthood.",
+        "heading": "I believe strongly that everyone deserves a doula. <strong>No one will be turned away for lack of resources. <\/strong>Reach out and we can discuss how I can best support you.",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "padding_top": 72,
         "padding_bottom": 72
-      }
-    },
-    "4f85eeae-85d9-4cca-bdf5-6f0685338f88": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--18764259295534__4f85eeae-85d9-4cca-bdf5-6f0685338f88-168164672051c53a4e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Speak with a doula",
-            "heading_size": "h1"
-          }
-        },
-        "template--18764259295534__4f85eeae-85d9-4cca-bdf5-6f0685338f88-168164672051c53a4e-1": {
-          "type": "text",
-          "settings": {
-            "text": "I believe strongly that everyone deserves a doula. <strong>No one will be turned away for lack of resources. <\/strong>Reach out and we can discuss how I can best support you.",
-            "text_style": "body"
-          }
-        },
-        "template--18764259295534__4f85eeae-85d9-4cca-bdf5-6f0685338f88-168164672051c53a4e-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Contact Me",
-            "button_link_1": "shopify:\/\/pages\/contact-a-doula",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18764259295534__4f85eeae-85d9-4cca-bdf5-6f0685338f88-168164672051c53a4e-0",
-        "template--18764259295534__4f85eeae-85d9-4cca-bdf5-6f0685338f88-168164672051c53a4e-1",
-        "template--18764259295534__4f85eeae-85d9-4cca-bdf5-6f0685338f88-168164672051c53a4e-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.52.17_PM.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-right",
-        "show_text_box": true,
-        "desktop_content_alignment": "right",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     }
   },
@@ -794,7 +767,6 @@
     "4d8e9002-ccd5-4490-8656-827e7379e78b",
     "1686500474d7f6a89a",
     "91b43149-5a78-4647-a927-61ec0e193b76",
-    "fd212925-4be3-46ad-b2c0-986a57e49bb1",
-    "4f85eeae-85d9-4cca-bdf5-6f0685338f88"
+    "fd212925-4be3-46ad-b2c0-986a57e49bb1"
   ]
 }
