@@ -109,6 +109,7 @@
     },
     "3e397002-78de-4d48-9415-8ac56ac8e07d": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18956233965870__3e397002-78de-4d48-9415-8ac56ac8e07d-1686256716baa8819f-0": {
           "type": "heading",
@@ -259,7 +260,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "<strong>Collapsible content<\/strong>",
+        "heading": "<strong>What my virtual doula package includes:<\/strong>",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "row",
@@ -613,7 +614,7 @@
         "a2dfb062-7412-4eed-b544-67878dadf1a4": {
           "type": "heading",
           "settings": {
-            "heading": "Experience an empowered birth journey, even from the comfort of your own home.",
+            "heading": "Experience personal doula care, even from the comfort of your own home.",
             "heading_size": "h1"
           }
         },
