@@ -486,6 +486,7 @@
     },
     "d36bd1dd-b0ab-4a82-bac5-63288a9123b8": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--18771812843822__d36bd1dd-b0ab-4a82-bac5-63288a9123b8-168640061018c7c4e1-0": {
           "type": "column",
@@ -545,6 +546,7 @@
     },
     "795d4e9c-d684-4709-91c7-a370d2a144a3": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--18771812843822__795d4e9c-d684-4709-91c7-a370d2a144a3-1685522048daacf0bd-0": {
           "type": "heading",
@@ -593,6 +595,7 @@
     },
     "53e03c4a-f302-4fa0-9ab7-2ef6834434c4": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--18771812843822__53e03c4a-f302-4fa0-9ab7-2ef6834434c4-1685524501408f2437-0": {
           "type": "column",
@@ -652,6 +655,7 @@
     },
     "9df65e6d-9e48-43c0-87f4-b97fa37bdc3f": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18771812843822__9df65e6d-9e48-43c0-87f4-b97fa37bdc3f-1685521139392b4ef8-0": {
           "type": "heading",
@@ -689,6 +693,7 @@
     },
     "ace31db9-7cb9-4c3a-b50d-4f0e1a45a472": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18771812843822__ace31db9-7cb9-4c3a-b50d-4f0e1a45a472-1685521139392b4ef8-0": {
           "type": "heading",
@@ -726,6 +731,7 @@
     },
     "4da02d2a-d3de-4769-aced-d219cf71ada6": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--18771812843822__4da02d2a-d3de-4769-aced-d219cf71ada6-1685522048daacf0bd-0": {
           "type": "heading",
