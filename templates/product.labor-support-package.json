@@ -50,6 +50,7 @@
     },
     "84059b52-495a-4b35-970a-e4bcfb3ec895": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--18944954335534__84059b52-495a-4b35-970a-e4bcfb3ec895-168640061018c7c4e1-0": {
           "type": "column",
@@ -109,6 +110,7 @@
     },
     "c388b35e-3663-4b0d-bef1-542fa38c3eb4": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18944954335534__c388b35e-3663-4b0d-bef1-542fa38c3eb4-16841523606ed96b36-0": {
           "type": "heading",
@@ -152,6 +154,7 @@
     },
     "3b55a366-9d80-48d8-b979-2408e99c4e36": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18944954335534__3b55a366-9d80-48d8-b979-2408e99c4e36-1685521139392b4ef8-0": {
           "type": "heading",
@@ -207,6 +210,7 @@
     },
     "a24919a9-374a-4376-87f8-017e551acc00": {
       "type": "collapsible-content",
+      "disabled": true,
       "blocks": {
         "template--18944954335534__a24919a9-374a-4376-87f8-017e551acc00-1684152529d9a7cdb6-0": {
           "type": "collapsible_row",
@@ -268,7 +272,6 @@
     },
     "main": {
       "type": "main-product",
-      "disabled": true,
       "blocks": {
         "vendor": {
           "type": "text",
@@ -290,6 +293,7 @@
         },
         "variant_picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_type": "button"
           }
@@ -306,13 +310,6 @@
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
-          }
-        },
-        "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8": {
-          "type": "text",
-          "settings": {
-            "text": "Text block",
-            "text_style": "body"
           }
         },
         "description": {
@@ -334,13 +331,12 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "e80d0067-ca69-4f13-b9b7-27cddf3ae6c8",
         "description",
         "share"
       ],
       "settings": {
         "enable_sticky_info": true,
-        "media_size": "large",
+        "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "gallery_layout": "stacked",
@@ -355,6 +351,7 @@
     },
     "0f55ffa0-e50a-4acf-ad18-997356e50af7": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-0": {
           "type": "heading",
@@ -415,6 +412,7 @@
     },
     "5b8254e9-4fc2-4c54-86a7-92e705e17c79": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--18944954335534__5b8254e9-4fc2-4c54-86a7-92e705e17c79-168640061018c7c4e1-0": {
           "type": "column",
@@ -474,6 +472,7 @@
     },
     "ab1892e2-73bd-4ed9-977f-12384085803e": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--18944954335534__ab1892e2-73bd-4ed9-977f-12384085803e-168415258743e5623a-0": {
           "type": "heading",
@@ -522,6 +521,7 @@
     },
     "fc150aa8-dc12-47d4-913c-f23958bcba29": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--18944954335534__fc150aa8-dc12-47d4-913c-f23958bcba29-1684152697ec1097cf-1": {
           "type": "column",
@@ -581,6 +581,7 @@
     },
     "770d3bfc-660d-4072-8b4e-182735bbc82e": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18944954335534__770d3bfc-660d-4072-8b4e-182735bbc82e-1684152313b7f2554a-0": {
           "type": "heading",
@@ -618,6 +619,7 @@
     },
     "be6e8eb1-7b20-40ab-8891-db816be489ae": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "50848db7-3a69-4c52-8aed-1624b378afed": {
           "type": "heading",
@@ -655,6 +657,7 @@
     },
     "8dbbc055-d416-475e-8018-1226ab6140db": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--18944954335534__8dbbc055-d416-475e-8018-1226ab6140db-1685522048daacf0bd-0": {
           "type": "heading",
