@@ -51,6 +51,7 @@
     },
     "8bedd775-7475-4249-9a3b-c13f200cf7ba": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18771681968430__8bedd775-7475-4249-9a3b-c13f200cf7ba-168537672377eeee40-0": {
           "type": "heading",
@@ -96,6 +97,7 @@
     },
     "bbaab20a-b2a6-4d62-a4bb-0de6080f2225": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18771681968430__bbaab20a-b2a6-4d62-a4bb-0de6080f2225-1685376732666697d3-0": {
           "type": "heading",
@@ -133,6 +135,7 @@
     },
     "c1cb6abe-0c20-4f2c-b502-0f828bcf9b7d": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--18771681968430__c1cb6abe-0c20-4f2c-b502-0f828bcf9b7d-168640061018c7c4e1-0": {
           "type": "column",
@@ -210,6 +213,7 @@
     },
     "74c1b25d-f975-4bf3-9dbb-8fe00689d06f": {
       "type": "collapsible-content",
+      "disabled": true,
       "blocks": {
         "template--18771681968430__74c1b25d-f975-4bf3-9dbb-8fe00689d06f-16853604720bc8ca1a-0": {
           "type": "collapsible_row",
@@ -301,6 +305,7 @@
     },
     "f407fc55-88c8-4fe1-9aae-2cb51b0d9d92": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--18771681968430__f407fc55-88c8-4fe1-9aae-2cb51b0d9d92-16853767463694cfb4-0": {
           "type": "column",
@@ -478,12 +483,13 @@
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
-        "padding_top": 36,
+        "padding_top": 72,
         "padding_bottom": 0
       }
     },
     "d922f11b-6d29-4dd4-81e7-7ee7c547c70a": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--18771681968430__d922f11b-6d29-4dd4-81e7-7ee7c547c70a-1685524501408f2437-0": {
           "type": "column",
@@ -553,6 +559,7 @@
     },
     "a4b169a9-2b7a-4c8b-8e22-cfeb5e8f1c8a": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18771681968430__a4b169a9-2b7a-4c8b-8e22-cfeb5e8f1c8a-1685521139392b4ef8-0": {
           "type": "heading",
@@ -590,6 +597,7 @@
     },
     "60dc60aa-bada-4782-ad84-0c179b759014": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--18771681968430__60dc60aa-bada-4782-ad84-0c179b759014-1685521139392b4ef8-0": {
           "type": "heading",
@@ -627,6 +635,7 @@
     },
     "a9a5fe12-93e0-4154-b3cd-c9f8a7eee77a": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--18771681968430__a9a5fe12-93e0-4154-b3cd-c9f8a7eee77a-1685522048daacf0bd-0": {
           "type": "heading",
@@ -667,7 +676,7 @@
         "heading": "Have any questions? Contact Me",
         "heading_size": "h1",
         "color_scheme": "background-1",
-        "padding_top": 72,
+        "padding_top": 0,
         "padding_bottom": 72
       }
     },
