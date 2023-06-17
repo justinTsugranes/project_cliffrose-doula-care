@@ -447,13 +447,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "0ec33f44-16ca-4885-af18-c60d163f25dd": {
-          "type": "text",
-          "settings": {
-            "text": "<a href=\"\/pages\/contact-a-doula\" title=\"Contact\"><strong>Contact Me For Availability<\/strong><\/a>",
-            "text_style": "subtitle"
-          }
         }
       },
       "block_order": [
@@ -466,8 +459,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "share",
-        "0ec33f44-16ca-4885-af18-c60d163f25dd"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": false,
