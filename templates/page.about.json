@@ -105,11 +105,12 @@
     },
     "0acb8abe-1e65-4938-aeaf-28117c9fc2d5": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18764259295534__0acb8abe-1e65-4938-aeaf-28117c9fc2d5-1682183746b8a72aa5-0": {
           "type": "heading",
           "settings": {
-            "heading": "Meet Your Doulas",
+            "heading": "Meet Your Doula",
             "heading_size": "h1"
           }
         },
@@ -172,7 +173,7 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "accent-2",
+        "color_scheme": "background-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 72,
@@ -234,12 +235,13 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 72,
+        "padding_top": 36,
         "padding_bottom": 72
       }
     },
     "8b308be6-f788-4d44-92ec-e136adcfc53c": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "9bd28068-c279-422c-88ae-ef68f29a092e": {
           "type": "heading",
@@ -291,7 +293,7 @@
         "template--18764259295534__6ddadc23-415d-40e0-9d75-46f266ddffdd-1681639870eeeda013-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pregnant-woman-s-belly-closeup-hands-hugging-bell-2022-10-11-19-51-50-utc.jpg",
+        "image": "shopify:\/\/shop_images\/contact-min.webp",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -382,7 +384,7 @@
         "template--18764259295534__56eb3eb1-f6e9-487e-bddf-a78534b71bf1-1681639870eeeda013-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/belly-of-a-pregnant-woman-isolated-2023-04-14-20-30-27-utc.jpg",
+        "image": "shopify:\/\/shop_images\/frequently-asked-questions-min.webp",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -419,7 +421,7 @@
         "template--18764259295534__8a66e9f1-fb99-4b67-bcf9-8123b2ec9078-1681637899fcc77dd4-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-18_at_4.38.39_PM.jpg",
+        "image": "shopify:\/\/shop_images\/pregnant_woman_in_yellow_shirt_holding_her_pregnant_stomach.jpg",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "text_first",
