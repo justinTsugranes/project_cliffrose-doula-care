@@ -55,7 +55,6 @@
         "template--18944954335534__84059b52-495a-4b35-970a-e4bcfb3ec895-168640061018c7c4e1-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -65,7 +64,6 @@
         "template--18944954335534__84059b52-495a-4b35-970a-e4bcfb3ec895-168640061018c7c4e1-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/birthing_advocacy_doula_training.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -75,7 +73,6 @@
         "template--18944954335534__84059b52-495a-4b35-970a-e4bcfb3ec895-168640061018c7c4e1-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo_aqua.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -176,7 +173,6 @@
         "template--18944954335534__3b55a366-9d80-48d8-b979-2408e99c4e36-1685521139392b4ef8-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/B64DBB57-06A9-4BE8-827D-EE00B57AB967_1_105_c.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -334,7 +330,7 @@
         "share"
       ],
       "settings": {
-        "enable_sticky_info": true,
+        "enable_sticky_info": false,
         "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "contain",
@@ -637,7 +633,6 @@
         "963550e6-19f3-46ba-9579-64a052c4f9e6"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/doula-assisting-pregnant-woman-on-yoga-mat.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
