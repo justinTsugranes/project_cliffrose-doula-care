@@ -20,7 +20,7 @@
         "e10be80c-904b-4fdc-96a1-adf9d08f7bfa": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Contact Me For Availability",
+            "button_label_1": "Contact For Availability",
             "button_link_1": "shopify:\/\/pages\/contact-a-doula",
             "button_style_secondary_1": false,
             "button_label_2": "",
