@@ -35,7 +35,7 @@
         "e10be80c-904b-4fdc-96a1-adf9d08f7bfa"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot2023-04-10at6.28.31AM.jpg",
+        "image": "shopify:\/\/shop_images\/product-cliffrose-birth-doula-package0hero.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -55,7 +55,6 @@
         "template--18771812843822__5ffa14fa-302c-450c-a0c8-614e2af6bcc7-168640061018c7c4e1-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -65,7 +64,6 @@
         "template--18771812843822__5ffa14fa-302c-450c-a0c8-614e2af6bcc7-168640061018c7c4e1-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/birthing_advocacy_doula_training.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -75,7 +73,6 @@
         "template--18771812843822__5ffa14fa-302c-450c-a0c8-614e2af6bcc7-168640061018c7c4e1-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo_aqua.png",
             "title": "",
             "text": "",
             "link_label": "",
