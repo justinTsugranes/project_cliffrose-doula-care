@@ -41,10 +41,10 @@
         "@media screen and (min-width: 749px) {.banner__content > div {border-radius: 16px; backdrop-filter: blur(3px); -webkit-backdrop-filter: blur(3px); }}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_2.06.02_PM.jpg",
+        "image": "shopify:\/\/shop_images\/cliffrose-birth-doula-home-hero.webp",
         "image_overlay_opacity": 0,
         "image_height": "large",
-        "desktop_content_position": "top-left",
+        "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
         "color_scheme": "background-1",
@@ -525,7 +525,6 @@
         "template--18729374646574__99a14fe1-3628-4679-b469-b459bf2a56c8-1684152313b7f2554a-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pexels-pixabay-269141.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -601,7 +600,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/clifforse-birth-doula-contact-2.webp",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
