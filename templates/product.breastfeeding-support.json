@@ -55,17 +55,7 @@
         "template--18859690983726__29abf531-6ab2-4bd5-907c-bf39cfd7a5aa-168640061018c7c4e1-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18859690983726__29abf531-6ab2-4bd5-907c-bf39cfd7a5aa-168640061018c7c4e1-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/birthing_advocacy_doula_training.png",
+            "image": "shopify:\/\/shop_images\/dona-certified-birth-doula-logo.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -75,7 +65,17 @@
         "template--18859690983726__29abf531-6ab2-4bd5-907c-bf39cfd7a5aa-168640061018c7c4e1-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo_aqua.png",
+            "image": "shopify:\/\/shop_images\/lactation-training-logo.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18859690983726__29abf531-6ab2-4bd5-907c-bf39cfd7a5aa-168640061018c7c4e1-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/birthing-advocacy-doula-training-logo.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -85,8 +85,8 @@
       },
       "block_order": [
         "template--18859690983726__29abf531-6ab2-4bd5-907c-bf39cfd7a5aa-168640061018c7c4e1-0",
-        "template--18859690983726__29abf531-6ab2-4bd5-907c-bf39cfd7a5aa-168640061018c7c4e1-1",
-        "template--18859690983726__29abf531-6ab2-4bd5-907c-bf39cfd7a5aa-168640061018c7c4e1-2"
+        "template--18859690983726__29abf531-6ab2-4bd5-907c-bf39cfd7a5aa-168640061018c7c4e1-2",
+        "template--18859690983726__29abf531-6ab2-4bd5-907c-bf39cfd7a5aa-168640061018c7c4e1-1"
       ],
       "custom_css": [
         "div {box-shadow: none;}"
