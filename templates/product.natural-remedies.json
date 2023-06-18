@@ -134,20 +134,20 @@
     "cb239e80-50fa-47db-864b-f4b2ab4d171f": {
       "type": "multicolumn",
       "blocks": {
-        "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-0": {
+        "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
+            "image": "shopify:\/\/shop_images\/birthing-advocacy-doula-training-logo.webp",
             "title": "",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-1": {
+        "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/birthing_advocacy_doula_training.png",
+            "image": "shopify:\/\/shop_images\/dona-certified-birth-doula-logo.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -157,7 +157,7 @@
         "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo_aqua.png",
+            "image": "shopify:\/\/shop_images\/lactation-training-logo.webp",
             "title": "",
             "text": "",
             "link_label": "",
@@ -166,8 +166,8 @@
         }
       },
       "block_order": [
-        "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-0",
         "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-1",
+        "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-0",
         "template--18873568035118__cb239e80-50fa-47db-864b-f4b2ab4d171f-168640061018c7c4e1-2"
       ],
       "custom_css": [
