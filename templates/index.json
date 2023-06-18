@@ -525,6 +525,7 @@
         "template--18729374646574__99a14fe1-3628-4679-b469-b459bf2a56c8-1684152313b7f2554a-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/about-us-min.webp",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
