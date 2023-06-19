@@ -35,7 +35,6 @@
         "template--18869097726254__a7a169c4-c38d-41c0-a135-6cdfb74f1c1e-16823434954f8e979a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_12.45.14_PM.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -154,12 +153,10 @@
     },
     "988bff75-9502-480d-bf17-02e120fc3460": {
       "type": "multirow",
-      "disabled": true,
       "blocks": {
         "template--18869097726254__988bff75-9502-480d-bf17-02e120fc3460-168234450246a497d1-2": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_12.48.13_PM.jpg",
             "caption": "Caption",
             "heading": "Row",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
@@ -170,7 +167,6 @@
         "template--18869097726254__988bff75-9502-480d-bf17-02e120fc3460-168234450246a497d1-0": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-23_at_8.52.05_PM.jpg",
             "caption": "Caption",
             "heading": "Row",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
@@ -181,7 +177,6 @@
         "template--18869097726254__988bff75-9502-480d-bf17-02e120fc3460-168234450246a497d1-1": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_1.03.22_PM.jpg",
             "caption": "Caption",
             "heading": "Row",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
