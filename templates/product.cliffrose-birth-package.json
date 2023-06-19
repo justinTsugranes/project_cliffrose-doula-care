@@ -6,14 +6,14 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0": {
           "type": "heading",
           "settings": {
-            "heading": "Cliffrose Birth Package",
+            "heading": "{{ product.title }}",
             "heading_size": "h1"
           }
         },
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1": {
           "type": "text",
           "settings": {
-            "text": "Experience the Birth You've Dreamed of with Unmatched Personalized Care. Enjoy three comprehensive prenatal visits, continuous labor support, overnight doula care, three postpartum visits, labor & postpartum meals, 24\/7 on-call support, virtual consultations, free access to online classes and peace of mind knowing that you have the best doula care available.",
+            "text": "{{ product.metafields.custom.image_banner_description.value }}",
             "text_style": "body"
           }
         },
@@ -35,7 +35,7 @@
         "e10be80c-904b-4fdc-96a1-adf9d08f7bfa"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/product-cliffrose-birth-doula-package-hero.webp",
+        "image": "{{ product.metafields.custom.main_image_banner_background.value }}",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
