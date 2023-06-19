@@ -36,7 +36,7 @@
         "197141f4-8f28-485f-8df4-e0a2220a0f2f"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/product-class-natural-remedies-for-pregnancy-symptoms-hero.webp",
+        "image": "{{ product.metafields.custom.main_image_banner_background.value }}",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -485,7 +485,6 @@
         "template--18873568035118__ddecdc2d-a2f0-4b09-b266-10686ddb9ce8-16842726209c8f5aaa-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
             "title": "Learn effective natural remedies for morning sickness, heartburn, and fatigue",
             "text": "",
             "link_label": "",
@@ -495,7 +494,6 @@
         "template--18873568035118__ddecdc2d-a2f0-4b09-b266-10686ddb9ce8-16842726209c8f5aaa-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
             "title": "Gain valuable knowledge to manage your pregnancy symptoms with confidence",
             "text": "",
             "link_label": "",
@@ -505,7 +503,6 @@
         "template--18873568035118__ddecdc2d-a2f0-4b09-b266-10686ddb9ce8-16842726209c8f5aaa-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
             "title": "Connect with a supportive community of expectant parents",
             "text": "",
             "link_label": "",
