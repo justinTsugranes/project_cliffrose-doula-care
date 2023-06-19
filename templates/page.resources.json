@@ -6,14 +6,14 @@
         "template--18771424510254__35098a8d-30ec-4ce6-a389-d361d2d7cb3a-16816419410bb0e374-0": {
           "type": "heading",
           "settings": {
-            "heading": "A Community of Resources to Help You Grow",
+            "heading": "{{ page.metafields.custom.image_banner_title.value }}",
             "heading_size": "h1"
           }
         },
         "template--18771424510254__35098a8d-30ec-4ce6-a389-d361d2d7cb3a-16816419410bb0e374-1": {
           "type": "text",
           "settings": {
-            "text": "These providers mainly serve the Greater Los Angeles area, but many offer virtual support and take on nationwide clients",
+            "text": "{{ page.metafields.custom.image_banner_description.value }}",
             "text_style": "body"
           }
         }
@@ -23,7 +23,7 @@
         "template--18771424510254__35098a8d-30ec-4ce6-a389-d361d2d7cb3a-16816419410bb0e374-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pregnancy-resources.webp",
+        "image": "{{ page.metafields.custom.main_image_banner_background_image.value }}",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
