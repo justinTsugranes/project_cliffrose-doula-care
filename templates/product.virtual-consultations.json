@@ -6,14 +6,14 @@
         "template--18771681968430__64f75edf-857a-4fce-a893-524d3ddf1697-168415258743e5623a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Virtual Birth Doula Consultations",
+            "heading": "{{ product.title }}",
             "heading_size": "h1"
           }
         },
         "template--18771681968430__64f75edf-857a-4fce-a893-524d3ddf1697-168415258743e5623a-1": {
           "type": "text",
           "settings": {
-            "text": "Meet your experienced doula from the comfort of your home. Get answers to your questions about pregnancy, childbirth, and postpartum.<strong> Schedule a 1-hour video consultation below!<\/strong>",
+            "text": "{{ product.metafields.custom.image_banner_description.value }}",
             "text_style": "body"
           }
         },
@@ -36,7 +36,7 @@
         "template--18771681968430__64f75edf-857a-4fce-a893-524d3ddf1697-168415258743e5623a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/product-virtual-birth-doula-consultations-hero.webp",
+        "image": "{{ product.metafields.custom.main_image_banner_background.value }}",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -119,7 +119,6 @@
         "template--18771681968430__bbaab20a-b2a6-4d62-a4bb-0de6080f2225-1685376732666697d3-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/B64DBB57-06A9-4BE8-827D-EE00B57AB967_1_105_c.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -140,7 +139,6 @@
         "template--18771681968430__c1cb6abe-0c20-4f2c-b502-0f828bcf9b7d-168640061018c7c4e1-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -150,7 +148,6 @@
         "template--18771681968430__c1cb6abe-0c20-4f2c-b502-0f828bcf9b7d-168640061018c7c4e1-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/birthing_advocacy_doula_training.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -160,7 +157,6 @@
         "template--18771681968430__c1cb6abe-0c20-4f2c-b502-0f828bcf9b7d-168640061018c7c4e1-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo_aqua.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -310,7 +306,6 @@
         "template--18771681968430__f407fc55-88c8-4fe1-9aae-2cb51b0d9d92-16853767463694cfb4-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
             "title": "Book a Consultation Below",
             "text": "",
             "link_label": "",
@@ -320,7 +315,6 @@
         "template--18771681968430__f407fc55-88c8-4fe1-9aae-2cb51b0d9d92-16853767463694cfb4-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
             "title": "Check your email for all Zoom meeting details",
             "text": "",
             "link_label": "",
@@ -330,7 +324,6 @@
         "template--18771681968430__f407fc55-88c8-4fe1-9aae-2cb51b0d9d92-16853767463694cfb4-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
             "title": "Feel reassured as I guide you through your pregnancy journey, providing answers to your questions and expert advice.",
             "text": "",
             "link_label": "",
@@ -494,7 +487,6 @@
         "template--18771681968430__d922f11b-6d29-4dd4-81e7-7ee7c547c70a-1685524501408f2437-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
             "title": "Convenient",
             "text": "<p>Enjoy flexible scheduling and access to expert support from the comfort of your home.<\/p>",
             "link_label": "",
@@ -504,7 +496,6 @@
         "template--18771681968430__d922f11b-6d29-4dd4-81e7-7ee7c547c70a-1685524501408f2437-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
             "title": "Personalized Care",
             "text": "<p>Receive tailored guidance that aligns with your unique preferences and concerns.<\/p>",
             "link_label": "",
@@ -514,7 +505,6 @@
         "template--18771681968430__d922f11b-6d29-4dd4-81e7-7ee7c547c70a-1685524501408f2437-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
             "title": "Expert Knowledge",
             "text": "<p>Gain evidence-based information and resources to empower you during your pregnancy journey.<\/p>",
             "link_label": "",
@@ -581,7 +571,6 @@
         "template--18771681968430__a4b169a9-2b7a-4c8b-8e22-cfeb5e8f1c8a-1685521139392b4ef8-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.49.46_PM.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -619,7 +608,6 @@
         "template--18771681968430__60dc60aa-bada-4782-ad84-0c179b759014-1685521139392b4ef8-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pregnant_woman_on_phone_call_with_virtual_doula.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -657,7 +645,6 @@
         "template--18771681968430__a9a5fe12-93e0-4154-b3cd-c9f8a7eee77a-1685522048daacf0bd-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot2023-06-06at6.22.51AM.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
