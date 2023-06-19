@@ -6,14 +6,14 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0": {
           "type": "heading",
           "settings": {
-            "heading": "Natural Solutions To Ease Your Pregnancy Symptoms",
+            "heading": "{{ product.title }}",
             "heading_size": "h1"
           }
         },
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1": {
           "type": "text",
           "settings": {
-            "text": "Led by a certified full spectrum doula, this intimate group class will give you the holistic tools and knowledge to confidently navigate your pregnancy woes. <strong>Book a class below!<\/strong>",
+            "text": "{{ product.metafields.custom.image_banner_description.value }}",
             "text_style": "body"
           }
         },
