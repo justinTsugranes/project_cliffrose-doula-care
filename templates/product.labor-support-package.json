@@ -6,21 +6,21 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0": {
           "type": "heading",
           "settings": {
-            "heading": "Pure Labor Support Package",
+            "heading": "{{ product.title }}",
             "heading_size": "h1"
           }
         },
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1": {
           "type": "text",
           "settings": {
-            "text": "You’re seeking a birth experience that aligns with your commitment to health, sustainability, and balance. Get the support you need for the birth you want. With one prenatal visit, labor support, postpartum visit, and 24\/7 on-call support, you can trust me to guide you every step of the way.",
+            "text": "{{ product.metafields.custom.image_banner_description.value }}",
             "text_style": "body"
           }
         },
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Contact For Availability",
+            "button_label_1": "{{ product.metafields.custom.cta_button_text.value }}",
             "button_link_1": "shopify:\/\/pages\/contact-a-doula",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -35,7 +35,7 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/product-cliffrose-pure-labor-support-package-hero.webp",
+        "image": "{{ product.metafields.custom.main_image_banner_background.value }}",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -411,7 +411,6 @@
         "template--18944954335534__5b8254e9-4fc2-4c54-86a7-92e705e17c79-168640061018c7c4e1-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
             "title": "Contact me to schedule a consultation",
             "text": "<p>We'll discuss your desires, preferences, and unique needs.<\/p>",
             "link_label": "",
@@ -421,7 +420,6 @@
         "template--18944954335534__5b8254e9-4fc2-4c54-86a7-92e705e17c79-168640061018c7c4e1-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
             "title": "Get personalized support",
             "text": "<p>Together, we'll create a personalized birth plan tailored to you. <\/p>",
             "link_label": "",
@@ -431,7 +429,6 @@
         "template--18944954335534__5b8254e9-4fc2-4c54-86a7-92e705e17c79-168640061018c7c4e1-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
             "title": "Enjoy your pregnancy and childbirth",
             "text": "<p>Embrace the support and guidance you need for an empowering and joyful childbirth experience.<\/p>",
             "link_label": "",
@@ -519,7 +516,6 @@
         "template--18944954335534__fc150aa8-dc12-47d4-913c-f23958bcba29-1684152697ec1097cf-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
             "title": "Feel empowered to make informed decisions and advocate for your birth preferences.",
             "text": "",
             "link_label": "",
@@ -529,7 +525,6 @@
         "template--18944954335534__fc150aa8-dc12-47d4-913c-f23958bcba29-1684152697ec1097cf-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
             "title": "Receive personalized support that honors your unique journey.",
             "text": "",
             "link_label": "",
@@ -539,7 +534,6 @@
         "template--18944954335534__fc150aa8-dc12-47d4-913c-f23958bcba29-1684152697ec1097cf-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
             "title": "Welcome your baby into the world with confidence and joy.",
             "text": "",
             "link_label": "",
