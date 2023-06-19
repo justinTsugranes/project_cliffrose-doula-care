@@ -1,13 +1,5 @@
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
-    },
     "98da3c2e-7933-465b-be9a-ed5cdc89ae17": {
       "type": "image-banner",
       "blocks": {
@@ -54,6 +46,14 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
       }
     },
     "85fe1f34-22b2-4307-87ec-915e3a1491f5": {
@@ -749,8 +749,8 @@
     }
   },
   "order": [
-    "main",
     "98da3c2e-7933-465b-be9a-ed5cdc89ae17",
+    "main",
     "85fe1f34-22b2-4307-87ec-915e3a1491f5",
     "bc997104-591c-44a8-a031-9a700413cad8",
     "0acb8abe-1e65-4938-aeaf-28117c9fc2d5",
