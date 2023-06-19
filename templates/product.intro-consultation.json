@@ -6,14 +6,14 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0": {
           "type": "heading",
           "settings": {
-            "heading": "15-Minute Consultation",
+            "heading": "{{ product.title }}",
             "heading_size": "h1"
           }
         },
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1": {
           "type": "text",
           "settings": {
-            "text": "Want to speak with a doula? Not sure if you would like to have a doula by your side? <strong>Book an available time below. <\/strong>Fill out the brief form so that we can best use our time together. Zoom meeting instructions will be e-mailed to the email that you provide.",
+            "text": "{{ product.metafields.custom.image_banner_description.value }}",
             "text_style": "body"
           }
         }
@@ -23,7 +23,7 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/product-free-intro-birth-consultation.webp",
+        "image": "{{ product.metafields.custom.main_image_banner_background.value }}",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
