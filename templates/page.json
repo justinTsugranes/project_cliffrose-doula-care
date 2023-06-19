@@ -1,1 +1,64 @@
-{"sections":{"main":{"type":"main-page","settings":{"padding_top":28,"padding_bottom":28}}},"order":["main"]}
+{
+  "sections": {
+    "3d9d42f7-c596-4653-b0ee-9697087f709c": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18729374384430__3d9d42f7-c596-4653-b0ee-9697087f709c-1687169751b3afa2d0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ page.metafields.custom.image_banner_title.value }}",
+            "heading_size": "h1"
+          }
+        },
+        "template--18729374384430__3d9d42f7-c596-4653-b0ee-9697087f709c-1687169751b3afa2d0-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ page.metafields.custom.image_banner_description.value }}",
+            "text_style": "body"
+          }
+        },
+        "template--18729374384430__3d9d42f7-c596-4653-b0ee-9697087f709c-1687169751b3afa2d0-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18729374384430__3d9d42f7-c596-4653-b0ee-9697087f709c-1687169751b3afa2d0-0",
+        "template--18729374384430__3d9d42f7-c596-4653-b0ee-9697087f709c-1687169751b3afa2d0-1",
+        "template--18729374384430__3d9d42f7-c596-4653-b0ee-9697087f709c-1687169751b3afa2d0-2"
+      ],
+      "settings": {
+        "image": "{{ page.metafields.custom.main_image_banner_background_image.value }}",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "3d9d42f7-c596-4653-b0ee-9697087f709c",
+    "main"
+  ]
+}
