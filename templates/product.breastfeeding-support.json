@@ -36,7 +36,7 @@
         "442f706b-53f5-4572-811f-ed6af5d80119"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/woman_breastfeeding_baby_with_help_from_breastfeeding_support_group_main.webp",
+        "image": "shopify:\/\/shop_images\/product-breastfeeding-support-class-1.webp",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -278,7 +278,6 @@
         "template--18859690983726__c782957e-a8b9-4fb2-8e08-098e5dac8bdc-1685539410b89049c6-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -288,7 +287,6 @@
         "template--18859690983726__c782957e-a8b9-4fb2-8e08-098e5dac8bdc-1685539410b89049c6-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -298,7 +296,6 @@
         "template--18859690983726__c782957e-a8b9-4fb2-8e08-098e5dac8bdc-1685539410b89049c6-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -436,7 +433,6 @@
         "template--18859690983726__d3211c52-fab3-4f14-8797-20dc3df20bb5-168639277077fa0cc6-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -446,7 +442,6 @@
         "template--18859690983726__d3211c52-fab3-4f14-8797-20dc3df20bb5-168639277077fa0cc6-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -456,7 +451,6 @@
         "template--18859690983726__d3211c52-fab3-4f14-8797-20dc3df20bb5-168639277077fa0cc6-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
