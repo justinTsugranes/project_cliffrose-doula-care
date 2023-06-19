@@ -6,21 +6,21 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Virtual Birth Doula Package<\/strong>",
+            "heading": "{{ product.title }}",
             "heading_size": "h1"
           }
         },
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1": {
           "type": "text",
           "settings": {
-            "text": "Experience the unwavering support and guidance of a birth doula, without leaving the comfort of your own home. My virtual doula services provide comprehensive care for every stage of your journey, from prenatal preparation to postpartum recovery. Let me be your trusted partner, no matter where you are.",
+            "text": "{{ product.metafields.custom.image_banner_description.value }}",
             "text_style": "body"
           }
         },
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Contact For Availability",
+            "button_label_1": "{{ product.metafields.custom.cta_button_text.value }}",
             "button_link_1": "shopify:\/\/pages\/contact-a-doula",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -35,7 +35,7 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/product-virtual-birth-doula-services-hero.webp",
+        "image": "{{ product.metafields.custom.main_image_banner_background.value }}",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -55,7 +55,6 @@
         "template--18956233965870__e7ed356a-044f-4ebe-a067-046950aca960-168640061018c7c4e1-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DONA-TM-Color-Logo-300dpi.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -65,7 +64,6 @@
         "template--18956233965870__e7ed356a-044f-4ebe-a067-046950aca960-168640061018c7c4e1-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/birthing_advocacy_doula_training.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -75,7 +73,6 @@
         "template--18956233965870__e7ed356a-044f-4ebe-a067-046950aca960-168640061018c7c4e1-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo_aqua.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -185,7 +182,6 @@
         "template--18956233965870__2a711bd9-8d3b-4e6d-8e25-a748a3e824f3-1686256738bc1a9b01-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/B64DBB57-06A9-4BE8-827D-EE00B57AB967_1_105_c.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -406,7 +402,6 @@
         "template--18956233965870__7fe50d10-ad63-4033-aefe-3247f1e9ccba-168639277077fa0cc6-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
             "title": "Contact me to schedule an initial consultation",
             "text": "",
             "link_label": "",
@@ -416,7 +411,6 @@
         "template--18956233965870__7fe50d10-ad63-4033-aefe-3247f1e9ccba-168639277077fa0cc6-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
             "title": "We will discuss your needs, preferences, and any questions you may have",
             "text": "",
             "link_label": "",
@@ -426,7 +420,6 @@
         "template--18956233965870__7fe50d10-ad63-4033-aefe-3247f1e9ccba-168639277077fa0cc6-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
             "title": "Once we've determined that the virtual doula package is right for you, we'll schedule your prenatal sessions and outline our communication plan",
             "text": "",
             "link_label": "",
@@ -495,7 +488,6 @@
         "template--18956233965870__ed5982f5-75f9-4eea-8604-0611ad42699f-1686392740ae4afc36-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot2023-06-06at6.22.51AM.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -515,7 +507,6 @@
         "template--18956233965870__a68b4bf4-2200-40f0-aa7e-c73f30c3ef9e-168640061018c7c4e1-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
             "title": "Feel informed and prepared for the birth of your baby",
             "text": "",
             "link_label": "",
@@ -525,7 +516,6 @@
         "template--18956233965870__a68b4bf4-2200-40f0-aa7e-c73f30c3ef9e-168640061018c7c4e1-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
             "title": "Receive personalized guidance and support throughout your pregnancy",
             "text": "",
             "link_label": "",
@@ -535,7 +525,6 @@
         "template--18956233965870__a68b4bf4-2200-40f0-aa7e-c73f30c3ef9e-168640061018c7c4e1-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
             "title": "Have a trusted partner to address your concerns and answer your questions",
             "text": "",
             "link_label": "",
@@ -592,7 +581,6 @@
         "template--18956233965870__5fb7406e-d951-4a4c-aafa-f31878d4ad85-16863929191985fc59-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.49.46_PM.jpg",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -667,7 +655,6 @@
         "template--18956233965870__90424e38-f724-4d87-8896-0f46138faf40-1686392740ae4afc36-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pregnant_woman_having_virtual_meeting_with_doula.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
