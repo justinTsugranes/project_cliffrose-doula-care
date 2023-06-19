@@ -6,14 +6,14 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Breastfeeding Support Class<\/strong>",
+            "heading": "{{ product.metafields.custom.main_image_banner_title.value }}",
             "heading_size": "h1"
           }
         },
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1": {
           "type": "text",
           "settings": {
-            "text": "Led by a certified full spectrum doula, this small group class will help ease those sore moments, enable you to connect more closely with your newborn, and product more nourishing milk for your baby. <strong>Book a class below!<\/strong>",
+            "text": "{{ product.metafields.custom.image_banner_description.value }}",
             "text_style": "body"
           }
         },
@@ -36,7 +36,7 @@
         "442f706b-53f5-4572-811f-ed6af5d80119"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/product-breastfeeding-support-class-1.webp",
+        "image": "{{ product.metafields.custom.main_image_banner_background.value }}",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
