@@ -23,7 +23,7 @@
         "template--18836504150318__7a565b05-e7ad-438d-a821-c61f073d5cdc-16821171352fef8d32-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/forms-and-contracts-hero.webp",
+        "image": "{{ page.metafields.custom.main_image_banner_background_image.value }}",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -38,7 +38,6 @@
     },
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
@@ -46,6 +45,7 @@
     },
     "379a9adc-5795-4994-90d5-474d9764e2fb": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "template--18836504150318__379a9adc-5795-4994-90d5-474d9764e2fb-16821135714c01c41b-1": {
           "type": "text",
