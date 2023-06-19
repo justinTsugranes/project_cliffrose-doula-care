@@ -438,7 +438,6 @@
         },
         "share": {
           "type": "share",
-          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
@@ -478,7 +477,6 @@
         "template--18771812843822__d36bd1dd-b0ab-4a82-bac5-63288a9123b8-168640061018c7c4e1-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
             "title": "Reach out to me via the contact form below",
             "text": "",
             "link_label": "",
@@ -488,7 +486,6 @@
         "template--18771812843822__d36bd1dd-b0ab-4a82-bac5-63288a9123b8-168640061018c7c4e1-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
             "title": "We'll schedule an initial consultation to discuss your needs and preferences",
             "text": "",
             "link_label": "",
@@ -498,7 +495,6 @@
         "template--18771812843822__d36bd1dd-b0ab-4a82-bac5-63288a9123b8-168640061018c7c4e1-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
             "title": "Together, we'll create a personalized plan that aligns with your unique desires and needs",
             "text": "",
             "link_label": "",
@@ -586,7 +582,6 @@
         "template--18771812843822__53e03c4a-f302-4fa0-9ab7-2ef6834434c4-1685524501408f2437-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-one.png",
             "title": "Feel empowered to experience childbirth on your terms",
             "text": "",
             "link_label": "",
@@ -596,7 +591,6 @@
         "template--18771812843822__53e03c4a-f302-4fa0-9ab7-2ef6834434c4-1685524501408f2437-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-two.png",
             "title": "Receive personalized, professional support throughout this beautiful journey",
             "text": "",
             "link_label": "",
@@ -606,7 +600,6 @@
         "template--18771812843822__53e03c4a-f302-4fa0-9ab7-2ef6834434c4-1685524501408f2437-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cliffrose-doula-care-three.png",
             "title": "Welcome your baby into the world with confidence and joy",
             "text": "",
             "link_label": "",
