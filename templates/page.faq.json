@@ -6,14 +6,14 @@
         "template--18771872317742__0ae07fe3-5d76-4102-a19a-f405b622aede-1682075422d57e59e0-0": {
           "type": "heading",
           "settings": {
-            "heading": "Frequently Asked Questions",
+            "heading": "{{ page.metafields.custom.image_banner_title.value }}",
             "heading_size": "h1"
           }
         },
         "template--18771872317742__0ae07fe3-5d76-4102-a19a-f405b622aede-1682075422d57e59e0-1": {
           "type": "text",
           "settings": {
-            "text": "Here and many of the questions that I receive the most often about birth, pregnancy, doula services, and entering motherhood. <strong>If you can't find the answer to your question, please <\/strong><a href=\"\/pages\/contact\" title=\"Contact\"><strong>reach out to me<\/strong><\/a><strong>.<\/strong>",
+            "text": "{{ page.metafields.custom.image_banner_description.value }}",
             "text_style": "body"
           }
         }
@@ -23,7 +23,7 @@
         "template--18771872317742__0ae07fe3-5d76-4102-a19a-f405b622aede-1682075422d57e59e0-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/frequently-asked-questions-min.webp",
+        "image": "{{ page.metafields.custom.main_image_banner_background_image.value }}",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
