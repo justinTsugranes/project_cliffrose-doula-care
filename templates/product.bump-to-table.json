@@ -1,5 +1,52 @@
 {
   "sections": {
+    "3a142f7a-af47-495c-8026-d3c38232d3b9": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19635369476398__3a142f7a-af47-495c-8026-d3c38232d3b9-1687204982744c149c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--19635369476398__3a142f7a-af47-495c-8026-d3c38232d3b9-1687204982744c149c-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--19635369476398__3a142f7a-af47-495c-8026-d3c38232d3b9-1687204982744c149c-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19635369476398__3a142f7a-af47-495c-8026-d3c38232d3b9-1687204982744c149c-0",
+        "template--19635369476398__3a142f7a-af47-495c-8026-d3c38232d3b9-1687204982744c149c-1",
+        "template--19635369476398__3a142f7a-af47-495c-8026-d3c38232d3b9-1687204982744c149c-2"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -82,6 +129,76 @@
         "padding_bottom": 12
       }
     },
+    "1687204976209194c2": {
+      "type": "apps",
+      "blocks": {
+        "64639e73-077c-4f5d-8f44-532cee5b111f": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": ""
+          }
+        }
+      },
+      "block_order": [
+        "64639e73-077c-4f5d-8f44-532cee5b111f"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "81d07599-70e1-4e9a-b857-fe23e2e8a7e1": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19635369476398__81d07599-70e1-4e9a-b857-fe23e2e8a7e1-16872050395a800473-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19635369476398__81d07599-70e1-4e9a-b857-fe23e2e8a7e1-16872050395a800473-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19635369476398__81d07599-70e1-4e9a-b857-fe23e2e8a7e1-16872050395a800473-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19635369476398__81d07599-70e1-4e9a-b857-fe23e2e8a7e1-16872050395a800473-0",
+        "template--19635369476398__81d07599-70e1-4e9a-b857-fe23e2e8a7e1-16872050395a800473-1",
+        "template--19635369476398__81d07599-70e1-4e9a-b857-fe23e2e8a7e1-16872050395a800473-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "judgeme_section_review_widget_6f47": {
       "type": "apps",
       "blocks": {
@@ -114,11 +231,70 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "0e7ead97-0a1d-4119-ad90-26c14e04a431": {
+      "type": "multirow",
+      "blocks": {
+        "template--19635369476398__0e7ead97-0a1d-4119-ad90-26c14e04a431-1687205057c5d3d693-0": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--19635369476398__0e7ead97-0a1d-4119-ad90-26c14e04a431-1687205057c5d3d693-1": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--19635369476398__0e7ead97-0a1d-4119-ad90-26c14e04a431-1687205057c5d3d693-2": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19635369476398__0e7ead97-0a1d-4119-ad90-26c14e04a431-1687205057c5d3d693-0",
+        "template--19635369476398__0e7ead97-0a1d-4119-ad90-26c14e04a431-1687205057c5d3d693-1",
+        "template--19635369476398__0e7ead97-0a1d-4119-ad90-26c14e04a431-1687205057c5d3d693-2"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
+    "3a142f7a-af47-495c-8026-d3c38232d3b9",
     "main",
+    "1687204976209194c2",
+    "81d07599-70e1-4e9a-b857-fe23e2e8a7e1",
     "judgeme_section_review_widget_6f47",
-    "related-products"
+    "related-products",
+    "0e7ead97-0a1d-4119-ad90-26c14e04a431"
   ]
 }
