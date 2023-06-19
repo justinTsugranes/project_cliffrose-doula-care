@@ -14,14 +14,14 @@
         "template--18764259295534__98da3c2e-7933-465b-be9a-ed5cdc89ae17-1681639335bf7b76ea-0": {
           "type": "heading",
           "settings": {
-            "heading": "a Cliffrose thrives in a challenging environment.",
+            "heading": "{{ page.metafields.custom.image_banner_title.value }}",
             "heading_size": "h1"
           }
         },
         "template--18764259295534__98da3c2e-7933-465b-be9a-ed5cdc89ae17-1681639335bf7b76ea-1": {
           "type": "text",
           "settings": {
-            "text": "So can you.",
+            "text": "{{ page.metafields.custom.image_banner_description.value }}",
             "text_style": "body"
           }
         },
@@ -43,7 +43,7 @@
         "template--18764259295534__98da3c2e-7933-465b-be9a-ed5cdc89ae17-1681639335bf7b76ea-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/about-us-min.webp",
+        "image": "{{ page.metafields.custom.main_image_banner_background_image.value }}",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-right",
