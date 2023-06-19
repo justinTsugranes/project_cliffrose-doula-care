@@ -6,14 +6,14 @@
         "template--18729374122286__1806f662-3397-432a-bb32-fdd9e8e49c78-1682125745486d4042-0": {
           "type": "heading",
           "settings": {
-            "heading": "Beyond Birth - Your Guide to Pregnancy, Birth, and Beyond",
+            "heading": "{{ blog.title }}",
             "heading_size": "h1"
           }
         },
         "template--18729374122286__1806f662-3397-432a-bb32-fdd9e8e49c78-1682125745486d4042-1": {
           "type": "text",
           "settings": {
-            "text": "From breathing techniques and common complications to nutrition, fitness, and postpartum care, our articles provide evidence-based information and practical advice to help you make informed decisions.",
+            "text": "{{ blog.metafields.custom.main_hero_image_banner_description.value }}",
             "text_style": "body"
           }
         }
@@ -23,7 +23,7 @@
         "template--18729374122286__1806f662-3397-432a-bb32-fdd9e8e49c78-1682125745486d4042-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/cliffrose-birth-doula-home-banner-2.webp",
+        "image": "{{ blog.metafields.custom.main_hero_image_banner_background.value }}",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
