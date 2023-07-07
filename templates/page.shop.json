@@ -217,7 +217,7 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/collections\/all-products"
+            "button_link": "shopify:\/\/collections\/shop-all-products"
           }
         }
       },
@@ -433,7 +433,7 @@
           "type": "featured_collection",
           "disabled": true,
           "settings": {
-            "collection": "all-products"
+            "collection": "shop-all-products"
           }
         },
         "d27a405f-0ee3-4166-b0e0-5698dbd9469a": {
