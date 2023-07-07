@@ -47,7 +47,7 @@
             "heading_size": "h1",
             "subheading": "Find comfort and support with our postpartum products",
             "button_label": "SHOP NOW",
-            "link": "shopify:\/\/collections\/postpartum",
+            "link": "shopify:\/\/collections\/postpartum-products",
             "button_style_secondary": false,
             "box_align": "top-left",
             "show_text_box": true,
@@ -380,7 +380,7 @@
         "eba03069-7e65-4508-90d0-a79a11c95548": {
           "type": "collection",
           "settings": {
-            "collection": "postpartum"
+            "collection": "postpartum-products"
           }
         }
       },
@@ -420,7 +420,7 @@
         "template--18772069450030__20d7fb75-89d4-453a-93e4-cf7116f2a6f1-1682272576a840e6fc-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "postpartum"
+            "collection": "postpartum-products"
           }
         },
         "14788450-085c-41ad-9a6e-effd656aef12": {
