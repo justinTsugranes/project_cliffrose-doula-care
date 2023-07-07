@@ -87,7 +87,7 @@
           "disabled": true,
           "settings": {
             "text": "Contact Us For Scheduling",
-            "page": "contact-a-doula"
+            "page": "contact"
           }
         },
         "variant_picker": {

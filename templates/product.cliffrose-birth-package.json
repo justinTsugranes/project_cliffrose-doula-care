@@ -21,7 +21,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "{{ product.metafields.custom.cta_button_text.value }}",
-            "button_link_1": "shopify:\/\/pages\/contact-a-doula",
+            "button_link_1": "shopify:\/\/pages\/contact",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -352,7 +352,7 @@
           "type": "button",
           "settings": {
             "button_label": "Contact Me For Availability",
-            "button_link": "shopify:\/\/pages\/contact-a-doula"
+            "button_link": "shopify:\/\/pages\/contact"
           }
         }
       },
@@ -412,7 +412,7 @@
           "disabled": true,
           "settings": {
             "text": "Contact Us For Scheduling",
-            "page": "contact-a-doula"
+            "page": "contact"
           }
         },
         "variant_picker": {
@@ -549,7 +549,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Contact Me",
-            "button_link_1": "shopify:\/\/pages\/contact-a-doula",
+            "button_link_1": "shopify:\/\/pages\/contact",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
