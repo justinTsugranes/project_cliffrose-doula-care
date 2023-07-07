@@ -341,7 +341,7 @@
         "95a54329-db0d-4008-a63b-3065b313266a": {
           "type": "collection",
           "settings": {
-            "collection": "labor"
+            "collection": "labor-products"
           }
         }
       },
