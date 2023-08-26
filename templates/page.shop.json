@@ -95,7 +95,6 @@
     },
     "4c42c90e-ff1d-44c9-866c-bca2f6a93b53": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "973dc723-58a7-4c3c-a4fe-f4389488c216": {
           "type": "caption",
@@ -127,6 +126,7 @@
         "cec092d3-6423-47e0-b051-998a0a46f9ef",
         "659b1ca4-56f5-4705-903c-836386f29b10"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -138,7 +138,6 @@
     },
     "eff73dc3-2f5b-490f-b599-4b86152d639e": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--18772069450030__eff73dc3-2f5b-490f-b599-4b86152d639e-1682251276cff859eb-0": {
           "type": "column",
@@ -176,6 +175,7 @@
         "a64274f6-77e3-4da0-b982-adeeda8daa89",
         "8d83e680-56c2-4050-9d20-9a72df687b9f"
       ],
+      "disabled": true,
       "custom_css": [
         "div {box-shadow: none;}"
       ],
@@ -293,7 +293,7 @@
         "template--18772069450030__3fe8d4c2-bbbe-41b8-b157-a767fca91ba8-1682639876f352eb90-1": {
           "type": "product",
           "settings": {
-            "product": "natural-remedies",
+            "product": "peaceful-pregnancy-power-hour",
             "second_image": false
           }
         },
@@ -327,7 +327,7 @@
         "9462f943-00a7-4021-820e-dd8a6b65fabd": {
           "type": "product",
           "settings": {
-            "product": "natural-remedies",
+            "product": "peaceful-pregnancy-power-hour",
             "second_image": false
           }
         },
@@ -402,7 +402,6 @@
     },
     "20d7fb75-89d4-453a-93e4-cf7116f2a6f1": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "template--18772069450030__20d7fb75-89d4-453a-93e4-cf7116f2a6f1-1682272576a840e6fc-0": {
           "type": "featured_collection",
@@ -452,6 +451,7 @@
         "d417953e-0b37-420a-8d8f-0f5deb6e64d0",
         "d27a405f-0ee3-4166-b0e0-5698dbd9469a"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -562,7 +562,7 @@
         "template--18772069450030__e6f5e281-b2da-4620-8fd7-852eae3b3ead-1682250751603a195d-6"
       ],
       "settings": {
-        "product": "natural-remedies",
+        "product": "peaceful-pregnancy-power-hour",
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_size": "small",
@@ -733,7 +733,6 @@
     },
     "c7e0bc14-083c-4109-94cc-47dd410fc3bf": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--18772069450030__c7e0bc14-083c-4109-94cc-47dd410fc3bf-1682673450f06f93c1-0": {
           "type": "heading",
@@ -766,6 +765,7 @@
         "template--18772069450030__c7e0bc14-083c-4109-94cc-47dd410fc3bf-1682673450f06f93c1-1",
         "template--18772069450030__c7e0bc14-083c-4109-94cc-47dd410fc3bf-1682673450f06f93c1-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.49.36_PM.jpg",
         "image_overlay_opacity": 0,

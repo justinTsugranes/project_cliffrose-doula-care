@@ -413,7 +413,7 @@
         "template--19135030133038__71c355c2-8bfb-4941-88e9-0d2a9fe3ccbc-1684271292aa0d116a-6"
       ],
       "settings": {
-        "product": "natural-remedies",
+        "product": "peaceful-pregnancy-power-hour",
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_size": "small",
@@ -636,7 +636,6 @@
     },
     "168427073029ee237b": {
       "type": "apps",
-      "disabled": true,
       "blocks": {
         "ff6ce616-0faa-43cb-ac85-f15d4ea50673": {
           "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
@@ -648,6 +647,7 @@
       "block_order": [
         "ff6ce616-0faa-43cb-ac85-f15d4ea50673"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
