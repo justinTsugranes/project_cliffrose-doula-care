@@ -217,7 +217,7 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/collections\/shop-all-products"
+            "button_link": "shopify:\/\/collections\/all-products"
           }
         }
       },
@@ -432,7 +432,7 @@
           "type": "featured_collection",
           "disabled": true,
           "settings": {
-            "collection": "shop-all-products"
+            "collection": "all-products"
           }
         },
         "d27a405f-0ee3-4166-b0e0-5698dbd9469a": {
@@ -716,17 +716,6 @@
     },
     "16822509148f6370ae": {
       "type": "apps",
-      "blocks": {
-        "d0bf6d76-d8e1-45d6-96ac-f4aeed49e64d": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "d0bf6d76-d8e1-45d6-96ac-f4aeed49e64d"
-      ],
       "settings": {
         "include_margins": true
       }

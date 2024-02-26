@@ -10,7 +10,6 @@
     },
     "98da3c2e-7933-465b-be9a-ed5cdc89ae17": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--18764259295534__98da3c2e-7933-465b-be9a-ed5cdc89ae17-1681639335bf7b76ea-0": {
           "type": "heading",
@@ -43,6 +42,7 @@
         "template--18764259295534__98da3c2e-7933-465b-be9a-ed5cdc89ae17-1681639335bf7b76ea-1",
         "template--18764259295534__98da3c2e-7933-465b-be9a-ed5cdc89ae17-1681639335bf7b76ea-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/pregnant-women-in-prenatal-class-touching-belly-2021-08-26-15-46-11-utc.jpg",
         "image_overlay_opacity": 0,
@@ -397,7 +397,7 @@
         "template--18764259295534__ce9eb544-f948-4664-ba01-6e24ea289f79-168353817449fe1160-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "online-pregnancy-classes"
+            "collection": "online-classes"
           }
         }
       },
