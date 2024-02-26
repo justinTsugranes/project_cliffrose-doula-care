@@ -2,7 +2,6 @@
   "sections": {
     "8294d813-b228-49e7-a8df-6a350c776c15": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-0": {
           "type": "heading",
@@ -23,7 +22,7 @@
           "disabled": true,
           "settings": {
             "button_label_1": "Book a free consultation",
-            "button_link_1": "shopify:\/\/products\/intro-birth-consultation",
+            "button_link_1": "shopify:\/\/products\/complimentary-doula-consultation",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -36,6 +35,7 @@
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-1",
         "template--18770800083246__8294d813-b228-49e7-a8df-6a350c776c15-168163607857c2af37-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.48.46_PM.jpg",
         "image_overlay_opacity": 0,
@@ -52,7 +52,6 @@
     },
     "main": {
       "type": "main-product",
-      "disabled": true,
       "blocks": {
         "vendor": {
           "type": "text",
@@ -63,12 +62,6 @@
         },
         "title": {
           "type": "title",
-          "settings": {
-          }
-        },
-        "1048be3e-2a8c-47cb-b51f-5e352ee3b7f3": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
           "settings": {
           }
         },
@@ -129,7 +122,6 @@
       "block_order": [
         "vendor",
         "title",
-        "1048be3e-2a8c-47cb-b51f-5e352ee3b7f3",
         "price",
         "description",
         "e29f0e4e-7e0d-4e47-b2f6-7af2df96370a",
@@ -139,6 +131,7 @@
         "share",
         "0ec33f44-16ca-4885-af18-c60d163f25dd"
       ],
+      "disabled": true,
       "settings": {
         "enable_sticky_info": false,
         "media_size": "small",
@@ -156,7 +149,6 @@
     },
     "0f55ffa0-e50a-4acf-ad18-997356e50af7": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "2b6164f0-a8e0-44a2-929a-529c9b564e9c": {
           "type": "caption",
@@ -184,7 +176,7 @@
           "type": "button",
           "settings": {
             "button_label": "Book a free consultation",
-            "button_link": "shopify:\/\/products\/intro-birth-consultation"
+            "button_link": "shopify:\/\/products\/complimentary-doula-consultation"
           }
         }
       },
@@ -194,6 +186,7 @@
         "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-1",
         "template--18771812843822__0f55ffa0-e50a-4acf-ad18-997356e50af7-1682184832658d0e18-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.46.09_PM.jpg",
         "height": "medium",
@@ -211,7 +204,6 @@
     },
     "5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18771812843822__5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678-168164668958c25d7c-0": {
           "type": "heading",
@@ -232,6 +224,7 @@
         "template--18771812843822__5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678-168164668958c25d7c-0",
         "template--18771812843822__5a2cfb0a-8b9a-4ffa-bcd9-007b3a698678-168164668958c25d7c-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_8.32.20_AM.jpg",
         "height": "medium",
@@ -249,7 +242,6 @@
     },
     "c133156c-ab40-47c2-847b-4a56b50bf17a": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "969a4179-d67c-476e-956c-0ee75dca4759": {
           "type": "heading",
@@ -270,6 +262,7 @@
         "969a4179-d67c-476e-956c-0ee75dca4759",
         "e8115073-cfbf-41ea-b880-f700772502dd"
       ],
+      "disabled": true,
       "settings": {
         "height": "medium",
         "desktop_image_width": "small",
@@ -286,7 +279,6 @@
     },
     "04c19bbc-f531-4662-806b-fd33b8941ae1": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18771812843822__04c19bbc-f531-4662-806b-fd33b8941ae1-168164668958c25d7c-0": {
           "type": "heading",
@@ -307,6 +299,7 @@
         "template--18771812843822__04c19bbc-f531-4662-806b-fd33b8941ae1-168164668958c25d7c-0",
         "template--18771812843822__04c19bbc-f531-4662-806b-fd33b8941ae1-168164668958c25d7c-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/pexels-yan-krukau-7155363_1.jpg",
         "height": "medium",
@@ -324,7 +317,6 @@
     },
     "e478ea4e-5b04-4094-a631-f0d7fc60d06e": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18771812843822__e478ea4e-5b04-4094-a631-f0d7fc60d06e-1681899460dd00dcec-0": {
           "type": "heading",
@@ -345,6 +337,7 @@
         "template--18771812843822__e478ea4e-5b04-4094-a631-f0d7fc60d06e-1681899460dd00dcec-0",
         "template--18771812843822__e478ea4e-5b04-4094-a631-f0d7fc60d06e-1681899460dd00dcec-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_3.21.12_PM.jpg",
         "height": "medium",
@@ -362,7 +355,6 @@
     },
     "913e3a22-81da-4c48-960d-2acb1527f4d3": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-0": {
           "type": "heading",
@@ -383,6 +375,7 @@
         "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-0",
         "template--18771812843822__913e3a22-81da-4c48-960d-2acb1527f4d3-168164668958c25d7c-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-15_at_12.05.07_PM.jpg",
         "height": "medium",
@@ -547,24 +540,12 @@
     "16831916672172c682": {
       "type": "apps",
       "disabled": true,
-      "blocks": {
-        "2dbd79e0-a71c-4dbb-8191-ec524456149d": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "2dbd79e0-a71c-4dbb-8191-ec524456149d"
-      ],
       "settings": {
         "include_margins": true
       }
     },
     "17f15613-fb7b-4f21-80d9-186f48cb892b": {
       "type": "featured-product",
-      "disabled": true,
       "blocks": {
         "template--18771812843822__17f15613-fb7b-4f21-80d9-186f48cb892b-16831925353a1ecb09-0": {
           "type": "text",
@@ -628,8 +609,9 @@
         "template--18771812843822__17f15613-fb7b-4f21-80d9-186f48cb892b-16831925353a1ecb09-5",
         "template--18771812843822__17f15613-fb7b-4f21-80d9-186f48cb892b-16831925353a1ecb09-6"
       ],
+      "disabled": true,
       "settings": {
-        "product": "intro-birth-consultation",
+        "product": "complimentary-doula-consultation",
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_size": "small",
@@ -645,7 +627,6 @@
     },
     "fa767cb1-f77c-433e-b2dc-e2e598f5281f": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--18771812843822__fa767cb1-f77c-433e-b2dc-e2e598f5281f-16819006456f948467-0": {
           "type": "heading",
@@ -666,6 +647,7 @@
         "template--18771812843822__fa767cb1-f77c-433e-b2dc-e2e598f5281f-16819006456f948467-0",
         "template--18771812843822__fa767cb1-f77c-433e-b2dc-e2e598f5281f-16819006456f948467-1"
       ],
+      "disabled": true,
       "settings": {
         "image_overlay_opacity": 0,
         "image_height": "medium",
@@ -681,7 +663,6 @@
     },
     "56d25483-aade-4985-81b4-235dc93f0bba": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18771812843822__56d25483-aade-4985-81b4-235dc93f0bba-1681900675b1a999cf-0": {
           "type": "heading",
@@ -702,6 +683,7 @@
         "template--18771812843822__56d25483-aade-4985-81b4-235dc93f0bba-1681900675b1a999cf-0",
         "template--18771812843822__56d25483-aade-4985-81b4-235dc93f0bba-1681900675b1a999cf-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-22_at_9.14.30_AM.jpg",
         "height": "adapt",
@@ -719,7 +701,6 @@
     },
     "88d3f224-7065-4fc5-91aa-2433eb6f41b9": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "template--18771812843822__88d3f224-7065-4fc5-91aa-2433eb6f41b9-16819876324cb0420e-0": {
           "type": "image",
@@ -745,6 +726,7 @@
         "template--18771812843822__88d3f224-7065-4fc5-91aa-2433eb6f41b9-16819876324cb0420e-1",
         "template--18771812843822__88d3f224-7065-4fc5-91aa-2433eb6f41b9-16819876324cb0420e-2"
       ],
+      "disabled": true,
       "settings": {
         "heading": "",
         "heading_size": "h1",
@@ -758,7 +740,6 @@
     },
     "799d8fe9-3440-433e-92cc-2b6c94777351": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18771812843822__799d8fe9-3440-433e-92cc-2b6c94777351-1681900675b1a999cf-0": {
           "type": "heading",
@@ -779,6 +760,7 @@
         "template--18771812843822__799d8fe9-3440-433e-92cc-2b6c94777351-1681900675b1a999cf-0",
         "template--18771812843822__799d8fe9-3440-433e-92cc-2b6c94777351-1681900675b1a999cf-1"
       ],
+      "disabled": true,
       "settings": {
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -813,7 +795,6 @@
     },
     "ff5834c1-23cd-4261-b5dd-b0214318b68a": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--18771812843822__ff5834c1-23cd-4261-b5dd-b0214318b68a-168164672051c53a4e-0": {
           "type": "heading",
@@ -833,7 +814,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Contact",
-            "button_link_1": "shopify:\/\/products\/intro-birth-consultation",
+            "button_link_1": "shopify:\/\/products\/complimentary-doula-consultation",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -846,6 +827,7 @@
         "template--18771812843822__ff5834c1-23cd-4261-b5dd-b0214318b68a-168164672051c53a4e-1",
         "template--18771812843822__ff5834c1-23cd-4261-b5dd-b0214318b68a-168164672051c53a4e-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_2023-04-10_at_4.52.17_PM.jpg",
         "image_overlay_opacity": 0,
@@ -862,7 +844,6 @@
     },
     "661a46e0-416e-415e-a21c-698393fb6999": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--18771812843822__661a46e0-416e-415e-a21c-698393fb6999-168415258743e5623a-0": {
           "type": "heading",
@@ -895,6 +876,7 @@
         "template--18771812843822__661a46e0-416e-415e-a21c-698393fb6999-168415258743e5623a-1",
         "template--18771812843822__661a46e0-416e-415e-a21c-698393fb6999-168415258743e5623a-2"
       ],
+      "disabled": true,
       "settings": {
         "image_overlay_opacity": 0,
         "image_height": "medium",
@@ -910,7 +892,6 @@
     },
     "19f61c61-1bc6-4d50-abc7-ab9059b11f92": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--18771812843822__19f61c61-1bc6-4d50-abc7-ab9059b11f92-16841523606ed96b36-0": {
           "type": "heading",
@@ -943,6 +924,7 @@
         "template--18771812843822__19f61c61-1bc6-4d50-abc7-ab9059b11f92-16841523606ed96b36-1",
         "template--18771812843822__19f61c61-1bc6-4d50-abc7-ab9059b11f92-16841523606ed96b36-2"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -954,7 +936,6 @@
     },
     "042acb86-0c49-49de-8f60-96d3b7762e9e": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--18771812843822__042acb86-0c49-49de-8f60-96d3b7762e9e-1684152313b7f2554a-0": {
           "type": "heading",
@@ -983,6 +964,7 @@
         "template--18771812843822__042acb86-0c49-49de-8f60-96d3b7762e9e-1684152313b7f2554a-1",
         "template--18771812843822__042acb86-0c49-49de-8f60-96d3b7762e9e-1684152313b7f2554a-2"
       ],
+      "disabled": true,
       "settings": {
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -999,7 +981,6 @@
     },
     "dfe5f200-d112-4166-a783-04f53194cd5d": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--18771812843822__dfe5f200-d112-4166-a783-04f53194cd5d-16841523606ed96b36-0": {
           "type": "heading",
@@ -1031,6 +1012,7 @@
         "template--18771812843822__dfe5f200-d112-4166-a783-04f53194cd5d-16841523606ed96b36-1",
         "template--18771812843822__dfe5f200-d112-4166-a783-04f53194cd5d-16841523606ed96b36-2"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -1042,7 +1024,6 @@
     },
     "97e30142-9b0a-4f77-bbbb-b5fec17119b2": {
       "type": "collapsible-content",
-      "disabled": true,
       "blocks": {
         "template--18771812843822__97e30142-9b0a-4f77-bbbb-b5fec17119b2-1684152529d9a7cdb6-0": {
           "type": "collapsible_row",
@@ -1087,6 +1068,7 @@
         "template--18771812843822__97e30142-9b0a-4f77-bbbb-b5fec17119b2-1684152529d9a7cdb6-2",
         "template--18771812843822__97e30142-9b0a-4f77-bbbb-b5fec17119b2-1684152529d9a7cdb6-3"
       ],
+      "disabled": true,
       "settings": {
         "caption": "",
         "heading": "Collapsible content",

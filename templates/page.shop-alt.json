@@ -536,7 +536,7 @@
       ],
       "disabled": true,
       "settings": {
-        "product": "virtual-consultations",
+        "product": "virtual-doula-consultations",
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_size": "small",

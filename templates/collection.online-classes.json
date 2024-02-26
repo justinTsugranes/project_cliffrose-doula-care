@@ -517,7 +517,7 @@
         "5616c257-5206-41d0-a711-7af3a71f6705"
       ],
       "settings": {
-        "product": "breastfeeding-support",
+        "product": "breastfeeding-breakthrough",
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_size": "small",
@@ -636,17 +636,6 @@
     },
     "168427073029ee237b": {
       "type": "apps",
-      "blocks": {
-        "ff6ce616-0faa-43cb-ac85-f15d4ea50673": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "ff6ce616-0faa-43cb-ac85-f15d4ea50673"
-      ],
       "disabled": true,
       "settings": {
         "include_margins": true

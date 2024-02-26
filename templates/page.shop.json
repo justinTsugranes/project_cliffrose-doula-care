@@ -300,7 +300,7 @@
         "ab84a35b-b262-45d9-8103-9bcc109280c4": {
           "type": "product",
           "settings": {
-            "product": "breastfeeding-support",
+            "product": "breastfeeding-breakthrough",
             "second_image": false
           }
         }
@@ -334,7 +334,7 @@
         "fba1cd53-c27b-42a5-966a-e82f07d0ec76": {
           "type": "product",
           "settings": {
-            "product": "breastfeeding-support",
+            "product": "breastfeeding-breakthrough",
             "second_image": false
           }
         },
@@ -631,7 +631,7 @@
         "781fbb28-579e-492d-8608-ef375259a79b"
       ],
       "settings": {
-        "product": "breastfeeding-support",
+        "product": "breastfeeding-breakthrough",
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_size": "small",
